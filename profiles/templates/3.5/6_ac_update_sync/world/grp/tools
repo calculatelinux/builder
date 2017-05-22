@@ -277,6 +277,9 @@ x11-themes/gtk-theme-switch
 
 #?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
 dev-util/nvidia-cuda-sdk
+sec-policy/apparmor-profiles
+sys-apps/apparmor
+sys-apps/apparmor-utils
 www-plugins/chrome-binary-plugins
 #in#
 
