@@ -191,3 +191,7 @@ media-fonts/wqy-microhei
 media-fonts/x11fonts-jmk
 media-fonts/zh-kcfonts
 #in#
+
+#?in(os_linux_pkglist,server)!=#
+media-fonts/liberation-fonts
+#in#
