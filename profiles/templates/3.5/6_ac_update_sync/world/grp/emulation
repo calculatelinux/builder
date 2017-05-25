@@ -39,7 +39,6 @@ app-emulation/spice-vdagent
 app-emulation/spim
 app-emulation/uade
 app-emulation/uae
-app-emulation/vagrant
 app-emulation/virtio-win
 app-emulation/virt-manager
 app-emulation/virtualbox
