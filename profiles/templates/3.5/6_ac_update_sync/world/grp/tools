@@ -16,22 +16,6 @@ sys-fs/ntfs3g
 #in#
 
 #?in(os_linux_pkglist, desktop)!=#
-app-admin/apg
-app-admin/conky
-app-admin/conkyforecast
-app-admin/gamin
-app-admin/gtkdiskfree
-app-admin/hardinfo
-app-admin/hddtemp
-app-admin/keepass
-app-admin/keepassx
-app-admin/logrotate
-app-admin/makepasswd
-app-admin/packagekit-qt
-app-admin/sudo
-app-admin/sysstat
-app-admin/testdisk
-app-admin/webmin
 app-antivirus/clamav
 app-arch/afio
 app-arch/alien
