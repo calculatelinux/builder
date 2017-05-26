@@ -27,10 +27,10 @@ app-admin/elektra
 app-admin/emacs-updater
 app-admin/entr
 app-admin/evtxtools
-app-admin/fam
+#app-admin/fam
 app-admin/fetchlog
-app-admin/filebeat
-app-admin/gamin
+#app-admin/filebeat
+#app-admin/gamin
 app-admin/genromfs
 app-admin/gentoo-rsync-mirror
 app-admin/glance
