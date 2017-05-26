@@ -42,7 +42,7 @@ dev-util/cgvg
 dev-util/checkstyle
 dev-util/cloc
 dev-util/cmake
-dev-util/cmake-fedora
+#dev-util/cmake-fedora
 dev-util/cmocka
 dev-util/codeblocks
 dev-util/colorgcc
@@ -61,7 +61,7 @@ dev-util/cucumber
 dev-util/cunit
 dev-util/cutils
 dev-util/dbus-test-runner
-dev-util/ddd
+#dev-util/ddd
 dev-util/debhelper
 dev-util/debootstrap
 dev-util/debugedit
@@ -121,7 +121,7 @@ dev-util/lcov
 dev-util/linklint
 dev-util/lockrun
 dev-util/ltrace
-dev-util/lttng-modules
+#dev-util/lttng-modules
 dev-util/lttng-tools
 dev-util/lttng-ust
 dev-util/makeheaders
@@ -129,7 +129,7 @@ dev-util/mdds
 dev-util/meld
 dev-util/memprof
 dev-util/meson
-dev-util/min-cscope
+#dev-util/min-cscope
 dev-util/nemiver
 dev-util/netbeans
 dev-util/ninja
@@ -152,14 +152,13 @@ dev-util/osc
 dev-util/patchelf
 dev-util/patchutils
 #dev-util/pida
-dev-util/pida
 #dev-util/pkgconf
 #dev-util/pkgconfig
 dev-util/pmd
 dev-util/premake
 dev-util/pscan
-dev-util/pycharm-community
-dev-util/pycharm-professional
+#dev-util/pycharm-community
+#dev-util/pycharm-professional
 dev-util/qbs
 dev-util/qmtest
 dev-util/qstlink2
