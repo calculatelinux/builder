@@ -33,7 +33,7 @@ app-admin/fetchlog
 #app-admin/gamin
 app-admin/genromfs
 app-admin/gentoo-rsync-mirror
-app-admin/glance
+#app-admin/glance
 app-admin/gnome-system-log
 app-admin/grubconfig
 app-admin/gtkdiskfree

@@ -29,8 +29,8 @@ dev-util/bless
 dev-util/bluej
 dev-util/boost-build
 dev-util/bsdiff
-dev-util/buildbot
-dev-util/buildbot-slave
+#dev-util/buildbot
+#dev-util/buildbot-slave
 dev-util/bustle
 dev-util/byacc
 dev-util/cargo
