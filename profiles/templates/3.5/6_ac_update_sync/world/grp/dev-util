@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, desktop, server)!=#
+dev-util/ccache
+#in#
+
 #?in(os_linux_pkglist, desktop)!=#
 dev-util/a8
 dev-util/alleyoop
@@ -32,7 +36,6 @@ dev-util/byacc
 dev-util/cargo
 dev-util/catalyst
 dev-util/catfish
-dev-util/ccache
 dev-util/cdiff
 dev-util/cgdb
 dev-util/cgvg
