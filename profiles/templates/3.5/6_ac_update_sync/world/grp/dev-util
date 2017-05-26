@@ -101,7 +101,6 @@ dev-util/gtk-update-icon-cache
 dev-util/howdoi
 dev-util/huc
 dev-util/indent
-dev-util/intel-ocl-sdk
 dev-util/intltool
 dev-util/itstool
 dev-util/jay
@@ -132,8 +131,6 @@ dev-util/nemiver
 dev-util/netbeans
 dev-util/ninja
 dev-util/ninja-ide
-dev-util/nvidia-cuda-sdk
-dev-util/nvidia-cuda-toolkit
 dev-util/obs-service-cpanspec
 dev-util/obs-service-download_files
 dev-util/obs-service-download_src_package
@@ -197,7 +194,6 @@ dev-util/usb-robot
 dev-util/valgrind
 dev-util/valkyrie
 dev-util/vbindiff
-dev-util/vint
 dev-util/weka
 dev-util/wiggle
 dev-util/wxglade
@@ -210,5 +206,8 @@ dev-util/yacc
 #in#
 
 #?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
+dev-util/intel-ocl-sdk
 dev-util/nvidia-cuda-sdk
+dev-util/nvidia-cuda-toolkit
+dev-util/vint
 #in#
