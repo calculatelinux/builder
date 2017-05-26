@@ -7,7 +7,6 @@ app-crypt/seahorse
 app-dicts/gnome-dictionary
 app-editors/gedit
 app-text/evince
-dev-util/anjuta
 gnome-base/nautilus
 gnome-extra/cinnamon
 gnome-extra/gconf-editor

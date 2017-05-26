@@ -30,7 +30,6 @@ app-text/mupdf
 app-text/qpdfview
 app-text/xournal
 dev-db/pgadmin3
-dev-util/meld
 kde-misc/openofficeorg-thumbnail
 sci-calculators/galculator
 sci-calculators/keurocalc

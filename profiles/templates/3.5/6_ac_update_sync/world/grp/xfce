@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, desktop)!=#
 app-arch/xarchiver
-dev-util/catfish
 media-sound/pavucontrol
 media-sound/volumeicon
 x11-misc/light-locker

@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, desktop, server)!=#
 app-misc/mc
-dev-util/ccache
 net-analyzer/mtr
 sys-apps/acl
 sys-apps/lshw
@@ -109,17 +108,6 @@ dev-libs/klibc
 dev-libs/libcgroup
 dev-qt/qt-creator
 dev-tcltk/expect
-#dev-util/android-sdk-update-manager
-dev-util/android-tools
-dev-util/cdiff
-dev-util/codeblocks
-dev-util/geany
-dev-util/geany-plugins
-dev-util/gource
-#dev-util/pida
-dev-util/schroot
-dev-util/strace
-dev-util/yacc
 dev-vcs/bzr
 dev-vcs/cvs
 dev-vcs/git-annex
@@ -262,7 +250,6 @@ x11-themes/gtk-theme-switch
 #in#
 
 #?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
-dev-util/nvidia-cuda-sdk
 sec-policy/apparmor-profiles
 sys-apps/apparmor
 sys-apps/apparmor-utils

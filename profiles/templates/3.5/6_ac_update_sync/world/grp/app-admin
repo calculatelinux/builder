@@ -79,8 +79,8 @@ app-admin/quickswitch
 app-admin/ranpwd
 app-admin/reportmagic
 app-admin/rsyslog
-app-admin/sagan
-app-admin/sagan-rules
+#app-admin/sagan
+#app-admin/sagan-rules
 app-admin/setools
 app-admin/socklog
 app-admin/sshguard
