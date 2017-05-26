@@ -6,7 +6,7 @@ dev-util/ccache
 
 #?in(os_linux_pkglist, desktop)!=#
 dev-util/a8
-dev-util/alleyoop
+#dev-util/alleyoop
 #dev-util/android-sdk-update-manager
 dev-util/android-sdk-update-manager
 #dev-util/android-studio
@@ -31,7 +31,7 @@ dev-util/boost-build
 dev-util/bsdiff
 #dev-util/buildbot
 #dev-util/buildbot-slave
-dev-util/bustle
+#dev-util/bustle
 dev-util/byacc
 dev-util/cargo
 dev-util/catalyst
@@ -194,7 +194,7 @@ dev-util/uncrustify
 dev-util/unifdef
 dev-util/usb-robot
 dev-util/valgrind
-dev-util/valkyrie
+#dev-util/valkyrie
 dev-util/vbindiff
 dev-util/weka
 dev-util/wiggle
