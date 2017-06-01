@@ -4,7 +4,7 @@
 app-admin/abrt
 app-admin/analog
 app-admin/ansible
-app-admin/apachetop
+#app-admin/apachetop
 app-admin/apg
 app-admin/ccze
 app-admin/chroot_safe
