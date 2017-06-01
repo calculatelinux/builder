@@ -228,7 +228,7 @@ net-vpn/strongswan
 net-vpn/tor
 net-vpn/vpnc
 net-vpn/vtun
-net-vpn/wireguard
+#net-vpn/wireguard
 #?os_arch_machine==x86_64#
 net-misc/dleyna-server
 #os_arch_machine#
