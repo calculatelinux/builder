@@ -25,6 +25,7 @@ dev-util/bbe
 dev-util/bcpp
 dev-util/bdelta
 dev-util/biew
+dev-util/bitcoin-tx
 dev-util/bless
 dev-util/bluej
 dev-util/boost-build

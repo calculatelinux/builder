@@ -138,7 +138,6 @@ sys-fs/extundelete
 sys-apps/keyexec
 net-nds/shelldap
 net-news/quiterss
-#net-p2p/bitcoin-qt
 sys-auth/nss_ldap
 sys-auth/pam_ldap
 sys-auth/pam_update
