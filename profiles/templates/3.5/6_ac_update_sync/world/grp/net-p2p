@@ -15,6 +15,9 @@ net-p2p/bitcoinxt-qt
 net-p2p/deluge
 net-p2p/kmldonkey
 net-p2p/ktorrent
+net-p2p/multibit
+net-p2p/ppcoind
+net-p2p/ppcoin-qt
 net-p2p/qbittorrent
 net-p2p/rtorrent
 net-p2p/vuze
