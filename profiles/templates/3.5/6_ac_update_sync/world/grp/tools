@@ -24,7 +24,6 @@ app-arch/bloscpack
 app-arch/bsdsfv
 app-arch/cfv
 app-arch/cksfv
-app-arch/deb2targz
 app-arch/dpkg
 app-arch/dump
 app-arch/funzix
@@ -259,4 +258,7 @@ www-plugins/chrome-binary-plugins
 app-backup/backintime
 dev-vcs/mercurial
 sys-process/cronie
+
+# app-arch/deb2targz is blocking media-video/lightworks-14.0
+app-arch/deb2targz
 #in#
