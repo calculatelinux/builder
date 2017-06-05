@@ -1,15 +1,30 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, desktop)!=#
+mate-base/caja
+mate-base/libmatekbd
 mate-base/mate
-#mate-extra/caja-dropbox
+mate-base/mate-applets
+mate-base/mate-applets-meta
+mate-base/mate-common
+mate-base/mate-control-center
+mate-base/mate-desktop
+mate-base/mate-menus
+mate-base/mate-panel
+mate-base/mate-session-manager
+mate-base/mate-settings-daemon
+mate-extra/caja-dropbox
 mate-extra/caja-extensions
 mate-extra/mate-calc
 mate-extra/mate-indicator-applet
+mate-extra/mate-media
+mate-extra/mate-netbook
+mate-extra/mate-polkit
+mate-extra/mate-power-manager
+mate-extra/mate-screensaver
 mate-extra/mate-sensors-applet
+mate-extra/mate-system-monitor
 mate-extra/mate-user-guide
 mate-extra/mate-user-share
-x11-misc/mate-notification-daemon
-x11-misc/parcellite
-x11-themes/mate-icon-theme-faenza
+mate-extra/mate-utils
 #in#
