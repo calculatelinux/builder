@@ -24,7 +24,6 @@ www-client/opera
 www-client/otter
 www-client/phantomjs
 www-client/pybugz
-www-client/qtweb
 www-client/qupzilla
 www-client/qutebrowser
 www-client/seamonkey
@@ -36,5 +35,4 @@ www-client/vivaldi
 #www-client/w3mir
 #www-client/w3mmee
 #www-client/weboob
-www-client/xombrero
 #in#
