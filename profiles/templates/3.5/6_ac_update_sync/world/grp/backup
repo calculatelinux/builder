@@ -11,7 +11,6 @@ app-backup/bacula
 #app-backup/bareos
 app-backup/borgbackup
 app-backup/borgweb
-app-backup/boxbackup
 app-backup/btrbk
 app-backup/bup
 #app-backup/burp
