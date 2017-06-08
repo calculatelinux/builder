@@ -1,1 +1,1 @@
-net-dns/bind -ldap
+net-dns/bind -ldap -sdb-ldap
