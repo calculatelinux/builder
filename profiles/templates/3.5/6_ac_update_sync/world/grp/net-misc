@@ -73,6 +73,7 @@ net-misc/ifenslave
 net-misc/igmpproxy
 net-misc/ipcalc
 net-misc/iperf
+net-misc/iperf:2
 net-misc/ipsc
 net-misc/ipsorcery
 net-misc/iputils
