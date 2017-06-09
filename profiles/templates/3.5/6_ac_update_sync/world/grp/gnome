@@ -9,6 +9,7 @@ app-editors/gedit
 app-text/evince
 gnome-base/nautilus
 gnome-extra/cinnamon
+gnome-extra/docky
 gnome-extra/gconf-editor
 gnome-extra/gnome-calculator
 gnome-extra/gnome-calendar
