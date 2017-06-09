@@ -56,7 +56,7 @@ sci-libs/liborigin
 sci-libs/libqalculate
 sci-libs/libspatialindex
 sci-libs/libsvm
-sci-libs/linux-gpib
+#sci-libs/linux-gpib
 sci-libs/lrslib
 #sci-libs/magma
 sci-libs/mc
