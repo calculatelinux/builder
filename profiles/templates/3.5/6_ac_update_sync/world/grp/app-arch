@@ -19,7 +19,7 @@ app-arch/dump
 app-arch/engrampa
 app-arch/fastjar
 app-arch/file-roller
-app-arch/freeze
+#app-arch/freeze
 app-arch/funzix
 app-arch/gcab
 app-arch/gnome-autoar
@@ -67,7 +67,7 @@ app-arch/tardy
 app-arch/tarsync
 app-arch/torrentzip
 app-arch/unace
-app-arch/unar
+#app-arch/unar
 app-arch/unarj
 app-arch/unmakeself
 app-arch/unp
