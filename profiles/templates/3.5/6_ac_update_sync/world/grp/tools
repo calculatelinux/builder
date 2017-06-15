@@ -109,7 +109,7 @@ dev-qt/qt-creator
 dev-tcltk/expect
 dev-vcs/bzr
 dev-vcs/cvs
-dev-vcs/git-annex
+#dev-vcs/git-annex
 dev-vcs/qgit
 dev-vcs/subversion
 gnome-base/dconf-editor
