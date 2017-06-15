@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, desktop)!=#
-app-arch/xarchiver
 media-sound/pavucontrol
 media-sound/volumeicon
 x11-misc/light-locker

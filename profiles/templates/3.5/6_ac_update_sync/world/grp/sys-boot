@@ -1,0 +1,16 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, desktop)!=#
+sys-boot/efibootmgr
+sys-boot/gnu-efi
+sys-boot/grub
+#sys-boot/grub-static
+sys-boot/lilo
+sys-boot/mbr
+sys-boot/os-prober
+sys-boot/plymouth
+sys-boot/refind
+sys-boot/syslinux
+sys-boot/unetbootin
+sys-boot/winusb
+#in#
