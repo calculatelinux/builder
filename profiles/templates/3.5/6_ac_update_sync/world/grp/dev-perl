@@ -162,7 +162,7 @@ dev-perl/Crypt-DES_EDE3
 dev-perl/Crypt-DH
 dev-perl/Crypt-DH-GMP
 dev-perl/Crypt-DSA
-dev-perl/Crypt-Eksblowfish
+#dev-perl/Crypt-Eksblowfish
 dev-perl/Crypt-IDEA
 dev-perl/Crypt-OpenPGP
 dev-perl/Crypt-OpenSSL-Bignum
@@ -409,7 +409,7 @@ dev-perl/HTML-Element-Extended
 dev-perl/HTML-FillInForm
 dev-perl/HTML-Form
 dev-perl/HTML-Format
-dev-perl/HTML-FormatText-WithLinks
+#dev-perl/HTML-FormatText-WithLinks
 #dev-perl/HTML-FormatText-WithLinks-AndTables
 dev-perl/HTML-FromText
 dev-perl/HTML-HTMLDoc

@@ -7,7 +7,6 @@ app-emulation/cloud-init
 app-emulation/coldfire
 app-emulation/dinero
 app-emulation/dlx
-app-emulation/domi
 app-emulation/dosemu
 app-emulation/dynamips
 app-emulation/edumips64
