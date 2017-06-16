@@ -337,7 +337,7 @@ dev-python/jaxml
 dev-python/jdcal
 dev-python/jedi
 dev-python/jingo
-dev-python/jinja
+#dev-python/jinja
 dev-python/jmespath
 dev-python/joblib
 dev-python/jonpy
