@@ -3,7 +3,7 @@
 #?in(os_linux_pkglist, desktop)!=#
 app-admin/abrt
 app-admin/analog
-app-admin/ansible
+#app-admin/ansible
 #app-admin/apachetop
 app-admin/apg
 app-admin/ccze
