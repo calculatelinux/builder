@@ -181,7 +181,7 @@ dev-perl/Crypt-Simple
 dev-perl/Crypt-SmbHash
 dev-perl/Crypt-SSLeay
 dev-perl/Crypt-Twofish
-dev-perl/Crypt-X509
+#dev-perl/Crypt-X509
 dev-perl/CSS-Minifier-XS
 dev-perl/CSS-Squish
 dev-perl/Curses
@@ -197,7 +197,7 @@ dev-perl/Data-Diver
 dev-perl/Data-Dump
 dev-perl/Data-DumpXML
 dev-perl/Data-FormValidator
-dev-perl/Data-GUID
+#dev-perl/Data-GUID
 dev-perl/Data-HexDump
 dev-perl/Data-Hexify
 dev-perl/Data-Hierarchy
@@ -410,7 +410,7 @@ dev-perl/HTML-FillInForm
 dev-perl/HTML-Form
 dev-perl/HTML-Format
 dev-perl/HTML-FormatText-WithLinks
-dev-perl/HTML-FormatText-WithLinks-AndTables
+#dev-perl/HTML-FormatText-WithLinks-AndTables
 dev-perl/HTML-FromText
 dev-perl/HTML-HTMLDoc
 dev-perl/HTML-LinkExtractor

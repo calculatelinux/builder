@@ -61,7 +61,7 @@ app-arch/rzip
 app-arch/sharutils
 app-arch/snappy
 app-arch/star
-app-arch/stuffit
+#app-arch/stuffit
 app-arch/tar
 app-arch/tardy
 app-arch/tarsync
