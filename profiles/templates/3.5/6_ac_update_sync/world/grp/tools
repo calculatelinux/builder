@@ -95,10 +95,9 @@ net-analyzer/nload
 net-analyzer/speedtest-cli
 net-fs/davfs2
 net-fs/sshfs
-sys-fs/extundelete
-sys-apps/keyexec
 net-nds/shelldap
 net-news/quiterss
+sys-apps/keyexec
 sys-auth/nss_ldap
 sys-auth/pam_ldap
 sys-auth/pam_update
@@ -121,6 +120,7 @@ sys-fs/encfs
 sys-fs/exfat-utils
 sys-fs/ext3grep
 sys-fs/ext4magic
+sys-fs/extundelete
 sys-fs/f2fs-tools
 sys-fs/fatsort
 sys-fs/fuse-exfat
@@ -152,6 +152,8 @@ sys-process/lsof
 sys-process/nmon
 sys-process/vixie-cron
 www-plugins/adobe-flash
+x11-libs/compizconfig-backend-gconf
+x11-libs/compizconfig-backend-kconfig4
 x11-libs/gksu
 x11-libs/xapps
 #x11-terms/aterm
@@ -174,6 +176,7 @@ x11-terms/terminator
 x11-terms/tilda
 x11-terms/xvt
 #x11-terms/yeahconsole
+x11-themes/emerald-themes
 x11-themes/geany-themes
 x11-themes/gtk-theme-switch
 #in#
