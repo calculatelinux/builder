@@ -4,7 +4,7 @@
 x11-misc/3ddesktop
 x11-misc/3dfb
 x11-misc/3dfm
-x11-misc/alacarte
+#x11-misc/alacarte
 #x11-misc/albert
 x11-misc/alock
 x11-misc/appmenu-qt
