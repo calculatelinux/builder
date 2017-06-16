@@ -292,7 +292,7 @@ dev-perl/Encode-Detect
 dev-perl/Encode-EUCJPASCII
 dev-perl/Encode-HanConvert
 dev-perl/Encode-HanExtra
-dev-perl/Encode-JIS2K
+#dev-perl/Encode-JIS2K
 dev-perl/Encode-Locale
 dev-perl/Error
 dev-perl/EV
