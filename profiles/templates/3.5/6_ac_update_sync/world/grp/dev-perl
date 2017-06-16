@@ -211,14 +211,14 @@ dev-perl/Data-Random
 dev-perl/Data-ShowTable
 dev-perl/Data-Stag
 dev-perl/Data-Structure-Util
-dev-perl/Data-Types
+#dev-perl/Data-Types
 dev-perl/Data-Uniqid
 dev-perl/Data-Utilities
 dev-perl/Data-UUID
 dev-perl/Data-Validate-Domain
 dev-perl/Data-Validate-IP
 dev-perl/Date-Calc
-dev-perl/Date-Extract
+#dev-perl/Date-Extract
 dev-perl/Date-ICal
 dev-perl/Date-Leapyear
 dev-perl/Date-Manip
