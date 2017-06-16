@@ -64,7 +64,7 @@ x11-misc/idesk-extras
 x11-misc/imake
 x11-misc/imwheel
 x11-misc/kdocker
-x11-misc/kronometer
+#x11-misc/kronometer
 x11-misc/ktsuss
 x11-misc/lightdm
 x11-misc/lightdm-gtk-greeter
@@ -100,7 +100,7 @@ x11-misc/pcmanfm-qt
 x11-misc/pypanel
 x11-misc/qcomicbook
 x11-misc/qlipper
-x11-misc/qt5ct
+#x11-misc/qt5ct
 x11-misc/qterm
 x11-misc/qtfm
 x11-misc/qxkb
