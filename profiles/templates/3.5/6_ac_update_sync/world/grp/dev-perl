@@ -113,7 +113,7 @@ dev-perl/Class-Load-XS
 dev-perl/Class-MakeMethods
 dev-perl/Class-MethodMaker
 dev-perl/Class-Method-Modifiers
-dev-perl/Class-Mix
+#dev-perl/Class-Mix
 dev-perl/Class-ReturnValue
 dev-perl/Class-Singleton
 dev-perl/Class-Trigger
@@ -272,7 +272,7 @@ dev-perl/Digest-SHA1
 dev-perl/Dist-CheckConflicts
 dev-perl/Email-Abstract
 dev-perl/Email-Address
-dev-perl/Email-Address-List
+#dev-perl/Email-Address-List
 dev-perl/Email-Date
 dev-perl/Email-Date-Format
 dev-perl/Email-Find
