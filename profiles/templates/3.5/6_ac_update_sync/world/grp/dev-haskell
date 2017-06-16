@@ -128,7 +128,7 @@ dev-haskell/frown
 dev-haskell/generic-deriving
 dev-haskell/ghc-paths
 #dev-haskell/gio
-dev-haskell/glade
+#dev-haskell/glade
 #dev-haskell/glib
 dev-haskell/gluraw
 dev-haskell/glut
@@ -239,7 +239,7 @@ dev-haskell/options
 dev-haskell/optparse-applicative
 dev-haskell/pandoc-citeproc
 dev-haskell/pandoc-types
-dev-haskell/pango
+#dev-haskell/pango
 dev-haskell/parallel
 dev-haskell/parsec
 dev-haskell/path-pieces
