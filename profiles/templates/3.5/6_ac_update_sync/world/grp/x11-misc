@@ -16,7 +16,7 @@ x11-misc/bbmail
 x11-misc/bbpager
 x11-misc/bbrun
 x11-misc/bbweather
-x11-misc/bumblebee
+#x11-misc/bumblebee
 x11-misc/cairo-clock
 x11-misc/calise
 x11-misc/cbatticon
@@ -84,7 +84,7 @@ x11-misc/mixer_app
 x11-misc/mozo
 x11-misc/netwmpager
 x11-misc/nitrogen
-x11-misc/notification-daemon
+#x11-misc/notification-daemon
 x11-misc/numlockx
 x11-misc/obconf
 x11-misc/obconf-qt
@@ -107,7 +107,7 @@ x11-misc/qxkb
 x11-misc/read-edid
 x11-misc/redshift
 x11-misc/rendercheck
-x11-misc/revelation
+#x11-misc/revelation
 x11-misc/rodent
 x11-misc/rofi
 x11-misc/rss-glx
