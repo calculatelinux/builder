@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, desktop)!=#
 x11-libs/compizconfig-backend-gconf
 x11-libs/compizconfig-backend-kconfig4
-x11-misc/simple-ccsm
 x11-themes/emerald-themes
 x11-wm/afterstep
 x11-wm/awesome
@@ -20,6 +19,7 @@ x11-wm/i3
 x11-wm/icewm
 x11-wm/jwm
 x11-wm/lumina
+x11-wm/openbox
 x11-wm/oroborus
 x11-wm/pekwm
 x11-wm/twm

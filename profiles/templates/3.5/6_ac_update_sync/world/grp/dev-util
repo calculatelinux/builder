@@ -91,6 +91,7 @@ dev-util/ftjam
 dev-util/gdbus-codegen
 dev-util/geany
 dev-util/geany-plugins
+dev-util/gengetopt
 dev-util/glade
 dev-util/global
 dev-util/gnome-devel-docs

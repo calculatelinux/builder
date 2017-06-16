@@ -54,8 +54,6 @@ net-voip/ekiga
 net-voip/linphone
 www-plugins/chrome-ublock
 www-plugins/google-talkplugin
-x11-misc/grsync
-x11-misc/x11vnc
 x11-plugins/pidgin-hotkeys
 x11-plugins/pidgin-libnotify
 x11-plugins/purple-plugin_pack

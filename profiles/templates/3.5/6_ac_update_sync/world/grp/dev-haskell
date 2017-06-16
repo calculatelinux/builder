@@ -43,7 +43,7 @@ dev-haskell/bytestring-mmap
 dev-haskell/c2hs
 dev-haskell/cabal
 dev-haskell/cabal-install
-dev-haskell/cairo
+#dev-haskell/cairo
 dev-haskell/case-insensitive
 dev-haskell/cereal
 dev-haskell/certificate
@@ -129,7 +129,7 @@ dev-haskell/generic-deriving
 dev-haskell/ghc-paths
 dev-haskell/gio
 dev-haskell/glade
-dev-haskell/glib
+#dev-haskell/glib
 dev-haskell/gluraw
 dev-haskell/glut
 dev-haskell/gnuidn
