@@ -172,7 +172,7 @@ media-gfx/splashutils
 media-gfx/springgraph
 media-gfx/svg2rlg
 media-gfx/sxiv
-media-gfx/symboleditor
+#media-gfx/symboleditor
 media-gfx/tic98
 media-gfx/transfig
 media-gfx/tuxpaint

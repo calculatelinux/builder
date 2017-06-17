@@ -327,7 +327,7 @@ dev-python/ipcalc
 dev-python/ipdb
 dev-python/ipy
 dev-python/ipython
-dev-python/irc
+#dev-python/irc
 dev-python/irman-python
 dev-python/iso8601
 dev-python/isodate
