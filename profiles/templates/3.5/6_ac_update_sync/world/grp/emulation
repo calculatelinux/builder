@@ -73,7 +73,6 @@ app-emulation/rkt
 #app-emulation/runc
 app-emulation/runv
 app-emulation/vmware-modules
-app-emulation/vmware-tools
 app-emulation/vmware-workstation
 app-emulation/xen
 app-emulation/xen-pvgrub

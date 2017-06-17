@@ -43,7 +43,7 @@ media-sound/cdparanoia
 #media-sound/cdtool
 media-sound/clementine
 media-sound/cmus
-media-sound/cvoicecontrol
+#media-sound/cvoicecontrol
 media-sound/dagrab
 media-sound/darkice
 media-sound/darksnow
