@@ -28,7 +28,7 @@ media-gfx/digikam
 media-gfx/displaycal
 media-gfx/dm-themes-calculate
 media-gfx/dpic
-media-gfx/duhdraw
+#media-gfx/duhdraw
 media-gfx/ebdftopcf
 media-gfx/enblend
 media-gfx/eog
@@ -56,10 +56,10 @@ media-gfx/gfxboot-themes-calculate
 media-gfx/gif2png
 media-gfx/gifsicle
 media-gfx/gimageview
-media-gfx/gimmage
+#media-gfx/gimmage
 media-gfx/gimp
 media-gfx/gimp-arrow-brushes
-media-gfx/gliv
+#media-gfx/gliv
 media-gfx/gnofract4d
 media-gfx/gnome-font-viewer
 media-gfx/gnome-photos
