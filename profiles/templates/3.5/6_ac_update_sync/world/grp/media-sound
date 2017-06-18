@@ -189,7 +189,7 @@ media-sound/qsynth
 media-sound/qtagger
 media-sound/qtractor
 media-sound/qtscrobbler
-media-sound/quark
+#media-sound/quark
 media-sound/quimup
 media-sound/quodlibet
 media-sound/rawrec
@@ -258,7 +258,7 @@ media-sound/wavpack
 media-sound/wildmidi
 media-sound/wmsound-data
 media-sound/xfmpc
-media-sound/xineadump
+#media-sound/xineadump
 media-sound/xmms2
 media-sound/xnoise
 media-sound/xwax
