@@ -20,7 +20,7 @@ net-print/hplip
 net-print/hplip-plugin
 #net-print/ink
 net-print/libgnomecups
-net-print/libinklevel
+#net-print/libinklevel
 net-print/lm1100
 #net-print/lprng
 net-print/magicfilter

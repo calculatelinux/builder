@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, desktop)!=#
 net-im/bitlbee
-net-im/centerim
+#net-im/centerim
 net-im/choqok
 net-im/climm
 net-im/corebird
@@ -16,7 +16,7 @@ net-im/jabberd2
 net-im/kadu
 net-im/kouchat
 net-im/librvp
-net-im/mcabber
+#net-im/mcabber
 net-im/minbif
 net-im/openfire
 net-im/pidgin
