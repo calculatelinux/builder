@@ -26,8 +26,6 @@ app-crypt/veracrypt
 app-forensics/rkhunter
 app-i18n/enca
 app-i18n/nabi
-app-laptop/tpb
-app-laptop/tp_smapi
 app-misc/anki
 app-misc/dvorakng
 app-misc/emelfm2

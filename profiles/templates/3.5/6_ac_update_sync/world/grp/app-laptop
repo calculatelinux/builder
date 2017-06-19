@@ -1,0 +1,15 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, desktop)!=#
+app-laptop/batti
+app-laptop/hdapsd
+app-laptop/hdaps-gl
+app-laptop/i8kutils
+app-laptop/laptop-mode-tools
+app-laptop/nvidiabl
+app-laptop/pommed
+app-laptop/radeontool
+app-laptop/thinkfan
+app-laptop/tpb
+app-laptop/tp_smapi
+#in#

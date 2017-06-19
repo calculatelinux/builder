@@ -1,0 +1,21 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, desktop)!=#
+media-tv/dvbtune
+media-tv/gentoo-vdr-scripts
+media-tv/ivtv-utils
+media-tv/kodi
+media-tv/linuxtv-dvb-apps
+#media-tv/mythtv
+media-tv/shoutcast2vdr
+media-tv/tvnamer
+media-tv/v4l-dvb-saa716x
+media-tv/v4l-utils
+media-tv/w_scan
+media-tv/xmltv
+
+#?os_arch_machine==x86_64#
+media-tv/plex-media-server
+#os_arch_machine#
+
+#in#

@@ -14,7 +14,6 @@ media-gfx/shotwell
 media-gfx/viewnior
 media-gfx/viewnior
 media-plugins/qmmp-plugin-pack
-media-tv/kodi
 media-video/avidemux
 media-video/cinelerra
 media-video/dvdauthor
@@ -43,7 +42,6 @@ media-video/vcdimager
 media-video/vlc
 
 #?os_arch_machine==x86_64#
-media-tv/plex-media-server
 media-video/lightworks
 #os_arch_machine#
 #in#
