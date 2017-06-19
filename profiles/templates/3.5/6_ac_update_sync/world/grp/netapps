@@ -31,17 +31,6 @@ net-firewall/ufw
 net-ftp/filezilla
 net-ftp/gftp
 net-ftp/tftp-hpa
-net-im/choqok
-net-im/corebird
-net-im/discord-bin
-net-im/gajim
-net-im/pidgin
-net-im/psi
-net-im/psimedia
-net-im/qtox
-net-im/qutim
-net-im/telegram-desktop-bin
-net-im/vacuum
 net-irc/hexchat
 net-irc/irssi
 net-irc/konversation
@@ -57,7 +46,4 @@ www-plugins/google-talkplugin
 x11-plugins/pidgin-hotkeys
 x11-plugins/pidgin-libnotify
 x11-plugins/purple-plugin_pack
-#?os_arch_machine==x86_64#
-net-im/skypeforlinux
-#os_arch_machine#
 #in#
