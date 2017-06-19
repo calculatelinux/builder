@@ -18,7 +18,7 @@ net-print/gtklp
 net-print/gutenprint
 net-print/hplip
 net-print/hplip-plugin
-net-print/ink
+#net-print/ink
 net-print/libgnomecups
 net-print/libinklevel
 net-print/lm1100

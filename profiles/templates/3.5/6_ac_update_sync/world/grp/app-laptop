@@ -6,7 +6,7 @@ app-laptop/hdapsd
 app-laptop/hdaps-gl
 app-laptop/i8kutils
 app-laptop/laptop-mode-tools
-app-laptop/nvidiabl
+#app-laptop/nvidiabl
 app-laptop/pommed
 app-laptop/radeontool
 app-laptop/thinkfan
