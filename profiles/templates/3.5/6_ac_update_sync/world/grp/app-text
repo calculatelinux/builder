@@ -223,6 +223,7 @@ app-text/xdvik
 #app-text/xdvipdfmx
 app-text/xfbib
 app-text/xhtml1
+#app-text/xindy
 #app-text/xiphos
 app-text/xlhtml
 app-text/xml2doc
@@ -241,12 +242,10 @@ app-text/zathura-ps
 app-text/zemberek-server
 app-text/zpspell
 
-
 #?os_arch_machine==x86_64#
 # not compiled
 app-text/cedilla
 app-text/tesseract
-app-text/xindy
 #os_arch_machine#
 
 #in#
