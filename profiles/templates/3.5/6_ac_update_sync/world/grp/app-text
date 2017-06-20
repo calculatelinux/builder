@@ -2,14 +2,14 @@
 
 #?in(os_linux_pkglist, desktop)!=#
 app-text/a2ps
-app-text/adiff
-app-text/agrep
+#app-text/adiff
+#app-text/agrep
 app-text/aiksaurus
 app-text/an
 app-text/ansifilter
 app-text/antiword
 app-text/apvlv
-app-text/asa
+#app-text/asa
 app-text/asciidoc
 app-text/aspell
 app-text/atril
@@ -99,8 +99,8 @@ app-text/iso-codes
 app-text/jabref
 app-text/jabref-bin
 app-text/jadetex
-app-text/jist
-app-text/kbibtex
+#app-text/jist
+#app-text/kbibtex
 app-text/kchmviewer
 app-text/kding
 app-text/keepnote
@@ -226,7 +226,7 @@ app-text/xdvik
 app-text/xfbib
 app-text/xhtml1
 app-text/xindy
-app-text/xiphos
+#app-text/xiphos
 app-text/xlhtml
 app-text/xml2doc
 app-text/xmldiff
