@@ -26,7 +26,7 @@ app-text/catdoc
 app-text/cb2bib
 app-text/chasen
 app-text/cherrytree
-app-text/cedilla
+#app-text/cedilla
 app-text/chm2pdf
 app-text/clara
 app-text/cmigemo
