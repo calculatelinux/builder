@@ -108,7 +108,7 @@ media-video/vdrtools-genindex
 media-video/vlc
 media-video/vobcopy
 media-video/x264-encoder
-media-video/xine-ui
+#media-video/xine-ui
 media-video/xvid4conf
 
 #?os_arch_machine==x86_64#
