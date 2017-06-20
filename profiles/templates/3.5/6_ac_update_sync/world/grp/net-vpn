@@ -9,7 +9,7 @@ net-vpn/httptunnel
 net-vpn/i2p
 net-vpn/i2pd
 net-vpn/ipsec-tools
-net-vpn/isatapd
+#net-vpn/isatapd
 net-vpn/kvpnc
 #net-vpn/libreswan
 net-vpn/miredo
