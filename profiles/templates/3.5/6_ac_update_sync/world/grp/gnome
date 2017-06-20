@@ -3,9 +3,7 @@
 #?in(os_linux_pkglist, desktop)!=#
 app-cdr/brasero
 app-crypt/seahorse
-app-dicts/gnome-dictionary
 app-editors/gedit
-app-text/evince
 gnome-base/nautilus
 gnome-extra/cinnamon
 gnome-extra/docky

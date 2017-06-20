@@ -5,7 +5,6 @@ net-analyzer/ettercap
 #in#
 
 #?in(os_linux_pkglist, desktop)!=#
-app-text/wgetpaste
 mail-client/balsa
 mail-client/claws-mail
 mail-client/geary

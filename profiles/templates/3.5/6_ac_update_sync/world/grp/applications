@@ -21,15 +21,6 @@ app-office/scribus
 app-office/texmacs
 app-office/texmaker
 app-office/texstudio
-app-text/calibre
-app-text/cherrytree
-app-text/fbless
-app-text/fbreader
-app-text/kchmviewer
-app-text/keepnote
-app-text/mupdf
-app-text/qpdfview
-app-text/xournal
 dev-db/pgadmin3
 kde-misc/openofficeorg-thumbnail
 sci-calculators/galculator

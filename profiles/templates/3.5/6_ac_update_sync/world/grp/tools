@@ -54,9 +54,6 @@ app-shells/sash
 app-shells/tcsh
 app-shells/zsh
 app-shells/zsh-completions
-app-text/apvlv
-app-text/texlive
-app-text/xournal
 #dev-db/mysql-workbench
 dev-db/sqlitebrowser
 dev-embedded/arduino
