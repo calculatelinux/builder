@@ -42,7 +42,7 @@ app-dicts/aspell-sr
 app-dicts/aspell-sv
 app-dicts/aspell-uk
 app-dicts/aspell-vi
-app-dicts/canna-2ch
+#app-dicts/canna-2ch
 app-dicts/dictd-devils
 app-dicts/dictd-dicts
 app-dicts/dictd-elements
@@ -158,5 +158,5 @@ app-dicts/stardict-xdict-zh-en-big5
 app-dicts/stardict-xdict-zh-en-gb
 app-dicts/verbiste
 app-dicts/wordnet
-app-dicts/ydpdict
+#app-dicts/ydpdict
 #in#

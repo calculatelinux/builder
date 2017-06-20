@@ -202,7 +202,7 @@ app-text/tkinfo
 app-text/trang
 app-text/tree
 app-text/ttf2pk2
-app-text/ttf2pt1
+#app-text/ttf2pt1
 app-text/tuxcards
 app-text/txt2man
 app-text/txt2pdbdoc
