@@ -118,7 +118,7 @@ dev-php/pecl-memcached
 dev-php/pecl-mongo
 dev-php/pecl-propro
 dev-php/pecl-raphf
-dev-php/pecl-redis
+#dev-php/pecl-redis
 dev-php/pecl-ssh2
 dev-php/pecl-yaz
 #dev-php/PHP_CodeCoverage
