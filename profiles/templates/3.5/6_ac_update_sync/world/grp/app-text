@@ -26,6 +26,7 @@ app-text/catdoc
 app-text/cb2bib
 app-text/chasen
 app-text/cherrytree
+app-text/cedilla
 app-text/chm2pdf
 app-text/clara
 app-text/cmigemo
@@ -244,7 +245,6 @@ app-text/zpspell
 
 #?os_arch_machine==x86_64#
 # not compiled
-app-text/cedilla
 app-text/tesseract
 #os_arch_machine#
 
