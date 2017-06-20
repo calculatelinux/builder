@@ -70,6 +70,7 @@ media-video/mpv
 #media-video/noad
 media-video/nvidia_video_sdk
 media-video/openshot
+media-video/openshot:1
 media-video/parole
 media-video/pitivi
 media-video/plasma-mediacenter
