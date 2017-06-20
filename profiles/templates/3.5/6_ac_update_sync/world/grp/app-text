@@ -24,7 +24,6 @@ app-text/c2ps
 app-text/calibre
 app-text/catdoc
 app-text/cb2bib
-app-text/cedilla
 app-text/chasen
 app-text/cherrytree
 app-text/chm2pdf
@@ -194,7 +193,6 @@ app-text/t1utils
 app-text/tabler
 app-text/talkfilters
 app-text/teckit
-app-text/tesseract
 app-text/texi2html
 app-text/texlive
 app-text/texlive-core
@@ -225,7 +223,6 @@ app-text/xdvik
 #app-text/xdvipdfmx
 app-text/xfbib
 app-text/xhtml1
-app-text/xindy
 #app-text/xiphos
 app-text/xlhtml
 app-text/xml2doc
@@ -243,4 +240,13 @@ app-text/zathura-pdf-poppler
 app-text/zathura-ps
 app-text/zemberek-server
 app-text/zpspell
+
+
+#?os_arch_machine==x86_64#
+# not compiled
+app-text/cedilla
+app-text/tesseract
+app-text/xindy
+#os_arch_machine#
+
 #in#

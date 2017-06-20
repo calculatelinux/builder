@@ -44,10 +44,9 @@ media-video/gpac
 media-video/griffith
 media-video/gtk-recordmydesktop
 media-video/guvcview
-media-video/gxine
 media-video/hasciicam
 media-video/isight-firmware-tools
-media-video/jubler
+#media-video/jubler
 media-video/kaffeine
 media-video/kamerka
 media-video/kino
@@ -55,7 +54,7 @@ media-video/kmplayer
 media-video/kplayer
 #media-video/libav
 media-video/lsdvd
-media-video/matroxset
+#media-video/matroxset
 media-video/mediainfo
 #media-video/minitube
 media-video/mjpegtools
@@ -68,7 +67,7 @@ media-video/mpgtx
 media-video/mplayer
 #media-video/mplayer-resume
 media-video/mpv
-media-video/noad
+#media-video/noad
 media-video/nvidia_video_sdk
 media-video/openshot
 media-video/parole
@@ -113,5 +112,8 @@ media-video/xvid4conf
 
 #?os_arch_machine==x86_64#
 media-video/lightworks
+
+#not compiled
+media-video/gxine
 #os_arch_machine#
 #in#
