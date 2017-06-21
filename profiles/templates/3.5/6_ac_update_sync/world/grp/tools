@@ -76,7 +76,6 @@ mail-client/mutt
 mail-client/sylpheed
 media-gfx/cellwriter
 media-gfx/wally
-media-radio/fldigi
 media-sound/gimmix
 media-sound/mac
 media-sound/picard
@@ -150,29 +149,6 @@ x11-libs/compizconfig-backend-gconf
 x11-libs/compizconfig-backend-kconfig4
 x11-libs/gksu
 x11-libs/xapps
-#x11-terms/aterm
-#x11-terms/eterm
-x11-terms/evilvte
-x11-terms/guake
-#x11-terms/hanterm
-#x11-terms/kterm
-x11-terms/lilyterm
-x11-terms/mrxvt
-x11-terms/multi-aterm
-x11-terms/pangoterm
-x11-terms/root-tail
-x11-terms/roxterm
-x11-terms/rxvt-unicode
-x11-terms/sakura
-#x11-terms/st
-x11-terms/terminator
-#x11-terms/terminology
-x11-terms/tilda
-x11-terms/xvt
-#x11-terms/yeahconsole
-x11-themes/emerald-themes
-x11-themes/geany-themes
-x11-themes/gtk-theme-switch
 #in#
 
 #?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#

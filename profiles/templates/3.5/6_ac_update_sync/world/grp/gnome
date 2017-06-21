@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, desktop)!=#
-app-cdr/brasero
 app-crypt/seahorse
 app-editors/gedit
 gnome-base/nautilus
@@ -38,5 +37,4 @@ net-analyzer/gnome-nettool
 net-irc/polari
 net-wireless/gnome-bluetooth
 sci-geosciences/gnome-maps
-x11-terms/gnome-terminal
 #in#
