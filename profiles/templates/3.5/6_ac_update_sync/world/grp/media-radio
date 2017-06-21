@@ -3,7 +3,7 @@
 #?in(os_linux_pkglist, desktop)!=#
 media-radio/KochMorse
 media-radio/adifmerg
-media-radio/ax25-apps
+#media-radio/ax25-apps
 media-radio/ax25-tools
 media-radio/cwdaemon
 media-radio/dxcc
@@ -18,7 +18,7 @@ media-radio/svxlink
 media-radio/tlf
 media-radio/tucnak2
 media-radio/unixcw
-media-radio/xastir
+#media-radio/xastir
 media-radio/xdx
 media-radio/xlog
 #in#

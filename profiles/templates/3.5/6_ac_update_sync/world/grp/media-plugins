@@ -91,7 +91,7 @@ media-plugins/gst-plugins-smoothstreaming
 media-plugins/gst-plugins-soundtouch
 media-plugins/gst-plugins-soup
 media-plugins/gst-plugins-speex
-media-plugins/gst-plugins-srtp
+#media-plugins/gst-plugins-srtp
 media-plugins/gst-plugins-taglib
 media-plugins/gst-plugins-theora
 media-plugins/gst-plugins-twolame
@@ -166,7 +166,7 @@ media-plugins/mediastreamer-bcg729
 media-plugins/mediastreamer-ilbc
 media-plugins/mediastreamer-silk
 media-plugins/mediastreamer-x264
-media-plugins/mythplugins
+#media-plugins/mythplugins
 media-plugins/npapi-vlc
 media-plugins/qmmp-plugin-pack
 media-plugins/rev-plugins
@@ -208,7 +208,7 @@ media-plugins/vdr-powermate
 media-plugins/vdr-remote
 media-plugins/vdr-remoteosd
 media-plugins/vdr-remotetimers
-media-plugins/vdr-rotor
+#media-plugins/vdr-rotor
 media-plugins/vdr-rssreader
 media-plugins/vdr-screenshot
 media-plugins/vdr-skincurses
@@ -217,10 +217,10 @@ media-plugins/vdr-streamdev
 media-plugins/vdr-sudoku
 media-plugins/vdr-svdrposd
 media-plugins/vdr-svdrpservice
-media-plugins/vdr-ttxtsubs
+#media-plugins/vdr-ttxtsubs
 media-plugins/vdr-undelete
 media-plugins/vdr-vompserver
 media-plugins/vdr-zaphistory
 media-plugins/vdr-zappilot
-media-plugins/xsynth-dssi
+#media-plugins/xsynth-dssi
 #in#
