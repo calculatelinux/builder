@@ -11,7 +11,7 @@ media-radio/fldigi
 media-radio/flrig
 media-radio/gpredict
 media-radio/grig
-media-radio/ibp
+#media-radio/ibp
 media-radio/qrq
 media-radio/qsstv
 media-radio/svxlink

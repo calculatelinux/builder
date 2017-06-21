@@ -14,7 +14,7 @@ app-cdr/cdemu-daemon
 app-cdr/cdlabelgen
 app-cdr/cdrdao
 app-cdr/cdrtools
-app-cdr/cdw
+#app-cdr/cdw
 app-cdr/cuetools
 app-cdr/daa2iso
 app-cdr/disc-cover
