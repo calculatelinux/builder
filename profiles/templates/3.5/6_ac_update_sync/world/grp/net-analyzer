@@ -79,7 +79,7 @@ net-analyzer/nagios-check_rbl
 net-analyzer/nagios-core
 net-analyzer/nagios-plugins
 net-analyzer/nagios-plugins-snmp
-net-analyzer/nagstamon
+#net-analyzer/nagstamon
 net-analyzer/nbtscan
 net-analyzer/netcat
 net-analyzer/netcat6
@@ -132,7 +132,7 @@ net-analyzer/ssmping
 net-analyzer/synscan
 net-analyzer/tcpdump
 net-analyzer/tcpflow
-net-analyzer/tcpreplay
+#net-analyzer/tcpreplay
 net-analyzer/tcpstat
 net-analyzer/tcptrace
 net-analyzer/tcptraceroute

@@ -27,7 +27,7 @@ net-mail/lbdb
 net-mail/libpst
 net-mail/mailbase
 net-mail/maildirtree
-net-mail/mailgraph
+#net-mail/mailgraph
 net-mail/mailman
 net-mail/mailutils
 net-mail/mairix
