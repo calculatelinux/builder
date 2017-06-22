@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, desktop, server)!=#
 app-misc/mc
-net-analyzer/mtr
 sys-apps/acl
 sys-apps/lshw
 sys-block/fio
@@ -79,13 +78,6 @@ media-gfx/wally
 media-sound/gimmix
 media-sound/mac
 media-sound/picard
-net-analyzer/iftop
-net-analyzer/iftop
-#net-analyzer/jnettop
-net-analyzer/mbrowse
-net-analyzer/nethogs
-net-analyzer/nload
-net-analyzer/speedtest-cli
 net-fs/davfs2
 net-fs/sshfs
 net-nds/shelldap
