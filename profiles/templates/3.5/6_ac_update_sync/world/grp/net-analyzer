@@ -32,7 +32,7 @@ net-analyzer/darkstat
 net-analyzer/dhcpdump
 net-analyzer/dnstracer
 net-analyzer/driftnet
-net-analyzer/dsniff
+#net-analyzer/dsniff
 net-analyzer/echoping
 net-analyzer/egressor
 #net-analyzer/etherape
