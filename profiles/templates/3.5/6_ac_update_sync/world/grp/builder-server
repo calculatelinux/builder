@@ -34,6 +34,7 @@ sys-apps/calculate-utils
 sys-apps/dbus
 sys-apps/groff
 sys-apps/lshw
+sys-apps/lshw
 sys-auth/pambase
 sys-block/fio
 sys-fs/mtools

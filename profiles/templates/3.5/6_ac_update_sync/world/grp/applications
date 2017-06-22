@@ -6,7 +6,6 @@ app-editors/gvim
 #app-editors/juffed
 app-editors/latexila
 app-editors/leafpad
-app-i18n/poedit
 app-misc/rox-filer
 app-misc/xmind
 app-office/abiword
@@ -22,7 +21,6 @@ app-office/texmacs
 app-office/texmaker
 app-office/texstudio
 dev-db/pgadmin3
-kde-misc/openofficeorg-thumbnail
 sci-calculators/galculator
 sci-calculators/keurocalc
 sci-calculators/speedcrunch
