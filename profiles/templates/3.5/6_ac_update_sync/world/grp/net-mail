@@ -5,7 +5,7 @@ net-mail/altermime
 net-mail/amavis-logwatch
 net-mail/archivemail
 #net-mail/automx
-net-mail/autorespond
+#net-mail/autorespond
 net-mail/bincimap
 net-mail/checkpassword
 net-mail/cmd5checkpw
@@ -14,7 +14,7 @@ net-mail/cmd5checkpw
 #net-mail/dbmail
 net-mail/dot-forward
 net-mail/email
-net-mail/ezmlm-idx
+#net-mail/ezmlm-idx
 net-mail/fdm
 net-mail/fetchmail
 net-mail/getmail
@@ -46,14 +46,14 @@ net-mail/popa3d
 net-mail/pop-before-smtp
 net-mail/poppassd_ceti
 net-mail/postfix-logwatch
-net-mail/qmailadmin
-net-mail/qmail-autoresponder
-net-mail/qmail-notify
-net-mail/qmail-qfilter
-net-mail/qmhandle
+#net-mail/qmailadmin
+#net-mail/qmail-autoresponder
+#net-mail/qmail-notify
+#net-mail/qmail-qfilter
+#net-mail/qmhandle
 #net-mail/qpopper
 net-mail/qprint
-net-mail/queue-fix
+#net-mail/queue-fix
 net-mail/queue-repair
 net-mail/relay-ctrl
 net-mail/ripmime
@@ -70,7 +70,7 @@ net-mail/up-imapproxy
 net-mail/uw-mailutils
 net-mail/vacation
 #net-mail/vchkuser
-net-mail/vpopmail
+#net-mail/vpopmail
 net-mail/yosucker
 net-mail/ytnef
 #in#
