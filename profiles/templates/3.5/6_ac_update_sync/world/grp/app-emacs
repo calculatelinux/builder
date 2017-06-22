@@ -64,7 +64,7 @@ app-emacs/jam-mode
 app-emacs/jasmin
 app-emacs/jde
 app-emacs/keywiz
-app-emacs/limit
+#app-emacs/limit
 app-emacs/lookup
 app-emacs/lua-mode
 app-emacs/lyskom-elisp-client

@@ -4,13 +4,13 @@
 net-mail/altermime
 net-mail/amavis-logwatch
 net-mail/archivemail
-net-mail/automx
+#net-mail/automx
 net-mail/autorespond
 net-mail/bincimap
 net-mail/checkpassword
 net-mail/cmd5checkpw
-net-mail/courier-imap
-net-mail/cyrus-imapd
+#net-mail/courier-imap
+#net-mail/cyrus-imapd
 net-mail/dbmail
 net-mail/dot-forward
 net-mail/email
@@ -36,7 +36,7 @@ net-mail/metamail
 net-mail/mhonarc
 net-mail/mlmmj
 net-mail/mpack
-net-mail/mu
+#net-mail/mu
 net-mail/nmzmail
 #net-mail/notmuch
 net-mail/offlineimap
@@ -66,7 +66,7 @@ net-mail/swaks
 net-mail/tnef
 net-mail/t-prot
 net-mail/up-imapproxy
-net-mail/uw-imap
+#net-mail/uw-imap
 net-mail/uw-mailutils
 net-mail/vacation
 #net-mail/vchkuser

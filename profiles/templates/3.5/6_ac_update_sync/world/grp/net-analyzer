@@ -9,7 +9,7 @@ net-analyzer/mtr
 net-analyzer/amap
 net-analyzer/argus
 #net-analyzer/argus-clients
-net-analyzer/arping
+#net-analyzer/arping
 net-analyzer/arpoison
 net-analyzer/arpon
 net-analyzer/arp-sk
@@ -64,9 +64,9 @@ net-analyzer/labrea
 net-analyzer/lft
 #net-analyzer/linkchecker
 net-analyzer/macchanger
-net-analyzer/mate-netspeed
+#net-analyzer/mate-netspeed
 net-analyzer/mbrowse
-net-analyzer/monitoring-plugins
+#net-analyzer/monitoring-plugins
 net-analyzer/mping
 net-analyzer/mrtg
 #net-analyzer/munin
@@ -81,7 +81,7 @@ net-analyzer/nagios-plugins
 net-analyzer/nagios-plugins-snmp
 #net-analyzer/nagstamon
 net-analyzer/nbtscan
-net-analyzer/netcat
+#net-analyzer/netcat
 net-analyzer/netcat6
 net-analyzer/nethogs
 net-analyzer/netperf
