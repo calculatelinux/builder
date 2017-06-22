@@ -11,7 +11,7 @@ app-emacs/binclock
 app-emacs/bm
 app-emacs/boxquote
 app-emacs/bubblet
-app-emacs/chess
+#app-emacs/chess
 app-emacs/circe
 app-emacs/cldoc
 app-emacs/cmail
@@ -67,7 +67,7 @@ app-emacs/keywiz
 #app-emacs/limit
 app-emacs/lookup
 app-emacs/lua-mode
-app-emacs/lyskom-elisp-client
+#app-emacs/lyskom-elisp-client
 app-emacs/magit
 app-emacs/mailcrypt
 app-emacs/matlab

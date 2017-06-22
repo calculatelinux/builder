@@ -100,7 +100,7 @@ net-analyzer/nstats
 net-analyzer/ntop
 net-analyzer/nttcp
 net-analyzer/oinkmaster
-net-analyzer/ostinato
+#net-analyzer/ostinato
 net-analyzer/p0f
 net-analyzer/pbnj
 net-analyzer/pinger
@@ -134,7 +134,7 @@ net-analyzer/tcpdump
 net-analyzer/tcpflow
 #net-analyzer/tcpreplay
 net-analyzer/tcpstat
-net-analyzer/tcptrace
+#net-analyzer/tcptrace
 net-analyzer/tcptraceroute
 #net-analyzer/testssl
 net-analyzer/thcrut

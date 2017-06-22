@@ -11,7 +11,7 @@ net-mail/checkpassword
 net-mail/cmd5checkpw
 #net-mail/courier-imap
 #net-mail/cyrus-imapd
-net-mail/dbmail
+#net-mail/dbmail
 net-mail/dot-forward
 net-mail/email
 net-mail/ezmlm-idx
@@ -26,7 +26,7 @@ net-mail/isync
 net-mail/lbdb
 net-mail/libpst
 net-mail/mailbase
-net-mail/maildirtree
+#net-mail/maildirtree
 #net-mail/mailgraph
 net-mail/mailman
 net-mail/mailutils
@@ -51,7 +51,7 @@ net-mail/qmail-autoresponder
 net-mail/qmail-notify
 net-mail/qmail-qfilter
 net-mail/qmhandle
-net-mail/qpopper
+#net-mail/qpopper
 net-mail/qprint
 net-mail/queue-fix
 net-mail/queue-repair
