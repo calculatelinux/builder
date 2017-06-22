@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, desktop, server)!=#
+media-gfx/grub-splashes-calculate
+#in#
+
 #?in(os_linux_pkglist, desktop)!=#
 media-gfx/aaphoto
 media-gfx/aewan
@@ -75,7 +79,6 @@ media-gfx/gqview
 media-gfx/graphite2
 media-gfx/graphviz
 media-gfx/grub-splashes
-media-gfx/grub-splashes-calculate
 media-gfx/gthumb
 media-gfx/gtkam
 media-gfx/gtkimageview

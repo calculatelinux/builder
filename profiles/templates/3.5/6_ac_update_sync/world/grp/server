@@ -25,7 +25,6 @@ net-ftp/lftp
 net-ftp/proftpd
 net-ftp/vsftpd
 net-irc/unrealircd
-net-mail/fetchmail
 #net-proxy/havp
 net-proxy/privoxy
 net-proxy/squid
@@ -37,6 +36,5 @@ net-wireless/hostapd
 dev-db/mariadb
 mail-mta/postfix
 net-im/ejabberd
-net-mail/dovecot
 sys-apps/calculate-server
 #in#
