@@ -22,7 +22,7 @@ net-mail/gnubiff
 net-mail/grepmail
 net-mail/imapsync
 net-mail/isync
-net-mail/kuvert
+#net-mail/kuvert
 net-mail/lbdb
 net-mail/libpst
 net-mail/mailbase
@@ -69,7 +69,7 @@ net-mail/up-imapproxy
 net-mail/uw-imap
 net-mail/uw-mailutils
 net-mail/vacation
-net-mail/vchkuser
+#net-mail/vchkuser
 net-mail/vpopmail
 net-mail/yosucker
 net-mail/ytnef

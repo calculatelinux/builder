@@ -8,7 +8,7 @@ net-analyzer/mtr
 #?in(os_linux_pkglist, desktop)!=#
 net-analyzer/amap
 net-analyzer/argus
-net-analyzer/argus-clients
+#net-analyzer/argus-clients
 net-analyzer/arping
 net-analyzer/arpoison
 net-analyzer/arpon
@@ -71,7 +71,7 @@ net-analyzer/mping
 net-analyzer/mrtg
 #net-analyzer/munin
 net-analyzer/nagios
-net-analyzer/nagios-check_glsa2
+#net-analyzer/nagios-check_glsa2
 net-analyzer/nagios-check_ipmi_sensor
 net-analyzer/nagios-check_logfiles
 net-analyzer/nagios-check_mysql_health
@@ -106,7 +106,7 @@ net-analyzer/pbnj
 net-analyzer/pinger
 net-analyzer/pktstat
 net-analyzer/pmacct
-net-analyzer/pnp4nagios
+#net-analyzer/pnp4nagios
 net-analyzer/poink
 net-analyzer/portsentry
 net-analyzer/raddump
@@ -136,7 +136,7 @@ net-analyzer/tcpflow
 net-analyzer/tcpstat
 net-analyzer/tcptrace
 net-analyzer/tcptraceroute
-net-analyzer/testssl
+#net-analyzer/testssl
 net-analyzer/thcrut
 net-analyzer/thrulay
 net-analyzer/tleds
