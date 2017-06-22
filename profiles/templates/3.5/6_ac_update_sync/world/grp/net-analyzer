@@ -35,7 +35,7 @@ net-analyzer/driftnet
 net-analyzer/dsniff
 net-analyzer/echoping
 net-analyzer/egressor
-net-analyzer/etherape
+#net-analyzer/etherape
 net-analyzer/fail2ban
 net-analyzer/firewalk
 net-analyzer/flow-tools
@@ -48,7 +48,7 @@ net-analyzer/gspoof
 net-analyzer/hping
 net-analyzer/httping
 net-analyzer/hydra
-net-analyzer/icinga
+#net-analyzer/icinga
 net-analyzer/icinga2
 net-analyzer/ifstat
 net-analyzer/ifstatus
@@ -62,14 +62,14 @@ net-analyzer/jnettop
 net-analyzer/knocker
 net-analyzer/labrea
 net-analyzer/lft
-net-analyzer/linkchecker
+#net-analyzer/linkchecker
 net-analyzer/macchanger
 net-analyzer/mate-netspeed
 net-analyzer/mbrowse
 net-analyzer/monitoring-plugins
 net-analyzer/mping
 net-analyzer/mrtg
-net-analyzer/munin
+#net-analyzer/munin
 net-analyzer/nagios
 net-analyzer/nagios-check_glsa2
 net-analyzer/nagios-check_ipmi_sensor
@@ -120,7 +120,7 @@ net-analyzer/scli
 net-analyzer/sec
 net-analyzer/sflowtool
 net-analyzer/slurm
-net-analyzer/smokeping
+#net-analyzer/smokeping
 net-analyzer/sniffit
 net-analyzer/snortsam
 net-analyzer/speedtest-cli

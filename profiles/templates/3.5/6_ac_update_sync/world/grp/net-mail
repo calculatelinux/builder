@@ -13,7 +13,6 @@ net-mail/courier-imap
 net-mail/cyrus-imapd
 net-mail/dbmail
 net-mail/dot-forward
-net-mail/dovecot
 net-mail/email
 net-mail/ezmlm-idx
 net-mail/fdm
@@ -39,7 +38,7 @@ net-mail/mlmmj
 net-mail/mpack
 net-mail/mu
 net-mail/nmzmail
-net-mail/notmuch
+#net-mail/notmuch
 net-mail/offlineimap
 net-mail/pflogsumm
 net-mail/pfqueue
@@ -74,4 +73,8 @@ net-mail/vchkuser
 net-mail/vpopmail
 net-mail/yosucker
 net-mail/ytnef
+#in#
+
+#?in(os_linux_pkglist, server)!=#
+net-mail/dovecot
 #in#
