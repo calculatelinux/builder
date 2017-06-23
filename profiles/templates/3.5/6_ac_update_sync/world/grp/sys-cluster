@@ -20,15 +20,15 @@ sys-cluster/heartbeat
 sys-cluster/heat
 sys-cluster/ipvsadm
 sys-cluster/keepalived
-sys-cluster/libdlm
+#sys-cluster/libdlm
 sys-cluster/libqb
 sys-cluster/mpe2
 sys-cluster/mpich
 sys-cluster/mpich2
 sys-cluster/neutron
-sys-cluster/nova
+#sys-cluster/nova
 sys-cluster/openais
-sys-cluster/openmpi
+#sys-cluster/openmpi
 sys-cluster/osc-mpiexec
 sys-cluster/pacemaker
 sys-cluster/ploop
@@ -36,7 +36,7 @@ sys-cluster/polysh
 sys-cluster/resource-agents
 sys-cluster/rgmanager
 sys-cluster/swift
-sys-cluster/torque
+#sys-cluster/torque
 sys-cluster/util-vserver
 sys-cluster/vzctl
 #in#
