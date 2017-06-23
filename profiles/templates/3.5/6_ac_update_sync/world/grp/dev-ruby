@@ -41,7 +41,7 @@ dev-ruby/ffi
 dev-ruby/flexmock
 dev-ruby/GeoRuby
 dev-ruby/gherkin
-dev-ruby/git
+#dev-ruby/git
 dev-ruby/gruff
 dev-ruby/hashicorp-checkpoint
 dev-ruby/hashie
@@ -104,7 +104,7 @@ dev-ruby/rainbow
 dev-ruby/rake
 dev-ruby/rake-compiler
 dev-ruby/rb-inotify
-dev-ruby/rcairo
+#dev-ruby/rcairo
 dev-ruby/rdiscount
 dev-ruby/rdoc
 dev-ruby/rdtool
@@ -123,7 +123,7 @@ dev-ruby/rspec-expectations
 dev-ruby/rspec-its
 dev-ruby/rspec-mocks
 dev-ruby/rspec-support
-dev-ruby/ruby2ruby
+#dev-ruby/ruby2ruby
 dev-ruby/ruby-atk
 dev-ruby/ruby-augeas
 dev-ruby/ruby-beautify
@@ -134,13 +134,13 @@ dev-ruby/ruby-clutter-gtk
 dev-ruby/ruby_dep
 dev-ruby/ruby-dict
 dev-ruby/ruby-gdk3
-dev-ruby/ruby-gdkpixbuf2
+#dev-ruby/ruby-gdkpixbuf2
 dev-ruby/rubygems
 dev-ruby/ruby-gettext
-dev-ruby/ruby-gio2
-dev-ruby/ruby-glib2
+#dev-ruby/ruby-gio2
+#dev-ruby/ruby-glib2
 dev-ruby/ruby-gnome2
-dev-ruby/ruby-gobject-introspection
+#dev-ruby/ruby-gobject-introspection
 dev-ruby/ruby-gstreamer
 dev-ruby/ruby-gtk2
 dev-ruby/ruby-gtk3
@@ -151,7 +151,7 @@ dev-ruby/ruby-oci8
 dev-ruby/ruby-odbc
 dev-ruby/ruby-opengl
 dev-ruby/ruby-openid
-dev-ruby/ruby-pango
+#dev-ruby/ruby-pango
 dev-ruby/rubypants
 dev-ruby/ruby_parser
 dev-ruby/ruby-poppler
