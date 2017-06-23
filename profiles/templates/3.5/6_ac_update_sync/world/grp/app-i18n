@@ -5,7 +5,7 @@ app-i18n/anthy
 app-i18n/bidiv
 app-i18n/canna
 app-i18n/cstools
-app-i18n/dbskkd-cdb
+#app-i18n/dbskkd-cdb
 app-i18n/enca
 app-i18n/fcitx
 app-i18n/fcitx-anthy
@@ -18,7 +18,7 @@ app-i18n/fcitx-qt5
 app-i18n/fcitx-rime
 app-i18n/fcitx-sunpinyin
 app-i18n/fcitx-table-extra
-app-i18n/fcitx-unikey
+#app-i18n/fcitx-unikey
 app-i18n/freewnn
 app-i18n/ibus
 app-i18n/ibus-anthy
@@ -68,7 +68,7 @@ app-i18n/qimhangul
 app-i18n/qkc
 app-i18n/rime-data
 app-i18n/scim
-app-i18n/scim-anthy
+#app-i18n/scim-anthy
 app-i18n/scim-hangul
 app-i18n/scim-input-pad
 app-i18n/scim-m17n

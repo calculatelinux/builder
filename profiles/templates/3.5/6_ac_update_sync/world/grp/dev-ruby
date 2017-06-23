@@ -116,7 +116,7 @@ dev-ruby/riel
 dev-ruby/right_http_connection
 dev-ruby/rmagick
 dev-ruby/rr
-dev-ruby/rrdtool-bindings
+#dev-ruby/rrdtool-bindings
 dev-ruby/rspec
 dev-ruby/rspec-core
 dev-ruby/rspec-expectations

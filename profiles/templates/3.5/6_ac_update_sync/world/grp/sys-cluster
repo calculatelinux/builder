@@ -14,7 +14,7 @@ sys-cluster/drbd
 sys-cluster/drbd-kernel
 sys-cluster/galera
 sys-cluster/ganglia
-sys-cluster/ganglia-web
+#sys-cluster/ganglia-web
 sys-cluster/glusterfs
 #sys-cluster/heartbeat
 sys-cluster/heat
@@ -34,7 +34,7 @@ sys-cluster/pacemaker
 sys-cluster/ploop
 sys-cluster/polysh
 sys-cluster/resource-agents
-sys-cluster/rgmanager
+#sys-cluster/rgmanager
 #sys-cluster/swift
 #sys-cluster/torque
 sys-cluster/util-vserver
