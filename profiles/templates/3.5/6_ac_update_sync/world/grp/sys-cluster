@@ -29,7 +29,7 @@ sys-cluster/neutron
 #sys-cluster/nova
 sys-cluster/openais
 #sys-cluster/openmpi
-sys-cluster/osc-mpiexec
+#sys-cluster/osc-mpiexec
 sys-cluster/pacemaker
 sys-cluster/ploop
 sys-cluster/polysh

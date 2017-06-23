@@ -13,7 +13,7 @@ app-i18n/fcitx-chewing
 app-i18n/fcitx-cloudpinyin
 app-i18n/fcitx-configtool
 app-i18n/fcitx-hangul
-app-i18n/fcitx-libpinyin
+#app-i18n/fcitx-libpinyin
 app-i18n/fcitx-qt5
 app-i18n/fcitx-rime
 app-i18n/fcitx-sunpinyin
