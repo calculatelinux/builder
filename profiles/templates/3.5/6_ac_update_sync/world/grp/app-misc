@@ -24,7 +24,7 @@ app-misc/ca-certificates
 app-misc/calendar
 app-misc/cbrpager
 app-misc/cdargs
-app-misc/cdcat
+#app-misc/cdcat
 app-misc/cdctl
 app-misc/cdircmp
 app-misc/cdspeed
@@ -73,7 +73,7 @@ app-misc/geneweb
 app-misc/gentoo
 app-misc/geoclue
 app-misc/glcdprocdriver
-app-misc/glimpse
+#app-misc/glimpse
 app-misc/gnote
 app-misc/gnuit
 app-misc/golly
@@ -105,7 +105,7 @@ app-misc/leave
 app-misc/ledit
 app-misc/linux-logo
 app-misc/lirc
-app-misc/livecd-tools
+#app-misc/livecd-tools
 app-misc/lockfile-progs
 app-misc/logitech-applet
 app-misc/logserial
@@ -140,7 +140,7 @@ app-misc/pysmssend
 app-misc/pystopwatch
 app-misc/qlcplus
 app-misc/ranger
-app-misc/realpath
+#app-misc/realpath
 app-misc/recoll
 app-misc/regex-markup
 app-misc/regionset

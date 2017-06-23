@@ -6,7 +6,7 @@ dev-ruby/addressable
 dev-ruby/allison
 dev-ruby/archive-tar-minitar
 dev-ruby/bacon
-dev-ruby/bcat
+#dev-ruby/bcat
 dev-ruby/blankslate
 dev-ruby/bluecloth
 dev-ruby/bsearch

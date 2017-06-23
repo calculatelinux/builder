@@ -96,7 +96,7 @@ sys-apps/microcode-ctl
 sys-apps/miscfiles
 sys-apps/mlocate
 #sys-apps/modutils
-sys-apps/moreutils
+#sys-apps/moreutils
 sys-apps/most
 sys-apps/msr-tools
 sys-apps/netkit-base
