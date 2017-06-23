@@ -25,7 +25,7 @@ app-i18n/ibus-anthy
 app-i18n/ibus-cangjie
 app-i18n/ibus-handwrite
 app-i18n/ibus-hangul
-app-i18n/ibus-libpinyin
+#app-i18n/ibus-libpinyin
 app-i18n/ibus-m17n
 app-i18n/ibus-pinyin
 app-i18n/ibus-qt
@@ -42,7 +42,7 @@ app-i18n/kinput2
 app-i18n/libcangjie
 app-i18n/libguess
 app-i18n/libhangul
-app-i18n/libpinyin
+#app-i18n/libpinyin
 app-i18n/librime
 app-i18n/libskk
 app-i18n/libtabe
@@ -57,7 +57,7 @@ app-i18n/man-pages-pl
 app-i18n/man-pages-ro
 app-i18n/man-pages-ru
 app-i18n/man-pages-zh_CN
-app-i18n/multiskkserv
+#app-i18n/multiskkserv
 app-i18n/nabi
 app-i18n/nkf
 app-i18n/opencc
