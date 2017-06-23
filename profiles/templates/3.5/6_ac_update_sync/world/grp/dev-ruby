@@ -128,7 +128,7 @@ dev-ruby/ruby-atk
 dev-ruby/ruby-augeas
 dev-ruby/ruby-beautify
 dev-ruby/ruby-cairo-gobject
-dev-ruby/ruby-clutter
+#dev-ruby/ruby-clutter
 dev-ruby/ruby-clutter-gstreamer
 dev-ruby/ruby-clutter-gtk
 dev-ruby/ruby_dep
@@ -139,7 +139,7 @@ dev-ruby/rubygems
 dev-ruby/ruby-gettext
 #dev-ruby/ruby-gio2
 #dev-ruby/ruby-glib2
-dev-ruby/ruby-gnome2
+#dev-ruby/ruby-gnome2
 #dev-ruby/ruby-gobject-introspection
 dev-ruby/ruby-gstreamer
 dev-ruby/ruby-gtk2
