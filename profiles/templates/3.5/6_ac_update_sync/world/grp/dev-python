@@ -109,7 +109,7 @@ dev-python/common
 dev-python/compizconfig-python
 dev-python/configargparse
 dev-python/configobj
-dev-python/configparser
+#dev-python/configparser
 dev-python/contextlib2
 #dev-python/cosmolopy
 dev-python/couchdb-python
