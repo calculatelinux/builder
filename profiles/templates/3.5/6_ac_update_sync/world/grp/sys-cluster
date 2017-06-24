@@ -27,7 +27,7 @@ sys-cluster/mpe2
 sys-cluster/mpich2
 sys-cluster/neutron
 #sys-cluster/nova
-sys-cluster/openais
+#sys-cluster/openais
 #sys-cluster/openmpi
 #sys-cluster/osc-mpiexec
 sys-cluster/pacemaker

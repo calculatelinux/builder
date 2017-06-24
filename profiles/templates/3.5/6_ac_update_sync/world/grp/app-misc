@@ -4,7 +4,7 @@
 app-misc/abook
 app-misc/actkbd
 app-misc/anki
-app-misc/asciinema
+#app-misc/asciinema
 app-misc/astrolog
 app-misc/astrolog-ephemeris
 app-misc/away

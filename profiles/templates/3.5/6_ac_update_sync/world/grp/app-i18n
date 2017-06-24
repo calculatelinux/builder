@@ -64,7 +64,7 @@ app-i18n/opencc
 app-i18n/poedit
 app-i18n/pology
 app-i18n/pyzy
-app-i18n/qimhangul
+#app-i18n/qimhangul
 app-i18n/qkc
 app-i18n/rime-data
 app-i18n/scim
