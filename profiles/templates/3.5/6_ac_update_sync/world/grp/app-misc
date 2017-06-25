@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, desktop)!=#
-app-misc/abook
+#app-misc/abook
 app-misc/actkbd
 app-misc/anki
 #app-misc/asciinema
@@ -26,11 +26,11 @@ app-misc/cbrpager
 app-misc/cdargs
 #app-misc/cdcat
 app-misc/cdctl
-app-misc/cdircmp
+#app-misc/cdircmp
 app-misc/cdspeed
 app-misc/chkcrontab
-app-misc/ckermit
-app-misc/clockywock
+#app-misc/ckermit
+#app-misc/clockywock
 app-misc/cmatrix
 app-misc/color
 app-misc/colordiff
@@ -49,9 +49,9 @@ app-misc/devtodo
 app-misc/digitemp
 app-misc/dnetc
 app-misc/dtach
-app-misc/dvorak7min
+#app-misc/dvorak7min
 app-misc/dvorakng
-app-misc/dvtm
+#app-misc/dvtm
 app-misc/editor-wrapper
 app-misc/emelfm2
 app-misc/empty
@@ -59,7 +59,7 @@ app-misc/esekeyd
 app-misc/evtest
 app-misc/fdupes
 app-misc/figlet
-app-misc/freemind
+#app-misc/freemind
 app-misc/fslint
 app-misc/fslurp
 app-misc/fsniper
@@ -99,7 +99,7 @@ app-misc/jq
 app-misc/kanatest
 app-misc/klavaro
 app-misc/ktoblzcheck
-app-misc/lcd4linux
+#app-misc/lcd4linux
 app-misc/lcdproc
 app-misc/leave
 app-misc/ledit
@@ -182,7 +182,7 @@ app-misc/trash-cli
 app-misc/unfoo
 app-misc/uptimed
 app-misc/utimer
-app-misc/vcp
+#app-misc/vcp
 app-misc/vifm
 app-misc/vlock
 app-misc/wcd
@@ -191,11 +191,11 @@ app-misc/when
 app-misc/wipe
 app-misc/worker
 app-misc/workrave
-app-misc/wyrd
+#app-misc/wyrd
 app-misc/xmind
 app-misc/xorg-meta
 app-misc/yagtd
-app-misc/ytree
+#app-misc/ytree
 app-misc/yworklog
 app-misc/zisofs-tools
 #in#

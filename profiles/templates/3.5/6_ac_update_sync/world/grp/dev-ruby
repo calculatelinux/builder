@@ -147,7 +147,7 @@ dev-ruby/ruby-gtk3
 dev-ruby/ruby-gtksourceview
 dev-ruby/ruby-gtksourceview3
 dev-ruby/ruby-ldap
-dev-ruby/ruby-oci8
+#dev-ruby/ruby-oci8
 dev-ruby/ruby-odbc
 dev-ruby/ruby-opengl
 dev-ruby/ruby-openid
