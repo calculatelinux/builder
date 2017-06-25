@@ -3,7 +3,7 @@
 #?in(os_linux_pkglist, desktop, server)!=#
 sys-block/fio
 sys-fs/cryptsetup
-sys-kernel/calculate-sources:4.9.28
+sys-kernel/calculate-sources:4.9.34
 sys-power/powertop
 
 # magic dependence with sys-apps/hwinfo
