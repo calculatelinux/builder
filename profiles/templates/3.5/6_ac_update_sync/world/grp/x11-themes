@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 x11-themes/adwaita-icon-theme
 x11-themes/arc-icon-theme
 x11-themes/audacious-themes

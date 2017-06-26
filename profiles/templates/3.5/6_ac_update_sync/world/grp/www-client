@@ -1,12 +1,12 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop, server)!=#
+#?in(os_linux_pkglist, CBD, CBS)!=#
 www-client/elinks
 www-client/links
 www-client/w3m
 #in#
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 www-client/chromium
 www-client/conkeror
 www-client/dillo

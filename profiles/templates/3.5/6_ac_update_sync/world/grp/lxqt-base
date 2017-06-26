@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 lxqt-base/liblxqt
 lxqt-base/libsysstat
 lxqt-base/lxqt-about

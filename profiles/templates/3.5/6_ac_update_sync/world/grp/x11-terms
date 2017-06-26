@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 #x11-terms/aterm
 #x11-terms/eterm
 x11-terms/evilvte

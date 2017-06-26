@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 media-radio/KochMorse
 media-radio/adifmerg
 #media-radio/ax25-apps

@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 dev-python/3to2
 dev-python/addons
 dev-python/adodb-py
@@ -941,7 +941,7 @@ dev-python/zsi
 #in#
 
 
-#?in(os_linux_pkglist, server)!=#
+#?in(os_linux_pkglist, CBS)!=#
 # собираются в другом профиле чтобы не вытягивался dev-vcs/mercurial из-за
 # которого не собирается dev-lang/spidermonkey-24.2.0-r3:24
 dev-python/hgtools

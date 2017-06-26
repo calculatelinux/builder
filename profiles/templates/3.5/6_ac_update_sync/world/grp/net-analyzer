@@ -1,11 +1,11 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop, server)!=#
+#?in(os_linux_pkglist, CBD, CBS)!=#
 net-analyzer/ettercap
 net-analyzer/mtr
 #in#
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 net-analyzer/amap
 net-analyzer/argus
 #net-analyzer/argus-clients

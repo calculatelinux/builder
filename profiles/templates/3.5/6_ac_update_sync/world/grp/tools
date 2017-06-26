@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop, server)!=#
+#?in(os_linux_pkglist, CBD, CBS)!=#
 sys-block/fio
 sys-fs/cryptsetup
 sys-kernel/calculate-sources:4.9.34
@@ -10,7 +10,7 @@ sys-power/powertop
 sys-fs/ntfs3g
 #in#
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 app-antivirus/clamav
 app-crypt/certbot
 app-crypt/certbot-apache
@@ -121,13 +121,13 @@ x11-libs/gksu
 x11-libs/xapps
 #in#
 
-#?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
 sys-apps/apparmor
 sys-apps/apparmor-utils
 www-plugins/chrome-binary-plugins
 #in#
 
-#?in(os_linux_pkglist, server)!=#
+#?in(os_linux_pkglist, CBS)!=#
 app-backup/backintime
 dev-vcs/mercurial
 sys-process/cronie

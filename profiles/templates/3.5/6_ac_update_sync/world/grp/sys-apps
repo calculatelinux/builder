@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 sys-apps/accountsservice
 sys-apps/ack
 sys-apps/apmd
@@ -165,11 +165,11 @@ sys-apps/xmbmon
 sys-apps/yum
 #in#
 
-#?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
 sys-apps/firejail
 #in#
 
-#?in(os_linux_pkglist, server)!=#
+#?in(os_linux_pkglist, CBS)!=#
 # does not compile with the app-arch/rpm package
 sys-apps/ipmiutil
 #in#

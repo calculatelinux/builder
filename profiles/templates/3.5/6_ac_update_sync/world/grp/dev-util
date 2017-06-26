@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop, server)!=#
+#?in(os_linux_pkglist, CBD, CBS)!=#
 dev-util/ccache
 #in#
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 dev-util/a8
 #dev-util/alleyoop
 #dev-util/android-sdk-update-manager
@@ -67,7 +67,7 @@ dev-util/debhelper
 dev-util/debootstrap
 dev-util/debugedit
 dev-util/dejagnu
-dev-util/desktop-file-utils
+dev-util/CBD-file-utils
 dev-util/devhelp
 dev-util/d-feet
 dev-util/dialog
@@ -209,7 +209,7 @@ dev-util/xxdiff
 dev-util/yacc
 #in#
 
-#?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
 dev-util/intel-ocl-sdk
 dev-util/nvidia-cuda-sdk
 dev-util/nvidia-cuda-toolkit

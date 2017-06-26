@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 net-wireless/aircrack-ng
 net-wireless/airtraf
 net-wireless/b43-fwcutter

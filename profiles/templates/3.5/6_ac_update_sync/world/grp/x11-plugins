@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 x11-plugins/allin1
 x11-plugins/asapm
 x11-plugins/asclock

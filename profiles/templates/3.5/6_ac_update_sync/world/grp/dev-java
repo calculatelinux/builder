@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 dev-java/jnlp-api
 dev-java/jsr101
 dev-java/jsr173

@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, desktop)!=#
+#?in(os_linux_pkglist, CBD)!=#
 games-action/chromium-bsu
 games-action/minetest
 games-action/minetest_game
@@ -62,6 +62,6 @@ games-puzzle/quadrapassel
 games-puzzle/swell-foop
 #in#
 
-#?in(os_linux_pkglist, desktop)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
 games-action/oolite
 #in#
