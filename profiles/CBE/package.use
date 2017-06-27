@@ -1,1 +1,1 @@
-net-dns/bind -ldap -sdb-ldap
+sys-apps/calculate-utils -backup -client -console -desktop -pxe -qt4
