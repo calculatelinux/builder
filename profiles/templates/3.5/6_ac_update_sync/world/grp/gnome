@@ -3,27 +3,6 @@
 #?in(os_linux_pkglist, CBD)!=#
 app-crypt/seahorse
 app-editors/gedit
-gnome-base/nautilus
-gnome-extra/cinnamon
-gnome-extra/docky
-gnome-extra/gconf-editor
-gnome-extra/gnome-calculator
-gnome-extra/gnome-calendar
-gnome-extra/gnome-characters
-gnome-extra/gnome-clocks
-gnome-extra/gnome-color-chooser
-gnome-extra/gnome-commander
-gnome-extra/gnome-documents
-gnome-extra/gnome-search-tool
-gnome-extra/gnome-system-monitor
-gnome-extra/gnome-weather
-gnome-extra/gucharmap
-gnome-extra/nautilus-actions
-#gnome-extra/nautilus-dropbox
-gnome-extra/nautilus-sendto
-gnome-extra/nautilus-tracker-tags
-gnome-extra/nemo-fileroller
-gnome-extra/sushi
 media-gfx/cinnamon-themes-calculate
 media-gfx/eog
 media-gfx/eog-plugins

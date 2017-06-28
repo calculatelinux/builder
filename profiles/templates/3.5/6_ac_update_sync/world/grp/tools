@@ -45,8 +45,6 @@ dev-vcs/cvs
 #dev-vcs/git-annex
 dev-vcs/qgit
 dev-vcs/subversion
-gnome-base/dconf-editor
-gnome-base/gnome-menus
 mail-client/evolution
 mail-client/mutt
 mail-client/sylpheed
