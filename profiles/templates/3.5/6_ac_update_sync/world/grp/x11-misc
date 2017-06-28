@@ -100,7 +100,7 @@ x11-misc/pcmanfm-qt
 x11-misc/pypanel
 x11-misc/qcomicbook
 x11-misc/qlipper
-#x11-misc/qt5ct
+x11-misc/qt5ct
 x11-misc/qterm
 x11-misc/qtfm
 x11-misc/qxkb
