@@ -31,7 +31,6 @@ gnome-extra/gnome-commander
 gnome-extra/gnome-contacts
 gnome-extra/gnome-directory-thumbnailer
 gnome-extra/gnome-documents
-#gnome-extra/gnome-dvb-daemon
 gnome-extra/gnome-getting-started-docs
 gnome-extra/gnome-integration-spotify
 #gnome-extra/gnome-logs
@@ -69,4 +68,8 @@ gnome-extra/yelp-xsl
 gnome-extra/zeitgeist
 gnome-extra/zeitgeist-explorer
 gnome-extra/zenity
+
+#?os_arch_machine==x86_64#
+gnome-extra/gnome-dvb-daemon
+#?os_arch_machine#
 #in#
