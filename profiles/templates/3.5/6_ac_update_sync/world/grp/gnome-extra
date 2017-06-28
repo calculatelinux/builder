@@ -42,7 +42,7 @@ gnome-extra/gnome-search-tool
 gnome-extra/gnome-system-monitor
 #gnome-extra/gnome-tweak-tool
 gnome-extra/gnome-user-docs
-gnome-extra/gnome-user-share
+#gnome-extra/gnome-user-share
 gnome-extra/gnome-utils
 gnome-extra/gnome-weather
 #gnome-extra/gpointing-device-settings
