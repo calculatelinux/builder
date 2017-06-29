@@ -1,7 +1,10 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
+#need KDE
 app-crypt/kencfs
+#need net-libs/webkit-gtk-2.4.11-r200
+app-crypt/veracrypt
 #in#
 
 #?in(os_linux_pkglist, CBE)!=#
@@ -60,7 +63,6 @@ app-crypt/stoken
 app-crypt/tinyca
 app-crypt/tpm-tools
 app-crypt/trousers
-app-crypt/veracrypt
 app-crypt/WiRouterKeyRec
 app-crypt/xca
 app-crypt/xor-analyze
