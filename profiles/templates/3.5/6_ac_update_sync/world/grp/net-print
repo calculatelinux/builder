@@ -27,5 +27,5 @@ net-print/magicfilter
 net-print/mtink
 net-print/poster
 net-print/splix
-net-print/xerox-drivers
+#net-print/xerox-drivers
 #in#

@@ -1,0 +1,15 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBD)!=#
+net-nntp/kwooty
+#in#
+
+#?in(os_linux_pkglist, CBE)!=#
+net-nntp/inn
+net-nntp/leafnode
+net-nntp/newspost
+net-nntp/nzbget
+net-nntp/pan
+net-nntp/slrn
+net-nntp/tin
+#in#

@@ -67,7 +67,6 @@ dev-util/debhelper
 dev-util/debootstrap
 dev-util/debugedit
 dev-util/dejagnu
-dev-util/CBD-file-utils
 dev-util/devhelp
 dev-util/d-feet
 dev-util/dialog

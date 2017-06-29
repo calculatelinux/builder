@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
-app-crypt/seahorse
 app-editors/gedit
 media-gfx/cinnamon-themes-calculate
 media-gfx/eog
