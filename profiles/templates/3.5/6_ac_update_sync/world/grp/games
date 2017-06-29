@@ -1,12 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
-games-action/chromium-bsu
-games-action/minetest
-games-action/minetest_game
-games-action/openclonk
-games-action/supertuxkart
-games-action/teeworlds
 games-arcade/blobby
 games-arcade/briquolo
 games-arcade/frozen-bubble
@@ -60,8 +54,4 @@ games-puzzle/hitori
 games-puzzle/lightsoff
 games-puzzle/quadrapassel
 games-puzzle/swell-foop
-#in#
-
-#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
-games-action/oolite
 #in#
