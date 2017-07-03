@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
-kde-apps/akonadi
+#kde-apps/akonadi
 kde-apps/akonadi-calendar
 kde-apps/akonadiconsole
 kde-apps/akonadi-contacts
