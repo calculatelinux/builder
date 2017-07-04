@@ -80,7 +80,7 @@ media-fonts/fs-fonts
 media-fonts/gidole
 media-fonts/hermit
 media-fonts/heuristica
-media-fonts/hkscs-ming
+#media-fonts/hkscs-ming
 media-fonts/Humor-Sans
 media-fonts/hunkyfonts
 media-fonts/inconsolata
