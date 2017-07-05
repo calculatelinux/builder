@@ -23,7 +23,7 @@ app-office/gtimelog
 app-office/homebank
 app-office/hourglass
 app-office/ical
-app-office/impressive
+#app-office/impressive
 #app-office/kraft
 app-office/ledger
 app-office/libreoffice
