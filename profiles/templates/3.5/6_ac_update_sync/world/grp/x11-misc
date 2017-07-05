@@ -1,6 +1,9 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CBW)!=#
+x11-misc/bumblebee
+#in#
+#?in(os_linux_pkglist, CBE)!=#
 x11-misc/3ddesktop
 x11-misc/3dfb
 x11-misc/3dfm
@@ -16,7 +19,6 @@ x11-misc/bbmail
 x11-misc/bbpager
 x11-misc/bbrun
 x11-misc/bbweather
-#x11-misc/bumblebee
 x11-misc/cairo-clock
 x11-misc/calise
 x11-misc/cbatticon
