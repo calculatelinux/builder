@@ -1,1 +1,1 @@
-# Calculate append=skip in(os_linux_shortname,CBD,CBS,CBE)!=&&in(cl_update_world,merge,rebuild)!=
+# Calculate append=skip in(cl_update_world,merge,rebuild)!=
