@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CBD)!=#
 app-office/calligra
-app-office/calligra-l10n
+#app-office/calligra-l10n
 app-office/kexi
 app-office/kmymoney
 app-office/libalkimia
