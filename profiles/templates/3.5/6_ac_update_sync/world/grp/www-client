@@ -20,6 +20,7 @@ www-client/lynx
 www-client/midori
 www-client/netrik
 #www-client/netsurf
+www-client/opera
 www-client/otter
 www-client/pybugz
 www-client/qupzilla
@@ -33,8 +34,4 @@ www-client/vivaldi
 #www-client/w3mir
 #www-client/w3mmee
 #www-client/weboob
-
-#?os_arch_machine==x86_64#
-www-client/opera
-#os_arch_machine#
 #in#

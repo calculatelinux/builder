@@ -1,0 +1,12 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBE)!=#
+app-officeext/barcode
+app-officeext/ct2n
+app-officeext/dmaths
+#app-officeext/languagetool
+#app-officeext/ooo2gd
+app-officeext/ooofbtools
+app-officeext/sun-templates
+app-officeext/texmaths
+#in#
