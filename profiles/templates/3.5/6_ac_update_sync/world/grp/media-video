@@ -1,6 +1,14 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBE)!=#
+media-video/kaffeine
+media-video/kamerka
+media-video/kmplayer
+media-video/kplayer
+media-video/plasma-mediacenter
+media-video/subtitlecomposer
+#in#
+#?in(os_linux_pkglist, CBE)!=#
 media-video/2mandvd
 media-video/aacskeys
 media-video/abby
@@ -47,11 +55,7 @@ media-video/guvcview
 media-video/hasciicam
 media-video/isight-firmware-tools
 #media-video/jubler
-media-video/kaffeine
-media-video/kamerka
 media-video/kino
-media-video/kmplayer
-media-video/kplayer
 #media-video/libav
 media-video/lsdvd
 #media-video/matroxset
@@ -73,7 +77,6 @@ media-video/openshot
 media-video/openshot:0
 media-video/parole
 media-video/pitivi
-media-video/plasma-mediacenter
 media-video/projectx
 media-video/pymp
 media-video/qt-recordmydesktop
@@ -91,7 +94,6 @@ media-video/snappy
 media-video/sub2srt
 media-video/subdownloader
 media-video/subliminal
-media-video/subtitlecomposer
 media-video/subtitleeditor
 media-video/subtitleripper
 media-video/totem
