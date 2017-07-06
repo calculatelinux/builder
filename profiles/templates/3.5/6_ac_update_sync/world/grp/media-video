@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CBE)!=#
 media-video/2mandvd
 media-video/aacskeys
 media-video/abby
