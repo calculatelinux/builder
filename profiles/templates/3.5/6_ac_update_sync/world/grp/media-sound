@@ -1,6 +1,25 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBE, CBD)!=#
+# to support qt5 and gtk3
+media-sound/audacious
+#in#
+
 #?in(os_linux_pkglist, CBD)!=#
+# requires KDE
+media-sound/amarok
+media-sound/audex
+media-sound/kaudiocreator
+media-sound/kmid
+media-sound/kmidimon
+media-sound/kstreamripper
+media-sound/musique
+media-sound/soundkonverter
+
+# media-sound/cdtool is blocking media-sound/cdplay-1.0
+media-sound/cdtool
+#in#
+#?in(os_linux_pkglist, CBE)!=#
 media-sound/SmarTagger
 media-sound/a2jmidid
 media-sound/aacgain
@@ -13,18 +32,14 @@ media-sound/alsa-tools
 media-sound/alsa-utils
 media-sound/alsamixergui
 media-sound/alsaplayer
-media-sound/amarok
-#media-sound/ams
 media-sound/amsynth
 media-sound/apetag
-#media-sound/apulse
+#media-sound/apulse is blocking media-sound/pulseaudio
 media-sound/aqualung
 media-sound/ario
 media-sound/aseqview
 media-sound/asunder
-media-sound/audacious
 media-sound/audacity
-media-sound/audex
 media-sound/audiotag
 #media-sound/aumix
 media-sound/awesfx
@@ -39,8 +54,7 @@ media-sound/cantata
 media-sound/cd-discid
 media-sound/cdcd
 media-sound/cdparanoia
-#media-sound/cdplay
-#media-sound/cdtool
+media-sound/cdplay
 media-sound/clementine
 media-sound/cmus
 #media-sound/cvoicecontrol
@@ -78,7 +92,7 @@ media-sound/gnome-music
 media-sound/gnome-sound-recorder
 media-sound/gnump3d
 #media-sound/gom
-#media-sound/google-musicmanager
+#media-sound/google-musicmanager the license prevents mirroring
 media-sound/gpodder
 #media-sound/gramofile
 media-sound/grip
@@ -101,18 +115,14 @@ media-sound/jack-keyboard
 media-sound/jack-rack
 media-sound/jamin
 media-sound/jtagger
-#media-sound/kaudiocreator
 media-sound/kid3
-#media-sound/kmetronome
-#media-sound/kmid
-#media-sound/kmidimon
-media-sound/kstreamripper
+media-sound/kmetronome
 media-sound/lame
 media-sound/lash
 media-sound/lastfmplayer
 media-sound/lilypond
 media-sound/lxmusic
-#media-sound/lyvi
+media-sound/lyvi
 media-sound/mac
 media-sound/madplay
 media-sound/mangler
@@ -134,11 +144,11 @@ media-sound/mp3check
 media-sound/mp3diags
 media-sound/mp3gain
 media-sound/mp3info
-#media-sound/mp3splt
+media-sound/mp3splt
 media-sound/mp3splt-gtk
 media-sound/mp3wrap
 media-sound/mpc
-##media-sound/mpd
+media-sound/mpd
 media-sound/mpdas
 media-sound/mpdscribble
 #media-sound/mpfc
@@ -151,9 +161,8 @@ media-sound/mumble
 #media-sound/mup
 media-sound/murmur
 media-sound/musepack-tools
-media-sound/musique
 #media-sound/ncmpc
-#media-sound/ncmpcpp
+media-sound/ncmpcpp
 media-sound/neroaac
 media-sound/normalize
 media-sound/nted
@@ -174,7 +183,7 @@ media-sound/pnmixer
 media-sound/positron
 media-sound/potamus
 media-sound/pragha
-#media-sound/projectm-jack
+##media-sound/projectm-jack
 #media-sound/projectm-pulseaudio
 media-sound/pulseaudio
 media-sound/pympd
@@ -189,7 +198,7 @@ media-sound/qsynth
 media-sound/qtagger
 media-sound/qtractor
 media-sound/qtscrobbler
-#media-sound/quark
+media-sound/quark
 media-sound/quimup
 media-sound/quodlibet
 media-sound/rawrec
@@ -198,7 +207,7 @@ media-sound/rexima
 media-sound/rhythmbox
 media-sound/rip
 media-sound/ripperx
-#media-sound/rosegarden
+media-sound/rosegarden
 media-sound/rplay
 media-sound/saydate
 media-sound/schismtracker
@@ -211,12 +220,11 @@ media-sound/shntool
 media-sound/shorten
 media-sound/sidplay
 media-sound/smixer
-##media-sound/snd
+#media-sound/snd
 media-sound/solfege
 media-sound/sonata
 media-sound/sound-juicer
 media-sound/soundconverter
-media-sound/soundkonverter
 media-sound/sox
 media-sound/split2flac
 media-sound/spotify
@@ -241,7 +249,7 @@ media-sound/twolame
 #media-sound/umix
 media-sound/umurmur
 media-sound/vbrfixc
-#media-sound/ventrilo-server-bin
+#media-sound/ventrilo-server-bin the license prevents mirroring
 media-sound/vimpc
 media-sound/vkeybd
 media-sound/vlevel
@@ -258,7 +266,7 @@ media-sound/wavpack
 media-sound/wildmidi
 media-sound/wmsound-data
 media-sound/xfmpc
-#media-sound/xineadump
+media-sound/xineadump
 media-sound/xmms2
 media-sound/xnoise
 media-sound/xwax
