@@ -20,6 +20,11 @@ media-sound/soundkonverter
 media-sound/cdtool
 #in#
 #?in(os_linux_pkglist, CBE)!=#
+#?os_arch_machine==x86_64#
+# not compiled for x86
+media-sound/quark
+media-sound/xineadump
+#os_arch_machine#
 media-sound/SmarTagger
 media-sound/a2jmidid
 media-sound/aacgain
@@ -198,7 +203,6 @@ media-sound/qsynth
 media-sound/qtagger
 media-sound/qtractor
 media-sound/qtscrobbler
-media-sound/quark
 media-sound/quimup
 media-sound/quodlibet
 media-sound/rawrec
@@ -266,7 +270,6 @@ media-sound/wavpack
 media-sound/wildmidi
 media-sound/wmsound-data
 media-sound/xfmpc
-media-sound/xineadump
 media-sound/xmms2
 media-sound/xnoise
 media-sound/xwax
