@@ -10,8 +10,8 @@ media-sound/audacious
 media-sound/amarok
 media-sound/audex
 #media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
-media-sound/kmid
-media-sound/kmidimon
+#media-sound/kmid <media-sound/drumstick-1.0.0
+#media-sound/kmidimon <media-sound/drumstick-1.0.0
 media-sound/kstreamripper
 media-sound/musique
 media-sound/soundkonverter
