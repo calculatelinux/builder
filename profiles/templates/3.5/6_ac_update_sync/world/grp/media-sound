@@ -9,7 +9,7 @@ media-sound/audacious
 # requires KDE
 media-sound/amarok
 media-sound/audex
-media-sound/kaudiocreator
+#media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
 media-sound/kmid
 media-sound/kmidimon
 media-sound/kstreamripper
