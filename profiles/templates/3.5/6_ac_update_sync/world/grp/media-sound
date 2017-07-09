@@ -9,16 +9,19 @@ media-sound/audacious
 # requires KDE
 media-sound/amarok
 media-sound/audex
+media-sound/cantata
 #media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
-#media-sound/kmid <media-sound/drumstick-1.0.0
+media-sound/kid3
 #media-sound/kmidimon <media-sound/drumstick-1.0.0
+#media-sound/kmid <media-sound/drumstick-1.0.0
 media-sound/kstreamripper
 media-sound/musique
 media-sound/soundkonverter
-
+media-sound/tomahawk
 # media-sound/cdtool is blocking media-sound/cdplay-1.0
 media-sound/cdtool
 #in#
+
 #?in(os_linux_pkglist, CBE)!=#
 #?os_arch_machine==x86_64#
 # not compiled for x86
@@ -55,7 +58,6 @@ media-sound/bluez-alsa
 media-sound/bplay
 media-sound/bpmdetect
 media-sound/brutefir
-media-sound/cantata
 media-sound/cd-discid
 media-sound/cdcd
 media-sound/cdparanoia
@@ -120,7 +122,6 @@ media-sound/jack-keyboard
 media-sound/jack-rack
 media-sound/jamin
 media-sound/jtagger
-media-sound/kid3
 media-sound/kmetronome
 media-sound/lame
 media-sound/lash
@@ -245,7 +246,6 @@ media-sound/timemachine
 media-sound/timidity++
 media-sound/timidity-eawpatches
 media-sound/timidity-freepats
-media-sound/tomahawk
 media-sound/toolame
 media-sound/ttaenc
 media-sound/tudor-volumed

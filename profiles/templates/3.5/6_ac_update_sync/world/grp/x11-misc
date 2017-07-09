@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CBD)!=#
 x11-misc/pcmanfm-qt
+x11-misc/sddm
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#
@@ -119,7 +120,6 @@ x11-misc/rofi
 x11-misc/rss-glx
 x11-misc/screengrab
 x11-misc/sct
-x11-misc/sddm
 x11-misc/shared-mime-info
 x11-misc/shutter
 x11-misc/shutterbug
