@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBD)!=#
+x11-misc/pcmanfm-qt
+#in#
+
 #?in(os_linux_pkglist, CBW)!=#
 x11-misc/bumblebee
 #in#
@@ -99,7 +103,6 @@ x11-misc/oroborus-keylaunch
 x11-misc/parcellite
 x11-misc/pathfinder
 x11-misc/pcmanfm
-x11-misc/pcmanfm-qt
 x11-misc/pypanel
 x11-misc/qcomicbook
 x11-misc/qlipper
