@@ -4,6 +4,10 @@
 net-misc/aria2
 #in#
 
+#?in(os_linux_pkglist, CBD, CBW)!=#
+net-misc/dhcp
+#in#
+
 #?in(os_linux_pkglist, CBD)!=#
 net-misc/adjtimex
 net-misc/aget
