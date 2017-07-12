@@ -5,7 +5,7 @@ app-doc/gimp-help
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#
-app-doc/kicad-doc
+#app-doc/kicad-doc
 app-doc/pms
 app-doc/selfhtml
 #in#
