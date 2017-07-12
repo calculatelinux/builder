@@ -8,7 +8,7 @@ app-accessibility/simon
 app-accessibility/accerciser
 app-accessibility/at-spi2-atk
 app-accessibility/at-spi2-core
-app-accessibility/brltty
+#app-accessibility/brltty
 app-accessibility/caribou
 app-accessibility/eflite
 app-accessibility/emacspeak
@@ -22,7 +22,7 @@ app-accessibility/freetts
 app-accessibility/julius
 app-accessibility/mbrola
 app-accessibility/nfbtrans
-app-accessibility/orca
+#app-accessibility/orca
 app-accessibility/perlbox-voice
 app-accessibility/pocketsphinx
 app-accessibility/powiedz
@@ -33,5 +33,5 @@ app-accessibility/sphinx2
 app-accessibility/sphinx3
 app-accessibility/sphinxbase
 app-accessibility/SphinxTrain
-app-accessibility/yasr
+#app-accessibility/yasr
 #in#
