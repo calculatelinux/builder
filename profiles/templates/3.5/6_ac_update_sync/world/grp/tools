@@ -105,7 +105,6 @@ sys-process/htop
 sys-process/iotop
 sys-process/lsof
 sys-process/nmon
-sys-process/vixie-cron
 www-plugins/adobe-flash
 x11-libs/compizconfig-backend-gconf
 x11-libs/compizconfig-backend-kconfig4
@@ -122,5 +121,4 @@ www-plugins/chrome-binary-plugins
 #?in(os_linux_pkglist, CBS)!=#
 app-backup/backintime
 dev-vcs/mercurial
-sys-process/cronie
 #in#

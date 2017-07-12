@@ -1,0 +1,37 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBD)!=#
+app-accessibility/simon
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+app-accessibility/accerciser
+app-accessibility/at-spi2-atk
+app-accessibility/at-spi2-core
+app-accessibility/brltty
+app-accessibility/caribou
+app-accessibility/eflite
+app-accessibility/emacspeak
+app-accessibility/emacspeak-ss
+app-accessibility/epos
+app-accessibility/espeak
+app-accessibility/espeakup
+app-accessibility/festival
+app-accessibility/flite
+app-accessibility/freetts
+app-accessibility/julius
+app-accessibility/mbrola
+app-accessibility/nfbtrans
+app-accessibility/orca
+app-accessibility/perlbox-voice
+app-accessibility/pocketsphinx
+app-accessibility/powiedz
+app-accessibility/speechd-el
+app-accessibility/speech-dispatcher
+app-accessibility/speech-tools
+app-accessibility/sphinx2
+app-accessibility/sphinx3
+app-accessibility/sphinxbase
+app-accessibility/SphinxTrain
+app-accessibility/yasr
+#in#

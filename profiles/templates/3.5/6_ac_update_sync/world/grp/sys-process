@@ -1,0 +1,17 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBD)!=#
+sys-process/vixie-cron
+#in#
+
+#?in(os_linux_pkglist, CBE)!=#
+sys-process/bcron
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+sys-process/dcron
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+sys-process/cronie
+#in#
