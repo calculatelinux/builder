@@ -3,6 +3,17 @@
 #?in(os_linux_pkglist, CBD)!=#
 app-editors/kile
 #in#
+#?in(os_linux_pkglist, CBE)!=#
+app-editors/focuswriter
+app-editors/gedit
+app-editors/gedit-plugins
+app-editors/latexila
+app-editors/leo
+app-editors/qwriter
+app-editors/qxmledit
+app-editors/retext
+app-editors/tea
+#in#
 
 #?in(os_linux_pkglist, CBW)!=#
 app-editors/adie
@@ -22,10 +33,7 @@ app-editors/emacs
 app-editors/emact
 #app-editors/ersatz-emacs
 app-editors/fe
-app-editors/focuswriter
 app-editors/fte
-app-editors/gedit
-app-editors/gedit-plugins
 app-editors/ghex
 app-editors/gummi
 app-editors/gvim
@@ -40,10 +48,8 @@ app-editors/joe
 app-editors/jove
 #app-editors/juffed
 app-editors/kakoune
-app-editors/latexila
 app-editors/le
 app-editors/leafpad
-app-editors/leo
 app-editors/levee
 app-editors/lfhex
 app-editors/lpe
@@ -58,12 +64,8 @@ app-editors/ng
 app-editors/nvi
 app-editors/pluma
 app-editors/qemacs
-app-editors/qwriter
-app-editors/qxmledit
-app-editors/retext
 app-editors/scite
 app-editors/shed
-app-editors/tea
 app-editors/teco
 app-editors/ted
 app-editors/uemacs-pk
