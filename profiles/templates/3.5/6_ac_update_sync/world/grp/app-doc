@@ -1,5 +1,15 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBD)!=#
+app-doc/gimp-help
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+app-doc/kicad-doc
+app-doc/pms
+app-doc/selfhtml
+#in#
+
 #?in(os_linux_pkglist, CBW)!=#
 app-doc/abs-guide
 app-doc/autobook
@@ -9,11 +19,9 @@ app-doc/diveintopython
 app-doc/doxygen
 app-doc/edox-data
 app-doc/elisp-manual
-app-doc/gimp-help
 app-doc/gnucash-docs
 app-doc/halibut
 app-doc/jargon
-app-doc/kicad-doc
 app-doc/lapack-docs
 app-doc/linkers-and-loaders
 app-doc/linux-device-drivers
@@ -28,10 +36,8 @@ app-doc/NaturalDocs
 app-doc/php-docs
 app-doc/phrack
 app-doc/phrack-all
-app-doc/pms
 app-doc/podbrowser
 app-doc/root-docs
-app-doc/selfhtml
 app-doc/selflinux
 app-doc/single-unix-specification
 app-doc/tldp-howto
