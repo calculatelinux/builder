@@ -1,0 +1,18 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBW)!=#
+xfce-base/exo
+xfce-base/garcon
+xfce-base/libxfce4ui
+xfce-base/libxfce4util
+xfce-base/libxfcegui4
+xfce-base/thunar
+xfce-base/xfce4-appfinder
+xfce-base/xfce4-meta
+xfce-base/xfce4-panel
+xfce-base/xfce4-session
+xfce-base/xfce4-settings
+xfce-base/xfconf
+xfce-base/xfdesktop
+xfce-base/xfwm4
+#in#
