@@ -33,6 +33,7 @@ dev-lang/vala:0.32
 dev-lang/vala:0.34
 dev-libs/klibc
 dev-libs/libcgroup
+dev-libs/weston
 dev-qt/qt-creator
 dev-tcltk/expect
 dev-vcs/bzr
