@@ -61,5 +61,5 @@ xfce-extra/xfce4-windowck-plugin
 xfce-extra/xfce4-wmdock-plugin
 xfce-extra/xfce4-xkb-plugin
 xfce-extra/xfdashboard
-xfce-extra/xfswitch-plugin
+#xfce-extra/xfswitch-plugin
 #in#
