@@ -73,7 +73,6 @@ app-editors/vile
 app-editors/vim
 app-editors/vim-core
 app-editors/xemacs
-app-editors/XML-XSH2
 app-editors/xvile
 app-editors/yudit
 #app-editors/zile
