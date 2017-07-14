@@ -46,7 +46,9 @@ dev-qt/qtwidgets:5
 dev-qt/qtx11extras:5
 dev-qt/qtxml:5
 dev-qt/qtxmlpatterns:5
+#in#
 
+#?in(os_linux_pkglist, CBE)!=#
 dev-qt/assistant:4
 dev-qt/designer:4
 dev-qt/linguist:4
