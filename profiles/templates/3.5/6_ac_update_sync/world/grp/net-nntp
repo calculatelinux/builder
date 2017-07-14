@@ -7,7 +7,6 @@ net-nntp/kwooty
 
 #?in(os_linux_pkglist, CBE)!=#
 net-nntp/inn
-net-nntp/leafnode
 net-nntp/newspost
 net-nntp/nzbget
 net-nntp/pan
