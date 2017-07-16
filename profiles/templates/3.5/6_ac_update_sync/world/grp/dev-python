@@ -103,7 +103,6 @@ dev-python/Coffin
 dev-python/colander
 dev-python/colorama
 dev-python/colorlog
-dev-python/colout
 dev-python/columnize
 dev-python/common
 dev-python/compizconfig-python
@@ -723,7 +722,6 @@ dev-python/pytz
 dev-python/pyudev
 dev-python/pyutil
 dev-python/pyvorbis
-dev-python/pywebkitgtk
 dev-python/pyx
 dev-python/pyxattr
 dev-python/pyxdg

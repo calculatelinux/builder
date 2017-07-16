@@ -31,7 +31,6 @@ net-misc/cfengine
 net-misc/charm
 net-misc/chrome-remote-desktop
 net-misc/chrony
-net-misc/clipgrab
 net-misc/clockspeed
 net-misc/clusterssh
 net-misc/cmst
@@ -85,7 +84,6 @@ net-misc/ipv6calc
 net-misc/ipx-utils
 net-misc/java-wakeonlan
 net-misc/jrdesktop
-net-misc/jumpgate
 net-misc/jwhois
 net-misc/keychain
 net-misc/knemo

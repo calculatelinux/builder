@@ -58,7 +58,6 @@ app-backup/restic
 app-backup/rsnapshot
 app-backup/sarab
 app-backup/simplebackup
-app-backup/snapback2
 app-backup/snapper
 app-backup/spideroak-bin
 app-backup/tarsnap

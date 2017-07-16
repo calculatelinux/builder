@@ -5,7 +5,6 @@ dev-util/ccache
 #in#
 
 #?in(os_linux_pkglist, CBD)!=#
-dev-util/a8
 #dev-util/alleyoop
 #dev-util/android-sdk-update-manager
 dev-util/android-sdk-update-manager
@@ -134,7 +133,6 @@ dev-util/meson
 dev-util/nemiver
 dev-util/netbeans
 dev-util/ninja
-dev-util/ninja-ide
 dev-util/obs-service-cpanspec
 dev-util/obs-service-download_files
 dev-util/obs-service-download_src_package
