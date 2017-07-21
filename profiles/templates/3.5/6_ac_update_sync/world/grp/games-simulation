@@ -1,0 +1,19 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBE)!=#
+games-simulation/cannonsmash
+games-simulation/crashtest
+games-simulation/dangerdeep
+games-simulation/flightgear
+games-simulation/flightgear-data
+games-simulation/gl117
+games-simulation/lincity
+games-simulation/lincity-ng
+games-simulation/micropolis
+games-simulation/openttd
+games-simulation/pmars-sdl
+games-simulation/searchandrescue
+games-simulation/senken
+games-simulation/simutrans
+games-simulation/singularity
+#in#

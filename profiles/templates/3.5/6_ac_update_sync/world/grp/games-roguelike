@@ -1,0 +1,19 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBE)!=#
+# need to download
+#games-roguelike/FTL
+
+games-roguelike/adom
+games-roguelike/angband
+games-roguelike/crossfire-client
+games-roguelike/moria
+games-roguelike/powder
+#games-roguelike/rogue
+games-roguelike/scourge
+games-roguelike/stone-soup
+games-roguelike/tome
+#games-roguelike/tomenet
+games-roguelike/wrogue
+games-roguelike/zangband
+#in#
