@@ -31,8 +31,14 @@
 #games-fps/ut2004-muralis
 #games-fps/ut2004-strikeforce
 
-games-fps/alephone
-games-fps/alephone-infinity
+#?os_arch_machine==x86_64#
+games-fps/quake3
+games-fps/quakeforge
+games-fps/urbanterror
+#os_arch_machine#
+
+#games-fps/alephone
+#games-fps/alephone-infinity
 games-fps/alienarena
 games-fps/avp
 games-fps/blackshades
@@ -43,7 +49,7 @@ games-fps/doomsday-resources
 games-fps/duke3d-demodata
 games-fps/eduke32
 games-fps/enemy-territory
-games-fps/enemy-territory-etpro
+#games-fps/enemy-territory-etpro
 games-fps/enemy-territory-truecombat
 games-fps/etqw-bin
 games-fps/freedoom
@@ -59,7 +65,6 @@ games-fps/quake1-rally
 games-fps/quake1-teamfortress
 games-fps/quake1-textures
 games-fps/quake2-demodata
-games-fps/quake3
 games-fps/quake3-alliance
 games-fps/quake3-alternatefire
 games-fps/quake3-bfp
@@ -78,14 +83,12 @@ games-fps/quake3-reaction
 games-fps/quake3-ruinhunters
 games-fps/quake3-teamarena
 games-fps/quake3-threewave
-games-fps/quakeforge
 games-fps/rott
 games-fps/rtcwmp-demo
 games-fps/rtcwsp-demo
 games-fps/sauerbraten
 games-fps/soldieroffortune-demo
 games-fps/turtlearena
-games-fps/urbanterror
 games-fps/urbanterror-data
 games-fps/ut2003-demo
 games-fps/ut2004-demo

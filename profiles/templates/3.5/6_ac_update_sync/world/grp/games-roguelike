@@ -11,9 +11,9 @@ games-roguelike/moria
 games-roguelike/powder
 #games-roguelike/rogue
 games-roguelike/scourge
-games-roguelike/stone-soup
+#games-roguelike/stone-soup
 games-roguelike/tome
 #games-roguelike/tomenet
 games-roguelike/wrogue
-games-roguelike/zangband
+#games-roguelike/zangband
 #in#
