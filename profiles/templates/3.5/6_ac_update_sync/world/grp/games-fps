@@ -31,6 +31,22 @@
 #games-fps/ut2004-muralis
 #games-fps/ut2004-strikeforce
 
+# large packages
+#games-fps/alienarena #558M
+#games-fps/enemy-territory #258M
+#games-fps/enemy-territory-truecombat #453M
+#games-fps/etqw-bin #532M
+#games-fps/nexuiz #834M
+#games-fps/openarena #397M
+#games-fps/postal2mp-demo #564M
+#games-fps/quake3-lrctf #326M
+#games-fps/quake3-nsco #355M
+#games-fps/quake3-reaction #490M
+#games-fps/sauerbraten #559M
+#games-fps/ut2004-demo #269M
+#games-fps/worldofpadman #983M
+#games-fps/xonotic #880M
+
 #?os_arch_machine==x86_64#
 games-fps/quake3
 games-fps/quakeforge
@@ -39,7 +55,6 @@ games-fps/urbanterror
 
 #games-fps/alephone
 #games-fps/alephone-infinity
-games-fps/alienarena
 games-fps/avp
 games-fps/blackshades
 games-fps/darkplaces
@@ -48,16 +63,10 @@ games-fps/doomsday
 games-fps/doomsday-resources
 games-fps/duke3d-demodata
 games-fps/eduke32
-games-fps/enemy-territory
 #games-fps/enemy-territory-etpro
-games-fps/enemy-territory-truecombat
-games-fps/etqw-bin
 games-fps/freedoom
 games-fps/glxquake-bin
 games-fps/legends
-games-fps/nexuiz
-games-fps/openarena
-games-fps/postal2mp-demo
 games-fps/prboom
 games-fps/quake1-demodata
 games-fps/quake1-killer
@@ -74,25 +83,18 @@ games-fps/quake3-data
 games-fps/quake3-defrag
 games-fps/quake3-demo
 games-fps/quake3-excessiveplus
-games-fps/quake3-lrctf
 games-fps/quake3-matrix
-games-fps/quake3-nsco
 games-fps/quake3-osp
 games-fps/quake3-ra3
-games-fps/quake3-reaction
 games-fps/quake3-ruinhunters
 games-fps/quake3-teamarena
 games-fps/quake3-threewave
 games-fps/rott
 games-fps/rtcwmp-demo
 games-fps/rtcwsp-demo
-games-fps/sauerbraten
 games-fps/soldieroffortune-demo
 games-fps/turtlearena
 games-fps/urbanterror-data
 games-fps/ut2003-demo
-games-fps/ut2004-demo
 games-fps/warsow-community-map-pack
-games-fps/worldofpadman
-games-fps/xonotic
 #in#
