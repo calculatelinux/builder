@@ -5,9 +5,11 @@ media-video/kaffeine
 media-video/kamerka
 media-video/kmplayer
 media-video/kplayer
+media-video/nvidia_video_sdk
 media-video/plasma-mediacenter
 media-video/subtitlecomposer
 #in#
+
 #?in(os_linux_pkglist, CBE)!=#
 media-video/2mandvd
 media-video/aacskeys
@@ -71,7 +73,6 @@ media-video/mplayer
 #media-video/mplayer-resume
 media-video/mpv
 #media-video/noad
-media-video/nvidia_video_sdk
 media-video/openshot
 media-video/openshot:0
 media-video/parole
