@@ -18,11 +18,6 @@ games-puzzle/meandmyshadow
 #games-rpg/freedroidrpg #213M
 #games-sports/torcs #377M
 games-sports/xmoto
-games-strategy/0ad
-games-strategy/freeciv
-games-strategy/hedgewars
-games-strategy/warzone2100
-games-strategy/widelands
 games-util/steam-launcher
 
 # Lode-Runner-like
@@ -32,12 +27,6 @@ games-arcade/holotz-castle
 # Gnome
 games-arcade/gnome-nibbles
 games-arcade/gnome-robots
-games-board/four-in-a-row
-games-board/gnome-chess
-games-board/gnome-mahjongg
-games-board/gnome-mines
-games-board/iagno
-games-board/tali
 games-puzzle/five-or-more
 games-puzzle/gnome-klotski
 games-puzzle/gnome-sudoku
