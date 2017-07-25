@@ -11,12 +11,12 @@ games-board/atakks
 games-board/awale
 games-board/biloba
 games-board/blokish
-games-board/camato
+#games-board/camato
 games-board/capicity
 #games-board/ccgo
 games-board/cgoban
 games-board/cgoban2
-games-board/chessx
+#games-board/chessx
 games-board/cockatrice
 games-board/crafty
 games-board/domination
@@ -67,7 +67,7 @@ games-board/simsu
 games-board/sirius
 games-board/sjeng
 games-board/spider
-games-board/stockfish
+#games-board/stockfish
 games-board/tali
 games-board/teg
 games-board/tetzle

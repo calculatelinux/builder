@@ -29,7 +29,7 @@ games-strategy/liquidwar
 games-strategy/liquidwar6
 games-strategy/majesty-demo
 games-strategy/maxr
-games-strategy/megaglest
+#games-strategy/megaglest
 games-strategy/megaglest-data
 games-strategy/naev
 games-strategy/openra
