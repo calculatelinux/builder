@@ -13,7 +13,7 @@ games-board/biloba
 games-board/blokish
 games-board/camato
 games-board/capicity
-games-board/ccgo
+#games-board/ccgo
 games-board/cgoban
 games-board/cgoban2
 games-board/chessx
@@ -22,7 +22,7 @@ games-board/crafty
 games-board/domination
 games-board/eboard
 games-board/four-in-a-row
-games-board/freedoko
+#games-board/freedoko
 games-board/fruit
 games-board/gmchess
 games-board/gnome-chess
@@ -36,7 +36,7 @@ games-board/gnuchess
 games-board/gnuchess-book
 games-board/gnugo
 games-board/gnushogi
-games-board/goatee-gtk
+#games-board/goatee-gtk
 games-board/grhino
 games-board/gtkatlantic
 games-board/gtkboard
@@ -49,14 +49,14 @@ games-board/maitretarot
 games-board/megamek
 games-board/mt_dolphin_ia
 games-board/mt_gtk_client
-games-board/mt_ncurses_client
-games-board/natch
+#games-board/mt_ncurses_client
+#games-board/natch
 games-board/openyahtzee
 games-board/pasang-emas
 games-board/peg-e
 games-board/phalanx
 games-board/pioneers
-games-board/pokerth
+#games-board/pokerth
 games-board/pouetchess
 games-board/pychess
 #games-board/pysolfc

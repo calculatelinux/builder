@@ -13,7 +13,7 @@ games-strategy/boswars
 games-strategy/crimson
 games-strategy/darwinia
 games-strategy/darwinia-demo
-games-strategy/dopewars
+#games-strategy/dopewars
 games-strategy/dunelegacy
 games-strategy/freeciv
 games-strategy/freecol
@@ -37,7 +37,7 @@ games-strategy/outerspace
 games-strategy/s25rttr
 games-strategy/scorched3d
 games-strategy/seven-kingdoms
-games-strategy/tornado
+#games-strategy/tornado
 games-strategy/triplea
 games-strategy/ufo-ai
 games-strategy/uqm
