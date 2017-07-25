@@ -6,6 +6,13 @@
 #games-strategy/wargus
 #games-strategy/wargus-data
 
+# large packages
+#games-strategy/megaglest-data #324M
+#games-strategy/naev #284M
+#games-strategy/triplea #306M
+#games-strategy/ufo-ai #899M
+#games-strategy/wesnoth #349M
+
 games-strategy/0ad
 games-strategy/0ad-data
 games-strategy/asc
@@ -30,20 +37,15 @@ games-strategy/liquidwar6
 games-strategy/majesty-demo
 games-strategy/maxr
 #games-strategy/megaglest
-games-strategy/megaglest-data
-games-strategy/naev
 games-strategy/openra
 games-strategy/outerspace
 games-strategy/s25rttr
 games-strategy/scorched3d
 games-strategy/seven-kingdoms
 #games-strategy/tornado
-games-strategy/triplea
-games-strategy/ufo-ai
 games-strategy/uqm
 games-strategy/warmux
 games-strategy/warzone2100
-games-strategy/wesnoth
 games-strategy/widelands
 games-strategy/xbattleai
 #in#
