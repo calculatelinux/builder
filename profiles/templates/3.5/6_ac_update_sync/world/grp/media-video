@@ -73,8 +73,8 @@ media-video/mplayer
 #media-video/mplayer-resume
 media-video/mpv
 #media-video/noad
-media-video/openshot
 media-video/openshot:0
+media-video/openshot:1
 media-video/parole
 media-video/pitivi
 media-video/projectx
