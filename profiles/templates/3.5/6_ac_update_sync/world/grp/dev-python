@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBW)!=#
-dev-python/autobahn
-#in#
-
 #?in(os_linux_pkglist, CBD)!=#
 dev-python/3to2
 dev-python/addons
@@ -34,6 +30,7 @@ dev-python/astor
 dev-python/async
 #dev-python/atom
 dev-python/authres
+#dev-python/autobahn
 dev-python/automaton
 dev-python/autopep8
 dev-python/axiom
@@ -248,7 +245,7 @@ dev-python/flask-sqlalchemy
 dev-python/flask-testing
 dev-python/flask-themes
 dev-python/flask-uploads
-dev-python/flask-whooshalchemy
+#dev-python/flask-whooshalchemy
 dev-python/flask-wtf
 dev-python/flask-xml-rpc
 dev-python/flup
