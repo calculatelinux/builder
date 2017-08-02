@@ -42,7 +42,7 @@ dev-python/backports-lzma
 dev-python/backports-ssl-match-hostname
 dev-python/bandit
 #dev-python/basemap
-dev-python/bashate
+#dev-python/bashate
 dev-python/batinfo
 dev-python/bcrypt
 dev-python/beaker
