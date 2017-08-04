@@ -11,7 +11,6 @@ sys-boot/grub
 sys-boot/lilo
 sys-boot/mbr
 sys-boot/os-prober
-sys-boot/plymouth
 sys-boot/refind
 sys-boot/unetbootin
 sys-boot/winusb

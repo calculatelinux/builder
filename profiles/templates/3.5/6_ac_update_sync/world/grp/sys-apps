@@ -162,7 +162,6 @@ sys-apps/which
 sys-apps/x86info
 sys-apps/xinetd
 sys-apps/xmbmon
-sys-apps/yum
 #in#
 
 #?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
