@@ -5,6 +5,11 @@ mail-client/trojita
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#
+# mail-client/nail is blocking mail-client/mailx
+mail-client/nail
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
 mail-client/alpine
 mail-client/balsa
 mail-client/clawsker
@@ -16,7 +21,6 @@ mail-client/mail-notification
 mail-client/mailx
 mail-client/mailx-support
 mail-client/mutt
-mail-client/nail
 mail-client/pinepgp
 mail-client/roundcube
 mail-client/sylpheed

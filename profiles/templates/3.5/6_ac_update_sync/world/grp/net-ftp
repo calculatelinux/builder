@@ -1,7 +1,11 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBW)!=#
+# net-ftp/atftp is blocking net-ftp/tftp-hpa
 net-ftp/atftp
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
 net-ftp/cmdftp
 net-ftp/filezilla
 net-ftp/frox
