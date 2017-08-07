@@ -14,7 +14,7 @@ mail-client/alpine
 mail-client/balsa
 mail-client/clawsker
 mail-client/claws-mail
-mail-client/cone
+#mail-client/cone
 mail-client/evolution
 mail-client/geary
 mail-client/mail-notification
