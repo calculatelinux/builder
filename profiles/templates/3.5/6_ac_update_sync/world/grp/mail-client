@@ -4,7 +4,7 @@
 mail-client/trojita
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CBE)!=#
 # mail-client/nail is blocking mail-client/mailx
 mail-client/nail
 #in#
