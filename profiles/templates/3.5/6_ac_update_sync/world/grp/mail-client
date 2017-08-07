@@ -1,0 +1,24 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBD)!=#
+mail-client/trojita
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+mail-client/alpine
+mail-client/balsa
+mail-client/clawsker
+mail-client/claws-mail
+mail-client/cone
+mail-client/evolution
+mail-client/geary
+mail-client/mail-notification
+mail-client/mailx
+mail-client/mailx-support
+mail-client/mutt
+mail-client/nail
+mail-client/pinepgp
+mail-client/roundcube
+mail-client/sylpheed
+mail-client/thunderbird
+#in#

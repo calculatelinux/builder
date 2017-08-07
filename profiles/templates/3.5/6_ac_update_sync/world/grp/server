@@ -20,10 +20,6 @@ mail-mta/nullmailer
 net-dns/bind
 net-fs/netatalk
 net-fs/samba
-net-ftp/ftp
-net-ftp/lftp
-net-ftp/proftpd
-net-ftp/vsftpd
 net-irc/unrealircd
 #net-proxy/havp
 net-proxy/privoxy

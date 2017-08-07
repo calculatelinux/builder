@@ -41,9 +41,6 @@ dev-vcs/cvs
 #dev-vcs/git-annex
 dev-vcs/qgit
 dev-vcs/subversion
-mail-client/evolution
-mail-client/mutt
-mail-client/sylpheed
 media-gfx/cellwriter
 media-gfx/wally
 media-sound/gimmix
