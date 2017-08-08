@@ -18,8 +18,8 @@ net-libs/dleyna-connector-dbus
 net-libs/dleyna-core
 net-libs/dleyna-renderer
 net-libs/dslib
-net-libs/enet:0
-net-libs/enet:1.3
+#net-libs/enet:0
+net-libs/enet
 net-libs/farstream:0.1
 net-libs/farstream:0.2
 net-libs/glib-networking
@@ -43,8 +43,8 @@ net-libs/libasyncns
 net-libs/libblkmaker
 net-libs/libcapi
 net-libs/libdmapsharing
-net-libs/libecap:0.2
-net-libs/libecap:1
+#net-libs/libecap:0.2
+net-libs/libecap
 net-libs/libesmtp
 net-libs/libetpan
 net-libs/libeXosip
