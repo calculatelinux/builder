@@ -1,2 +1,1 @@
-# for CLS
-sys-apps/calculate-utils console install pxe -backup -client -desktop -qt4
+sys-apps/calculate-utils -backup -client -console -desktop -install -pxe -qt4
