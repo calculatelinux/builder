@@ -1,23 +1,14 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBL)!=#
-#"sys-libs/uclibc" is hard blocking sys-libs/uclibc-ng
-sys-libs/uclibc
-#in#
-
 #?in(os_linux_pkglist, CBB)!=#
-# sys-libs/glibc is blocking sys-libs/fts-standalone
-#sys-libs/fts-standalone
-
-# sys-libs/glibc is blocking sys-libs/argp-standalone
 #sys-libs/argp-standalone
-
 sys-libs/binutils-libs
 sys-libs/cracklib
 sys-libs/db
 sys-libs/e2fsprogs-libs
 sys-libs/efivar
 sys-libs/freeipmi
+#sys-libs/fts-standalone
 sys-libs/gdbm
 sys-libs/glibc
 sys-libs/gpm
@@ -53,7 +44,7 @@ sys-libs/libtermcap-compat
 sys-libs/libudev-compat
 sys-libs/libunwind
 sys-libs/libutempter
-sys-libs/llvm-libunwind
+#sys-libs/llvm-libunwind
 sys-libs/lwp
 sys-libs/mtdev
 sys-libs/musl
@@ -69,7 +60,8 @@ sys-libs/talloc
 sys-libs/tdb
 sys-libs/tevent
 sys-libs/timezone-data
-sys-libs/uclibc-ng
+#sys-libs/uclibc
+#sys-libs/uclibc-ng
 sys-libs/uid_wrapper
 sys-libs/zlib
 #in#
