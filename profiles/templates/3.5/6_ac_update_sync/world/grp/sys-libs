@@ -1,0 +1,75 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBL)!=#
+#"sys-libs/uclibc" is hard blocking sys-libs/uclibc-ng
+sys-libs/uclibc
+#in#
+
+#?in(os_linux_pkglist, CBB)!=#
+# sys-libs/glibc is blocking sys-libs/fts-standalone
+#sys-libs/fts-standalone
+
+# sys-libs/glibc is blocking sys-libs/argp-standalone
+#sys-libs/argp-standalone
+
+sys-libs/binutils-libs
+sys-libs/cracklib
+sys-libs/db
+sys-libs/e2fsprogs-libs
+sys-libs/efivar
+sys-libs/freeipmi
+sys-libs/gdbm
+sys-libs/glibc
+sys-libs/gpm
+sys-libs/gwenhywfar
+sys-libs/kpmcore
+sys-libs/ldb
+sys-libs/libaal
+sys-libs/libapparmor
+sys-libs/libavc1394
+sys-libs/libcap
+sys-libs/libcap-ng
+sys-libs/libchipcard
+sys-libs/libcxx
+sys-libs/libcxxabi
+sys-libs/libcxxrt
+sys-libs/libfaketime
+sys-libs/libhx
+sys-libs/libieee1284
+sys-libs/libkudzu
+sys-libs/libmath++
+sys-libs/libnih
+sys-libs/libomp
+sys-libs/libosinfo
+sys-libs/libraw1394
+sys-libs/libseccomp
+sys-libs/libselinux
+sys-libs/libsemanage
+sys-libs/libsepol
+sys-libs/libsmbios
+sys-libs/libstatgrab
+sys-libs/libstdc++-v3
+sys-libs/libtermcap-compat
+sys-libs/libudev-compat
+sys-libs/libunwind
+sys-libs/libutempter
+sys-libs/llvm-libunwind
+sys-libs/lwp
+sys-libs/mtdev
+sys-libs/musl
+sys-libs/ncurses
+sys-libs/nss_wrapper
+sys-libs/ntdb
+sys-libs/openipmi
+sys-libs/pam
+sys-libs/pwdb
+sys-libs/readline
+sys-libs/slang
+sys-libs/talloc
+sys-libs/tdb
+sys-libs/tevent
+sys-libs/timezone-data
+sys-libs/uclibc-ng
+sys-libs/uid_wrapper
+sys-libs/zlib
+#in#
