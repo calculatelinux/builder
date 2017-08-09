@@ -255,7 +255,7 @@ media-plugins/vdr-powermate
 media-plugins/vdr-remote
 media-plugins/vdr-remoteosd
 media-plugins/vdr-remotetimers
-media-plugins/vdr-rotor
+#media-plugins/vdr-rotor
 media-plugins/vdr-rssreader
 media-plugins/vdr-screenshot
 media-plugins/vdr-skincurses
