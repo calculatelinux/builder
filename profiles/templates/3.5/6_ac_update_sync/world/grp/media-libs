@@ -250,7 +250,9 @@ media-libs/libsfml
 media-libs/libshout
 media-libs/libsidplay:1
 media-libs/libsidplay:2
+#?os_arch_machine==x86_64#
 media-libs/libsidplayfp
+#os_arch_machine#
 media-libs/libsixel
 media-libs/libsmf
 media-libs/libsndfile
