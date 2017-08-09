@@ -132,7 +132,9 @@ media-plugins/gst-plugins-soup:0.10
 media-plugins/gst-plugins-soup:1.0
 media-plugins/gst-plugins-speex:0.10
 media-plugins/gst-plugins-speex:1.0
+#?os_arch_machine==x86_64#
 media-plugins/gst-plugins-srtp
+#os_arch_machine#
 media-plugins/gst-plugins-taglib:0.10
 media-plugins/gst-plugins-taglib:1.0
 media-plugins/gst-plugins-theora
