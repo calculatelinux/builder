@@ -26,7 +26,9 @@ sys-libs/libcxxabi
 sys-libs/libcxxrt
 sys-libs/libfaketime
 sys-libs/libhx
+#?os_arch_machine==x86_64#
 sys-libs/libieee1284
+#os_arch_machine#
 sys-libs/libkudzu
 sys-libs/libmath++
 sys-libs/libnih

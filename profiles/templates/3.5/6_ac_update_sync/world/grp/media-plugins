@@ -213,7 +213,7 @@ media-plugins/mediastreamer-bcg729
 media-plugins/mediastreamer-ilbc
 media-plugins/mediastreamer-silk
 media-plugins/mediastreamer-x264
-media-plugins/mythplugins
+#media-plugins/mythplugins
 media-plugins/npapi-vlc
 media-plugins/qmmp-plugin-pack
 media-plugins/rev-plugins

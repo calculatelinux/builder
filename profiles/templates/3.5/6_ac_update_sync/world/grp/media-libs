@@ -370,7 +370,9 @@ media-libs/webrtc-audio-processing
 media-libs/wxsvg
 media-libs/x264
 media-libs/x265
+#?os_arch_machine==x86_64#
 media-libs/xine-lib
+#os_arch_machine#
 media-libs/xvid
 media-libs/zimg
 media-libs/zita-alsa-pcmi
