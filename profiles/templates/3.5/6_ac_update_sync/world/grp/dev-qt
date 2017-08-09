@@ -45,7 +45,7 @@ dev-qt/qtnetwork
 dev-qt/qtopengl:4
 dev-qt/qtopengl:5
 dev-qt/qtpaths
-dev-qt/qtphonon
+#dev-qt/qtphonon
 dev-qt/qtplugininfo
 dev-qt/qtpositioning
 dev-qt/qtprintsupport
