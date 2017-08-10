@@ -6,7 +6,7 @@ sci-libs/alglib
 sci-libs/amd
 sci-libs/armadillo
 sci-libs/arpack
-sci-libs/atlas
+#sci-libs/atlas
 sci-libs/blas-reference
 sci-libs/camd
 sci-libs/cbflib
