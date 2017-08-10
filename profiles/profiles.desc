@@ -8,7 +8,6 @@
 
 # AMD64 Profiles
 amd64		CBB/amd64					dev
-amd64		CBL/amd64					dev
 amd64		CBD/amd64					dev
 amd64		CBS/amd64					dev
 amd64		CBE/amd64					dev
@@ -16,7 +15,6 @@ amd64		CBW/amd64					dev
 
 # x86 Profiles
 x86		CBB/x86						dev
-x86		CBL/x86						dev
 x86		CBD/x86						dev
 x86		CBS/x86						dev
 x86		CBE/x86						dev
