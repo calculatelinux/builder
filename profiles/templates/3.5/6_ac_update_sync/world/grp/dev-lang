@@ -54,7 +54,7 @@ dev-lang/tk
 dev-lang/tuprolog
 dev-lang/vala:0.32
 dev-lang/vala:0.34
-dev-lang/xsb
+#dev-lang/xsb
 dev-lang/yap
 dev-lang/yasm
 #in#
