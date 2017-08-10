@@ -41,7 +41,6 @@ dev-php/PEAR-HTTP
 dev-php/PEAR-HTTP_Client
 #dev-php/PEAR-HTTP_Download
 dev-php/PEAR-HTTP_Header
-dev-php/PEAR-HTTP_Request
 dev-php/PEAR-HTTP_Request2
 dev-php/PEAR-I18Nv2
 dev-php/PEAR-Image_GraphViz
