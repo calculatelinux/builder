@@ -20,7 +20,7 @@ dev-lang/lazarus
 dev-lang/lua
 dev-lang/luajit
 dev-lang/mercury
-dev-lang/mercury-extras
+#dev-lang/mercury-extras
 dev-lang/mmix
 dev-lang/mono
 #dev-lang/mono-basic
