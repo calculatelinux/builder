@@ -23,7 +23,7 @@ dev-lang/mercury
 dev-lang/mercury-extras
 dev-lang/mmix
 dev-lang/mono
-dev-lang/mono-basic
+#dev-lang/mono-basic
 dev-lang/mujs
 dev-lang/nasm
 dev-lang/ocaml
