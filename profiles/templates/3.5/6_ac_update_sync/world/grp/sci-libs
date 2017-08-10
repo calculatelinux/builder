@@ -100,7 +100,7 @@ sci-libs/voro++
 sci-libs/votca-tools
 sci-libs/vtk
 sci-libs/vtkdata
-sci-libs/xdmf2
+#sci-libs/xdmf2
 sci-libs/xkaapi
 #in#
 
