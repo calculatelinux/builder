@@ -22,7 +22,9 @@ app-emulation/libvirt
 app-emulation/libvirt-glib
 app-emulation/lxc
 app-emulation/open-vm-tools
+#?os_arch_machine==x86_64#
 app-emulation/playonlinux
+#os_arch_machine#
 app-emulation/q4wine
 app-emulation/qemu
 app-emulation/qemu-guest-agent
@@ -48,8 +50,10 @@ app-emulation/virtualbox-modules
 app-emulation/virt-viewer
 app-emulation/virt-what
 app-emulation/vpcs
+#?os_arch_machine==x86_64#
 app-emulation/wine
 app-emulation/winetricks
+#os_arch_machine#
 app-emulation/x48
 app-emulation/xtrs
 games-emulation/desmume
