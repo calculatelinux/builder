@@ -60,7 +60,7 @@ sys-block/gparted
 sys-block/parted
 sys-block/partitionmanager
 sys-block/tw_cli
-sys-devel/prelink
+#sys-devel/prelink
 sys-fs/avfs
 sys-fs/btrfs-progs
 sys-fs/clamfs
