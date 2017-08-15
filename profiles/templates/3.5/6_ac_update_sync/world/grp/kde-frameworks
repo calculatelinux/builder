@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(kde-frameworks)-#
+!kde-frameworks/oxygen-icons:4
 #in#
 
 #?in(os_linux_pkglist, CBD)!=#
