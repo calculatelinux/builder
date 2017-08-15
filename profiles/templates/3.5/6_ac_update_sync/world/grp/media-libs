@@ -2,14 +2,14 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(media-libs)-#
-!media-libs/fontconfig-infinality
-!media-libs/fontconfig-ultimate
+!media-libs/fontconfig-infinality:0
+!media-libs/fontconfig-ultimate:0
 !media-libs/jpeg:0
 !media-libs/jpeg:62
-!media-libs/libpostproc
-!media-libs/phonon-vlc
+!media-libs/libpostproc:0
+!media-libs/phonon-vlc:0
 #?os_arch_machine==i686#
-!media-libs/libsidplayfp
-!media-libs/xine-lib
+!media-libs/libsidplayfp:0
+!media-libs/xine-lib:1
 #os_arch_machine#
 #in#
