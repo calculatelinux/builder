@@ -3,6 +3,8 @@
 #?in(os_linux_pkglist, CBB)!=#
 #-world(sys-libs)-#
 !sys-libs/argp-standalone:0
+!sys-libs/db:1
+!sys-libs/db:3
 !sys-libs/fts-standalone:0
 !sys-libs/llvm-libunwind:0
 !sys-libs/musl:0
