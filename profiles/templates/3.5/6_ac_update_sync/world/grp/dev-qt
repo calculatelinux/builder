@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(dev-qt)-#
-!dev-qt/qtphonon
+!dev-qt/qtphonon:4
 #in#
 
 #?in(os_linux_pkglist, CBD)!=#

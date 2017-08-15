@@ -2,5 +2,5 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(x11-libs)-#
-!x11-libs/xforms
+!x11-libs/xforms:0
 #in#

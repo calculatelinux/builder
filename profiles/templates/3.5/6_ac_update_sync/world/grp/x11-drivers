@@ -2,8 +2,8 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(x11-drivers)-#
-!x11-drivers/xf86-video-ark
-!x11-drivers/xf86-video-modesetting
+!x11-drivers/xf86-video-ark:0
+!x11-drivers/xf86-video-modesetting:0
 #in#
 
 #?in(os_linux_pkglist, CBD)!=#

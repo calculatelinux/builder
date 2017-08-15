@@ -2,13 +2,13 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(sys-libs)-#
-!sys-libs/argp-standalone
-!sys-libs/fts-standalone
-!sys-libs/llvm-libunwind
-!sys-libs/musl
-!sys-libs/uclibc
-!sys-libs/uclibc-ng
+!sys-libs/argp-standalone:0
+!sys-libs/fts-standalone:0
+!sys-libs/llvm-libunwind:0
+!sys-libs/musl:0
+!sys-libs/uclibc:0
+!sys-libs/uclibc-ng:0
 #?os_arch_machine==i686#
-!sys-libs/libieee1284
+!sys-libs/libieee1284:0
 #os_arch_machine#
 #in#

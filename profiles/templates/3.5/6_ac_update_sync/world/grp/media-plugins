@@ -2,11 +2,10 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(media-plugins)-#
-!media-plugins/mediastreamer-silk
-!media-plugins/mythplugins
-!media-plugins/vdr-rotor
+!media-plugins/mediastreamer-silk:0
+!media-plugins/vdr-rotor:0
 #?os_arch_machine==i686#
-!media-plugins/gst-plugins-srtp
+!media-plugins/gst-plugins-srtp:1.0
 #os_arch_machine#
 #in#
 

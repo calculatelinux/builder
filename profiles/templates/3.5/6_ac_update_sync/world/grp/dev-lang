@@ -2,9 +2,9 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 #-world(dev-lang)-#
-!dev-lang/mercury
-!dev-lang/mercury-extras
-!dev-lang/mono-basic
-!dev-lang/scala-bin
-!dev-lang/xsb
+!dev-lang/mercury:0
+!dev-lang/mercury-extras:0
+!dev-lang/mono-basic:0
+!dev-lang/scala-bin:0
+!dev-lang/xsb:0
 #in#
