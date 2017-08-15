@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBB)!=#
+#-world(kde-frameworks)-#
+#in#
+
 #?in(os_linux_pkglist, CBD)!=#
 kde-frameworks/attica
 kde-frameworks/baloo
