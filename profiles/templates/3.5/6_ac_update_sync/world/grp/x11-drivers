@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(x11-drivers)-#
+#-world(#-cl_pass_file-#)-#
 !x11-drivers/xf86-video-ark:0
 !x11-drivers/xf86-video-modesetting:0
 #in#

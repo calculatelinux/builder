@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(net-libs)-#
+#-world(#-cl_pass_file-#)-#
 !net-libs/enet:0
 !net-libs/libecap:0.2
 !net-libs/libktorrent:4

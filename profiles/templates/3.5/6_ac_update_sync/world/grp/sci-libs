@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(sci-libs)-#
+#-world(#-cl_pass_file-#)-#
 !sci-libs/atlas:0
 !sci-libs/metis:0
 !sci-libs/mkl:0

@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(media-libs)-#
+#-world(#-cl_pass_file-#)-#
 !media-libs/fontconfig-infinality:0
 !media-libs/fontconfig-ultimate:0
 !media-libs/jpeg:0

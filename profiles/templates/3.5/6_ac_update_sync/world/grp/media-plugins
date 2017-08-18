@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(media-plugins)-#
+#-world(#-cl_pass_file-#)-#
 !media-plugins/mediastreamer-silk:0
 !media-plugins/vdr-rotor:0
 #?os_arch_machine==i686#

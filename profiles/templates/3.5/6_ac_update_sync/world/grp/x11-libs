@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(x11-libs)-#
+#-world(#-cl_pass_file-#)-#
 !x11-libs/xforms:0
 #in#

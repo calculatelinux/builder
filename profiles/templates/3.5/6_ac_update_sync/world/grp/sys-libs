@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBB)!=#
-#-world(sys-libs)-#
+#-world(#-cl_pass_file-#)-#
 !sys-libs/argp-standalone:0
 !sys-libs/db:1
 !sys-libs/db:3
