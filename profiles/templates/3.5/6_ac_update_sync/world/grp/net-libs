@@ -5,4 +5,7 @@
 !net-libs/enet:0
 !net-libs/libecap:0.2
 !net-libs/libktorrent:4
+#?os_arch_machine==i686#
+!net-libs/roadrunner:0
+#os_arch_machine#
 #in#
