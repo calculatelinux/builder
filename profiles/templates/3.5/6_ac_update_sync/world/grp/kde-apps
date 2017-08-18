@@ -19,7 +19,6 @@
 !!kde-apps/kdebase-data:4
 !!kde-apps/kdebase-kioslaves:4
 !!kde-apps/kdepim-kresources:4
-!!kde-apps/kdepim-l10n
 !!kde-apps/kdepim-l10n:4
 !!kde-apps/kdepimlibs:4
 !!kde-apps/kdepim-meta:4
@@ -34,7 +33,6 @@
 !!kde-apps/kleopatra:4
 !!kde-apps/klinkstatus:4
 !!kde-apps/kmag:4
-!!kde-apps/kmail-4
 !!kde-apps/kmail:4
 !!kde-apps/kmousetool:4
 !!kde-apps/kmouth:4
