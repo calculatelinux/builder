@@ -2,5 +2,4 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
-!!app-xemacs/xemacs-packages-all:0
 #in#
