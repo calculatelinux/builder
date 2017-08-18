@@ -6,4 +6,7 @@
 !sci-libs/metis:0
 !sci-libs/mkl:0
 !sci-libs/xdmf2:0
+#?os_arch_machine==i686#
+!sci-libs/galib:0
+#os_arch_machine#
 #in#
