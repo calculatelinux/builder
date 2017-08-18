@@ -1,5 +1,10 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBE)!=#
+# requires libreoffice
+app-text/bibus
+#in#
+
 #?in(os_linux_pkglist, CBD)!=#
 app-text/a2ps
 #app-text/adiff
@@ -16,7 +21,6 @@ app-text/atril
 app-text/barcode
 app-text/bdf2psf
 app-text/bibletime
-app-text/bibus
 app-text/blahtexml
 app-text/bogosort
 app-text/build-docbook-catalog
