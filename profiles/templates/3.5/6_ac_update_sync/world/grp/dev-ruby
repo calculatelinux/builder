@@ -32,7 +32,7 @@ dev-ruby/dust
 dev-ruby/erubis
 dev-ruby/eventmachine
 dev-ruby/execjs
-dev-ruby/facter
+#dev-ruby/facter
 dev-ruby/fakefs
 dev-ruby/fakeweb
 dev-ruby/fast_xs
@@ -40,7 +40,7 @@ dev-ruby/fcgi
 dev-ruby/ffi
 dev-ruby/flexmock
 dev-ruby/GeoRuby
-dev-ruby/gherkin
+#dev-ruby/gherkin
 #dev-ruby/git
 dev-ruby/gruff
 dev-ruby/hashicorp-checkpoint
@@ -48,7 +48,7 @@ dev-ruby/hashie
 dev-ruby/heredoc_unindent
 dev-ruby/hiera
 dev-ruby/highline
-dev-ruby/hoe
+#dev-ruby/hoe
 dev-ruby/hoe-seattlerb
 dev-ruby/hpricot
 dev-ruby/htmlentities
@@ -167,7 +167,6 @@ dev-ruby/ruby-webkit2-gtk
 dev-ruby/ruby-xslt
 dev-ruby/rubyzip
 dev-ruby/safe_yaml
-dev-ruby/samuel
 dev-ruby/sass
 dev-ruby/serialport
 dev-ruby/session

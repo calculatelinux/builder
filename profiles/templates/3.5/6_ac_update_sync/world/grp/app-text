@@ -179,7 +179,7 @@ app-text/rfcutil
 app-text/rhyme
 app-text/rman
 app-text/rnv
-app-text/ronn
+#app-text/ronn
 app-text/rpl
 app-text/sablotron
 app-text/sary
