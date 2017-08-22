@@ -1,6 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
+games-board/gnugo
 games-board/knights
 #in#
 
@@ -34,7 +35,6 @@ games-board/gnono
 games-board/gnubg
 games-board/gnuchess
 games-board/gnuchess-book
-games-board/gnugo
 games-board/gnushogi
 #games-board/goatee-gtk
 games-board/grhino
