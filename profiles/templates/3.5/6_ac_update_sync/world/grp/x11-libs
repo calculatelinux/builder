@@ -2,5 +2,12 @@
 
 #?in(os_linux_pkglist, CBE)!=#
 #-world(#-cl_pass_file-#)-#
-!x11-libs/xforms:0
+!!x11-libs/xforms:0
+!!x11-libs/compizconfig-backend-kconfig4:0
+!!x11-libs/qtscriptgenerator:0
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+x11-libs/compizconfig-backend-kconfig4:0
+x11-libs/qtscriptgenerator:0
 #in#
