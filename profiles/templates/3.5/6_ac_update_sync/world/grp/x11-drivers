@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBB)!=#
+#?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
 !x11-drivers/xf86-video-ark:0
 !x11-drivers/xf86-video-modesetting:0
