@@ -2,15 +2,22 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
-!sys-libs/argp-standalone:0
-!sys-libs/db:1
-!sys-libs/db:3
-!sys-libs/fts-standalone:0
-!sys-libs/llvm-libunwind:0
-!sys-libs/musl:0
-!sys-libs/uclibc:0
-!sys-libs/uclibc-ng:0
+!!sys-libs/argp-standalone:0
+!!sys-libs/db:1
+!!sys-libs/db:3
+!!sys-libs/db:4.2
+!!sys-libs/db:4.3
+!!sys-libs/db:4.4
+!!sys-libs/db:4.5
+!!sys-libs/db:4.6
+!!sys-libs/db:4.7
+!!sys-libs/db:4.8
+!!sys-libs/fts-standalone:0
+!!sys-libs/llvm-libunwind:0
+!!sys-libs/musl:0
+!!sys-libs/uclibc:0
+!!sys-libs/uclibc-ng:0
 #?os_arch_machine==i686#
-!sys-libs/libieee1284:0
+!!sys-libs/libieee1284:0
 #os_arch_machine#
 #in#
