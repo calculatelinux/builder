@@ -2,11 +2,14 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
-!sci-libs/atlas:0
-!sci-libs/metis:0
-!sci-libs/mkl:0
-!sci-libs/xdmf2:0
+!!sci-libs/atlas:0
+!!sci-libs/metis:0
+!!sci-libs/mkl:0
+!!sci-libs/xdmf2:0
 #?os_arch_machine==i686#
-!sci-libs/galib:0
+!!sci-libs/galib:0
 #os_arch_machine#
+
+#not compiled in CBB
+!!sci-libs/scipy:0
 #in#
