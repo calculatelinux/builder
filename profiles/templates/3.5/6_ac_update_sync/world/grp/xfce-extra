@@ -2,5 +2,5 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
-!!xfce-extra/xfswitch-plugin
+!!xfce-extra/xfswitch-plugin:0
 #in#
