@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBW)!=#
+dev-python/PyFoam
+#in#
+
 #?in(os_linux_pkglist, CBD)!=#
 dev-python/3to2
 dev-python/addons
@@ -573,7 +577,6 @@ dev-python/pyface
 #dev-python/pyfits
 dev-python/pyflakes
 dev-python/pyfltk
-dev-python/PyFoam
 dev-python/pyftpdlib
 dev-python/pygal
 dev-python/pygame
