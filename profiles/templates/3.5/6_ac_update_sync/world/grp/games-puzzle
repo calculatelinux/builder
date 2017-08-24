@@ -2,4 +2,12 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
+
+# buy & download
+!!games-puzzle/larry
+!!games-puzzle/nightsky
+!!games-puzzle/splice
+!!games-puzzle/tiny-and-big
+!!games-puzzle/world-of-goo
+!!games-puzzle/world-of-goo-demo
 #in#
