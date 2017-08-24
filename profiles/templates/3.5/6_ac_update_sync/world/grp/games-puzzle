@@ -4,10 +4,10 @@
 #-world(#-cl_pass_file-#)-#
 
 # buy & download
-!!games-puzzle/larry
-!!games-puzzle/nightsky
-!!games-puzzle/splice
-!!games-puzzle/tiny-and-big
-!!games-puzzle/world-of-goo
-!!games-puzzle/world-of-goo-demo
+!!games-puzzle/larry:0
+!!games-puzzle/nightsky:0
+!!games-puzzle/splice:0
+!!games-puzzle/tiny-and-big:0
+!!games-puzzle/world-of-goo:0
+!!games-puzzle/world-of-goo-demo:0
 #in#
