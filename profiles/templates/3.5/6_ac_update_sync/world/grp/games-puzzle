@@ -16,4 +16,8 @@
 !!games-puzzle/tiny-and-big:0
 !!games-puzzle/world-of-goo:0
 !!games-puzzle/world-of-goo-demo:0
+
+#?os_arch_machine==i686#
+!!games-puzzle/triptych-demo:0
+#os_arch_machine#
 #in#
