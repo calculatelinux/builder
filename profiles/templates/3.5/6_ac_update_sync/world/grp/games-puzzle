@@ -4,10 +4,10 @@
 #-world(#-cl_pass_file-#)-#
 
 # not compiled
-!!games-puzzle/bastet
-!!games-puzzle/braincurses
-!!games-puzzle/galaxis
-!!games-puzzle/tint
+!!games-puzzle/bastet:0
+!!games-puzzle/braincurses:0
+!!games-puzzle/galaxis:0
+!!games-puzzle/tint:0
 
 # buy & download
 !!games-puzzle/larry:0
