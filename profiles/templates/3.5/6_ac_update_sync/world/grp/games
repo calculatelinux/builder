@@ -5,20 +5,8 @@ games-engines/scummvm
 #games-kids/gcompris #265M
 games-kids/tuxtype
 games-misc/xpenguins
-games-puzzle/meandmyshadow
 #games-rpg/freedroidrpg #213M
 #games-sports/torcs #377M
 games-sports/xmoto
 games-util/steam-launcher
-
-# Gnome
-games-puzzle/five-or-more
-games-puzzle/gnome-klotski
-games-puzzle/gnome-sudoku
-games-puzzle/gnome-taquin
-games-puzzle/gnome-tetravex
-games-puzzle/hitori
-games-puzzle/lightsoff
-games-puzzle/quadrapassel
-games-puzzle/swell-foop
 #in#
