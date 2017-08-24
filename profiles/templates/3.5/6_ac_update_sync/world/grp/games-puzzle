@@ -3,6 +3,12 @@
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
 
+# not compiled
+!!games-puzzle/bastet
+!!games-puzzle/braincurses
+!!games-puzzle/galaxis
+!!games-puzzle/tint
+
 # buy & download
 !!games-puzzle/larry:0
 !!games-puzzle/nightsky:0
