@@ -3,8 +3,4 @@
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
 !!app-portage/gs-pypi:0
-
-#?os_arch_machine==i686#
-!!app-portage/grs:0
-#os_arch_machine#
 #in#
