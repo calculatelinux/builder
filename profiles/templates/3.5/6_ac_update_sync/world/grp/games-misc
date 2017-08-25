@@ -6,6 +6,9 @@
 !!games-misc/fortune-mod-slackware:0
 !!games-misc/robotfindskitten:0
 !!games-misc/typespeed:0
+#?os_arch_machine==i686#
+!!games-misc/katawa-shoujo:0
+#os_arch_machine#
 
 # buy & download
 !!games-misc/dont-starve:0
