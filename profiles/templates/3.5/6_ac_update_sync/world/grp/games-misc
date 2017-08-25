@@ -11,6 +11,6 @@
 !!games-misc/bsd-games
 #in#
 
-#!in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CBE)!=#
 games-misc/bsd-games
 #in#
