@@ -2,6 +2,13 @@
 
 #?in(os_linux_pkglist, CBW)!=#
 #-world(#-cl_pass_file-#)-#
+#not compiled
+!!games-misc/fortune-mod-slackware:0
+!!games-misc/robotfindskitten:0
+!!games-misc/typespeed:0
+#?os_arch_machine==i686#
+!!games-engines/renpy:0
+#in#
 
 # buy & download
 !!games-misc/dont-starve:0
