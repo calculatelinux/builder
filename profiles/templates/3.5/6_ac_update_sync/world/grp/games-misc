@@ -1,0 +1,16 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CBW)!=#
+#-world(#-cl_pass_file-#)-#
+
+# buy & download
+!!games-misc/dont-starve
+!!games-misc/little-inferno
+!!games-misc/papers-please
+
+!!games-misc/bsd-games
+#in#
+
+#!in(os_linux_pkglist, CBE)!=#
+games-misc/bsd-games
+#in#
