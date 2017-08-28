@@ -6,7 +6,6 @@
 
 !!kde-apps/akonadi:4
 !!kde-apps/akregator:4
-!!kde-apps/audiocd-kio:4
 !!kde-apps/blogilo:4
 !!kde-apps/jovie:4
 !!kde-apps/juk:4
@@ -57,8 +56,6 @@
 !!kde-apps/ktimetracker:4
 !!kde-apps/ktimezoned:4
 !!kde-apps/kubrick:4
-!!kde-apps/libkcddb:4
-!!kde-apps/libkcompactdisc:4
 !!kde-apps/libkdegames:4
 !!kde-apps/libkdepim:4
 !!kde-apps/libkleo:4
