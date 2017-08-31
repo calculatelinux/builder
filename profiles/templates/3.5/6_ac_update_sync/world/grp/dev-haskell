@@ -65,7 +65,7 @@ dev-haskell/conduit
 dev-haskell/conduit-extra
 dev-haskell/connection
 dev-haskell/constraints
-dev-haskell/contravariant
+#dev-haskell/contravariant
 dev-haskell/cookie
 dev-haskell/cpphs
 dev-haskell/cprng-aes
