@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBD)!=#
-dev-haskell/adjunctions
+#dev-haskell/adjunctions
 dev-haskell/aeson
 dev-haskell/aeson-compat
 dev-haskell/aeson-pretty
@@ -65,7 +65,7 @@ dev-haskell/conduit
 dev-haskell/conduit-extra
 dev-haskell/connection
 dev-haskell/constraints
-dev-haskell/contravariant
+#dev-haskell/contravariant
 dev-haskell/cookie
 dev-haskell/cpphs
 dev-haskell/cprng-aes
@@ -190,12 +190,12 @@ dev-haskell/ifelse
 dev-haskell/iproute
 dev-haskell/json
 dev-haskell/juicypixels
-dev-haskell/kan-extensions
+#dev-haskell/kan-extensions
 dev-haskell/language-c
 dev-haskell/language-haskell-extract
 dev-haskell/language-javascript
 dev-haskell/lcs
-dev-haskell/lens
+#dev-haskell/lens
 dev-haskell/libmpd
 dev-haskell/libxml
 dev-haskell/libxml-sax
@@ -255,7 +255,7 @@ dev-haskell/prelude-extras
 dev-haskell/preprocessor-tools
 dev-haskell/pretty-show
 dev-haskell/primitive
-dev-haskell/profunctors
+#dev-haskell/profunctors
 dev-haskell/psqueue
 dev-haskell/publicsuffixlist
 dev-haskell/punycode
@@ -284,7 +284,7 @@ dev-haskell/safesemaphore
 dev-haskell/sandi
 dev-haskell/scientific
 dev-haskell/securemem
-dev-haskell/semigroupoids
+#dev-haskell/semigroupoids
 dev-haskell/semigroups
 dev-haskell/setenv
 dev-haskell/setlocale
