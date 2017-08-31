@@ -1,14 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
-app-office/calligra
-#app-office/calligra-l10n
-app-office/kexi
-app-office/kmymoney
-app-office/libalkimia
-app-office/skrooge
-#in#
-
 #?in(os_linux_pkglist, CBE)!=#
 app-office/abiword
 app-office/abiword-docs
@@ -33,7 +24,6 @@ app-office/libreoffice
 app-office/libreoffice-l10n
 app-office/lyx
 app-office/mdbtools
-app-office/odeskteam
 app-office/ooextras
 #app-office/openoffice-bin
 app-office/orage
@@ -49,4 +39,17 @@ app-office/texmacs
 app-office/texmaker
 app-office/texstudio
 app-office/unoconv
+#in#
+
+#?in(os_linux_pkglist, CBD)!=#
+app-office/calligra
+#app-office/calligra-l10n
+app-office/kexi
+app-office/kmymoney
+app-office/libalkimia
+app-office/skrooge
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+app-office/odeskteam
 #in#

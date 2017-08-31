@@ -1,26 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBE)!=#
-app-benchmarks/acovea
-app-benchmarks/bashmark
-app-benchmarks/bonnie
-app-benchmarks/bonnie++
-app-benchmarks/bootchart2
-app-benchmarks/contest
-app-benchmarks/cpuburn
-app-benchmarks/dbench
-app-benchmarks/httperf
-app-benchmarks/i7z
-app-benchmarks/iozone
-app-benchmarks/jmeter
-app-benchmarks/nbench
-app-benchmarks/pipebench
-app-benchmarks/ramspeed
-app-benchmarks/siege
-app-benchmarks/spew
-app-benchmarks/stress
-app-benchmarks/sysbench
-app-benchmarks/tiobench
-app-benchmarks/volanomark
-app-benchmarks/wrk
+#-world(#-cl_pass_file-#)-#
 #in#
