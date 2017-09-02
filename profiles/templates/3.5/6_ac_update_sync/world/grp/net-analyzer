@@ -9,10 +9,13 @@
 !!net-analyzer/monitoring-plugins:0
 !!net-analyzer/nagstamon:0
 !!net-analyzer/netcat6:0
-!!net-analyzer/traceproto:0
+!net-analyzer/traceproto:0
 
 #not compiled
+!!net-analyzer/dsniff:0
+!net-analyzer/ndsad:0
 !!net-analyzer/ostinato:0
+!net-analyzer/scanlogd:0
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#

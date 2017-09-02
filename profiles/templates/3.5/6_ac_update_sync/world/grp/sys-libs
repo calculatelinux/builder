@@ -7,11 +7,11 @@
 !!sys-libs/db:3
 !!sys-libs/db:4.2
 !!sys-libs/db:4.3
-!!sys-libs/db:4.4
+!sys-libs/db:4.4
 !!sys-libs/db:4.5
 !!sys-libs/db:4.6
 !!sys-libs/db:4.7
-!!sys-libs/db:4.8
+!sys-libs/db:4.8
 !!sys-libs/fts-standalone:0
 !!sys-libs/llvm-libunwind:0
 !!sys-libs/musl:0
