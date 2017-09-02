@@ -4,15 +4,15 @@
 #-world(#-cl_pass_file-#)-#
 #is blocking
 !!net-analyzer/arping:2
+!!net-analyzer/icinga:0
 !!net-analyzer/linkchecker:0
 !!net-analyzer/monitoring-plugins:0
-!!net-analyzer/nagios-core:0
 !!net-analyzer/netcat6:0
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#
+net-analyzer/icinga
 net-analyzer/monitoring-plugins
-net-analyzer/nagios-core
 net-analyzer/netcat6
 #in#
 
