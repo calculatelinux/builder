@@ -11,7 +11,6 @@
 #in#
 
 #?in(os_linux_pkglist, CBW)!=#
-net-analyzer/icinga
 net-analyzer/monitoring-plugins
 net-analyzer/netcat6
 #in#
