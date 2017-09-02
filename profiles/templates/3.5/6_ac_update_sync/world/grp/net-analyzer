@@ -1,10 +1,22 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBE)!=#
+#-world(#-cl_pass_file-#)-#
+#is blocking
+!!net-analyzer/arping
+!!net-analyzer/linkchecker
+!!net-analyzer/monitoring-plugins
+!!net-analyzer/nagios-core
+!!net-analyzer/netcat6
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+net-analyzer/monitoring-plugins
+net-analyzer/nagios-core
+net-analyzer/netcat6
+#in#
+
 #?in(os_linux_pkglist, CBS)!=#
 net-analyzer/ettercap
 net-analyzer/mtr
-#in#
-
-#?in(os_linux_pkglist, CBE)!=#
-#-world(#-cl_pass_file-#)-#
 #in#
