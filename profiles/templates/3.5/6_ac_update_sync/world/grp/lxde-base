@@ -5,8 +5,3 @@
 !!lxde-base/lxsession-edit:0
 !!lxde-base/lxshortcut:0
 #in#
-
-#?in(os_linux_pkglist, CBD)!=#
-lxde-base/lxsession-edit
-lxde-base/lxshortcut
-#in#
