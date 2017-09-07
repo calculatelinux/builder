@@ -4,5 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!kde-misc/kdiff3:4
 !!kde-misc/kopete-antispam:4
+!!kde-misc/kopete-thinklight:4
 !!kde-misc/systemd-kcm:5
 #in#
