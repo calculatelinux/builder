@@ -2,4 +2,9 @@
 
 #?in(os_linux_pkglist, CBD)!=#
 #-world(#-cl_pass_file-#)-#
+!!lxqt-base/lxqt-l10n:0
+#in#
+
+#?in(os_linux_pkglist, CBW)!=#
+lxqt-base/lxqt-l10n
 #in#
