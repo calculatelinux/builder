@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 xfce-base/exo
 xfce-base/garcon
 xfce-base/libxfce4ui

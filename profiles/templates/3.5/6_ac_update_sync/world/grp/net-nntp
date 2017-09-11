@@ -1,11 +1,11 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 #need KDE
 net-nntp/kwooty
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 net-nntp/inn
 net-nntp/newspost
 net-nntp/nzbget

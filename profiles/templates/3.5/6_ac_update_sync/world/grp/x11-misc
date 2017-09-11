@@ -1,15 +1,15 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 x11-misc/pcmanfm-qt
 x11-misc/sddm
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 x11-misc/bumblebee
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 x11-misc/3ddesktop
 x11-misc/3dfb
 x11-misc/3dfm

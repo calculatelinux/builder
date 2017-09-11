@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 #is blocking
 !!net-analyzer/arping:2
@@ -18,7 +18,7 @@
 !net-analyzer/scanlogd:0
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 net-analyzer/monitoring-plugins
 net-analyzer/netcat6
 #in#

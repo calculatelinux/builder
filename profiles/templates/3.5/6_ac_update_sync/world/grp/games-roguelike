@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 # need to download
 #games-roguelike/FTL
 

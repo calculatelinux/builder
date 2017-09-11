@@ -1,9 +1,9 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-editors/kile
 #in#
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 app-editors/focuswriter
 app-editors/gedit
 app-editors/gedit-plugins
@@ -15,7 +15,7 @@ app-editors/retext
 app-editors/tea
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 app-editors/adie
 app-editors/aee
 app-editors/amyedit

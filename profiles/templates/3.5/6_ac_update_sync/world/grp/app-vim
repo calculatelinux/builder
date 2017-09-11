@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-vim/ackvim
 app-vim/airline
 app-vim/align

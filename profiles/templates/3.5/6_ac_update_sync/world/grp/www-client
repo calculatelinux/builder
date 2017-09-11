@@ -1,12 +1,12 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD, CBS)!=#
+#?in(os_linux_pkglist, CB1, CBS)!=#
 www-client/elinks
 www-client/links
 www-client/w3m
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 # already binary
 #www-client/firefox-bin
 #www-client/seamonkey-bin

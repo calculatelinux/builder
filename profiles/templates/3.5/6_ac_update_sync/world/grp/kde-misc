@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kde-misc/kdiff3:4
 !!kde-misc/kopete-antispam:4

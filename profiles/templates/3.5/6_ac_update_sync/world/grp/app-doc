@@ -1,16 +1,16 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-doc/gimp-help
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #app-doc/kicad-doc
 app-doc/pms
 app-doc/selfhtml
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 app-doc/abs-guide
 app-doc/autobook
 app-doc/blas-docs

@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-dicts/aspell-af
 app-dicts/aspell-be
 app-dicts/aspell-bg

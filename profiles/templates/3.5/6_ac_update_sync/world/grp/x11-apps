@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 x11-apps/amlc
 x11-apps/appres
 x11-apps/bdftopcf

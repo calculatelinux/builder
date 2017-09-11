@@ -1,11 +1,11 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE, CBD)!=#
+#?in(os_linux_pkglist, CB2, CB1)!=#
 # to support qt5 and gtk3
 media-sound/audacious
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 # requires KDE
 media-sound/amarok
 media-sound/audex
@@ -21,7 +21,7 @@ media-sound/tomahawk
 media-sound/cdtool
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 #?os_arch_machine==x86_64#
 # not compiled for x86
 media-sound/quark

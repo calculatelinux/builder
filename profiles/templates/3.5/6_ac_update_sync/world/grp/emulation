@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-emulation/aqemu
 app-emulation/bochs
 app-emulation/cloud-init
@@ -64,7 +64,7 @@ games-server/mednafen-server
 sci-visualization/qtiplot
 #in#
 
-#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
 app-emulation/containerd
 app-emulation/docker
 app-emulation/docker-compose

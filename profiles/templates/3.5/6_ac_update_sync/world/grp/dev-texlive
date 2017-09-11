@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 dev-texlive/texlive-bibtexextra
 dev-texlive/texlive-formatsextra
 dev-texlive/texlive-games

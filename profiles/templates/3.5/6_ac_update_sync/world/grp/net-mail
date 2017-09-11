@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 net-mail/altermime
 net-mail/amavis-logwatch
 net-mail/archivemail

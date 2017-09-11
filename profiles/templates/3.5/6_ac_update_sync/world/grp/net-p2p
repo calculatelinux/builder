@@ -1,16 +1,16 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE, CBS)!=#
+#?in(os_linux_pkglist, CB2, CBS)!=#
 net-p2p/mldonkey
 net-p2p/transmission
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 net-p2p/kmldonkey
 net-p2p/ktorrent
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 net-p2p/amule
 net-p2p/bitcoin-cli
 #net-p2p/bitcoind

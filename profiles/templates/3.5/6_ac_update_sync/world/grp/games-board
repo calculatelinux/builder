@@ -1,11 +1,11 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 games-board/gnugo
 games-board/knights
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 games-board/ace
 games-board/ascal
 games-board/atakks

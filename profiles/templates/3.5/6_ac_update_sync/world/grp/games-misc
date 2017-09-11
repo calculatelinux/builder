@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 #not compiled
 !!games-misc/fortune-mod-slackware:0
@@ -18,6 +18,6 @@
 !!games-misc/bsd-games:0
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 games-misc/bsd-games
 #in#

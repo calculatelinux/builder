@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 app-office/abiword
 app-office/abiword-docs
 app-office/calcurse
@@ -41,7 +41,7 @@ app-office/texstudio
 app-office/unoconv
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-office/calligra
 #app-office/calligra-l10n
 app-office/kexi
@@ -50,6 +50,6 @@ app-office/libalkimia
 app-office/skrooge
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 app-office/odeskteam
 #in#

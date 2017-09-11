@@ -1,14 +1,14 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD, CBE, CBW)!=#
+#?in(os_linux_pkglist, CB1, CB2, CB3)!=#
 net-misc/dhcp
 #in#
 
-#?in(os_linux_pkglist, CBD, CBS)!=#
+#?in(os_linux_pkglist, CB1, CBS)!=#
 net-misc/aria2
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 net-misc/adjtimex
 net-misc/aget
 net-misc/aggregate

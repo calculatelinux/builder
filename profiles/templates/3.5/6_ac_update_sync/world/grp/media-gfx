@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD, CBS)!=#
+#?in(os_linux_pkglist, CB1, CBS)!=#
 media-gfx/grub-splashes-calculate
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 media-gfx/aaphoto
 media-gfx/aewan
 media-gfx/album

@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 net-vpn/6tunnel
 net-vpn/aiccu
 net-vpn/badvpn

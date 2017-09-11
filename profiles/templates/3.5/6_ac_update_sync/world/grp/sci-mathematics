@@ -1,5 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
 sci-mathematics/rstudio
 #in#

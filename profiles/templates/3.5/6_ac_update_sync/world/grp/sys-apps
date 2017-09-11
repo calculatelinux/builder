@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 sys-apps/accountsservice
 sys-apps/ack
 sys-apps/apmd
@@ -164,7 +164,7 @@ sys-apps/xinetd
 sys-apps/xmbmon
 #in#
 
-#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
 sys-apps/firejail
 #in#
 

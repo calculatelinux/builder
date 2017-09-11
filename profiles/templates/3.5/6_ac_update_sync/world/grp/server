@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD, CBS)!=#
+#?in(os_linux_pkglist, CB1, CBS)!=#
 net-fs/netatalk
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 dev-db/mongodb
 dev-db/pg_top
 dev-db/postgresql

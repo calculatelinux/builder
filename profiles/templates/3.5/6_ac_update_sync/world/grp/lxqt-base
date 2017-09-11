@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!lxqt-base/lxqt-l10n:0
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 lxqt-base/lxqt-l10n
 #in#

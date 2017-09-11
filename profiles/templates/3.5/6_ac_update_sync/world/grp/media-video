@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 media-video/kaffeine
 media-video/kamerka
 media-video/kmplayer
@@ -10,7 +10,7 @@ media-video/plasma-mediacenter
 media-video/subtitlecomposer
 #in#
 
-#?in(os_linux_pkglist, CBE)!=#
+#?in(os_linux_pkglist, CB2)!=#
 media-video/2mandvd
 media-video/aacskeys
 media-video/abby

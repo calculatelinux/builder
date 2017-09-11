@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD, CBS)!=#
+#?in(os_linux_pkglist, CB1, CBS)!=#
 sys-block/fio
 sys-fs/cryptsetup
 sys-power/powertop
@@ -9,7 +9,7 @@ sys-power/powertop
 sys-fs/ntfs3g
 #in#
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 app-antivirus/clamav
 app-forensics/rkhunter
 app-pda/usbmuxd
@@ -110,7 +110,7 @@ x11-libs/gksu
 x11-libs/xapps
 #in#
 
-#?in(os_linux_pkglist, CBD)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
 sys-apps/apparmor
 sys-apps/apparmor-utils
 www-plugins/chrome-binary-plugins

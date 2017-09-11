@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBD)!=#
+#?in(os_linux_pkglist, CB1)!=#
 mail-client/trojita
 #in#
 
@@ -9,7 +9,7 @@ mail-client/trojita
 mail-client/nail
 #in#
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 mail-client/alpine
 mail-client/balsa
 mail-client/clawsker

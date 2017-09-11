@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBW)!=#
+#?in(os_linux_pkglist, CB3)!=#
 # need the CD
 #games-strategy/ja2-stracciatella-data
 #games-strategy/wargus
