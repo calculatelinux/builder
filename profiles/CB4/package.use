@@ -1,0 +1,1 @@
+sys-apps/calculate-utils backup install server -client -console -desktop -minimal -pxe -qt4
