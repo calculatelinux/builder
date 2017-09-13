@@ -1,0 +1,10 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+sys-fs/cryptsetup
+sys-fs/mtools
+#in#

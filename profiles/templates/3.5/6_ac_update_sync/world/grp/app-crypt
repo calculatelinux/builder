@@ -1,69 +1,15 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#need KDE
 app-crypt/kencfs
-#need net-libs/webkit-gtk-2.4.11-r200
-app-crypt/veracrypt
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-app-crypt/acme
-app-crypt/aespipe
-app-crypt/bcwipe
-app-crypt/ccid
-app-crypt/ccrypt
-app-crypt/certbot
-app-crypt/certbot-apache
-app-crypt/certbot-nginx
-app-crypt/easy-rsa
-app-crypt/gcr
-app-crypt/gentoo-keys
-app-crypt/gnupg
-app-crypt/gorilla
-app-crypt/gpa
-app-crypt/gpgme
-app-crypt/gpg-ringmgr
-app-crypt/hashalot
-#app-crypt/heimdal
-app-crypt/jacksum
-app-crypt/johntheripper
-app-crypt/keybase
-app-crypt/keylookup
-app-crypt/keynote
-app-crypt/kstart
-app-crypt/libmd
-app-crypt/libscrypt
-app-crypt/libsecret
-app-crypt/mcrypt
-app-crypt/md5deep
-app-crypt/md6sum
-app-crypt/mhash
-app-crypt/mit-krb5
-app-crypt/mit-krb5-appl
-app-crypt/monkeysphere
-app-crypt/openssl-blacklist
-app-crypt/p11-kit
-app-crypt/paperkey
-app-crypt/pgpdump
+#-world(#-cl_pass_file-#)-#
+#many depends
+!!app-crypt/kencfs:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
 app-crypt/pinentry
-app-crypt/qca
-app-crypt/quickcrypt
-app-crypt/rotix
-app-crypt/sbsigntool
-app-crypt/seahorse
-app-crypt/seahorse-sharing
-app-crypt/shash
-app-crypt/shim-signed
-app-crypt/sign
-app-crypt/signing-party
-app-crypt/ssh-multiadd
-app-crypt/stan
-app-crypt/stoken
-app-crypt/tinyca
-app-crypt/tpm-tools
-app-crypt/trousers
-app-crypt/WiRouterKeyRec
-app-crypt/xca
-app-crypt/xor-analyze
 #in#

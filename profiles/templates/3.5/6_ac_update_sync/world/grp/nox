@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CBS)!=#
-app-crypt/pinentry
 app-editors/vim
 app-emulation/libvirt
 app-emulation/lxc
@@ -34,10 +33,7 @@ sys-apps/groff
 sys-apps/lshw
 sys-apps/lshw
 sys-auth/pambase
-sys-block/fio
-sys-fs/mtools
 sys-kernel/calculate-sources
-sys-power/powertop
 sys-process/psmisc
 www-client/elinks
 www-client/links

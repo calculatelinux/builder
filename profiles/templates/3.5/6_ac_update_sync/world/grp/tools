@@ -1,30 +1,13 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1, CBS)!=#
-sys-block/fio
-sys-fs/cryptsetup
 sys-power/powertop
-
-# magic dependence with sys-apps/hwinfo
-sys-fs/ntfs3g
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
 app-antivirus/clamav
 app-forensics/rkhunter
 app-pda/usbmuxd
-app-shells/bash-completion
-app-shells/ccsh
-app-shells/dsh
-app-shells/esh
-app-shells/gentoo-zsh-completions
-app-shells/hstr
-app-shells/mksh
-app-shells/rrs
-app-shells/sash
-app-shells/tcsh
-app-shells/zsh
-app-shells/zsh-completions
 #dev-db/mysql-workbench
 dev-db/sqlitebrowser
 dev-embedded/arduino
@@ -34,7 +17,6 @@ dev-lang/vala:0.34
 dev-libs/klibc
 dev-libs/libcgroup
 dev-libs/weston
-dev-qt/qt-creator
 dev-tcltk/expect
 dev-vcs/bzr
 dev-vcs/cvs
@@ -55,48 +37,7 @@ sys-auth/nss_ldap
 sys-auth/pam_ldap
 sys-auth/pam_update
 sys-auth/thinkfinger
-sys-block/fio
-sys-block/gparted
-sys-block/parted
-sys-block/partitionmanager
-sys-block/tw_cli
 #sys-devel/prelink
-sys-fs/avfs
-sys-fs/btrfs-progs
-sys-fs/clamfs
-sys-fs/cramfs
-sys-fs/ddrescue
-sys-fs/dmraid
-sys-fs/dosfstools
-sys-fs/e4rat
-sys-fs/encfs
-sys-fs/exfat-utils
-sys-fs/ext3grep
-sys-fs/ext4magic
-sys-fs/extundelete
-sys-fs/f2fs-tools
-sys-fs/fatsort
-sys-fs/fuse-exfat
-sys-fs/jfsutils
-sys-fs/ldapfuse
-sys-fs/lxcfs
-sys-fs/mdadm
-sys-fs/mtools
-sys-fs/mtpfs
-sys-fs/nilfs-utils
-sys-fs/quota
-sys-fs/reiser4progs
-sys-fs/reiserfs-defrag
-sys-fs/reiserfsprogs
-sys-fs/simple-mtpfs
-sys-fs/xfsdump
-sys-fs/xfsprogs
-sys-fs/zfs
-sys-power/acpi
-sys-power/apcupsd
-sys-power/cpupower
-sys-power/nut
-sys-power/powernowd
 sys-process/atop
 sys-process/glances
 sys-process/htop
