@@ -1,31 +1,17 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-net-print/cndrvcups-common-lb
-net-print/cndrvcups-lb
-net-print/cnijfilter
+net-print/hplip
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+!!net-print/ink:0
+!!net-print/libinklevel:0
+!!net-print/lprng:0
+!!net-print/xerox-drivers:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
 net-print/cups
 net-print/cups-filters
-net-print/cups-pdf
-net-print/cups-pk-helper
-net-print/cups-windows
-net-print/epson-inkjet-printer-escpr
-net-print/fax4cups
-net-print/foomatic-db
-net-print/foomatic-db-engine
-net-print/foomatic-db-ppds
-net-print/gtklp
-net-print/gutenprint
-net-print/hplip
-net-print/hplip-plugin
-#net-print/ink
-net-print/libgnomecups
-#net-print/libinklevel
-net-print/lm1100
-#net-print/lprng
-net-print/magicfilter
-net-print/mtink
-net-print/poster
-net-print/splix
-#net-print/xerox-drivers
 #in#

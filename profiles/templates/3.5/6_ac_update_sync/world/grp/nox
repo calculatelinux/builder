@@ -28,8 +28,6 @@ net-dialup/ppp
 net-libs/libpcap
 net-misc/minidlna
 net-misc/openssh
-net-print/cups
-net-print/cups-filters
 sys-apps/calculate-utils
 sys-apps/dbus
 sys-apps/groff

@@ -1,0 +1,12 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB1)!=#
+net-irc/konversation
+net-irc/unrealircd
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+!!net-irc/konversation:5
+!!net-irc/unrealircd:0
+#in#
