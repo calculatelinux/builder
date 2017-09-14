@@ -3,6 +3,8 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!sys-fs/udev:0
+#not compided
+!!sys-fs/static-dev:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
