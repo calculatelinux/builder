@@ -5,6 +5,8 @@
 !!sys-block/qla-fc-firmware:0
 # EULA
 !!sys-block/megacli:0
+#not compiled
+!!sys-block/iscsitarget:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
