@@ -1,7 +1,12 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB3)!=#
+sys-power/upower
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!sys-power/upower:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
