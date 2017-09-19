@@ -17,6 +17,7 @@ sys-process/dcron
 !!sys-process/bcron:0
 !!sys-process/cronie:0
 !!sys-process/dcron:0
+!!sys-process/systemd-cron:0
 !!sys-process/vixie-cron:0
 #in#
 

@@ -1,7 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB3)!=#
+sys-auth/nss-pam-ldapd
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!sys-auth/sssd:0
+!!sys-auth/nss-pam-ldapd:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
