@@ -11,3 +11,8 @@
 x11-libs/compizconfig-backend-kconfig4:0
 x11-libs/qtscriptgenerator:0
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+x11-libs/cairo
+x11-libs/pango
+#in#

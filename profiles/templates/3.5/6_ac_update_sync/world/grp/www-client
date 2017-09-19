@@ -1,39 +1,19 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1, CBS)!=#
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+# already binary
+!!www-client/firefox-bin:0
+!!www-client/seamonkey-bin:0
+#not compiled
+!!www-client/w3mmee:0
+#?os_arch_machine==i686#
+!!www-client/chromium:0
+#os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
 www-client/elinks
 www-client/links
 www-client/w3m
-#in#
-
-#?in(os_linux_pkglist, CB1)!=#
-# already binary
-#www-client/firefox-bin
-#www-client/seamonkey-bin
-
-www-client/chromium
-www-client/conkeror
-www-client/dillo
-www-client/dooble
-www-client/epiphany
-www-client/fetch
-www-client/firefox
-www-client/httrack
-www-client/lynx
-www-client/midori
-www-client/netrik
-#www-client/netsurf
-www-client/opera
-www-client/otter
-www-client/pybugz
-www-client/qupzilla
-www-client/qutebrowser
-www-client/seamonkey
-www-client/surf
-www-client/surfraw
-www-client/uget
-www-client/vivaldi
-#www-client/w3mir
-#www-client/w3mmee
-#www-client/weboob
 #in#

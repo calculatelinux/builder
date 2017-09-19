@@ -12,6 +12,15 @@ sys-process/bcron
 sys-process/dcron
 #in#
 
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+!!sys-process/bcron:0
+!!sys-process/cronie:0
+!!sys-process/dcron:0
+!!sys-process/vixie-cron:0
+#in#
+
 #?in(os_linux_pkglist, CBS)!=#
 sys-process/cronie
+sys-process/psmisc
 #in#

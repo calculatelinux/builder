@@ -32,12 +32,8 @@ sys-apps/dbus
 sys-apps/groff
 sys-apps/lshw
 sys-apps/lshw
-sys-auth/pambase
 sys-kernel/calculate-sources
-sys-process/psmisc
 www-client/elinks
 www-client/links
 www-client/w3m
-x11-libs/cairo
-x11-libs/pango
 #in#
