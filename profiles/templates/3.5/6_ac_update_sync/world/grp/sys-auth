@@ -8,6 +8,9 @@ sys-auth/nss-pam-ldapd
 #-world(#-cl_pass_file-#)-#
 !!sys-auth/sssd:0
 !!sys-auth/nss-pam-ldapd:0
+#?os_arch_machine==i686#
+!!sys-auth/pam_bioapi:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
