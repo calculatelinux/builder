@@ -7,9 +7,6 @@
 !!www-client/seamonkey-bin:0
 #not compiled
 !!www-client/w3mmee:0
-#?os_arch_machine==i686#
-!!www-client/chromium:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
