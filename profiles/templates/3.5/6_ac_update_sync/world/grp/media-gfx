@@ -4,6 +4,10 @@
 media-gfx/grub-splashes-calculate
 #in#
 
+#?in(os_linux_pkglist, CB4)!=#
+media-gfx/evoluspencil
+#in#
+
 #?in(os_linux_pkglist, CB1)!=#
 media-gfx/aaphoto
 media-gfx/aewan
@@ -37,7 +41,6 @@ media-gfx/enblend
 media-gfx/eog
 media-gfx/eog-plugins
 media-gfx/eom
-media-gfx/evoluspencil
 media-gfx/exif
 media-gfx/exiftags
 media-gfx/exiv2

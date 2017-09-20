@@ -1,0 +1,8 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+#?os_arch_machine==i686#
+!!www-plugins/chrome-binary-plugins:stable
+#os_arch_machine#
+#in#
