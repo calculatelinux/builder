@@ -4,8 +4,6 @@
 app-antivirus/clamav
 app-forensics/rkhunter
 app-pda/usbmuxd
-#dev-db/mysql-workbench
-dev-db/sqlitebrowser
 dev-embedded/arduino
 dev-libs/klibc
 dev-libs/libcgroup

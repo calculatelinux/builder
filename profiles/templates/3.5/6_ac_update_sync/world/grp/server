@@ -5,10 +5,6 @@ net-fs/netatalk
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
-dev-db/mongodb
-dev-db/pg_top
-dev-db/postgresql
-dev-db/redis
 dev-lang/php
 mail-filter/clamsmtp
 mail-filter/opendkim
@@ -27,7 +23,6 @@ net-wireless/hostapd
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-dev-db/mariadb
 mail-mta/postfix
 net-im/ejabberd
 sys-apps/calculate-server

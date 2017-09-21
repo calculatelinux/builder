@@ -1,0 +1,27 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB1)!=#
+dev-db/mysql
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+dev-db/mytop
+dev-db/tinycdb
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+!!dev-db/mytop:0
+!!dev-db/opendbx:0
+!!dev-db/oracle-instantclient-basic:0
+!!dev-db/oracle-instantclient-jdbc:0
+!!dev-db/oracle-instantclient-odbc:0
+!!dev-db/oracle-instantclient-sqlplus:0
+!!dev-db/phppgadmin:5.1
+!!dev-db/sqldeveloper:0
+!!dev-db/sqlitebrowser:0
+!!dev-db/sqliteman:0
+!!dev-db/tinycdb:0
+!!dev-db/mysql:0
+#in#
+

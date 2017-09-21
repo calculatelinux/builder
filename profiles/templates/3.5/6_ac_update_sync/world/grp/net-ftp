@@ -1,30 +1,10 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-# net-ftp/atftp is blocking net-ftp/tftp-hpa
 net-ftp/atftp
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-net-ftp/cmdftp
-net-ftp/filezilla
-net-ftp/frox
-net-ftp/ftp
-net-ftp/ftpbase
-net-ftp/gftp
-net-ftp/gproftpd
-net-ftp/lftp
-net-ftp/linksys-tftp
-net-ftp/ncftp
-net-ftp/netkit-ftpd
-net-ftp/oftpd
-net-ftp/proftpd
-net-ftp/pureadmin
-net-ftp/pure-ftpd
-net-ftp/qshare
-net-ftp/scythia
-net-ftp/tftp-hpa
-net-ftp/tnftp
-net-ftp/vsftpd
-net-ftp/weex
+#-world(#-cl_pass_file-#)-#
+!!net-ftp/atftp:0
 #in#
