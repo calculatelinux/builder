@@ -7,6 +7,10 @@ dev-vcs/gitolite-gentoo
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!dev-vcs/gitolite-gentoo:0
+!!dev-vcs/kdesvn:5
+!!dev-vcs/monotone:1
+!!dev-vcs/qgit:0
+!!dev-vcs/rapidsvn:0
 !!dev-vcs/tortoisehg:0
 #in#
 
