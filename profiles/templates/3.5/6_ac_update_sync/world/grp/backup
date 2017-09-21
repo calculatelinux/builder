@@ -69,5 +69,6 @@ app-backup/zbackup
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+app-backup/backintime
 app-backup/bacula
 #in#

@@ -10,7 +10,6 @@ dev-db/pg_top
 dev-db/postgresql
 dev-db/redis
 dev-lang/php
-dev-vcs/gitolite
 mail-filter/clamsmtp
 mail-filter/opendkim
 mail-filter/postgrey

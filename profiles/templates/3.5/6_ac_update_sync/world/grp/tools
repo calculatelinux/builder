@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1, CBS)!=#
-sys-power/powertop
-#in#
-
 #?in(os_linux_pkglist, CB1)!=#
 app-antivirus/clamav
 app-forensics/rkhunter
@@ -11,37 +7,8 @@ app-pda/usbmuxd
 #dev-db/mysql-workbench
 dev-db/sqlitebrowser
 dev-embedded/arduino
-dev-lang/mono
-dev-lang/vala:0.32
-dev-lang/vala:0.34
 dev-libs/klibc
 dev-libs/libcgroup
 dev-libs/weston
 dev-tcltk/expect
-dev-vcs/bzr
-dev-vcs/cvs
-#dev-vcs/git-annex
-dev-vcs/qgit
-dev-vcs/subversion
-media-gfx/cellwriter
-media-gfx/wally
-media-sound/gimmix
-media-sound/mac
-media-sound/picard
-net-fs/davfs2
-net-fs/sshfs
-net-nds/shelldap
-net-news/quiterss
-sys-apps/keyexec
-#sys-devel/prelink
-#in#
-
-#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
-sys-apps/apparmor
-sys-apps/apparmor-utils
-#in#
-
-#?in(os_linux_pkglist, CBS)!=#
-app-backup/backintime
-dev-vcs/mercurial
 #in#
