@@ -2,6 +2,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!net-news/newsbeuter:0
-!!net-news/quiterss:0
 #in#

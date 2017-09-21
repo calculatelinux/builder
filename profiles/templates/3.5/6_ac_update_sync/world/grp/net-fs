@@ -4,5 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 !!net-fs/openafs:0
 !!net-fs/openafs-kernel:0
-!!net-fs/s3fs:0
 #in#
