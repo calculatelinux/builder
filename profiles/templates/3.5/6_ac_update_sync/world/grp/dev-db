@@ -20,5 +20,9 @@ dev-db/tinycdb
 !!dev-db/sqliteman:0
 !!dev-db/tinycdb:0
 !!dev-db/mysql:0
+#?os_arch_machine==i686#
+#not compiled
+!!dev-db/mongodb:0
+#os_arch_machine#
 #in#
 
