@@ -2,13 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 dev-db/mysql
-#in#
-
-#?in(os_linux_pkglist, CB2)!=#
 dev-db/mytop
-#in#
-
-#?in(os_linux_pkglist, CB3)!=#
 dev-db/tinycdb
 #in#
 
