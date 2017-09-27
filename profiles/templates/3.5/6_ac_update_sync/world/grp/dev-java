@@ -7,7 +7,7 @@
 !!dev-java/httpcomponents-client:4.5
 !!dev-java/jackrabbit-webdav:0
 !!dev-java/netbeans-javadoc:8.0
-!!dev-java/netbeans-javadoc:8.2
+!dev-java/netbeans-javadoc:8.2
 !!dev-java/relaxngcc:0
 
 # need to download
