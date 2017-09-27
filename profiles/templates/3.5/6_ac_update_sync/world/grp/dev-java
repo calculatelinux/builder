@@ -12,7 +12,7 @@
 !dev-java/netbeans-javadoc:8.2
 !!dev-java/relaxngcc:0
 
-#?os_arch_machine=i686#
+#?os_arch_machine==i686#
 #not compiled
 !!dev-java/ant-eclipse-ecj:4.4
 !!dev-java/eclipse-ecj:4.4
