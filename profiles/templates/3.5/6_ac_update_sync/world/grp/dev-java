@@ -3,16 +3,22 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!dev-java/ant-eclipse-ecj:4.2
-!!dev-java/ant-eclipse-ecj:4.4
 !!dev-java/bndlib:0
 !!dev-java/easyneurons:0
 !!dev-java/eclipse-ecj:4.2
-!!dev-java/eclipse-ecj:4.4
 !!dev-java/httpcomponents-client:4.5
 !!dev-java/jackrabbit-webdav:0
 !!dev-java/netbeans-javadoc:8.0
 !dev-java/netbeans-javadoc:8.2
 !!dev-java/relaxngcc:0
+
+#?os_arch_machine=i686#
+#not compiled
+!!dev-java/ant-eclipse-ecj:4.4
+!!dev-java/eclipse-ecj:4.4
+!!dev-java/piccolo2d:0
+!!dev-java/swt:3.8
+#os_arch_machine#
 
 # need to download
 !!dev-java/java-sdk-docs:1.7
