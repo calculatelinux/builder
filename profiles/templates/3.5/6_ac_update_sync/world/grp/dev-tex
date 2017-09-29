@@ -2,12 +2,11 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!dev-tex/biber:0
+!!dev-tex/biblatex:0
 !!dev-tex/cdcover:0
 !!dev-tex/luatex:0
 !!dev-tex/prosper:0
 !!dev-tex/texpower:0
 !!dev-tex/translator:0
-#?os_arch_machine==i686#
-!!dev-tex/biber:0
-#os_arch_machine#
 #in#
