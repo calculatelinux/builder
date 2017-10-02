@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!dev-tex/biber:0
+!dev-tex/biber:0
 !!dev-tex/biblatex:0
 !!dev-tex/cdcover:0
 !!dev-tex/luatex:0
