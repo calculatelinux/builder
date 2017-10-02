@@ -45,7 +45,6 @@ net-misc/dhcpcd
 net-misc/dhcpcd-ui
 net-misc/dhcping
 net-misc/dibbler
-net-misc/dnetstats
 net-misc/dropbear
 #net-misc/dropbox
 #net-misc/dropbox-cli
