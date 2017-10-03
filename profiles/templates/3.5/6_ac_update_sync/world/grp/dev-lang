@@ -1,5 +1,7 @@
 # Calculate name=world format=world
 
+# dev-lang/spidermonkey-24.2.0-r3:24 не собирается при установленном dev-vcs/mercurial
+
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!dev-lang/mercury:0

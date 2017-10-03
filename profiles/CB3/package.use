@@ -6,3 +6,6 @@ sys-apps/calculate-utils -backup -client -console -desktop -install -pxe -qt4
 # Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated
 # encoding on NVIDIA cards.
 media-video/ffmpeg nvenc
+
+# support for Tk GUI toolkit
+dev-lang/python tk
