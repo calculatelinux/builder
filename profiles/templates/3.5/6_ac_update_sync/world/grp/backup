@@ -65,7 +65,7 @@ app-backup/tob
 app-backup/tsm
 app-backup/untangle-https-backup
 app-backup/vzdump
-app-backup/zbackup
+#app-backup/zbackup
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
