@@ -35,11 +35,13 @@ dev-python/twisted-words
 !!dev-python/celery:0
 !!dev-python/CommonMark:0
 !!dev-python/django-social-auth:0
+!!dev-python/dnspython:0
 !!dev-python/epsilon:0
 !!dev-python/flake8:0
 !!dev-python/flask-whooshalchemy:0
 !!dev-python/foolscap:0
 !!dev-python/future:0
+!!dev-python/graph-tool:0
 !!dev-python/graph-tool:0
 !!dev-python/guzzle_sphinx_theme:0
 !!dev-python/hacking:0
