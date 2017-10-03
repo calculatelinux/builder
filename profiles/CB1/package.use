@@ -1,2 +1,3 @@
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
+media-libs/mesa wayland
