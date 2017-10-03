@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#-world(#-cl_pass_file-#)-#
 dev-python/twisted-conch
 dev-python/twisted-core
 dev-python/twisted-lore
