@@ -67,7 +67,7 @@ sci-visualization/qtiplot
 #?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
 app-emulation/containerd
 app-emulation/docker
-app-emulation/docker-compose
+#app-emulation/docker-compose
 app-emulation/docker-machine
 app-emulation/docker-registry
 app-emulation/docker-swarm
