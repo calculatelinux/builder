@@ -72,6 +72,9 @@ dev-python/pyldap
 !!dev-python/zbase32:0
 !!dev-python/zfec:0
 
+# not compiled
+!!dev-python/pygresql:0
+
 !!dev-python/astng:0
 !!dev-python/basemap:0
 !!dev-python/bashate:0
