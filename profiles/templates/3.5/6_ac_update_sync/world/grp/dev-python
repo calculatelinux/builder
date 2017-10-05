@@ -73,6 +73,7 @@ dev-python/pyldap
 !!dev-python/zfec:0
 
 # not compiled
+!!dev-python/graph-tool:0
 !!dev-python/pygresql:0
 
 !!dev-python/astng:0
