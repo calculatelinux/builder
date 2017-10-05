@@ -86,8 +86,6 @@ dev-python/pyldap
 !!dev-python/flake8:0
 !!dev-python/flask-whooshalchemy:0
 !!dev-python/future:0
-!!dev-python/graph-tool:0
-!!dev-python/graph-tool:0
 !!dev-python/guzzle_sphinx_theme:0
 !!dev-python/hacking:0
 !!dev-python/irc:0
