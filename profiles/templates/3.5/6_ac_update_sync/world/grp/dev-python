@@ -31,7 +31,6 @@ dev-python/zfec
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-dev-python/blaze
 dev-python/into
 dev-python/ldappool
 dev-python/minimock
@@ -42,7 +41,6 @@ dev-python/pyldap
 #-world(#-cl_pass_file-#)-#
 # to prevent blocking, the assembly has been moved to other profiles
 !!dev-python/axiom:0
-!!dev-python/blaze:0
 !!dev-python/carbon:0
 !!dev-python/dnspython:0
 !!dev-python/epsilon:0
@@ -77,6 +75,7 @@ dev-python/pyldap
 !!dev-python/astng:0
 !!dev-python/basemap:0
 !!dev-python/bashate:0
+!!dev-python/blaze:0
 !!dev-python/celery:0
 !!dev-python/CommonMark:0
 !!dev-python/django-social-auth:0
