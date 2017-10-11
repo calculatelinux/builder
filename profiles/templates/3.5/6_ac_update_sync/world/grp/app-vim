@@ -63,7 +63,6 @@ app-vim/greputils
 app-vim/gtk-syntax
 app-vim/gundo
 app-vim/help-extra-syntax
-app-vim/html5
 app-vim/increment
 app-vim/indentpython
 app-vim/info
