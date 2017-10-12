@@ -2,5 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!app-portage/gentoolkit-dev:0
 !!app-portage/gs-pypi:0
 #in#
