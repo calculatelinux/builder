@@ -42,7 +42,6 @@ app-admin/hardinfo
 app-admin/hddtemp
 app-admin/ide-smart
 app-admin/keepass
-app-admin/keepassx
 app-admin/lib_users
 app-admin/localepurge
 app-admin/logcheck
