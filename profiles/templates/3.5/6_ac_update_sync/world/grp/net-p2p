@@ -6,7 +6,6 @@ net-p2p/transmission
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
-net-p2p/kmldonkey
 net-p2p/ktorrent
 #in#
 

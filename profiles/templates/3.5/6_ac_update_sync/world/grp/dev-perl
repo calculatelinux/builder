@@ -20,7 +20,6 @@ dev-perl/Apache-DBI
 dev-perl/Apache-LogFormat-Compiler
 #dev-perl/Apache-Reload
 dev-perl/Apache-Session
-dev-perl/Apache-SessionX
 #dev-perl/Apache-SizeLimit
 dev-perl/Apache-Test
 dev-perl/AppConfig
