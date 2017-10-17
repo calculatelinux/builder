@@ -28,7 +28,7 @@ media-gfx/colorhug-client
 #media-gfx/comix
 media-gfx/cropgui
 media-gfx/crwinfo
-media-gfx/darktable
+#media-gfx/darktable
 media-gfx/dawn
 media-gfx/dcraw
 media-gfx/digikam
