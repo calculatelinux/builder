@@ -1,16 +1,16 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB3)!=#
-sys-power/acpilight
-sys-power/upower
+acpilight
+upower
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!sys-power/acpilight:0
-!!sys-power/upower:0
+!!acpilight:0
+!!upower:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-sys-power/powertop
+powertop
 #in#

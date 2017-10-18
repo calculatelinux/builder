@@ -2,9 +2,9 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!x11-wm/afterstep:0
+!!afterstep:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-x11-wm/afterstep
+afterstep
 #in#

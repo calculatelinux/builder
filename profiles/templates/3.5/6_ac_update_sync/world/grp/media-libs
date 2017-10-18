@@ -2,14 +2,14 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!media-libs/fontconfig-infinality:0
-!!media-libs/fontconfig-ultimate:0
-!!media-libs/jpeg:0
-!!media-libs/jpeg:62
-!!media-libs/libpostproc:0
-!!media-libs/phonon-vlc:0
+!!fontconfig-infinality:0
+!!fontconfig-ultimate:0
+!!jpeg:0
+!!jpeg:62
+!!libpostproc:0
+!!phonon-vlc:0
 #?os_arch_machine==i686#
-!!media-libs/libsidplayfp:0
-!!media-libs/xine-lib:1
+!!libsidplayfp:0
+!!xine-lib:1
 #os_arch_machine#
 #in#

@@ -2,18 +2,18 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!app-misc/livecd-tools:0
-!!app-misc/realpath:0
+!!livecd-tools:0
+!!realpath:0
 #not compiled
-!!app-misc/abook:0
-!!app-misc/cdircmp:0
-!!app-misc/ckermit:0
-!!app-misc/clockywock:0
-!!app-misc/dvorak7min:0
-!!app-misc/dvtm:0
-!!app-misc/lcd4linux:0
-!!app-misc/qlcplus:0
-!!app-misc/vcp:0
-!!app-misc/wyrd:0
-!!app-misc/ytree:0
+!!abook:0
+!!cdircmp:0
+!!ckermit:0
+!!clockywock:0
+!!dvorak7min:0
+!!dvtm:0
+!!lcd4linux:0
+!!qlcplus:0
+!!vcp:0
+!!wyrd:0
+!!ytree:0
 #in#

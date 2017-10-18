@@ -1,15 +1,15 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-net-irc/konversation
-net-irc/unrealircd
+konversation
+unrealircd
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 #many depends
-!!net-irc/konversation:5
-!!net-irc/unrealircd:0
+!!konversation:5
+!!unrealircd:0
 #not compiled
-!!net-irc/rhapsody:0
+!!rhapsody:0
 #in#

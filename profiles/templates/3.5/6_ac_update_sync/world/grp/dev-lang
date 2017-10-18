@@ -4,14 +4,14 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!dev-lang/mercury:0
-!!dev-lang/mercury-extras:0
-!!dev-lang/mono-basic:0
-!!dev-lang/scala-bin:0
-!!dev-lang/xsb:0
+!!mercury:0
+!!mercury-extras:0
+!!mono-basic:0
+!!scala-bin:0
+!!xsb:0
 #?os_arch_machine==i686#
-!!dev-lang/mozart:0
-!!dev-lang/mozart-stdlib:0
-!!dev-lang/tinycobol:0
+!!mozart:0
+!!mozart-stdlib:0
+!!tinycobol:0
 #os_arch_machine#
 #in#

@@ -2,12 +2,12 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!media-plugins/mediastreamer-silk:0
-!media-plugins/vdr-rotor:0
+!mediastreamer-silk:0
+!vdr-rotor:0
 #?os_arch_machine==i686#
-!media-plugins/gst-plugins-srtp:1.0
-!media-plugins/vdr-radiolist:0
-!media-plugins/vdr-skinelchi:0
-!media-plugins/vdr-vcd:0
+!gst-plugins-srtp:1.0
+!vdr-radiolist:0
+!vdr-skinelchi:0
+!vdr-vcd:0
 #os_arch_machine#
 #in#

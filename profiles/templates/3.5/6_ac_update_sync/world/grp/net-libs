@@ -2,10 +2,10 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!net-libs/enet:0
-!net-libs/libecap:0.2
-!net-libs/libktorrent:4
+!enet:0
+!libecap:0.2
+!libktorrent:4
 #?os_arch_machine==i686#
-!net-libs/roadrunner:0
+!roadrunner:0
 #os_arch_machine#
 #in#

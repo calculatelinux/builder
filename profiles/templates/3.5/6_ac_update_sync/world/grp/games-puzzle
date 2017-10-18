@@ -4,20 +4,20 @@
 #-world(#-cl_pass_file-#)-#
 
 # not compiled
-!!games-puzzle/bastet:0
-!!games-puzzle/braincurses:0
-!!games-puzzle/galaxis:0
-!!games-puzzle/tint:0
+!!bastet:0
+!!braincurses:0
+!!galaxis:0
+!!tint:0
 
 # buy & download
-!!games-puzzle/larry:0
-!!games-puzzle/nightsky:0
-!!games-puzzle/splice:0
-!!games-puzzle/tiny-and-big:0
-!!games-puzzle/world-of-goo:0
-!!games-puzzle/world-of-goo-demo:0
+!!larry:0
+!!nightsky:0
+!!splice:0
+!!tiny-and-big:0
+!!world-of-goo:0
+!!world-of-goo-demo:0
 
 #?os_arch_machine==i686#
-!!games-puzzle/triptych-demo:0
+!!triptych-demo:0
 #os_arch_machine#
 #in#

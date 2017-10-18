@@ -1,13 +1,13 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-net-print/hplip
+hplip
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!net-print/ink:0
-!!net-print/libinklevel:0
-!!net-print/lprng:0
-!!net-print/xerox-drivers:0
+!!ink:0
+!!libinklevel:0
+!!lprng:0
+!!xerox-drivers:0
 #in#

@@ -2,13 +2,13 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!sys-block/qla-fc-firmware:0
+!!qla-fc-firmware:0
 # EULA
-!!sys-block/megacli:0
+!!megacli:0
 #not compiled
-!!sys-block/iscsitarget:0
+!!iscsitarget:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-sys-block/fio
+fio
 #in#

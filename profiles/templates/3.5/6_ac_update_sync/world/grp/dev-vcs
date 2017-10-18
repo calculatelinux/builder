@@ -1,15 +1,15 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-dev-vcs/gitolite-gentoo
+gitolite-gentoo
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!dev-vcs/gitolite-gentoo:0
-!!dev-vcs/tortoisehg:0
+!!gitolite-gentoo:0
+!!tortoisehg:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-dev-vcs/mercurial
+mercurial
 #in#

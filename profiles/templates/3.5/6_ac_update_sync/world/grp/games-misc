@@ -3,21 +3,21 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 #not compiled
-!!games-misc/fortune-mod-slackware:0
-!!games-misc/robotfindskitten:0
-!!games-misc/typespeed:0
+!!fortune-mod-slackware:0
+!!robotfindskitten:0
+!!typespeed:0
 #?os_arch_machine==i686#
-!!games-misc/katawa-shoujo:0
+!!katawa-shoujo:0
 #os_arch_machine#
 
 # buy & download
-!!games-misc/dont-starve:0
-!!games-misc/little-inferno:0
-!!games-misc/papers-please:0
+!!dont-starve:0
+!!little-inferno:0
+!!papers-please:0
 
-!!games-misc/bsd-games:0
+!!bsd-games:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-games-misc/bsd-games
+bsd-games
 #in#

@@ -2,6 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!lxde-base/lxsession-edit:0
-!!lxde-base/lxshortcut:0
+!!lxsession-edit:0
+!!lxshortcut:0
 #in#

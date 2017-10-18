@@ -1,28 +1,28 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-sys-process/vixie-cron
+vixie-cron
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-sys-process/bcron
+bcron
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-sys-process/dcron
+dcron
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!sys-process/bcron:0
-!!sys-process/cronie:0
-!!sys-process/dcron:0
-!!sys-process/systemd-cron:0
-!!sys-process/tiptop:0
-!!sys-process/vixie-cron:0
+!!bcron:0
+!!cronie:0
+!!dcron:0
+!!systemd-cron:0
+!!tiptop:0
+!!vixie-cron:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-sys-process/cronie
-sys-process/psmisc
+cronie
+psmisc
 #in#

@@ -2,6 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!net-fs/openafs:0
-!!net-fs/openafs-kernel:0
+!!openafs:0
+!!openafs-kernel:0
 #in#

@@ -1,16 +1,16 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-app-crypt/kencfs
+kencfs
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!app-crypt/heimdal:0
+!!heimdal:0
 #many depends
-!!app-crypt/kencfs:0
+!!kencfs:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-app-crypt/pinentry
+pinentry
 #in#

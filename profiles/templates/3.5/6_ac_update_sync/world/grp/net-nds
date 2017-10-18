@@ -2,5 +2,5 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!net-nds/portmap:0
+!!portmap:0
 #in#

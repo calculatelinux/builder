@@ -3,27 +3,27 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 #is blocking
-!!net-analyzer/arping:2
-!!net-analyzer/icinga:0
-!!net-analyzer/linkchecker:0
-!!net-analyzer/monitoring-plugins:0
-!!net-analyzer/nagstamon:0
-!!net-analyzer/netcat6:0
-!net-analyzer/traceproto:0
+!!arping:2
+!!icinga:0
+!!linkchecker:0
+!!monitoring-plugins:0
+!!nagstamon:0
+!!netcat6:0
+!traceproto:0
 
 #not compiled
-!!net-analyzer/dsniff:0
-!net-analyzer/ndsad:0
-!!net-analyzer/ostinato:0
-!net-analyzer/scanlogd:0
+!!dsniff:0
+!ndsad:0
+!!ostinato:0
+!scanlogd:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-net-analyzer/monitoring-plugins
-net-analyzer/netcat6
+monitoring-plugins
+netcat6
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-net-analyzer/ettercap
-net-analyzer/mtr
+ettercap
+mtr
 #in#

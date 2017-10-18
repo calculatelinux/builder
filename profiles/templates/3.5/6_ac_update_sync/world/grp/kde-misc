@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!kde-misc/kopete-antispam:4
-!!kde-misc/kopete-thinklight:4
-!kde-misc/systemd-kcm:5
+!!kopete-antispam:4
+!!kopete-thinklight:4
+!systemd-kcm:5
 #in#

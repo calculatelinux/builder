@@ -2,32 +2,32 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!dev-java/ant-eclipse-ecj:4.2
-!!dev-java/bndlib:0
-!!dev-java/easyneurons:0
-!!dev-java/eclipse-ecj:4.2
-!!dev-java/httpcomponents-client:4.5
-!!dev-java/jackrabbit-webdav:0
-!!dev-java/netbeans-javadoc:8.0
-!dev-java/netbeans-javadoc:8.2
-!!dev-java/relaxngcc:0
+!!ant-eclipse-ecj:4.2
+!!bndlib:0
+!!easyneurons:0
+!!eclipse-ecj:4.2
+!!httpcomponents-client:4.5
+!!jackrabbit-webdav:0
+!!netbeans-javadoc:8.0
+!netbeans-javadoc:8.2
+!!relaxngcc:0
 
 #?os_arch_machine==i686#
 #not compiled
-!!dev-java/ant-eclipse-ecj:4.4
-!!dev-java/eclipse-ecj:4.4
-!!dev-java/piccolo2d:0
-!!dev-java/swt:3.8
+!!ant-eclipse-ecj:4.4
+!!eclipse-ecj:4.4
+!!piccolo2d:0
+!!swt:3.8
 #os_arch_machine#
 
 # need to download
-!!dev-java/java-sdk-docs:1.7
-!!dev-java/java-sdk-docs:1.8
-!!dev-java/jdbc-informix:0
-!!dev-java/jta:0
-!!dev-java/oracle-jdk-bin:1.8
-!!dev-java/oracle-jre-bin:1.8
-!!dev-java/osgi-enterprise-api:0
-!!dev-java/sun-jimi:0
-!!dev-java/sun-jmx:0
+!!java-sdk-docs:1.7
+!!java-sdk-docs:1.8
+!!jdbc-informix:0
+!!jta:0
+!!oracle-jdk-bin:1.8
+!!oracle-jre-bin:1.8
+!!osgi-enterprise-api:0
+!!sun-jimi:0
+!!sun-jmx:0
 #in#
