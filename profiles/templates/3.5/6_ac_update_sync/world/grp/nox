@@ -10,7 +10,6 @@ app-text/ghostscript-gpl
 app-text/poppler
 dev-lang/mono
 dev-lang/ocaml
-dev-libs/gobject-introspection
 dev-vcs/git
 media-fonts/dejavu
 media-fonts/terminus-font

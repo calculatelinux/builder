@@ -1,0 +1,27 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+# is blocking
+!!libelf:0
+!!libiconv:0
+!!libintl:0
+!!libressl:0
+!!tre:0
+
+# not compiled
+!!grok:0
+!!libcec:0
+!!libcli:0
+!!libexplain:0
+!!libmemcache:0
+!!xapian-bindings:0
+!!xmlwrapp:0
+
+# need to download
+!!device-atlas-api-c:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+gobject-introspection
+#in#
