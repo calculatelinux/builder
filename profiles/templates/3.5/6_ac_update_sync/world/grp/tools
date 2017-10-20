@@ -1,9 +1,0 @@
-# Calculate name=world format=world
-
-#?in(os_linux_pkglist, CB1)!=#
-app-antivirus/clamav
-app-forensics/rkhunter
-app-pda/usbmuxd
-dev-embedded/arduino
-dev-tcltk/expect
-#in#
