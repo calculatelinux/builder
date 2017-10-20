@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-cistronradius
 mgetty
 radiusclient-ng
 ueagle-atm
@@ -9,7 +8,7 @@ ueagle-atm
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!cistronradius:0
+!cistronradius:0
 !!mgetty:0
 !!radiusclient-ng:0
 !!ueagle-atm:0
