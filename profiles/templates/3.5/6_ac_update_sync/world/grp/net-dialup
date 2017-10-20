@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 mgetty
 radiusclient-ng
-ueagle-atm
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
