@@ -192,5 +192,8 @@ media-fonts/zh-kcfonts
 #in#
 
 #?in(os_linux_pkglist,CBS)!=#
-media-fonts/liberation-fonts
+dejavu
+liberation-fonts
+terminus-font
+urw-fonts
 #in#

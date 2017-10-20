@@ -13,3 +13,10 @@
 !!xine-lib:1
 #os_arch_machine#
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+media-libs/freetype
+media-libs/gd
+media-libs/lcms
+media-libs/libwebp
+#in#

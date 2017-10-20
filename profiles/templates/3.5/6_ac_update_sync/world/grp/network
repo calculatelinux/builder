@@ -1,16 +1,8 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1, CBS)!=#
-net-dialup/ppp
-#in#
-
 #?in(os_linux_pkglist, CB1)!=#
-net-dialup/pptpclient
-net-dialup/rp-pppoe
-net-dialup/xl2tpd
 net-dns/bind-tools
 net-dns/ddclient
-net-fs/samba
 net-misc/networkmanager-l2tp
 net-vpn/ipsec-tools
 net-vpn/pptpd

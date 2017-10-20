@@ -100,6 +100,7 @@ net-misc/mindterm
 net-misc/minidlna
 net-misc/mobile-broadband-provider-info
 net-misc/modemmanager
+net-misc/modem-manager-gui
 net-misc/mosh
 net-misc/mrouted
 net-misc/nat-traverse
