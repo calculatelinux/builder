@@ -2,5 +2,9 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!bitbake:0
 !jtag:0
+!!libewf:0
+!!tigcc:0
+!!urjtag:0
 #in#
