@@ -1,0 +1,12 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+
+# big size
+# 265M
+!!gcompris:0
+
+# need to download
+!!crayon-physics:0
+#in#
