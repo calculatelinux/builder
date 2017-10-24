@@ -14,7 +14,6 @@ media-sound/cantata
 media-sound/kid3
 #media-sound/kmidimon <media-sound/drumstick-1.0.0
 #media-sound/kmid <media-sound/drumstick-1.0.0
-media-sound/kstreamripper
 media-sound/musique
 media-sound/tomahawk
 # media-sound/cdtool is blocking media-sound/cdplay-1.0
