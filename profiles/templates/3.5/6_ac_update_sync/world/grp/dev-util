@@ -185,7 +185,6 @@ dev-util/stubgen
 dev-util/suse-build
 dev-util/sysprof
 dev-util/systemtap
-dev-util/ticpp
 dev-util/tkdiff
 dev-util/treecc
 dev-util/txt2regex
