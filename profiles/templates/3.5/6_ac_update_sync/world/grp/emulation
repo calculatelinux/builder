@@ -80,3 +80,7 @@ app-emulation/xen
 app-emulation/xen-pvgrub
 app-emulation/xen-tools
 #in#
+
+#?in(os_linux_pkglist, CB3)!=#
+app-emulation/wine-vanilla
+#in#
