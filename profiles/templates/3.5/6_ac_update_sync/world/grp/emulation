@@ -81,6 +81,6 @@ app-emulation/xen-pvgrub
 app-emulation/xen-tools
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
+#?in(os_linux_pkglist, CB3)!=&&os_arch_machine==x86_64#
 app-emulation/wine-vanilla
 #in#
