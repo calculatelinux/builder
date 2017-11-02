@@ -45,7 +45,6 @@ app-backup/kfoldersync
 app-backup/luckybackup
 app-backup/mirdir
 app-backup/mylvmbackup
-app-backup/obnam
 app-backup/pdumpfs
 #app-backup/qt4-fsarchiver
 app-backup/rdedup
