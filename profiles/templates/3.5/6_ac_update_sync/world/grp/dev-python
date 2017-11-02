@@ -8,6 +8,7 @@ epsilon
 foolscap
 jaraco-utils
 mantissa
+minimock
 morbid
 nevow
 paisley
@@ -33,7 +34,6 @@ zfec
 #?in(os_linux_pkglist, CB2)!=#
 into
 ldappool
-minimock
 pyldap
 #in#
 
