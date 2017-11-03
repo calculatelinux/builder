@@ -21,7 +21,7 @@ tinycdb
 !!tinycdb:0
 !!mysql:0
 #?os_arch_machine==i686#
-#not compiled
+# not compiled
 !!mongodb:0
 #os_arch_machine#
 #in#

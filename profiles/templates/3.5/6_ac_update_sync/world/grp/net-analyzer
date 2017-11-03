@@ -11,7 +11,7 @@
 !!netcat6:0
 !traceproto:0
 
-#not compiled
+# not compiled
 !!dsniff:0
 !ndsad:0
 !!ostinato:0

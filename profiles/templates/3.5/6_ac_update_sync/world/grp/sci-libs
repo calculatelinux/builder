@@ -10,6 +10,6 @@
 !!galib:0
 #os_arch_machine#
 
-#not compiled in CBB
+# not compiled in CBB
 !!scipy:0
 #in#

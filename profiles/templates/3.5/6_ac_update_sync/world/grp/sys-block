@@ -5,7 +5,7 @@
 !!qla-fc-firmware:0
 # EULA
 !!megacli:0
-#not compiled
+# not compiled
 !!iscsitarget:0
 #in#
 

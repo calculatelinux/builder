@@ -13,7 +13,7 @@
 !!relaxngcc:0
 
 #?os_arch_machine==i686#
-#not compiled
+# not compiled
 !!ant-eclipse-ecj:4.4
 !!eclipse-ecj:4.4
 !!piccolo2d:0

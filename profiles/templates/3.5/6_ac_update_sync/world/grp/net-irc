@@ -10,6 +10,6 @@ unrealircd
 #many depends
 !!konversation:5
 !!unrealircd:0
-#not compiled
+# not compiled
 !!rhapsody:0
 #in#

@@ -4,7 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!livecd-tools:0
 !!realpath:0
-#not compiled
+# not compiled
 !!abook:0
 !!cdircmp:0
 !!ckermit:0

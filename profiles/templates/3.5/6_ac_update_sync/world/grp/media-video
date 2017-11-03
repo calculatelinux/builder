@@ -114,7 +114,7 @@ media-video/xvid4conf
 #?os_arch_machine==x86_64#
 media-video/lightworks
 
-#not compiled
+# not compiled
 media-video/gxine
 #os_arch_machine#
 #in#
