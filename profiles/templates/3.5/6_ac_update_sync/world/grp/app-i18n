@@ -1,6 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
+#-world(#-cl_pass_file-#)-#
 !app-i18n/dbskkd-cdb:0
 !app-i18n/fcitx-libpinyin:0
 !app-i18n/fcitx-rime:0
