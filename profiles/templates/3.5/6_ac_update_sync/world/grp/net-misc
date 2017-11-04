@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2, CB3)!=#
-net-misc/dhcp
-#in#
-
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!net-misc/arpd:0
@@ -18,12 +14,14 @@ net-misc/dhcp
 !!net-misc/networkmanager-openswan:0
 !!net-misc/openntpd:0
 !!net-misc/openvswitch:0
+!!net-misc/owncloud-client:0
 !!net-misc/pssh:0
 !!net-misc/r8168:0
 !!net-misc/s3cmd:0
 !!net-misc/siproxd:0
 !!net-misc/sks:0
 !!net-misc/suite3270:0
+!!net-misc/telnet-bsd:0
 !!net-misc/throttle:0
 !!net-misc/tn5250:0
 !!net-misc/unison:0
@@ -31,6 +29,15 @@ net-misc/dhcp
 #?os_arch_machine==i686#
 !!net-misc/dleyna-server:0
 #os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CB2, CB3)!=#
+net-misc/dhcp
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+net-misc/owncloud-client
+net-misc/telnet-bsd
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
