@@ -17,17 +17,17 @@ media-video/subtitlecomposer
 !!media-video/dvdrip:0
 !!media-video/get_flash_videos:0
 !!media-video/jubler:0
-!!media-video/kaffeine:0
+!!media-video/kaffeine:5
 !!media-video/kamerka:0
-!!media-video/kmplayer:0
+!!media-video/kmplayer:5
 !!media-video/libav:0
 !!media-video/matroxset:0
 !!media-video/minitube:0
 !!media-video/mplayer-resume:0
 !!media-video/noad:0
 !!media-video/nvidia_video_sdk:0
-!!media-video/plasma-mediacenter:0
-!!media-video/subtitlecomposer:0
+!!media-video/plasma-mediacenter:5
+!!media-video/subtitlecomposer:5
 !!media-video/tovid:0
 !!media-video/xine-ui:0
 
