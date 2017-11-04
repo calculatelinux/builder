@@ -35,6 +35,7 @@ zfec
 into
 ldappool
 pyldap
+pytest-catchlog
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -54,6 +55,7 @@ pyldap
 !!nevow:0
 !!paisley:0
 !!pyldap:0
+!!pytest-catchlog:0
 !!pyutil:0
 !!translate-toolkit:0
 !!twisted-conch:0
