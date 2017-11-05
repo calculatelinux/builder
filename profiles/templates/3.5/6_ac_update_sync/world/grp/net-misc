@@ -8,7 +8,6 @@
 !!net-misc/dropbox-cli:0
 !!net-misc/gsasl:0
 !!net-misc/hotot:0
-!!net-misc/libreswan:0
 !!net-misc/mediatomb:0
 !!net-misc/netctl:0
 !!net-misc/networkmanager-openswan:0
@@ -19,19 +18,17 @@
 !!net-misc/r8168:0
 !!net-misc/s3cmd:0
 !!net-misc/siproxd:0
-!!net-misc/sks:0
+!net-misc/sks:0
 !!net-misc/suite3270:0
 !!net-misc/telnet-bsd:0
-!!net-misc/throttle:0
+!net-misc/throttle:0
 !!net-misc/tn5250:0
-!!net-misc/unison:0
+!!net-misc/unison:2.48
 
 # need to download
 !!net-misc/icaclient:0
 
 #?os_arch_machine==i686#
-!!net-misc/dleyna-server:0
-
 # not compiled
 !!net-misc/liveice:0
 !!net-misc/tokyotyrant:0

@@ -32,8 +32,6 @@ media-video/subtitlecomposer
 !!media-video/xine-ui:0
 
 #?os_arch_machine==i686#
-!!media-video/lightworks:0
-
 # not compiled
 !!media-video/gxine:0
 #os_arch_machine#
