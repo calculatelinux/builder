@@ -26,6 +26,9 @@
 !!net-misc/tn5250:0
 !!net-misc/unison:0
 
+# need to download
+!!net-misc/icaclient:0
+
 #?os_arch_machine==i686#
 !!net-misc/dleyna-server:0
 #os_arch_machine#
