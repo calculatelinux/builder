@@ -33,6 +33,7 @@
 !!net-misc/dleyna-server:0
 
 # not compiled
+!!net-misc/liveice:0
 !!net-misc/tokyotyrant:0
 #os_arch_machine#
 #in#
