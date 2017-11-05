@@ -40,8 +40,15 @@ net-misc/dhcp
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+net-misc/dropbox
+net-misc/hotot
+net-misc/mediatomb
 net-misc/owncloud-client
 net-misc/telnet-bsd
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+net-misc/bfgminer
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

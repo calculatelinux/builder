@@ -27,6 +27,7 @@ media-gfx/gimmage
 media-gfx/kphotoalbum
 media-gfx/krita
 media-gfx/openscad
+media-gfx/raw-thumbnailer
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
@@ -36,9 +37,10 @@ media-gfx/evoluspencil
 media-gfx/gliv
 media-gfx/gnome-raw-thumbnailer
 media-gfx/mcomix
-media-gfx/raw-thumbnailer
-media-gfx/symboleditor
 media-gfx/xli
+#?os_arch_machine==x86_64#
+media-gfx/symboleditor
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
