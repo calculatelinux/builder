@@ -31,6 +31,9 @@
 
 #?os_arch_machine==i686#
 !!net-misc/dleyna-server:0
+
+# not compiled
+!!net-misc/tokyotyrant:0
 #os_arch_machine#
 #in#
 
