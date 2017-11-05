@@ -7,7 +7,6 @@
 !!net-misc/dropbox:0
 !!net-misc/dropbox-cli:0
 !!net-misc/gsasl:0
-!!net-misc/hotot:0
 !!net-misc/mediatomb:0
 !!net-misc/netctl:0
 !!net-misc/networkmanager-openswan:0
@@ -25,6 +24,9 @@
 !!net-misc/tn5250:0
 !!net-misc/unison:2.48
 
+# not compiled
+!!net-misc/hotot:0
+
 # need to download
 !!net-misc/icaclient:0
 
@@ -41,7 +43,6 @@ net-misc/dhcp
 
 #?in(os_linux_pkglist, CB2)!=#
 net-misc/dropbox
-net-misc/hotot
 net-misc/mediatomb
 net-misc/owncloud-client
 net-misc/telnet-bsd

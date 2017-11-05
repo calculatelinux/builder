@@ -4,9 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!media-gfx/asymptote:0
 !!media-gfx/darktable:0
-!!media-gfx/duhdraw:0
 !!media-gfx/evoluspencil:0
-!!media-gfx/gliv:0
 !!media-gfx/gnome-raw-thumbnailer:0
 !!media-gfx/graphicsmagick:0
 !!media-gfx/kphotoalbum:0
@@ -17,10 +15,11 @@
 !!media-gfx/symboleditor:0
 !!media-gfx/wings:0
 !!media-gfx/xli:0
-#in#
 
-#?in(os_linux_pkglist, CB2)!=#
-media-gfx/gimmage
+# not compiled
+!!media-gfx/duhdraw:0
+!!media-gfx/gliv:0
+!!media-gfx/videorbits:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -32,9 +31,7 @@ media-gfx/raw-thumbnailer
 
 #?in(os_linux_pkglist, CB4)!=#
 media-gfx/darktable
-media-gfx/duhdraw
 media-gfx/evoluspencil
-media-gfx/gliv
 media-gfx/gnome-raw-thumbnailer
 media-gfx/mcomix
 media-gfx/xli
