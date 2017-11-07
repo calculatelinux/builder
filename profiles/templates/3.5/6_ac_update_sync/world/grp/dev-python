@@ -93,6 +93,7 @@ pytest-catchlog
 !!hacking:0
 !!irc:0
 !!jaraco-logging:0
+!!libextractor-python:0
 !!llvmlite:0
 !!logilab-common:0
 !!logilab-constraint:0
