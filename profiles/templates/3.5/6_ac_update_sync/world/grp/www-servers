@@ -2,8 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-#?os_arch_machine==i686#
+
 # not compiled
 !!varnish:0
-#os_arch_machine#
 #in#
