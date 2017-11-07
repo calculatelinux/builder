@@ -8,6 +8,7 @@
 !app-i18n/fcitx-sunpinyin:0
 !app-i18n/fcitx-unikey:0
 !app-i18n/ibus-libpinyin:0
+!!app-i18n/kcm-fcitx:4-plasma5
 !app-i18n/libpinyin:0
 !app-i18n/librime:0
 !app-i18n/multiskkserv:0
@@ -20,4 +21,8 @@
 !skkfep:0
 !xcin:0
 #os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+app-i18n/kcm-fcitx:4-plasma5
 #in#
