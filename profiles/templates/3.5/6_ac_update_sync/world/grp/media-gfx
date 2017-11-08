@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!asymptote:0
+!!evoluspencil:0
 !!graphicsmagick:0
 !!mcomix:0
 !!raw-thumbnailer:0
@@ -22,6 +23,7 @@ raw-thumbnailer
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+evoluspencil
 mcomix
 xli
 #in#
