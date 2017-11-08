@@ -172,6 +172,7 @@ sys-apps/firejail
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+sys-apps/inxi
 # does not compile with the app-arch/rpm package
 sys-apps/ipmiutil
 #in#
