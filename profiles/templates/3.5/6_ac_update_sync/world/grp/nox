@@ -2,9 +2,6 @@
 
 #?in(os_linux_pkglist, CBS)!=#
 app-editors/vim
-app-emulation/libvirt
-app-emulation/lxc
-app-emulation/qemu
 app-text/ghostscript-gpl
 app-text/poppler
 dev-lang/mono

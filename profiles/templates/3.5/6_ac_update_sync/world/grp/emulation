@@ -20,7 +20,6 @@ app-emulation/libguestfs-appliance
 app-emulation/libspectrum
 app-emulation/libvirt
 app-emulation/libvirt-glib
-app-emulation/lxc
 app-emulation/open-vm-tools
 app-emulation/q4wine
 app-emulation/qemu
@@ -65,6 +64,7 @@ app-emulation/docker-machine
 app-emulation/docker-registry
 app-emulation/docker-swarm
 app-emulation/hyperd
+app-emulation/lxc
 app-emulation/lxd
 app-emulation/rkt
 #app-emulation/runc
@@ -80,4 +80,12 @@ app-emulation/xen-tools
 app-emulation/playonlinux
 app-emulation/wine-vanilla:2.0.2
 app-emulation/wine-vanilla:2.0.3
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+#?os_arch_machine==x86_64#
+app-emulation/lxc
+#os_arch_machine#
+app-emulation/qemu
+app-emulation/libvirt
 #in#
