@@ -83,9 +83,6 @@ app-emulation/wine-vanilla:2.0.3
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-#?os_arch_machine==x86_64#
-app-emulation/lxc
-#os_arch_machine#
 app-emulation/qemu
 app-emulation/libvirt
 #in#
