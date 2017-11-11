@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 corosync
 libdlm
-mpich
 mpich2
 openais
 pacemaker
@@ -12,6 +11,9 @@ pacemaker
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!corosync:0
+!!dlm-lib:0
+!!drbd-kernel:0
+!feedbackd-master:0
 !!libdlm:0
 !!mpich:0
 !!mpich2:0
@@ -19,4 +21,8 @@ pacemaker
 !!openais:0
 !!pacemaker:0
 !!rgmanager:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+mpich
 #in#
