@@ -25,7 +25,7 @@ pacemaker
 #?os_arch_machine==i686#
 # not compiled
 !!ceph:0
-#in#
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
