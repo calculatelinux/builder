@@ -22,6 +22,10 @@ pacemaker
 !!openais:0
 !!pacemaker:0
 !!rgmanager:0
+#?os_arch_machine==i686#
+# not compiled
+!!ceph:0
+#in#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
