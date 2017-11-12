@@ -11,6 +11,7 @@ pacemaker
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!corosync:0
+!!dlm:0
 !!dlm-lib:0
 !!drbd-kernel:0
 !feedbackd-master:0
