@@ -11,28 +11,29 @@ media-video/subtitlecomposer
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!media-video/aegisub:0
-!!media-video/baka-mplayer:0
-!!media-video/bino:0
-!!media-video/dvdrip:0
-!!media-video/get_flash_videos:0
-!!media-video/jubler:0
-!!media-video/kaffeine:5
-!!media-video/kamerka:0
-!!media-video/kmplayer:5
-!!media-video/libav:0
-!!media-video/matroxset:0
-!!media-video/minitube:0
-!!media-video/mplayer-resume:0
-!!media-video/noad:0
-!!media-video/nvidia_video_sdk:0
-!!media-video/plasma-mediacenter:5
-!!media-video/subtitlecomposer:5
-!!media-video/tovid:0
-!!media-video/xine-ui:0
+!!aegisub:0
+!!baka-mplayer:0
+!!bino:0
+!!dvdrip:0
+!!get_flash_videos:0
+!!jubler:0
+!!kaffeine:5
+!!kamerka:0
+!!kmplayer:5
+!!libav:0
+!!matroxset:0
+!!minitube:0
+!!mplayer-resume:0
+!!noad:0
+!!nvidia_video_sdk:0
+!!plasma-mediacenter:5
+!!subtitlecomposer:5
+!!tovid:0
+!!xine-ui:0
 
 #?os_arch_machine==i686#
 # not compiled
-!!media-video/gxine:0
+!!dirac:0
+!!gxine:0
 #os_arch_machine#
 #in#
