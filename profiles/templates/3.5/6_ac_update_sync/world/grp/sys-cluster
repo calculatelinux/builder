@@ -4,7 +4,7 @@
 corosync
 libdlm
 mpich2
-openais
+#openais
 pacemaker
 #in#
 
