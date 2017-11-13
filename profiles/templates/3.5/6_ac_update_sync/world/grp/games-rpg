@@ -1,9 +1,14 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB2)!=#
+sumwars
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 
 !!lure:0
+!!sumwars:0
 
 # need to download
 !!arx-fatalis-data:0
