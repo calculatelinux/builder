@@ -1,0 +1,21 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+
+!!lure:0
+
+# need to download
+!!arx-fatalis-data:0
+!!arx-fatalis-demo:0
+!!avadon:0
+!!bastion:0
+!!dear-esther:0
+!!grimrock:0
+!!penumbra-collection:0
+!!to-the-moon:0
+
+# large packages
+# 213M
+!!freedroidrpg:0
+#in#

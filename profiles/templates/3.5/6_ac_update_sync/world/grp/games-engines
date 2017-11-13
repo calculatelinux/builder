@@ -1,0 +1,10 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+
+# not compiled
+!!frobtads:0
+!!frotz:0
+!!love:0
+#in#
