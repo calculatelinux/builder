@@ -71,7 +71,6 @@ app-admin/puppetdb
 #app-admin/puppetserver
 app-admin/pwcrypt
 app-admin/pydf
-app-admin/python-updater
 app-admin/qpage
 app-admin/quickswitch
 app-admin/ranpwd
