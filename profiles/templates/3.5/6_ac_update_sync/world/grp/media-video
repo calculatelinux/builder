@@ -14,6 +14,7 @@ media-video/subtitlecomposer
 !!aegisub:0
 !!baka-mplayer:0
 !!bino:0
+!!dirac:0
 !!dvdrip:0
 !!get_flash_videos:0
 !!jubler:0
@@ -33,7 +34,6 @@ media-video/subtitlecomposer
 
 #?os_arch_machine==i686#
 # not compiled
-!!dirac:0
 !!gxine:0
 #os_arch_machine#
 #in#
