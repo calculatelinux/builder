@@ -1,1 +1,2 @@
-sys-apps/calculate-utils backup install server -client -console -desktop -minimal -pxe -qt4
+# for CLC
+sys-apps/calculate-utils backup install -client -console -desktop -minimal -pxe -qt4
