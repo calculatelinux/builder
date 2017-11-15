@@ -1,7 +1,12 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB2)!=#
+deadbeef-fb
+#in#
+
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!deadbeef-fb:0
 !mediastreamer-silk:0
 !vdr-rotor:0
 #?os_arch_machine==i686#
