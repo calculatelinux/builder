@@ -24,6 +24,11 @@
 
 # need to download
 !!device-atlas-api-c:0
+
+#?os_arch_machine==i686#
+# need to download
+!!beignet:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
