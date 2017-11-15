@@ -69,7 +69,6 @@ media-sound/darksnow
 media-sound/daudio
 media-sound/dcadec
 media-sound/dcd
-media-sound/deadbeef
 media-sound/dir2ogg
 media-sound/drumstick
 media-sound/easytag
@@ -273,4 +272,8 @@ media-sound/xmms2
 media-sound/xnoise
 media-sound/xwax
 media-sound/zynaddsubfx
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+media-sound/deadbeef
 #in#
