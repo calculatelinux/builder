@@ -1,10 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
-clang:0
-llvm:0
-#in#
-
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!gcc:4.9.4
