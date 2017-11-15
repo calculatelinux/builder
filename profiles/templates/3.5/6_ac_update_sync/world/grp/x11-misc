@@ -16,8 +16,13 @@ bumblebee
 #-world(#-cl_pass_file-#)-#
 
 !!bumblebee:0
-!!kronometer:0
+!!kronometer:5
+!!notification-daemon:0
 !!pcmanfm-qt:0
 !!sddm:0
 !!touchcal:0
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+notification-daemon
 #in#
