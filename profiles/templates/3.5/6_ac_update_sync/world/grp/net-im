@@ -33,6 +33,7 @@ net-im/telepathy-mission-control
 net-im/tkabber
 net-im/toxic
 net-im/vacuum
+net-im/viber
 net-im/ysm
 #?os_arch_machine==x86_64#
 net-im/skypeforlinux
