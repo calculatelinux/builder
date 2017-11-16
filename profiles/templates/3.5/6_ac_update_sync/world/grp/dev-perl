@@ -407,7 +407,6 @@ dev-perl/HTML-Clean
 dev-perl/HTML-Element-Extended
 dev-perl/HTML-FillInForm
 dev-perl/HTML-Form
-dev-perl/HTML-Format
 #dev-perl/HTML-FormatText-WithLinks
 #dev-perl/HTML-FormatText-WithLinks-AndTables
 dev-perl/HTML-FromText
