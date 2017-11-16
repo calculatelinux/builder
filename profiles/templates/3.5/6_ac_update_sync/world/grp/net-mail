@@ -4,16 +4,23 @@
 #-world(#-cl_pass_file-#)-#
 !!bincimap:0
 !!courier-imap:0
+!!mailutils:0
 !!netqmail:0
+!!nullmailer:0
 !!uw-imap:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-bincimap
 courier-imap
+mailutils
 netqmail
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+bincimap
+nullmailer
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
 uw-imap
 #in#
