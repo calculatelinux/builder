@@ -3,6 +3,9 @@
 #?in(os_linux_pkglist, CB1)!=#
 mysql
 mytop
+#in#
+
+#?in(os_linux_pkglist, CB1)!=#
 tinycdb
 #in#
 
