@@ -10,7 +10,6 @@
 !!mailutils:0
 !!mu:0
 !!netqmail:0
-!!nullmailer:0
 !!qmailadmin:0
 !!qmhandle:0
 !!smtptools:0
@@ -35,7 +34,6 @@ vpopmail
 #?in(os_linux_pkglist, CB3)!=#
 bincimap
 mu
-nullmailer
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
