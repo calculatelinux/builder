@@ -28,5 +28,4 @@ mail-mta/nullmailer
 #?in(os_linux_pkglist, CBS)!=#
 mail-mta/postfix
 net-im/ejabberd
-sys-apps/calculate-server
 #in#

@@ -4,9 +4,10 @@
 #-world(#-cl_pass_file-#)-#
 !!man:0
 !!modutils:0
-!!sys-apps/gentoo-systemd-integration:0
-!!sys-apps/systemd:0
-!!sys-apps/systemd-readahead:0
+!!gentoo-systemd-integration:0
+!!systemd:0
+!!systemd-readahead:0
+!!calculate-server:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -14,5 +15,6 @@ man
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+calculate-server
 inxi
 #in#
