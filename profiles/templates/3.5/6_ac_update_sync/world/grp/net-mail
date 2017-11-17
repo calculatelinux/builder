@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!bincimap:0
+!!checkpassword:0
 !!courier-imap:0
 !!dbmail:0
 !!maildirtree:0
@@ -12,14 +13,17 @@
 !!nullmailer:0
 !!uw-imap:0
 !!vchkuser:0
+!!vpopmail:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+checkpassword
 courier-imap
 dbmail
 maildirtree
 mailutils
 vchkuser
+vpopmail
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
