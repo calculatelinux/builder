@@ -4,6 +4,9 @@
 #-world(#-cl_pass_file-#)-#
 !!man:0
 !!modutils:0
+!!sys-apps/gentoo-systemd-integration:0
+!!sys-apps/systemd:0
+!!sys-apps/systemd-readahead:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
