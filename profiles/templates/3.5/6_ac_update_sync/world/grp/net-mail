@@ -20,7 +20,6 @@ cyrus-imapd
 #?in(os_linux_pkglist, CB3)!=#
 bincimap
 mu
-qtools
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
