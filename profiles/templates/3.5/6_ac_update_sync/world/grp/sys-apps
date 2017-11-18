@@ -5,6 +5,7 @@
 !!calculate-server:0
 !!firejail-lts:0
 !!gentoo-systemd-integration:0
+!lcdsplash:0
 !!man:0
 !!modutils:0
 !!systemd:0
