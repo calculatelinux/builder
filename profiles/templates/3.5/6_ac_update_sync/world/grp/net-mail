@@ -7,7 +7,7 @@ cyrus-imapd
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!bincimap:0
-!!cyrus-imap:0
+!!cyrus-imapd:0
 !!mu:0
 !!uw-imap:0
 
