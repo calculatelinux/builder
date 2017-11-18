@@ -9,6 +9,7 @@ cyrus-imapd
 !!bincimap:0
 !!cyrus-imapd:0
 !!mu:0
+!!qtools:0
 !!uw-imap:0
 
 # not compiled
@@ -19,6 +20,7 @@ cyrus-imapd
 #?in(os_linux_pkglist, CB3)!=#
 bincimap
 mu
+qtools
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
