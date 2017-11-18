@@ -18,7 +18,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 man
-utempter
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
