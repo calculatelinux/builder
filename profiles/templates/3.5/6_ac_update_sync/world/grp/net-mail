@@ -1,33 +1,19 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#-world(#-cl_pass_file-#)-#
-!!bincimap:0
-!!checkpassword:0
-!!courier-imap:0
-!!dbmail:0
-!!maildirtree:0
-!!mailutils:0
-!!mu:0
-!!netqmail:0
-!!qmailadmin:0
-!!qmhandle:0
-!!smtptools:0
-!!uw-imap:0
-!!vchkuser:0
-!!vpopmail:0
+cyrus-imapd
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-checkpassword
-courier-imap
-dbmail
-mailutils
-qmailadmin
-qmhandle
-smtptools
-vchkuser
-vpopmail
+#-world(#-cl_pass_file-#)-#
+!!bincimap:0
+!!cyrus-imap:0
+!!mu:0
+!!uw-imap:0
+
+# not compiled
+!!maildirtree:0
+!!qpopper:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
