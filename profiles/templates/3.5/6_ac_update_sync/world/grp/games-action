@@ -73,6 +73,6 @@ games-action/xbomber
 games-action/xpilot
 
 #?os_arch_machine==x86_64#
-games-action/oolite
+#games-action/oolite
 #os_arch_machine#
 #in#
