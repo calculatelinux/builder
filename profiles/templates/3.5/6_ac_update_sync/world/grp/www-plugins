@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!gnash:0
 #?os_arch_machine==i686#
 !!chrome-ublock:0
 #os_arch_machine#
