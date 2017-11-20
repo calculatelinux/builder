@@ -178,7 +178,7 @@ dev-util/shelltestrunner
 dev-util/shflags
 dev-util/shtool
 dev-util/shunit2
-dev-util/source-highlight
+#dev-util/source-highlight
 dev-util/splint
 dev-util/strace
 dev-util/stubgen
