@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 #not compiled
+!!c++robots:0
 !!fortune-mod-slackware:0
 !!robotfindskitten:0
 !!typespeed:0
