@@ -4,7 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 
 !!chrome-gnome-shell:0
-!!gnome-boxes:0
+!gnome-boxes:0
 !!gnome-logs:0
 !!gnome-power-manager:0
 !!gnome-shell-extensions:0
