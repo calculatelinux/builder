@@ -108,4 +108,5 @@ pytest-catchlog
 !!python-magic:0
 !!python-systemd:0
 !!soya:0
+!!visual:0
 #in#
