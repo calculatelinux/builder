@@ -15,7 +15,7 @@
 
 games-strategy/0ad
 games-strategy/0ad-data
-games-strategy/asc
+#games-strategy/asc
 games-strategy/boswars
 games-strategy/crimson
 games-strategy/darwinia

@@ -17,6 +17,10 @@
 !!gliv:0
 !!kphotoalbum:5
 !videorbits:0
+
+#?os_arch_machine==i686#
+!!openscad:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
