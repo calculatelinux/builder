@@ -3,10 +3,14 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!udev:0
-#not compided
+# not compided
 !!aufs3:0
 !!static-dev:0
 !!xfsdump:0
+#?os_arch_machine==i686#
+# not compiled
+!!sys-fs/e4rat:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
