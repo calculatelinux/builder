@@ -61,7 +61,7 @@ games-board/pouetchess
 games-board/pychess
 #games-board/pysolfc
 games-board/qcheckers
-games-board/qgo
+#games-board/qgo
 games-board/scid
 games-board/simsu
 games-board/sirius

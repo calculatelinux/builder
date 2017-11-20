@@ -166,7 +166,7 @@ media-sound/mumble
 media-sound/murmur
 media-sound/musepack-tools
 #media-sound/ncmpc
-media-sound/ncmpcpp
+#media-sound/ncmpcpp
 media-sound/neroaac
 media-sound/normalize
 media-sound/nted

@@ -21,7 +21,7 @@ net-p2p/multibit
 net-p2p/opentracker
 #net-p2p/ppcoind
 #net-p2p/ppcoin-qt
-net-p2p/qbittorrent
+#net-p2p/qbittorrent
 net-p2p/rtorrent
 net-p2p/vuze
 #in#
