@@ -11,18 +11,19 @@ tinycdb
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!mysql:0
 !!mytop:0
 !!opendbx:0
 !!oracle-instantclient-basic:0
 !!oracle-instantclient-jdbc:0
 !!oracle-instantclient-odbc:0
 !!oracle-instantclient-sqlplus:0
+!!percona-xtrabackup:0
 !!phppgadmin:5.1
 !!sqldeveloper:0
 !!sqlitebrowser:0
 !!sqliteman:0
 !!tinycdb:0
-!!mysql:0
 #?os_arch_machine==i686#
 # not compiled
 !!mongodb:0
