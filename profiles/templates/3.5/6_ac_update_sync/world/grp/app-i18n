@@ -4,7 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !app-i18n/dbskkd-cdb:0
 !app-i18n/fcitx-libpinyin:0
-!app-i18n/fcitx-rime:0
+!app-i18n/fcitx-rime:4
 !app-i18n/fcitx-sunpinyin:0
 !app-i18n/fcitx-unikey:0
 !app-i18n/ibus-libpinyin:0
