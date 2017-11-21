@@ -20,6 +20,9 @@
 
 #?os_arch_machine==i686#
 !!openscad:0
+
+# not compiled
+!!krita:5
 #os_arch_machine#
 #in#
 
