@@ -17,9 +17,10 @@
 !app-i18n/scim-anthy:0
 #?os_arch_machine==i686#
 # not compiled
-!scim-wnn:0
-!skkfep:0
-!xcin:0
+!!poedit:0
+!!scim-wnn:0
+!!skkfep:0
+!!xcin:0
 #os_arch_machine#
 #in#
 
