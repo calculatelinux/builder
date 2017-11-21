@@ -5,11 +5,11 @@
 #is blocking
 !!arping:2
 !!icinga:0
-!!icinga:0
 !!linkchecker:0
 !!monitoring-plugins:0
 !!nagstamon:0
 !!netcat6:0
+!!pnp4nagios:0
 !traceproto:0
 
 # not compiled

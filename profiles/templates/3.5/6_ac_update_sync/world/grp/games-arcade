@@ -80,7 +80,7 @@ games-arcade/pachi
 games-arcade/pacmanarena
 games-arcade/penguin-command
 games-arcade/pengupop
-games-arcade/performous
+#games-arcade/performous
 #games-arcade/primateplunge
 games-arcade/pycadia
 games-arcade/pydance
