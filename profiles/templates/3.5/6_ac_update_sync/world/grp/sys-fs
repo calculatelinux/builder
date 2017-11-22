@@ -15,5 +15,6 @@
 
 #?in(os_linux_pkglist, CBS)!=#
 cryptsetup
+ecryptfs-utils
 mtools
 #in#
