@@ -10,6 +10,7 @@ net-im/corebird
 net-im/discord-bin
 net-im/empathy
 net-im/gajim
+net-im/gajim-httpupload
 net-im/gg-transport
 net-im/jabber-base
 net-im/jabberd2
