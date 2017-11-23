@@ -21,7 +21,6 @@
 #?os_arch_machine==i686#
 # not compiled
 !!icinga2:0
-!!performous:0
 #os_arch_machine#
 #in#
 
