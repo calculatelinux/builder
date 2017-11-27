@@ -24,9 +24,7 @@ tinycdb
 !!sqlitebrowser:0
 !!sqliteman:0
 !!tinycdb:0
-#?os_arch_machine==i686#
 # not compiled
 !!mongodb:0
-#os_arch_machine#
 #in#
 

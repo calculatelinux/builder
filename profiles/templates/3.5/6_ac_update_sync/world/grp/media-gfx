@@ -16,11 +16,10 @@
 !!gimmage:0
 !!gliv:0
 !!kphotoalbum:5
+!!openscad:0
 !videorbits:0
 
 #?os_arch_machine==i686#
-!!openscad:0
-
 # not compiled
 !!krita:5
 #os_arch_machine#
