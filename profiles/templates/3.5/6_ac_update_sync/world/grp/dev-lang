@@ -9,6 +9,8 @@
 !!mono-basic:0
 !!scala-bin:0
 !!xsb:0
+#not compiled
+!gnat-gpl:0
 #?os_arch_machine==i686#
 !!mozart:0
 !!mozart-stdlib:0
