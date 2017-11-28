@@ -1,7 +1,7 @@
 sys-apps/calculate-utils -backup -client -console -desktop -install -pxe -qt4
 
 # Use uksm instead ksm for Calculate Linux Container
-sys-kernel/calculate-sources uksm
+sys-kernel/calculate-sources uksm -themes
 
 # required by x11-misc/bumblebee-3.2.1
 >=x11-base/xorg-drivers-1.19 video_cards_nvidia
