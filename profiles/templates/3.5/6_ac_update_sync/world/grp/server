@@ -16,7 +16,6 @@ net-fs/netatalk
 net-fs/samba
 #net-proxy/havp
 net-proxy/privoxy
-net-proxy/squid
 #net-proxy/squidguard
 net-wireless/hostapd
 #in#
@@ -28,4 +27,5 @@ mail-mta/nullmailer
 #?in(os_linux_pkglist, CBS)!=#
 mail-mta/postfix
 net-im/ejabberd
+net-proxy/squid
 #in#

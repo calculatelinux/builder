@@ -8,6 +8,7 @@ cyrus-imapd
 #-world(#-cl_pass_file-#)-#
 !!bincimap:0
 !!cyrus-imapd:0
+!!dovecot:0
 !!mu:0
 !qtools:0
 !!uw-imap:0
@@ -24,4 +25,8 @@ mu
 
 #?in(os_linux_pkglist, CB4)!=#
 uw-imap
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+dovecot
 #in#
