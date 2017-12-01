@@ -114,7 +114,6 @@ dev-ruby/rexical
 dev-ruby/rgen
 dev-ruby/riel
 dev-ruby/right_http_connection
-dev-ruby/rmagick
 dev-ruby/rr
 #dev-ruby/rrdtool-bindings
 dev-ruby/rspec
@@ -176,7 +175,6 @@ dev-ruby/shoulda
 dev-ruby/simple-rss
 dev-ruby/sinatra
 dev-ruby/snmplib
-dev-ruby/sparklines
 dev-ruby/spork
 dev-ruby/sqlite3
 dev-ruby/stomp
