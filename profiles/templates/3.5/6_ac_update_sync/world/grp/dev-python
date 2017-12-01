@@ -56,6 +56,7 @@ pytest-catchlog
 !!paisley:0
 !!pyldap:0
 !!pytest-catchlog:0
+!python3-openid:0
 !!pyutil:0
 !!translate-toolkit:0
 !!twisted-conch:0
