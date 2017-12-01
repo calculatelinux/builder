@@ -69,7 +69,6 @@ app-emulation/lxd
 app-emulation/rkt
 #app-emulation/runc
 app-emulation/runv
-app-emulation/wine
 app-emulation/winetricks
 app-emulation/xen
 app-emulation/xen-pvgrub

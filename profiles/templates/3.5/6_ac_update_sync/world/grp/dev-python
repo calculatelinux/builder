@@ -84,6 +84,7 @@ pytest-catchlog
 !!blaze:0
 !!celery:0
 !!CommonMark:0
+!!dev-python/python-social-auth:0
 !!django-social-auth:0
 !!elasticsearch-curator:0
 !!flake8:0
@@ -105,6 +106,7 @@ pytest-catchlog
 !!pymssql:0
 !!pyndex:0
 !!pyqwt:5
+!python3-openid:0
 !!python-magic:0
 !!python-systemd:0
 !!soya:0
