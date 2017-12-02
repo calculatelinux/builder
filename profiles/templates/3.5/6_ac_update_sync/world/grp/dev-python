@@ -75,9 +75,11 @@ pytest-catchlog
 !!zfec:0
 
 # not compiled
+!!astropy:0
 !!astropy-helpers:0
 !!graph-tool:0
 !!pygresql:0
+!!wcsaxes:0
 
 !!astng:0
 !!basemap:0
