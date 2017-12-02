@@ -108,6 +108,7 @@ pytest-catchlog
 !!pyndex:0
 !!pyqwt:5
 !python3-openid:0
+!!python-dateutil:0
 !!python-magic:0
 !!python-systemd:0
 !!soya:0

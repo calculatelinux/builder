@@ -14,14 +14,10 @@
 
 # not compiled
 !!dsniff:0
+!!icinga2:0
 !ndsad:0
 !!ostinato:0
 !scanlogd:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!icinga2:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
