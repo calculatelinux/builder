@@ -10,6 +10,7 @@ pacemaker
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!ceph:0
 !!corosync:0
 !!dlm:0
 !!dlm-lib:0
@@ -22,10 +23,6 @@ pacemaker
 !!openais:0
 !!pacemaker:0
 !!rgmanager:0
-#?os_arch_machine==i686#
-# not compiled
-!!ceph:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
