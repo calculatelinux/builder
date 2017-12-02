@@ -42,7 +42,7 @@ dev-ruby/flexmock
 dev-ruby/GeoRuby
 #dev-ruby/gherkin
 #dev-ruby/git
-dev-ruby/gruff
+#dev-ruby/gruff
 dev-ruby/hashicorp-checkpoint
 dev-ruby/hashie
 dev-ruby/heredoc_unindent
