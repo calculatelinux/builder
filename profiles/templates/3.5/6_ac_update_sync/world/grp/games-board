@@ -41,9 +41,7 @@ games-board/grhino
 games-board/gtkatlantic
 games-board/gtkboard
 games-board/hexxagon
-games-board/holdingnuts
 games-board/iagno
-games-board/kcheckers
 games-board/mah-jong
 games-board/maitretarot
 games-board/megamek
@@ -60,7 +58,6 @@ games-board/pioneers
 games-board/pouetchess
 games-board/pychess
 #games-board/pysolfc
-games-board/qcheckers
 #games-board/qgo
 games-board/scid
 games-board/simsu
