@@ -7,7 +7,6 @@
 !!net-misc/dropbox:0
 !!net-misc/dropbox-cli:0
 !!net-misc/gsasl:0
-!!net-misc/mediatomb:0
 !!net-misc/netctl:0
 !!net-misc/networkmanager-openswan:0
 !!net-misc/openntpd:0
@@ -43,7 +42,6 @@ net-misc/dhcp
 
 #?in(os_linux_pkglist, CB2)!=#
 net-misc/dropbox
-net-misc/mediatomb
 net-misc/owncloud-client
 net-misc/telnet-bsd
 #in#
