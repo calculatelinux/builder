@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 #?os_arch_machine==i686#
-!firehol:0
+!!firehol:0
+!!fwbuilder:0
 #os_arch_machine#
 #in#
