@@ -20,7 +20,6 @@
 #os_arch_machine#
 
 # need to download
-!!java-sdk-docs:1.7
 !!java-sdk-docs:1.8
 !!jdbc-informix:0
 !!jta:0
