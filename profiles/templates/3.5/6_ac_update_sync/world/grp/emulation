@@ -53,7 +53,6 @@ games-emulation/dosbox
 games-emulation/hatari
 games-emulation/mednafen
 games-server/mednafen-server
-#sci-visualization/qtiplot
 #in#
 
 #?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
