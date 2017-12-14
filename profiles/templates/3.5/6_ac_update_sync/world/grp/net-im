@@ -32,7 +32,6 @@ net-im/telepathy-connection-managers
 net-im/telepathy-logger
 net-im/telepathy-mission-control
 net-im/tkabber
-net-im/toxic
 net-im/vacuum
 net-im/ysm
 #?os_arch_machine==x86_64#

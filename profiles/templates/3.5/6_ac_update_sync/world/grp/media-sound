@@ -7,7 +7,6 @@ media-sound/audacious
 
 #?in(os_linux_pkglist, CB1)!=#
 # requires KDE
-media-sound/amarok
 media-sound/audex
 media-sound/cantata
 #media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
