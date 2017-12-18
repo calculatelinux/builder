@@ -74,7 +74,7 @@ app-emulation/xen-pvgrub
 app-emulation/xen-tools
 #in#
 
-#?in(os_linux_pkglist, CB3)!=&&os_arch_machine==x86_64#
+#?in(os_linux_pkglist, CB3)!=#
 app-emulation/playonlinux
 app-emulation/wine-vanilla:2.0.2
 app-emulation/wine-vanilla:2.0.3
