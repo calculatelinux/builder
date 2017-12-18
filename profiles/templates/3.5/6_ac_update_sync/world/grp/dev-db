@@ -19,7 +19,6 @@ tinycdb
 !!oracle-instantclient-odbc:0
 !!oracle-instantclient-sqlplus:0
 !!percona-xtrabackup:0
-!!phppgadmin:5.1
 !!sqldeveloper:0
 !!sqlitebrowser:0
 !!sqliteman:0
