@@ -84,7 +84,6 @@ app-vim/nginx-syntax
 app-vim/notes
 app-vim/ntp-syntax
 app-vim/omnicppcomplete
-app-vim/pam-syntax
 app-vim/pathogen
 app-vim/pdv
 app-vim/perlomni
