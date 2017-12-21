@@ -9,6 +9,7 @@
 !!xfsdump:0
 # not supported in kernel 4.14
 !spl:0
+!zfs:0
 !zfs-kmod:0
 #?os_arch_machine==i686#
 # not compiled
