@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 !xf86-video-ark:0
 !xf86-video-modesetting:0
+!xf86-video-virtualbox:0
 #in#
