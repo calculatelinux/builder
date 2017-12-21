@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!net-misc/arpd:0
 !!net-misc/bfgminer:0
+!!net-misc/dahdi:0
 !!net-misc/dropbox:0
 !!net-misc/dropbox-cli:0
 !!net-misc/gsasl:0
