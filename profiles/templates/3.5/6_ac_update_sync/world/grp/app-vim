@@ -138,7 +138,6 @@ app-vim/vimbuddy
 app-vim/vimclojure
 app-vim/vimcommander
 app-vim/vim-flake8
-app-vim/vim-latex
 app-vim/vim-misc
 app-vim/vimoutliner
 app-vim/vimpython
