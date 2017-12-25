@@ -13,6 +13,7 @@
 !traceproto:0
 
 # not compiled
+!!dsniff:0
 !ndsad:0
 !!ostinato:0
 !!scanlogd:0
