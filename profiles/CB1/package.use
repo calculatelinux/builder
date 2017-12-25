@@ -1,3 +1,2 @@
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
-sys-kernel/calculate-sources -muqss
