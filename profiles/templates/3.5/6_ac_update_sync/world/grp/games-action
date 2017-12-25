@@ -19,7 +19,7 @@ games-action/chickens
 games-action/chromium-bsu
 games-action/clanbomber
 games-action/d1x-rebirth
-games-action/d2x-rebirth
+#games-action/d2x-rebirth
 games-action/deathchase3d
 games-action/descent1-demodata
 #games-action/descent2-data
