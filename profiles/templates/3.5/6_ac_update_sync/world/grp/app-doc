@@ -26,9 +26,6 @@ app-doc/lapack-docs
 app-doc/linkers-and-loaders
 app-doc/linux-device-drivers
 app-doc/linuxfromscratch
-app-doc/linux-gazette
-app-doc/linux-gazette-all
-app-doc/linux-gazette-base
 app-doc/linux-kernel-in-a-nutshell
 app-doc/mkdoxy
 app-doc/motif-reference-manual
@@ -36,7 +33,6 @@ app-doc/NaturalDocs
 app-doc/php-docs
 app-doc/phrack
 app-doc/phrack-all
-app-doc/podbrowser
 app-doc/root-docs
 app-doc/selflinux
 app-doc/single-unix-specification
