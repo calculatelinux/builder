@@ -6,7 +6,6 @@
 #-world(#-cl_pass_file-#)-#
 !!mercury:0
 !!mercury-extras:0
-!!mono-basic:0
 !!scala-bin:0
 !!xsb:0
 #not compiled
