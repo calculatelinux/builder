@@ -9,6 +9,7 @@
 !!scala-bin:0
 !!xsb:0
 #not compiled
+!gnat-gpl:4.9.4
 !gnat-gpl:6.3.0
 #?os_arch_machine==i686#
 !!mozart:0
