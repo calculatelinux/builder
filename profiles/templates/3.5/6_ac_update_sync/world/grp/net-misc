@@ -27,6 +27,7 @@
 
 # not compiled
 !!net-misc/hotot:0
+!!net-misc/quagga:0
 
 # need to download
 !!net-misc/icaclient:0
