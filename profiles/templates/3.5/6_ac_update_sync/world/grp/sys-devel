@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!autoconf:2.5
 !!clang:0
 !gcc:5.4.0
 !!llvm:0
