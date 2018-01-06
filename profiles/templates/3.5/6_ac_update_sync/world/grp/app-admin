@@ -62,8 +62,7 @@ app-admin/packagekit-qt
 app-admin/pass
 app-admin/passook
 app-admin/pprocm
-app-admin/procinfo
-#app-admin/procinfo-ng
+app-admin/procinfo-ng
 app-admin/psmon
 #app-admin/puppet
 #app-admin/puppet-agent
