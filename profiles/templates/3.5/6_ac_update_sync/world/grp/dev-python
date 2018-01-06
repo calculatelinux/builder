@@ -77,6 +77,7 @@ pytest-catchlog
 # not compiled
 !astropy:0
 !astropy-helpers:0
+!!brython:0
 !!graph-tool:0
 !!pygresql:0
 !wcsaxes:0
