@@ -7,7 +7,6 @@
 !!libiconv:0
 !!libintl:0
 !libressl:0
-!!qoauth:0
 !!tre:0
 
 # not compiled
