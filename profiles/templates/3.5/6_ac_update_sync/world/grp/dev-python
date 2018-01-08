@@ -53,6 +53,11 @@ pytest-catchlog
 !!minimock:0
 !!morbid:0
 !!nevow:0
+!!os-brick:0
+!!oslo-privsep:0
+!!oslo-service:0
+!!oslo-vmware:0
+!!os-win:0
 !!paisley:0
 !!pyldap:0
 !!pytest-catchlog:0

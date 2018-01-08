@@ -11,14 +11,17 @@ pacemaker
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!ceph:0
+!!cinder:0
 !!corosync:0
 !!dlm:0
 !!dlm-lib:0
 !!drbd-kernel:0
 !feedbackd-master:0
+!!heat:0
 !!libdlm:0
 !!mpich:0
 !!mpich2:0
+!!neutron:0
 !!nova:0
 !!openais:0
 !!pacemaker:0
