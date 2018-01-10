@@ -58,9 +58,9 @@ games-fps/urbanterror
 games-fps/avp
 games-fps/blackshades
 games-fps/darkplaces
-games-fps/doom-data
-games-fps/doomsday
-games-fps/doomsday-resources
+#games-fps/doom-data
+#games-fps/doomsday
+#games-fps/doomsday-resources
 games-fps/duke3d-demodata
 games-fps/eduke32
 #games-fps/enemy-territory-etpro
