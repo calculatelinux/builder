@@ -143,7 +143,7 @@ dev-ruby/ruby-gettext
 dev-ruby/ruby-gstreamer
 #dev-ruby/ruby-gtk2
 dev-ruby/ruby-gtk3
-dev-ruby/ruby-gtksourceview
+#dev-ruby/ruby-gtksourceview
 dev-ruby/ruby-gtksourceview3
 dev-ruby/ruby-ldap
 #dev-ruby/ruby-oci8
@@ -153,14 +153,14 @@ dev-ruby/ruby-openid
 #dev-ruby/ruby-pango
 dev-ruby/rubypants
 dev-ruby/ruby_parser
-dev-ruby/ruby-poppler
+#dev-ruby/ruby-poppler
 dev-ruby/ruby-progressbar
 dev-ruby/ruby-romkan
 dev-ruby/ruby-rsvg
 dev-ruby/ruby-sdl
 dev-ruby/ruby-shadow
 dev-ruby/ruby-termios
-dev-ruby/ruby-vte
+#dev-ruby/ruby-vte
 dev-ruby/ruby-vte3
 dev-ruby/ruby-webkit2-gtk
 dev-ruby/ruby-xslt
