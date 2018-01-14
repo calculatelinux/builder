@@ -7,4 +7,8 @@
 !!tigcc:0
 !!urjtag:0
 !!ponyprog:0
+
+#?os_arch_machine==i686#
+!!picp:0
+#os_arch_machine#
 #in#

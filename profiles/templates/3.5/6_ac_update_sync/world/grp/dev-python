@@ -82,8 +82,11 @@ pytest-catchlog
 # not compiled
 !astropy:0
 !astropy-helpers:0
+!!blockcanvas:0
 !!brython:0
+!!chaco:0
 !!enable:0
+!!graphcanvas:0
 !!graph-tool:0
 !!psycopg:0
 !!pygresql:0

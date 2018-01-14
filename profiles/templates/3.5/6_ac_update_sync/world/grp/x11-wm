@@ -3,6 +3,10 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!afterstep:0
+
+#?os_arch_machine==i686#
+!!treewm:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#

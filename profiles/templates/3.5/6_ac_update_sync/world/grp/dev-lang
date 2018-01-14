@@ -12,6 +12,7 @@
 !gnat-gpl:4.9.4
 !gnat-gpl:6.3.0
 #?os_arch_machine==i686#
+!!gprolog:0
 !!mozart:0
 !!mozart-stdlib:0
 !!tinycobol:0
