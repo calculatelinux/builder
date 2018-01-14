@@ -8,6 +8,7 @@
 !!eclipse-ecj:4.2
 !!httpcomponents-client:4.5
 !!jackrabbit-webdav:0
+!!jamvm:0
 !netbeans-javadoc:8.2
 !!relaxngcc:0
 
