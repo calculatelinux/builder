@@ -8,7 +8,10 @@ deadbeef-fb
 #-world(#-cl_pass_file-#)-#
 !!deadbeef-fb:0
 !mediastreamer-silk:0
+!!vdr-live:0
 !vdr-rotor:0
+!!vdr-ttxtsubs:0
+!!vdr-vompserver:0
 #?os_arch_machine==i686#
 !gst-plugins-srtp:1.0
 !vdr-radiolist:0

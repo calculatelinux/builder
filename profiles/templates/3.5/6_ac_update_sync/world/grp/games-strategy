@@ -35,7 +35,7 @@ games-strategy/lightyears
 games-strategy/liquidwar
 games-strategy/liquidwar6
 games-strategy/majesty-demo
-games-strategy/maxr
+#games-strategy/maxr
 #games-strategy/megaglest
 games-strategy/openra
 games-strategy/outerspace

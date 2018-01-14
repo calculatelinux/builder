@@ -83,7 +83,9 @@ pytest-catchlog
 !astropy:0
 !astropy-helpers:0
 !!brython:0
+!!enable:0
 !!graph-tool:0
+!!psycopg:0
 !!pygresql:0
 !wcsaxes:0
 
