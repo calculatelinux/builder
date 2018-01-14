@@ -5,7 +5,7 @@ dev-php/adodb
 dev-php/File_Iterator
 dev-php/igbinary
 dev-php/jpgraph
-dev-php/ming-php
+#dev-php/ming-php
 dev-php/pear
 dev-php/PEAR-Archive_Tar
 dev-php/PEAR-Auth_SASL

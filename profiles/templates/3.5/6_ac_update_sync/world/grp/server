@@ -5,7 +5,7 @@ net-fs/netatalk
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
-mail-filter/clamsmtp
+#mail-filter/clamsmtp
 mail-filter/opendkim
 mail-filter/postgrey
 mail-filter/procmail

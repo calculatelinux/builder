@@ -141,7 +141,7 @@ dev-ruby/ruby-gettext
 #dev-ruby/ruby-gnome2
 #dev-ruby/ruby-gobject-introspection
 dev-ruby/ruby-gstreamer
-dev-ruby/ruby-gtk2
+#dev-ruby/ruby-gtk2
 dev-ruby/ruby-gtk3
 dev-ruby/ruby-gtksourceview
 dev-ruby/ruby-gtksourceview3
