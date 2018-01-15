@@ -48,7 +48,3 @@ app-office/kmymoney
 app-office/libalkimia
 app-office/skrooge
 #in#
-
-#?in(os_linux_pkglist, CB3)!=#
-app-office/odeskteam
-#in#
