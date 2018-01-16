@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 corosync
+drbd
 libdlm
 mpich2
 #openais
@@ -15,6 +16,7 @@ pacemaker
 !!corosync:0
 !!dlm:0
 !!dlm-lib:0
+!!drbd:0
 !!drbd-kernel:0
 !feedbackd-master:0
 !!heat:0
