@@ -25,7 +25,6 @@ app-emulation/q4wine
 app-emulation/qemu
 app-emulation/qemu-guest-agent
 app-emulation/qemu-init-scripts
-app-emulation/qtemu
 app-emulation/s6-overlay
 app-emulation/simh
 app-emulation/softgun
