@@ -4,7 +4,9 @@
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!gruff:0
+!!rmagick:0
 !!rrdtool-bindings:0
 !!ruby-gtk2:0
 !!ruby-oci8:0
+!!sparklines:0
 #in#
