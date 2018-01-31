@@ -5,10 +5,12 @@
 !!fam:0
 !!puppet-agent:0
 !!puppetserver:0
+!!logsentry:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 fam
+logsentry
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
