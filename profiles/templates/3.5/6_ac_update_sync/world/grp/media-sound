@@ -23,9 +23,9 @@ media-sound/tomahawk
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+#-world(#-cl_pass_file-#)-#
 
 #?os_arch_machine==x86_64#
-#-world(#-cl_pass_file-#)-#
 # not compiled for x86
 !!quark:0
 !!xineadump:0
