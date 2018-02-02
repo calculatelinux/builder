@@ -1,7 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+purpose
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!purpose:5
+
 # is blocking
 !!libelf:0
 !!libiconv:0
