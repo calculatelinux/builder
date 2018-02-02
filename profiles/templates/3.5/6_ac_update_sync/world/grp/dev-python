@@ -50,8 +50,10 @@ pytest-catchlog
 !!jaraco-utils:0
 !!ldappool:0
 !!mantissa:0
+!!glance_store:0
 !!minimock:0
 !!morbid:0
+!!neutron-lib:0
 !!nevow:0
 !!os-brick:0
 !!oslo-messaging:0
@@ -59,6 +61,7 @@ pytest-catchlog
 !!oslo-service:0
 !!oslo-vmware:0
 !!osprofiler:0
+!!os-vif:0
 !!os-win:0
 !!paisley:0
 !!pyldap:0
