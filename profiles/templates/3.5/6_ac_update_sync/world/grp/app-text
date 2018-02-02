@@ -14,6 +14,8 @@ bibus
 !!wklej:0
 !!xindy:0
 !!zathura-pdf-mupdf:0
+# EULA
+!fdftk:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
