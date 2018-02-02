@@ -1,14 +1,12 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-kube
 trojita
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!cone:0
-!!kube:5
 !!nail:0
 !!thunderbird-bin:0
 !!trojita:0
