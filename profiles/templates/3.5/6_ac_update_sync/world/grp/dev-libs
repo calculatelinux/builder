@@ -1,14 +1,12 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-kimap2
 purpose
 sink
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!kimap2:5
 !!purpose:5
 !!sink:5
 
