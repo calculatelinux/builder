@@ -9,6 +9,8 @@ trojita
 !!nail:0
 !!thunderbird-bin:0
 !!trojita:0
+# not compiled
+!!etpan-ng:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
