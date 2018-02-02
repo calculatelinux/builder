@@ -1,28 +1,15 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-mail-client/trojita
-#in#
-
-#?in(os_linux_pkglist, CBS)!=#
-# mail-client/nail is blocking mail-client/mailx
-mail-client/nail
+trojita
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-mail-client/alpine
-mail-client/balsa
-mail-client/clawsker
-mail-client/claws-mail
-#mail-client/cone
-mail-client/evolution
-mail-client/geary
-mail-client/mail-notification
-mail-client/mailx
-mail-client/mailx-support
-mail-client/mutt
-mail-client/pinepgp
-mail-client/roundcube
-mail-client/sylpheed
-mail-client/thunderbird
+#-world(#-cl_pass_file-#)-#
+!!nail:0
+!!trojita:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+nail
 #in#
