@@ -7,6 +7,7 @@ trojita
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!nail:0
+!!thunderbird-bin:0
 !!trojita:0
 #in#
 
