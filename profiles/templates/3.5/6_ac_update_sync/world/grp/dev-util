@@ -13,13 +13,6 @@
 !!pkgconf:0
 !!pycharm-community:0
 !!pycharm-professional:0
-
-#?os_arch_machine==i686#
-!!intel-ocl-sdk:0
-!!nvidia-cuda-sdk:0
-!!nvidia-cuda-toolkit:0
-!!vint:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

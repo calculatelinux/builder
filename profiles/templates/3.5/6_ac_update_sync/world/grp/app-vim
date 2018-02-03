@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!automatictexplugin:0
 !!ctx:0
-!!logilab-common:0
 !!perl-support:0
 !!python-mode:0
 !!slimv:0
