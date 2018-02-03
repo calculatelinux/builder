@@ -2,11 +2,13 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!automatictexplugin:0
 !!ctx:0
 !!logilab-common:0
 !!perl-support:0
 !!python-mode:0
 !!unite:0
+!!vim-latex:0
 !!zenburn:0
 #in#
 
