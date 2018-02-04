@@ -3,4 +3,9 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!limit:0
+# not compiled
+#?os_arch_machine==i686#
+!!chess:0
+!!lyskom-elisp-client:0
+#os_arch_machine#
 #in#

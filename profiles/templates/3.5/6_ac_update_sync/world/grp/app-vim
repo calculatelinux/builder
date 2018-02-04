@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!automatictexplugin:0
+!!colorschemes:0
 !!colorv:0
 !!ctx:0
 !!perl-support:0
@@ -21,4 +22,8 @@ logilab-common
 python-mode
 unite
 zenburn
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+colorschemes
 #in#

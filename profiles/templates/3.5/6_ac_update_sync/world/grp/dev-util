@@ -13,6 +13,11 @@
 !!pkgconf:0
 !!pycharm-community:0
 !!pycharm-professional:0
+# not compiled
+#?os_arch_machine==i686#
+!!fhist:0
+!!sel:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
