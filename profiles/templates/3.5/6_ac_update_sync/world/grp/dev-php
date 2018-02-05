@@ -7,6 +7,10 @@
 !!PEAR-Net_LDAP2:0
 !!PEAR-Net_LDAP3:0
 !!pecl-imagick:0
+#?os_arch_machine==i686#
+# not compiled
+!!ming-php:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
