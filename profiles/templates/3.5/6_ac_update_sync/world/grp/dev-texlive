@@ -1,24 +1,8 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-dev-texlive/texlive-bibtexextra
-dev-texlive/texlive-formatsextra
-dev-texlive/texlive-games
-dev-texlive/texlive-humanities
-dev-texlive/texlive-langafrican
-dev-texlive/texlive-langarabic
-dev-texlive/texlive-langchinese
-dev-texlive/texlive-langcjk
-dev-texlive/texlive-langgreek
-dev-texlive/texlive-langindic
-dev-texlive/texlive-langjapanese
-dev-texlive/texlive-langkorean
-dev-texlive/texlive-langother
-dev-texlive/texlive-luatex
-#dev-texlive/texlive-mathextra
-dev-texlive/texlive-metapost
-dev-texlive/texlive-music
-dev-texlive/texlive-omega
-dev-texlive/texlive-publishers
-dev-texlive/texlive-xetex
+#-world(#-cl_pass_file-#)-#
+!!texlive-formatsextra:0
+!!texlive-langother:0
+!!texlive-mathextra:0
 #in#
