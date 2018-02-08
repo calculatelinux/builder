@@ -18,7 +18,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-logilab-common
 python-mode
 unite
 zenburn
