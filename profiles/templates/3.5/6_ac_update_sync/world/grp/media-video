@@ -38,3 +38,7 @@ media-video/subtitlecomposer
 !!mkvtoolnix:0
 #os_arch_machine#
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+vlc
+#in#
