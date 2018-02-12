@@ -46,11 +46,11 @@ pytest-catchlog
 !!dnspython:0
 !!epsilon:0
 !!foolscap:0
+!!glance_store:0
 !!into:0
 !!jaraco-utils:0
 !!ldappool:0
 !!mantissa:0
-!!glance_store:0
 !!minimock:0
 !!morbid:0
 !!neutron-lib:0
@@ -59,6 +59,7 @@ pytest-catchlog
 !!oslo-messaging:0
 !!oslo-privsep:0
 !!oslo-service:0
+!!oslo-versionedobjects:0
 !!oslo-vmware:0
 !!osprofiler:0
 !!os-vif:0
