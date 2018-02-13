@@ -8,9 +8,10 @@
 !!xdmf2:0
 #?os_arch_machine==i686#
 !!galib:0
-!!libctl:0
 #os_arch_machine#
 
+# not compiled
+!!libctl:0
 # not compiled in CBB
 !!scipy:0
 #in#
