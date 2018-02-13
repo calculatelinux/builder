@@ -43,6 +43,7 @@ media-sound/tomahawk
 
 # is blocking
 !!apulse:0
+!!lilypond:0
 
 # the license prevents mirroring
 !!ventrilo-server-bin:0
