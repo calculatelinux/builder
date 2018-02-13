@@ -34,7 +34,7 @@ app-office/QtBitcoinTrader
 app-office/sc
 app-office/scribus
 app-office/taskcoach
-app-office/texmacs
+#app-office/texmacs
 app-office/texmaker
 app-office/texstudio
 app-office/unoconv
