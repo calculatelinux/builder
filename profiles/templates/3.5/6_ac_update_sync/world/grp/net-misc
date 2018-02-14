@@ -2,60 +2,61 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!net-misc/arpd:0
-!!net-misc/bfgminer:0
-!!net-misc/dahdi:0
-!!net-misc/dahdi-tools:0
-!!net-misc/dropbox:0
-!!net-misc/dropbox-cli:0
-!!net-misc/gsasl:0
-!!net-misc/netctl:0
-!!net-misc/networkmanager-openswan:0
-!!net-misc/openntpd:0
-!!net-misc/openvswitch:0
-!!net-misc/owncloud-client:0
-!!net-misc/pssh:0
-!!net-misc/r8168:0
-!!net-misc/s3cmd:0
-!!net-misc/siproxd:0
-!net-misc/sks:0
-!!net-misc/suite3270:0
-!!net-misc/telnet-bsd:0
-!net-misc/throttle:0
-!!net-misc/tn5250:0
-!!net-misc/unison:2.48
+!!arpd:0
+!!bfgminer:0
+!!dahdi:0
+!!dahdi-tools:0
+!!dropbox:0
+!!dropbox-cli:0
+!!gsasl:0
+!!netctl:0
+!!networkmanager-openswan:0
+!!openntpd:0
+!!openvswitch:0
+!!owncloud-client:0
+!!pssh:0
+!!r8168:0
+!!s3cmd:0
+!!siproxd:0
+!sks:0
+!!suite3270:0
+!!telnet-bsd:0
+!throttle:0
+!!tn5250:0
+!!unison:2.48
 
 # not compiled
-!!net-misc/hotot:0
-!!net-misc/quagga:0
+!!hotot:0
+!!quagga:0
 
 # need to download
-!!net-misc/icaclient:0
+!!icaclient:0
 
 #?os_arch_machine==i686#
 # not compiled
-!!net-misc/liveice:0
-!!net-misc/tokyotyrant:0
+!!liveice:0
+!!tokyotyrant:0
 #os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
-net-misc/dhcp
+dhcp
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-net-misc/dropbox
-net-misc/owncloud-client
-net-misc/telnet-bsd
+dropbox
+owncloud-client
+telnet-bsd
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-net-misc/bfgminer
+bfgminer
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-net-misc/aria2
+aria2
+networkmanager
 
 # block with desktop profile
-net-misc/telnet-bsd
+telnet-bsd
 #in#
