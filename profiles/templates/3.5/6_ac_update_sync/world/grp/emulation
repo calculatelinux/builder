@@ -21,6 +21,7 @@ app-emulation/libspectrum
 app-emulation/libvirt
 app-emulation/libvirt-glib
 app-emulation/lxc
+app-emulation/nemu
 app-emulation/open-vm-tools
 app-emulation/q4wine
 app-emulation/qemu
