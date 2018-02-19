@@ -10,6 +10,7 @@ kimap2
 !!kimap2:5
 !libecap:0.2
 !libktorrent:4
+!!libnfsidmap:0
 #?os_arch_machine==i686#
 !roadrunner:0
 #os_arch_machine#
