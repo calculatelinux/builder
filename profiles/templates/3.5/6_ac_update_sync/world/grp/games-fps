@@ -50,7 +50,6 @@
 #?os_arch_machine==x86_64#
 games-fps/quake3
 games-fps/quakeforge
-games-fps/urbanterror
 #os_arch_machine#
 
 #games-fps/alephone
@@ -94,7 +93,6 @@ games-fps/rtcwmp-demo
 games-fps/rtcwsp-demo
 games-fps/soldieroffortune-demo
 games-fps/turtlearena
-games-fps/urbanterror-data
 games-fps/ut2003-demo
 games-fps/warsow-community-map-pack
 #in#
