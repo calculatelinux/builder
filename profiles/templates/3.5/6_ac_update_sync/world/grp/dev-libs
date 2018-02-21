@@ -27,7 +27,6 @@ sink
 !wnn7sdk:0
 !xalan-c:0
 !!xapian-bindings:0
-!!xmlwrapp:0
 
 # need to download
 !!device-atlas-api-c:0

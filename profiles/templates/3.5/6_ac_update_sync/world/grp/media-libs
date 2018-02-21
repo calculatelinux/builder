@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!esdl:0
 !!fontconfig-infinality:0
 !!fontconfig-ultimate:0
 !!jpeg:0
