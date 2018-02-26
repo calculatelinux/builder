@@ -15,7 +15,6 @@
 !!fts-standalone:0
 !!llvm-libunwind:0
 !!musl:0
-!!uclibc:0
 !!uclibc-ng:0
 #?os_arch_machine==i686#
 !!libieee1284:0
