@@ -14,14 +14,7 @@
 !app-i18n/multiskkserv:0
 !app-i18n/qimhangul:0
 !app-i18n/rime-data:0
-!!app-i18n/scim:0
 !app-i18n/scim-anthy:0
-!!app-i18n/scim-hangul:0
-!!app-i18n/scim-input-pad:0
-!!app-i18n/scim-m17n:0
-!!app-i18n/scim-pinyin:0
-!!app-i18n/scim-tables:0
-!!app-i18n/scim-uim:0
 #?os_arch_machine==i686#
 # not compiled
 !!poedit:0
