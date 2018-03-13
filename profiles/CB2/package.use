@@ -1,5 +1,5 @@
 # for CLC
-sys-apps/calculate-utils -backup -client -console -desktop -pxe -qt4
+sys-apps/calculate-utils -backup -client -console -dbus -desktop -pxe -qt4
 sys-apps/calculate-access server
 
 media-plugins/audacious-plugins -qt5 gtk3

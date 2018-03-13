@@ -1,4 +1,4 @@
-sys-apps/calculate-utils -backup -client -console -desktop -install -pxe -qt4
+sys-apps/calculate-utils -backup -client -console -dbus -desktop -install -pxe -qt4
 sys-apps/calculate-access -client server
 
 # required by x11-misc/bumblebee-3.2.1
