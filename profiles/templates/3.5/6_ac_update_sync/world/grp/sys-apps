@@ -17,10 +17,13 @@
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+calculate-access
 man
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+calculate-access
 calculate-server
 inxi
+man
 #in#
