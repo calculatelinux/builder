@@ -54,7 +54,6 @@ media-sound/tomahawk
 !!ecasound:1
 !!gom:0
 !!mp3c:0
-!!mup:0
 !!playmidi:0
 !!projectm-jack:0
 !!projectm-pulseaudio:0
