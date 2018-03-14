@@ -11,6 +11,9 @@ kimap2
 !libecap:0.2
 !libktorrent:4
 !!libnfsidmap:0
+# not compiled
+pjproject:0
+
 #?os_arch_machine==i686#
 !roadrunner:0
 #os_arch_machine#
