@@ -41,10 +41,13 @@ app-office/unoconv
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
-app-office/calligra
 #app-office/calligra-l10n
 app-office/kexi
 app-office/kmymoney
 app-office/libalkimia
 app-office/skrooge
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+calligra
 #in#
