@@ -17,7 +17,3 @@
 !!zeroconf-ioslave:4
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-kholidays
-#in#
-
