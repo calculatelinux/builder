@@ -3,7 +3,6 @@ sys-apps/calculate-utils backup install -client -console -desktop -minimal -pxe 
 sys-kernel/calculate-sources muqss
 
 # for CCS
-dev-libs/libxml2 -python -icu
 sys-fs/eudev -hwdb -kmod
 
 dev-lang/php ldap
