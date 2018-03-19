@@ -3,6 +3,5 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 
-!!hanterm:0
 !!kterm:0
 #in#

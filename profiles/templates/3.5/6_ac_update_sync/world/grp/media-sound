@@ -28,7 +28,6 @@ media-sound/tomahawk
 #?os_arch_machine==i686#
 # not compiled for x86
 !!imp3sh:0
-!!quark:0
 !!xineadump:0
 #os_arch_machine#
 
