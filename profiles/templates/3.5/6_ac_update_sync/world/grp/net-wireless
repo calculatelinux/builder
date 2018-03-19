@@ -4,7 +4,6 @@
 net-wireless/aircrack-ng
 net-wireless/airtraf
 net-wireless/b43-fwcutter
-net-wireless/blueman
 net-wireless/bluez
 net-wireless/bluez-hcidump
 net-wireless/broadcom-sta
@@ -27,4 +26,8 @@ net-wireless/wifi-radar
 net-wireless/wireless-regdb
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+net-wireless/blueman
 #in#
