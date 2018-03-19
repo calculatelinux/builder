@@ -1,6 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
+liblinebreak
 sink
 #in#
 
@@ -12,6 +13,7 @@ sink
 !!libelf:0
 !!libiconv:0
 !!libintl:0
+!!liblinebreak:0
 !libressl:0
 !!tre:0
 
