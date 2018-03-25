@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
-bibus
-#in#
-
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!agrep:0
@@ -21,6 +17,7 @@ bibus
 
 #?in(os_linux_pkglist, CB2)!=#
 agrep
+bibus
 hd2u
 tidy-html5
 zathura-pdf-mupdf
