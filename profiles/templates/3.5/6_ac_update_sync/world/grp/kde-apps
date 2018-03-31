@@ -3,17 +3,5 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kajongg:5
-
-!!juk:4
-!!kde4-l10n:4
-!!kget:4
-!!kimagemapeditor:4
-!!kmouth:4
-!!kolf:4
-!!ksirk:4
-!!libkdegames:4
-!!palapeli:4
-!!sweeper:4
-!!zeroconf-ioslave:4
 #in#
 
