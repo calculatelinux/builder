@@ -64,6 +64,7 @@ pytest-catchlog
 !!osprofiler:0
 !!os-vif:0
 !!os-win:0
+!!os-xenapi:0
 !!paisley:0
 !!pyldap:0
 !!pytest-catchlog:0
