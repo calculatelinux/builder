@@ -1,8 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB3)!=#
+qupzilla
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!conkeror:0
+!!qupzilla:0
 # already binary
 !!firefox-bin:0
 !!seamonkey-bin:0
