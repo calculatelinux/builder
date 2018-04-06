@@ -2,19 +2,20 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!app-i18n/dbskkd-cdb:0
-!app-i18n/fcitx-libpinyin:0
-!app-i18n/fcitx-rime:4
-!app-i18n/fcitx-sunpinyin:0
-!app-i18n/fcitx-unikey:0
-!app-i18n/ibus-libpinyin:0
-!!app-i18n/kcm-fcitx:4-plasma5
-!app-i18n/libpinyin:0
-!app-i18n/librime:0
-!app-i18n/multiskkserv:0
-!app-i18n/qimhangul:0
-!app-i18n/rime-data:0
-!app-i18n/scim-anthy:0
+!dbskkd-cdb:0
+!fcitx-libpinyin:0
+!fcitx-rime:4
+!fcitx-sunpinyin:0
+!fcitx-unikey:0
+!ibus-libpinyin:0
+!!ibus-m17n:0
+!!kcm-fcitx:4-plasma5
+!libpinyin:0
+!librime:0
+!multiskkserv:0
+!qimhangul:0
+!rime-data:0
+!scim-anthy:0
 #?os_arch_machine==i686#
 # not compiled
 !!poedit:0
@@ -25,5 +26,5 @@
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-app-i18n/kcm-fcitx:4-plasma5
+kcm-fcitx:4-plasma5
 #in#
