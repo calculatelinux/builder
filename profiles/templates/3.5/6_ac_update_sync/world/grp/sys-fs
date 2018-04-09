@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!udev:0
 # not compided
-!!aufs3:0
 !!static-dev:0
 !!xfsdump:0
 #?os_arch_machine==i686#

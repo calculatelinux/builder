@@ -2,13 +2,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!texlive-documentation-base:0
 !!texlive-formatsextra:0
 !!texlive-genericextra:0
 !!texlive-genericrecommended:0
 !!texlive-langother:0
-!!texlive-mathextra:0
 !!texlive-mathscience:0
 !!texlive-plainextra:0
-!!texlive-science:0
 #in#
