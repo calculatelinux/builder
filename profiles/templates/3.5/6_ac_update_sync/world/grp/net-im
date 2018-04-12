@@ -1,40 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-net-im/bitlbee
-#net-im/centerim
-net-im/choqok
-net-im/climm
-net-im/corebird
-#net-im/dianara
-net-im/discord-bin
-net-im/empathy
-net-im/gajim
-net-im/gajim-httpupload
-net-im/gg-transport
-net-im/jabber-base
-net-im/kadu
-net-im/kouchat
-net-im/librvp
-#net-im/mcabber
-net-im/minbif
-net-im/openfire
-net-im/pidgin
-net-im/prosody
-net-im/purple-events
-net-im/pyicq-t
-net-im/qtox
-net-im/sendxmpp
-net-im/silc-toolkit
-net-im/telegram-desktop-bin
-net-im/telepathy-connection-managers
-net-im/telepathy-logger
-net-im/telepathy-mission-control
-net-im/tkabber
-net-im/vacuum
-net-im/ysm
-#?os_arch_machine==x86_64#
-net-im/skypeforlinux
-net-im/viber
-#os_arch_machine#
+#-world(#-cl_pass_file-#)-#
 #in#
