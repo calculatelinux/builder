@@ -25,6 +25,5 @@ mail-mta/nullmailer
 
 #?in(os_linux_pkglist, CBS)!=#
 mail-mta/postfix
-net-im/ejabberd
 net-proxy/squid
 #in#
