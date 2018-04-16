@@ -24,7 +24,7 @@ games-arcade/bumprace
 games-arcade/burgerspace
 games-arcade/cavezofphear
 games-arcade/cdogs-sdl
-games-arcade/ceferino
+#games-arcade/ceferino
 games-arcade/circuslinux
 games-arcade/cob
 games-arcade/commandergenius
