@@ -17,7 +17,7 @@ net-wireless/kismet
 net-wireless/lorcon
 net-wireless/ndiswrapper
 net-wireless/python-wifi
-net-wireless/rfkill
+#net-wireless/rfkill
 net-wireless/rtl8723de
 net-wireless/spectools
 net-wireless/wavemon
