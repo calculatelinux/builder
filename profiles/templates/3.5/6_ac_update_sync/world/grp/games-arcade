@@ -47,7 +47,7 @@ games-arcade/gnake
 games-arcade/gnome-nibbles
 games-arcade/gnome-robots
 games-arcade/gnujump
-games-arcade/grande-KXL
+#games-arcade/grande-KXL
 games-arcade/holotz-castle
 games-arcade/insaneodyssey
 games-arcade/jardinains
