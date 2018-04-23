@@ -90,7 +90,6 @@ pytest-catchlog
 !astropy:0
 !astropy-helpers:0
 !!blockcanvas:0
-!!brython:0
 !!chaco:0
 !!enable:0
 !!graphcanvas:0
