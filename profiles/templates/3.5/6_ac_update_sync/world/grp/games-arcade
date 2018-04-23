@@ -57,7 +57,7 @@ games-arcade/kajaani-kombat
 games-arcade/kobodeluxe
 games-arcade/komi
 games-arcade/late
-games-arcade/lbreakout
+#games-arcade/lbreakout
 games-arcade/lbreakout2
 games-arcade/methane
 games-arcade/missile
