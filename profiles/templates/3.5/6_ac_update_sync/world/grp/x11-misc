@@ -16,6 +16,7 @@ bumblebee
 #-world(#-cl_pass_file-#)-#
 
 !!bumblebee:0
+!!i3blocks:0
 !kronometer:5
 !!notification-daemon:0
 !!pcmanfm-qt:0
