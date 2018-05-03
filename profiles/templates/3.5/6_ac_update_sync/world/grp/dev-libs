@@ -1,12 +1,14 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
+#?os_arch_machine==x86_64#
 sink
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!sink:5
+!sink:5
 
 # is blocking
 !!libelf:0
