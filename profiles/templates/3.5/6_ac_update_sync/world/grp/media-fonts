@@ -10,6 +10,7 @@
 
 #?in(os_linux_pkglist,CBS)!=#
 dejavu
+droid
 liberation-fonts
 terminus-font
 urw-fonts
