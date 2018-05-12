@@ -54,8 +54,6 @@ media-sound/tomahawk
 !!gom:0
 !!mp3c:0
 !!playmidi:0
-!!projectm-jack:0
-!!projectm-pulseaudio:0
 !!seq24:0
 !!umix:0
 #in#
