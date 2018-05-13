@@ -26,7 +26,6 @@ sink
 !!libclc:0
 !!libcli:0
 !!libexplain:0
-!!libmemcache:0
 !wnn7sdk:0
 !xalan-c:0
 !!xapian-bindings:0
