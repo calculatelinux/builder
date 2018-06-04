@@ -27,6 +27,7 @@ pacemaker
 !!rgmanager:0
 
 # not compiled
+!!ganglia:0
 !!heartbeat:0
 #in#
 
