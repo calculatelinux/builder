@@ -13,7 +13,6 @@
 !!pkgconf:0
 !!pycharm-community:0
 !!pycharm-professional:0
-!!rpmdevtools:0
 # not compiled
 !!sel:0
 #?os_arch_machine==i686#
