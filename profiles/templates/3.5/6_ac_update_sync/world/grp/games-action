@@ -49,7 +49,7 @@ games-action/openastromenace
 games-action/openclonk
 games-action/orbital-eunuchs-sniper
 games-action/powermanga
-games-action/rafkill
+#games-action/rafkill
 games-action/rrootage
 #games-action/rune
 games-action/shootingstar
