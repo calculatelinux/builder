@@ -16,10 +16,6 @@ media-sound/kid3
 media-sound/musique
 # media-sound/cdtool is blocking media-sound/cdplay-1.0
 media-sound/cdtool
-#?os_arch_machine==x86_64#
-# not compiled in i686
-media-sound/tomahawk
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
