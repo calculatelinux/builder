@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!ant-eclipse-ecj:4.2
 !!bndlib:0
-!!easyneurons:0
 !!eclipse-ecj:4.2
 !!httpcomponents-client:4.5
 !!jackrabbit-webdav:0
