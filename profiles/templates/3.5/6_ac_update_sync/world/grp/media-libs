@@ -2,11 +2,13 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 bcg729
+elementary
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!bcg729:0
+!!elementary:0
 !esdl:0
 !!fontconfig-infinality:0
 !!fontconfig-ultimate:0

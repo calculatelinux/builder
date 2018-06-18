@@ -36,6 +36,7 @@ into
 ldappool
 pyldap
 pytest-catchlog
+python-efl
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -68,6 +69,7 @@ pytest-catchlog
 !!paisley:0
 !!pyldap:0
 !!pytest-catchlog:0
+!!python-efl:0
 !!pyutil:0
 !!translate-toolkit:0
 !!twisted-conch:0
