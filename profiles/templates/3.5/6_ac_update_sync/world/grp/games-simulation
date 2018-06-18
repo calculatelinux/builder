@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 games-simulation/cannonsmash
 games-simulation/crashtest
-games-simulation/dangerdeep
 games-simulation/flightgear
 games-simulation/flightgear-data
 games-simulation/gl117
