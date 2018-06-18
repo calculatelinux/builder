@@ -6,11 +6,13 @@ kipi-plugins
 
 #?in(os_linux_pkglist, CB2)!=#
 deadbeef-fb
+emotion_generic_players
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!deadbeef-fb:0
+!!emotion_generic_players:0
 !!kipi-plugins:5
 !mediastreamer-silk:0
 !!vdr-live:0

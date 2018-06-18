@@ -2,6 +2,10 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-
 !!kterm:0
+!!terminology:0
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+terminology
 #in#
