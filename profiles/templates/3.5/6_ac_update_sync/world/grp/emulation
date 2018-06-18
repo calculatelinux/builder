@@ -50,7 +50,6 @@ app-emulation/x48
 app-emulation/xtrs
 games-emulation/desmume
 games-emulation/dosbox
-games-emulation/hatari
 games-emulation/mednafen
 games-server/mednafen-server
 #in#
