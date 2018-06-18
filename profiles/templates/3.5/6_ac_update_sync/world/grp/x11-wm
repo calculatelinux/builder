@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!afterstep:0
+!!i3-gaps:0
 
 # not compiled
 !!x11-wm/enlightenment:0.17
@@ -14,4 +15,5 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 afterstep
+i3-gaps
 #in#
