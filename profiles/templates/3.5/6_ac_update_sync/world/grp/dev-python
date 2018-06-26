@@ -99,6 +99,9 @@ python-efl
 !!psycopg:0
 !!pygresql:0
 !wcsaxes:0
+#?os_arch_machine==i686#
+!!pygsl:0
+#os_arch_machine#
 
 !!astng:0
 !!basemap:0
