@@ -97,6 +97,7 @@ python-efl
 !!graphcanvas:0
 !!graph-tool:0
 !!psycopg:0
+!pyfits:0
 !!pygresql:0
 !wcsaxes:0
 #?os_arch_machine==i686#
