@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2, CB1)!=#
-# to support qt5 and gtk3
+#?in(os_linux_pkglist, CB1)!=#
+# to support gtk3
 media-sound/audacious
 #in#
 

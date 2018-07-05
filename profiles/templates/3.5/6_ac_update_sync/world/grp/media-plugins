@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1, CB2)!=#
+audacious-plugins
+#in#
+
 #?in(os_linux_pkglist, CB1)!=#
 kipi-plugins
 #in#
@@ -11,6 +15,7 @@ emotion_generic_players
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!audacious-plugins:0
 !!deadbeef-fb:0
 !!emotion_generic_players:0
 !!kipi-plugins:5
