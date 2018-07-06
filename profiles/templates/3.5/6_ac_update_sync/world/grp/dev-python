@@ -99,6 +99,7 @@ python-efl
 !!psycopg:0
 !pyfits:0
 !!pygresql:0
+!!python-virtkey:0
 !wcsaxes:0
 #?os_arch_machine==i686#
 !!pygsl:0
