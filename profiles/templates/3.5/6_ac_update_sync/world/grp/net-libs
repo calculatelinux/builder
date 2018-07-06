@@ -12,6 +12,7 @@ kimap2
 !libktorrent:4
 !!libnfsidmap:0
 # not compiled
+!!ccrtp:0
 !pjproject:0
 
 #?os_arch_machine==i686#
