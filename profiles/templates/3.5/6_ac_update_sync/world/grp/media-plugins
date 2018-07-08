@@ -10,7 +10,6 @@ kipi-plugins
 
 #?in(os_linux_pkglist, CB2)!=#
 deadbeef-fb
-emotion_generic_players
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
