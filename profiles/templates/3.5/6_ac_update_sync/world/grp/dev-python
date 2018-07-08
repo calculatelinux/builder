@@ -36,7 +36,6 @@ into
 ldappool
 pyldap
 pytest-catchlog
-python-efl
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

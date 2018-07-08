@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 bcg729
-elementary
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
