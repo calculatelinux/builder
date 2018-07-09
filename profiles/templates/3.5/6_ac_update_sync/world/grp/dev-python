@@ -124,7 +124,6 @@ pytest-catchlog
 !!mysql-python:0
 !!numba:0
 !!oslotest:0
-!!pgasync:0
 !!pymssql:0
 !!pyndex:0
 !python3-openid:0
