@@ -6,7 +6,6 @@ carbon
 dnspython
 epsilon
 foolscap
-jaraco-utils
 mantissa
 minimock
 morbid
@@ -48,7 +47,6 @@ pytest-catchlog
 !!foolscap:0
 !!glance_store:0
 !!into:0
-!!jaraco-utils:0
 !!ldappool:0
 !!mantissa:0
 !!minimock:0

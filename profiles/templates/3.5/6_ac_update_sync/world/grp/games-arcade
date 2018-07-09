@@ -33,7 +33,7 @@ games-arcade/cosmosmash
 games-arcade/crack-attack
 games-arcade/criticalmass
 games-arcade/defendguin
-games-arcade/diameter
+#games-arcade/diameter
 games-arcade/digger
 #games-arcade/dynamitejack
 games-arcade/emilia-pinball
