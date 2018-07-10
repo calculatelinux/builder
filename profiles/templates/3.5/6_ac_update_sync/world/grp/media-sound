@@ -20,10 +20,11 @@ media-sound/cdtool
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+# not compiled
+!!adplay:0
 
 #?os_arch_machine==i686#
 # not compiled for x86
-!!adplay:0
 !!imp3sh:0
 !!xineadump:0
 #os_arch_machine#
