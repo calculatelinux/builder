@@ -9,6 +9,7 @@
 !!bustle:0
 !!cmake-fedora:0
 !!lttng-modules:0
+!!lttng-tools:0
 !!min-cscope:0
 !!pkgconf:0
 !!pycharm-community:0
