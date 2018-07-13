@@ -97,6 +97,7 @@ pytest-catchlog
 !pyfits:0
 !!pygresql:0
 !!python-virtkey:0
+!!testscenarios:0
 !wcsaxes:0
 #?os_arch_machine==i686#
 !!pygsl:0
