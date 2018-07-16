@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!Bio-ASN1-EntrezGene:0
+!!Mail-Box:0
 !!Parse-Yapp:0
 !!Search-Xapian:0
 !!XML-XQL:0
