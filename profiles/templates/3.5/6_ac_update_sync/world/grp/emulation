@@ -74,8 +74,7 @@ app-emulation/xen-tools
 
 #?in(os_linux_pkglist, CB3)!=#
 app-emulation/playonlinux
-app-emulation/wine-vanilla:2.0.2
-app-emulation/wine-vanilla:2.0.3
+app-emulation/wine-vanilla
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
