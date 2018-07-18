@@ -1,8 +1,8 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-www-apps/nextcloud:12.0.6
-www-apps/nextcloud:13.0.1
-www-apps/owncloud:9.1.7
-www-apps/owncloud:10.0.7
+#www-apps/nextcloud:12.0.6
+#www-apps/nextcloud:13.0.1
+#www-apps/owncloud:9.1.7
+#www-apps/owncloud:10.0.7
 #in#
