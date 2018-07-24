@@ -3,7 +3,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !biber:0
-!!biblatex:0
+!biblatex:0
 !!cdcover:0
 !!luatex:0
 !ppower4:0
