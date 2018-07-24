@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!deb2targz:0
 !!freeze:0
-!!rpm:0
 !!tardy:0
 # EULA
 !!stuffit:0
