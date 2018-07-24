@@ -3,5 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kajongg:5
+!!lokalize:5
 #in#
 
