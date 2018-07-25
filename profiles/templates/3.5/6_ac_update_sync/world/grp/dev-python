@@ -87,20 +87,8 @@ pytest-catchlog
 !!zfec:0
 
 # not compiled
-!astropy:0
-!astropy-helpers:0
-!!blockcanvas:0
-!!chaco:0
-!!enable:0
-!!graphcanvas:0
 !!graph-tool:0
-!!psycopg:0
-!pyfits:0
-!!pygresql:0
 !!python-virtkey:0
-!!testscenarios:0
-!!virtualenvwrapper:0
-!wcsaxes:0
 
 #?os_arch_machine==i686#
 !!pygsl:0
