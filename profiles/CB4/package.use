@@ -1,5 +1,5 @@
 # for CLC
-sys-apps/calculate-utils backup install -client -console -desktop -minimal -pxe -qt4
+sys-apps/calculate-utils backup install -client -console -desktop -minimal -pxe -qt5
 sys-kernel/calculate-sources muqss
 
 dev-lang/php ldap

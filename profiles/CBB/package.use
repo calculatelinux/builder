@@ -1,1 +1,1 @@
-sys-apps/calculate-utils backup console desktop install qt4 -client -minimal -pxe
+sys-apps/calculate-utils backup console desktop install qt5 -client -minimal -pxe
