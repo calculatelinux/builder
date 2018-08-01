@@ -1,5 +1,8 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=&&os_arch_machine==x86_64#
-sci-mathematics/rstudio
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+# not compiled
+!!singular:0
+!!xmds:0
 #in#

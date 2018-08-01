@@ -10,6 +10,8 @@
 !!jamvm:0
 !netbeans-javadoc:8.2
 !!relaxngcc:0
+# мешает работе ant
+!!sablecc-anttask:0
 
 #?os_arch_machine==i686#
 # not compiled
