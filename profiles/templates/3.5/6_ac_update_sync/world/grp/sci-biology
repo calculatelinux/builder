@@ -1,0 +1,8 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+# not compiled
+!!mira:0
+!!ncbi-tools:0
+#in#
