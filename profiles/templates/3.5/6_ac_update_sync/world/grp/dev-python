@@ -42,8 +42,6 @@ pytest-catchlog
 # to prevent blocking, the assembly has been moved to other profiles
 !!axiom:0
 !!carbon:0
-!!django-compressor:0
-!!django-tastypie:0
 !!dnspython:0
 !!epsilon:0
 !!foolscap:0
