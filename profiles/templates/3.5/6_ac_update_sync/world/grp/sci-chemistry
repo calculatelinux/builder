@@ -1,0 +1,10 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+# need to download
+!!cns:0
+!!molscript:0
+!!procheck:0
+!!shelx:0
+#in#
