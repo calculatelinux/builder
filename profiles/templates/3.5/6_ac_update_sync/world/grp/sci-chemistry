@@ -8,4 +8,9 @@
 !!procheck:0
 !!pymol:0
 !!shelx:0
+# not compiled
+!!gromacs:0
+!!votca-csg:0
+!!votca-csgapps:0
+!!votca-xtp:0
 #in#
