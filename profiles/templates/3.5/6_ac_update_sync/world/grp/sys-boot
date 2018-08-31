@@ -1,8 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB3)!=#
-sys-boot/syslinux
-#in#
 #?in(os_linux_pkglist, CB1)!=#
 sys-boot/efibootmgr
 sys-boot/gnu-efi
@@ -13,5 +10,8 @@ sys-boot/mbr
 sys-boot/os-prober
 sys-boot/refind
 sys-boot/unetbootin
-sys-boot/winusb
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+sys-boot/syslinux
 #in#

@@ -26,6 +26,7 @@ media-sound/cdtool
 #?os_arch_machine==i686#
 # not compiled for x86
 !!imp3sh:0
+!!mixxx:0
 !!xineadump:0
 #os_arch_machine#
 
@@ -57,5 +58,5 @@ media-sound/cdtool
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-media-sound/deadbeef
+deadbeef
 #in#
