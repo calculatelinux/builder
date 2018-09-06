@@ -11,6 +11,7 @@ minimock
 morbid
 nevow
 paisley
+python3-lxc
 pyutil
 translate-toolkit
 twisted-conch
@@ -66,6 +67,7 @@ pytest-catchlog
 !!paisley:0
 !!pyldap:0
 !!pytest-catchlog:0
+!!python3-lxc:0
 !!python-efl:0
 !!pyutil:0
 !!translate-toolkit:0
