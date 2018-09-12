@@ -12,6 +12,7 @@
 
 # not compiled
 !!libctl:0
+!!libdap:0
 # not compiled in CBB
 !!scipy:0
 #in#
