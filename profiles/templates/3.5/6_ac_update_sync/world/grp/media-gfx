@@ -22,6 +22,7 @@
 #?os_arch_machine==i686#
 # not compiled
 !!fotoxx:0
+!!iscan:0
 !!krita:5
 !!povray:0
 #os_arch_machine#
