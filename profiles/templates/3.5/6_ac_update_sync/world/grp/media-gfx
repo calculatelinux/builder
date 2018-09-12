@@ -23,6 +23,8 @@
 # not compiled
 !!fotoxx:0
 !!iscan:0
+!!iscan-data:0
+!!iscan-plugin-gt-f720:0
 !!krita:5
 !!povray:0
 #os_arch_machine#
