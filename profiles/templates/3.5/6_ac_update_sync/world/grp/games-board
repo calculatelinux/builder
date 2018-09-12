@@ -24,7 +24,7 @@ games-board/eboard
 games-board/four-in-a-row
 #games-board/freedoko
 games-board/fruit
-games-board/gmchess
+#games-board/gmchess
 games-board/gnome-chess
 games-board/gnome-hearts
 games-board/gnome-mahjongg

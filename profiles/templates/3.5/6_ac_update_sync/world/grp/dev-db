@@ -23,6 +23,10 @@ tinycdb
 !!tinycdb:0
 # not compiled
 !!mongodb:0
+#?os_arch_machine==i686#
+# not compiled
+!!mysql-workbench:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
