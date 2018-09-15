@@ -89,6 +89,7 @@ pytest-catchlog
 
 # not compiled
 !!graph-tool:0
+!!pycryptopp:0
 !!python-virtkey:0
 
 #?os_arch_machine==i686#
