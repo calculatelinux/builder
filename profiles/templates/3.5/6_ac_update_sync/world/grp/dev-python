@@ -96,7 +96,6 @@ pytest-catchlog
 !!pygsl:0
 #os_arch_machine#
 
-!!astng:0
 !!basemap:0
 !!bashate:0
 !!blaze:0
@@ -112,8 +111,6 @@ pytest-catchlog
 !!jaraco-logging:0
 !!libextractor-python:0
 !!llvmlite:0
-!!logilab-common:0
-!!logilab-constraint:0
 !!mccabe:0
 !!mysql-python:0
 !!numba:0
