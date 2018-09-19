@@ -6,17 +6,9 @@ net-fs/netatalk
 
 #?in(os_linux_pkglist, CB1)!=#
 #mail-filter/clamsmtp
-mail-filter/opendkim
-mail-filter/postgrey
-mail-filter/procmail
-mail-filter/spamassassin
 net-dns/bind
 net-fs/netatalk
 net-fs/samba
-#net-proxy/havp
-net-proxy/privoxy
-#net-proxy/squidguard
-net-wireless/hostapd
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
@@ -25,5 +17,4 @@ mail-mta/nullmailer
 
 #?in(os_linux_pkglist, CBS)!=#
 mail-mta/postfix
-net-proxy/squid
 #in#
