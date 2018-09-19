@@ -2,10 +2,12 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!squid:0
 !!bfilter:0
+!!squid:0
+!!squirm:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
 squid
+squirm
 #in#
