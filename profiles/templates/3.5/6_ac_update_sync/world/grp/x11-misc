@@ -14,7 +14,6 @@ bumblebee
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-
 !!bumblebee:0
 !!i3blocks:0
 !kronometer:5
@@ -22,6 +21,10 @@ bumblebee
 !!pcmanfm-qt:0
 !!sddm:0
 !!touchcal:0
+#?os_arch_machine==i686#
+# not compiled
+!!bblaunch:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
