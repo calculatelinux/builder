@@ -22,8 +22,6 @@ deadbeef-fb
 !vdr-rotor:0
 !!vdr-ttxtsubs:0
 !!vdr-vompserver:0
-# not compiled
-!!kodi-pvr-stalker:0
 
 #?os_arch_machine==i686#
 !gst-plugins-srtp:1.0
