@@ -2,4 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+# not compiled
+!!riakc:0
 #in#
