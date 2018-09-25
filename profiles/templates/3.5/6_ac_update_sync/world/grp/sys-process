@@ -20,6 +20,7 @@ dcron
 !!systemd-cron:0
 !!tiptop:0
 !!vixie-cron:0
+!!xjobs:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

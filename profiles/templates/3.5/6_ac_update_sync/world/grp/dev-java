@@ -13,6 +13,9 @@
 # мешает работе ant
 !!sablecc-anttask:0
 
+# not compiled
+!!dev-java/commons-math:2
+
 #?os_arch_machine==i686#
 # not compiled
 !!ant-eclipse-ecj:4.4
