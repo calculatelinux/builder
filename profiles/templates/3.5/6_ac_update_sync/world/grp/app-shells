@@ -4,9 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 !!autojump:0
 !!bashdb:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!ksh:0
-#os_arch_machine#
 #in#
