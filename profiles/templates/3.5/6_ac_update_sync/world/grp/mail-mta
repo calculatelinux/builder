@@ -9,11 +9,11 @@ netqmail
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-sendmail
+exim
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-exim
+sendmail
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
