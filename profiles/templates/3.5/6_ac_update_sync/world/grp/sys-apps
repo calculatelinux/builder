@@ -24,5 +24,9 @@ man
 #?in(os_linux_pkglist, CBS)!=#
 calculate-access
 calculate-server
+calculate-utils
+dbus
+groff
 inxi
+lshw
 #in#

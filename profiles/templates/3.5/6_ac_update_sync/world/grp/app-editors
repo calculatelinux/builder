@@ -76,3 +76,7 @@ app-editors/xvile
 app-editors/yudit
 #app-editors/zile
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+vim
+#in#

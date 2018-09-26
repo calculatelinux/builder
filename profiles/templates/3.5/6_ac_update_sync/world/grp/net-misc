@@ -54,7 +54,9 @@ bfgminer
 
 #?in(os_linux_pkglist, CBS)!=#
 aria2
+minidlna
 networkmanager
+openssh
 
 # block with desktop profile
 telnet-bsd

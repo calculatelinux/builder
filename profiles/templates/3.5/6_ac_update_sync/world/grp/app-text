@@ -20,3 +20,8 @@ hd2u
 tidy-html5
 zathura-pdf-mupdf
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+ghostscript-gpl
+poppler
+#in#
