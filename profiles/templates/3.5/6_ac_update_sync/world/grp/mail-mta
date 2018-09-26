@@ -1,8 +1,19 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+nullmailer
+#in#
+
 #?in(os_linux_pkglist, CB2)!=#
-#-world(#-cl_pass_file-#)-#
-!!postfix:0
+netqmail
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+sendmail
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+exim
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

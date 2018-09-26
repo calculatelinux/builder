@@ -1,9 +1,14 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+xorg-meta
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!livecd-tools:0
 !!realpath:0
+!!xorg-meta:0
 # not compiled
 !!cdircmp:0
 !!clockywock:0
