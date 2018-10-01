@@ -3,4 +3,9 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!pcsx2:0
+#?os_arch_machine==i686#
+# not compiled
+!!dgen-sdl:0
+!!gngeo:0
+#os_arch_machine#
 #in#
