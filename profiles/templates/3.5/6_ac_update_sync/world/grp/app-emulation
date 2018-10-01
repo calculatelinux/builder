@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!docker-runc:0
 !!ganeti-htools:0
+!!grub-xen-host:0
 !!playonlinux:0
 !!virtualbox-bin:0
 # not compiled
