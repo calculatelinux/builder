@@ -4,6 +4,7 @@
 axiom
 carbon
 dnspython
+dogpile-core
 epsilon
 foolscap
 mantissa
@@ -44,6 +45,7 @@ pytest-catchlog
 !!axiom:0
 !!carbon:0
 !!dnspython:0
+!!dogpile-core:0
 !!epsilon:0
 !!foolscap:0
 !!glance_store:0
