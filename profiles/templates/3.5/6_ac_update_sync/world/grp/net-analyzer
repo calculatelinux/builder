@@ -8,7 +8,7 @@
 !!linkchecker:0
 !!monitoring-plugins:0
 !!nagstamon:0
-!!netcat6:0
+!!netcat:0
 !!pnp4nagios:0
 !traceproto:0
 
@@ -22,7 +22,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 monitoring-plugins
-netcat6
+netcat
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

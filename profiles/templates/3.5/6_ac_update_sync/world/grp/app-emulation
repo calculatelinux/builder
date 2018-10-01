@@ -1,0 +1,21 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB2)!=#
+#-world(#-cl_pass_file-#)-#
+!!docker-runc:0
+!!ganeti-htools:0
+!!playonlinux:0
+!!virtualbox-bin:0
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+docker-runc
+ganeti-htools
+playonlinux
+virtualbox-bin
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+libvirt
+qemu
+#in#
