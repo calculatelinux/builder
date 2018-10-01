@@ -14,6 +14,9 @@
 !!libguestfs:0
 !!libvirt-snmp:0
 !!xen-pvgrub:0
+#?os_arch_machine==i686#
+!!e-uae:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
