@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!eselect-gnome-shell-extensions:0
 !!eselect-lcdfilter:0
-!!eselect-mesa:0
 # not compiled
 !!eselect-oodict:0
 #in#
