@@ -3,5 +3,4 @@
 #?in(os_linux_pkglist, CB1)!=#
 #games-sports/torcs #377M
 games-sports/xmoto
-games-util/steam-launcher
 #in#
