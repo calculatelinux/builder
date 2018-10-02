@@ -1,6 +1,7 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!nvidiabl:0
+# not compiled
+!!libassa:0
 #in#
