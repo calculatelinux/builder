@@ -15,7 +15,6 @@
 # not compiled
 !!argus-clients:0
 !!dsniff:0
-!!mate-netspeed:0
 !ndsad:0
 !!scanlogd:0
 #in#
