@@ -11,7 +11,7 @@ kfoldersync
 !!bup:0
 !!burp:0
 !!deja-dup:0
-!!kfoldersync:0
+!!kfoldersync:5
 
 # not compiled
 !!rdedup:0
