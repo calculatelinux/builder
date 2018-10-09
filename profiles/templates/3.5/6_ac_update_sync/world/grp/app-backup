@@ -1,0 +1,28 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB1)!=#
+kfoldersync
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+#-world(#-cl_pass_file-#)-#
+!!backuppc:0
+!!bareos:0
+!!bup:0
+!!burp:0
+!!deja-dup:0
+!!kfoldersync:0
+
+# not compiled
+!!rdedup:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+bareos
+burp
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+backintime
+bacula
+#in#

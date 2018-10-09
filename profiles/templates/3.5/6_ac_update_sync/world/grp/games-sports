@@ -1,0 +1,14 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+
+# big size
+# 377M
+!!torcs:0
+# 454M
+!!speed-dreams:0
+
+# not compiled
+!!vdrift:0
+#in#
