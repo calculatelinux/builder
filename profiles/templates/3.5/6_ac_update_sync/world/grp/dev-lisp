@@ -5,4 +5,7 @@
 !!clisp:2
 # not compiled
 !!gcl:0
+#?os_arch_machine==i686#
+!!clozurecl:0
+#os_arch_machine#
 #in#
