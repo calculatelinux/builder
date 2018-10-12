@@ -3,10 +3,8 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kholidays:5
-!!syndication:5
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 kholidays
-syndication
 #in#
