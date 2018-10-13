@@ -1,7 +1,14 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB3)!=#
+apbs
+pdb2pqr
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!apbs:0
+!!pdb2pqr:0
 # need to download
 !!cns:0
 !!molscript:0
