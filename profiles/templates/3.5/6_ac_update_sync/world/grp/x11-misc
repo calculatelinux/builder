@@ -10,6 +10,7 @@ kronometer
 
 #?in(os_linux_pkglist, CB3)!=#
 bumblebee
+primus
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -19,6 +20,7 @@ bumblebee
 !kronometer:5
 !!notification-daemon:0
 !!pcmanfm-qt:0
+!!primus:0
 !!sddm:0
 !!touchcal:0
 #?os_arch_machine==i686#
