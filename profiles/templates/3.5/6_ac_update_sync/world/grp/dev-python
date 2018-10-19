@@ -102,7 +102,6 @@ pytest-catchlog
 !!bashate:0
 !!blaze:0
 !!celery:0
-!!CommonMark:0
 !!dev-python/python-social-auth:0
 !!elasticsearch-curator:0
 !!flake8:0
