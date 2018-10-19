@@ -7,7 +7,6 @@
 !!squashfs-tools:3.0
 !!squashfs-tools:3.1
 !!static-dev:0
-!!xfsdump:0
 #?os_arch_machine==i686#
 # not compiled
 !!sys-fs/e4rat:0
