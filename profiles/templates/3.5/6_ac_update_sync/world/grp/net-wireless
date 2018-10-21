@@ -1,33 +1,12 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-net-wireless/aircrack-ng
-net-wireless/airtraf
-net-wireless/b43-fwcutter
-net-wireless/bluez
-net-wireless/bluez-hcidump
-net-wireless/broadcom-sta
-net-wireless/crda
-net-wireless/gnome-bluetooth
-net-wireless/hostapd
-net-wireless/hostap-utils
-net-wireless/irda-utils
-net-wireless/iw
-net-wireless/kismet
-net-wireless/lorcon
-net-wireless/ndiswrapper
-net-wireless/python-wifi
-#net-wireless/rfkill
-net-wireless/rtl8723de
-net-wireless/spectools
-net-wireless/wavemon
-net-wireless/wepattack
-net-wireless/wifi-radar
-net-wireless/wireless-regdb
-net-wireless/wireless-tools
-net-wireless/wpa_supplicant
+#?in(os_linux_pkglist, CB2)!=#
+#-world(#-cl_pass_file-#)-#
+!!blueberry:0
+!!gnome-bluetooth:0
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
-net-wireless/blueman
+#?in(os_linux_pkglist, CB3)!=#
+blueberry
+gnome-bluetooth
 #in#
