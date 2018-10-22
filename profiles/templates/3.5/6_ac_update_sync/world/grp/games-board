@@ -9,4 +9,7 @@ knights
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
 !!knights:5
+!!pysolfc:0
+# need to download
+!!games-board/tablebase-syzygy:nofetch
 #in#

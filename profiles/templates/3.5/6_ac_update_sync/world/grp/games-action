@@ -3,7 +3,16 @@
 #?in(os_linux_pkglist, CB2)!=#
 
 #-world(#-cl_pass_file-#)-#
+!!slune:0
 # large packages
 #430M
 !supertuxkart:0
+# buy & download
+!!beathazardultra:0
+!!brutal-legend:0
+!!dynamitejack:0
+!!hotline-miami:0
+!!intrusion2:0
+!!solar2:0
+!!swordandsworcery:0
 #in#
