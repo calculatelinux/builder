@@ -2,13 +2,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-
-# not compiled
-!!frobtads:0
-!!frotz:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!qtads:0
-#os_arch_machine#
 #in#

@@ -9,12 +9,6 @@ knights
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
 !!knights:5
-!!pysolfc:0
-# not compiled
-!!ccgo:0
-!!gmchess:0
-!!mt_ncurses_client:0
-!!natch:0
 # need to download
 !!tablebase-syzygy:nofetch
 #?os_arch_machine==i686#

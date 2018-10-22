@@ -2,15 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-
-# not compiled
-!!bastet:0
-!!braincurses:0
-!!galaxis:0
-!!groundhog:0
-!!meandmyshadow:0
-!!tint:0
-
 # buy & download
 !!nightsky:0
 !!splice:0
