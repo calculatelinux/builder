@@ -10,6 +10,8 @@ knights
 !!gnugo:0
 !!knights:5
 !!pysolfc:0
+# not compiled
+!!natch:0
 # need to download
 !!games-board/tablebase-syzygy:nofetch
 #in#

@@ -6,8 +6,6 @@
 # not compiled
 !!frobtads:0
 !!frotz:0
-!!love:0
-!love:0.7
 
 #?os_arch_machine==i686#
 # not compiled
