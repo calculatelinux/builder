@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!cfssl:0
 !!heimdal:0
 
 # not compiled
