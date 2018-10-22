@@ -18,4 +18,8 @@
 !!intrusion2:0
 !!solar2:0
 !!swordandsworcery:0
+# not compiled
+#?os_arch_machine==i686#
+!!supermariowar:0
+#os_arch_machine#
 #in#
