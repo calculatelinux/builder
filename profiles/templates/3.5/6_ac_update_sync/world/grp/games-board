@@ -11,7 +11,14 @@ knights
 !!knights:5
 !!pysolfc:0
 # not compiled
+!!ccgo:0
+!!gmchess:0
+!!mt_ncurses_client:0
 !!natch:0
 # need to download
-!!games-board/tablebase-syzygy:nofetch
+!!tablebase-syzygy:nofetch
+#?os_arch_machine==i686#
+# not compiled
+!!stockfish:0
+#os_arch_machine#
 #in#
