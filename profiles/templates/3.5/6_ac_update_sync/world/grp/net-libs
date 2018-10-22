@@ -21,5 +21,6 @@ kimap2
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+gnutls
 libpcap
 #in#
