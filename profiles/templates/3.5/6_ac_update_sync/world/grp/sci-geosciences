@@ -1,5 +1,10 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB2)!=#
+gmt
+#in#
+
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!gmt:0
 #in#
