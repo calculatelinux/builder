@@ -9,6 +9,9 @@ knights
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
 !!knights:5
+# large packages
+#906M
+!!tablebase-syzygy:0
 # need to download
 !!tablebase-syzygy:nofetch
 #?os_arch_machine==i686#
