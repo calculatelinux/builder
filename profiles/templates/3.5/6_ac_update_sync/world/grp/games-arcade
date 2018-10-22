@@ -2,11 +2,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-
-# CD_ROOT
-!!fakk2:0
-!!heretic2:0
-!!rune:0
 # buy & download
 !!dynamitejack:0
 # not compiled

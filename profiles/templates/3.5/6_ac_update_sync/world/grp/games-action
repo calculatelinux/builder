@@ -1,12 +1,15 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-
 #-world(#-cl_pass_file-#)-#
 !!slune:0
 # large packages
 #430M
 !supertuxkart:0
+# CD_ROOT
+!!fakk2:0
+!!heretic2:0
+!!rune:0
 # buy & download
 !!beathazardultra:0
 !!brutal-legend:0
