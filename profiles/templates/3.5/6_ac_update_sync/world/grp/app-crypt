@@ -4,9 +4,18 @@
 #-world(#-cl_pass_file-#)-#
 !!cfssl:0
 !!heimdal:0
-
+!!signify:0
 # not compiled
+!!kali-archive-keyring:0
 !!seahorse-sharing:0
+#?os_arch_machine==i686#
+# not compiled
+!!efitools:0
+#os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+signify
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
