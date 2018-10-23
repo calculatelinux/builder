@@ -1,5 +1,6 @@
-# for CLC
-sys-apps/calculate-utils -backup -client -console -dbus -desktop -pxe -qt5
+# for CLS
+sys-apps/calculate-utils backup console dbus desktop gpg install -client -minimal -pxe -qt5
+sys-kernel/calculate-sources -desktop -themes
 sys-apps/calculate-access server
 
 media-plugins/audacious-plugins -qt5 gtk3

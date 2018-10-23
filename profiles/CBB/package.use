@@ -1,1 +1,2 @@
-sys-apps/calculate-utils backup console desktop install qt5 -client -minimal -pxe
+# for CCS
+sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt5

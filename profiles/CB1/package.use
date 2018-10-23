@@ -1,2 +1,4 @@
+# for CLD
+sys-apps/calculate-utils backup client console dbus desktop gpg install qt5 -minimal -pxe
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
