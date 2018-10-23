@@ -7,7 +7,6 @@
 !grub-xen-host:0
 !!playonlinux:0
 !!virtualbox-bin:0
-!!virtualbox-guest-additions:0
 # not compiled
 !!ganeti:0
 !!ganeti-instance-debootstrap:0
@@ -24,7 +23,6 @@
 ganeti-htools
 playonlinux
 virtualbox-bin
-virtualbox-guest-additions
 #?os_arch_machine==x86_64#
 docker-runc
 #os_arch_machine#
