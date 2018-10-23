@@ -6,7 +6,7 @@
 !gnome-boxes:0
 !!gnome-logs:0
 !!gnome-power-manager:0
-!!gnome-shell-extension-gsconnect:0
+!gnome-shell-extension-gsconnect:0
 !!gnome-shell-extensions:0
 !!gnome-shell-extensions-topicons-plus:0
 !!gnome-shell-frippery:0
