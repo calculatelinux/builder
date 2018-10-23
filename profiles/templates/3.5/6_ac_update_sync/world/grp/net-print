@@ -6,7 +6,5 @@ hplip
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!ink:0
-!!libinklevel:0
 !!lprng:0
 #in#
