@@ -1,1 +1,2 @@
 sys-kernel/calculate-sources amd64 x86
+x11-drivers/nvidia-drivers amd64 x86
