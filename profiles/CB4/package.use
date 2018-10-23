@@ -1,5 +1,5 @@
-# for CLC
-sys-apps/calculate-utils backup install -client -console -desktop -minimal -pxe -qt5
+# for CCS
+sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt5
 
 sys-kernel/calculate-sources muqss
 
