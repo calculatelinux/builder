@@ -27,6 +27,7 @@ media-sound/cdtool
 # not compiled for x86
 !!imp3sh:0
 !!mixxx:0
+!!spotify:0
 !!xineadump:0
 #os_arch_machine#
 
