@@ -1,5 +1,8 @@
 # for CLD
 sys-apps/calculate-utils backup client console dbus desktop gpg install qt5 -minimal -pxe
 
+# for servers without firmware
+sys-kernel/calculate-sources grub minimal symlink vmlinuz -build -desktop -firmware -muqss -pae -themes -uksm
+
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
