@@ -1,7 +1,9 @@
 # for CSS
 sys-apps/calculate-utils gpg install -backup -client -console -dbus -desktop -minimal -pxe -qt5
 
-sys-kernel/calculate-sources -firmware
+# for servers without firmware
+sys-kernel/calculate-sources grub minimal symlink vmlinuz -build -desktop -firmware -muqss -pae -themes -uksm
+
 sys-apps/calculate-access -client server
 
 # required by x11-misc/bumblebee-3.2.1

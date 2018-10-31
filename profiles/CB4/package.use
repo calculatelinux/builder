@@ -1,6 +1,7 @@
 # for CCS
 sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt5
 
+# for desktops with muqss
 sys-kernel/calculate-sources muqss
 
 dev-lang/php ldap
