@@ -5,7 +5,6 @@
 !docker-runc:0
 !!ganeti-htools:0
 !grub-xen-host:0
-!!playonlinux:0
 !!virtualbox-bin:0
 # not compiled
 !!ganeti:0
@@ -21,7 +20,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 ganeti-htools
-playonlinux
 virtualbox-bin
 #?os_arch_machine==x86_64#
 docker-runc
