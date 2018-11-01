@@ -1,14 +1,9 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-assp
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!amavisd-milter:0
 !!amavisd-new:0
-!!assp:0
 !!libsieve:0
 !!libsrs_alt:0
 !!maildrop:0
