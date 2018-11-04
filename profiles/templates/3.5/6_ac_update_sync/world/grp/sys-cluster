@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 corosync
-libdlm
 mpich2
 #openais
 pacemaker
@@ -17,14 +16,12 @@ pacemaker
 !!dlm-lib:0
 !feedbackd-master:0
 !!heat:0
-!!libdlm:0
 !!mpich:0
 !!mpich2:0
 !!neutron:0
 !!nova:0
 !!openais:0
 !!pacemaker:0
-!!rgmanager:0
 
 # not compiled
 !!ganglia:0

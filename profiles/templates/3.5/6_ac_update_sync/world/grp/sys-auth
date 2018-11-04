@@ -8,9 +8,6 @@ nss-pam-ldapd
 #-world(#-cl_pass_file-#)-#
 !!sssd:0
 !!nss-pam-ldapd:0
-#?os_arch_machine==i686#
-!!pam_bioapi:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
