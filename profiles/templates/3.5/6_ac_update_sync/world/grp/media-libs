@@ -19,8 +19,6 @@ bcg729
 
 #?os_arch_machine==i686#
 !!libsidplayfp:0
-!!opencolorio:0
-!!openimageio:0
 !!xine-lib:1
 #os_arch_machine#
 #in#
