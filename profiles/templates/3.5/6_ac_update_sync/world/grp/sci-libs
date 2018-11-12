@@ -13,6 +13,7 @@
 # not compiled
 !!libctl:0
 !!libdap:0
+!!spqr:0
 !!xkaapi:0
 # not compiled in CBB
 !!scipy:0
