@@ -8,9 +8,11 @@ upower
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!acpilight:0
+!!powermgmt-base:0
 !!upower:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+powermgmt-base
 powertop
 #in#
