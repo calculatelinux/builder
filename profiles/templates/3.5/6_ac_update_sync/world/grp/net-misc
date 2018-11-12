@@ -9,7 +9,6 @@
 !!dropbox:0
 !!dropbox-cli:0
 !!gsasl:0
-!!netctl:0
 !!openntpd:0
 !!openvswitch:0
 !!owncloud-client:0

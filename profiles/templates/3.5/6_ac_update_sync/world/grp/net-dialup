@@ -11,7 +11,6 @@ radiusclient-ng
 !!globespan-adsl:0
 !!mgetty:0
 !!radiusclient-ng:0
-!!ueagle-atm:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

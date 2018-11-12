@@ -6,7 +6,5 @@ kuroo
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!gentoolkit-dev:0
-!!gs-pypi:0
 !!kuroo:0
 #in#
