@@ -1,96 +1,64 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
+#-world(#-cl_pass_file-#)-#
 # need to download
-#games-fps/duke3d-data
-#games-fps/ut2004-hamsterbash
-#games-fps/ut2004-troopers
-#games-fps/ut2004-unwheel
+!!duke3d-data:0
+!!ut2004-hamsterbash:0
+!!ut2004-troopers:0
+!!ut2004-unwheel:0
 
 # need the CD
-#games-fps/etqw-data
-#games-fps/postal2
-#games-fps/quake1-data
-#games-fps/quake2-data
-#games-fps/soldieroffortune
-#games-fps/unreal-tournament
-#games-fps/ut2003
-#games-fps/ut2003-data
-#games-fps/ut2004
-#games-fps/ut2004-action
-#games-fps/ut2004-airbuccaneers
-#games-fps/ut2004-bonuspack-cbp1
-#games-fps/ut2004-bonuspack-cbp2
-#games-fps/ut2004-bonuspack-ece
-#games-fps/ut2004-bonuspack-mega
-#games-fps/ut2004-cor
-#games-fps/ut2004-crossfire
-#games-fps/ut2004-data
-#games-fps/ut2004-deathball
-#games-fps/ut2004-fragops
-#games-fps/ut2004-muralis
-#games-fps/ut2004-strikeforce
+!!etqw-data:0
+!!postal2:0
+!!quake1-data:0
+!!quake2-data:0
+!!soldieroffortune:0
+!!unreal-tournament:0
+!!ut2003:0
+!!ut2003-data:0
+!!ut2004:0
+!!ut2004-action:0
+!!ut2004-airbuccaneers:0
+!!ut2004-bonuspack-cbp1:0
+!!ut2004-bonuspack-cbp2:0
+!!ut2004-bonuspack-ece:0
+!!ut2004-bonuspack-mega:0
+!!ut2004-cor:0
+!!ut2004-crossfire:0
+!!ut2004-data:0
+!!ut2004-deathball:0
+!!ut2004-fragops:0
+!!ut2004-muralis:0
+!!ut2004-strikeforce:0
 
 # large packages
-#games-fps/alienarena #558M
-#games-fps/enemy-territory #258M
-#games-fps/enemy-territory-truecombat #453M
-#games-fps/etqw-bin #532M
-#games-fps/nexuiz #834M
-#games-fps/openarena #397M
-#games-fps/postal2mp-demo #564M
-#games-fps/quake3-lrctf #326M
-#games-fps/quake3-nsco #355M
-#games-fps/quake3-reaction #490M
-#games-fps/sauerbraten #559M
-#games-fps/ut2004-demo #269M
-#games-fps/worldofpadman #983M
-#games-fps/xonotic #880M
-
-#?os_arch_machine==x86_64#
-games-fps/quake3
-games-fps/quakeforge
-#os_arch_machine#
-
-#games-fps/alephone
-#games-fps/alephone-infinity
-games-fps/avp
-games-fps/blackshades
-games-fps/darkplaces
-#games-fps/doom-data
-#games-fps/doomsday
-#games-fps/doomsday-resources
-#games-fps/duke3d-demodata
-#games-fps/eduke32
-#games-fps/enemy-territory-etpro
-games-fps/freedoom
-games-fps/glxquake-bin
-games-fps/legends
-games-fps/prboom
-games-fps/quake1-demodata
-games-fps/quake1-killer
-games-fps/quake1-rally
-games-fps/quake1-teamfortress
-games-fps/quake1-textures
-games-fps/quake2-demodata
-games-fps/quake3-alliance
-games-fps/quake3-alternatefire
-games-fps/quake3-bfp
-games-fps/quake3-bin
-games-fps/quake3-cpma
-games-fps/quake3-data
-games-fps/quake3-defrag
-games-fps/quake3-demo
-games-fps/quake3-excessiveplus
-games-fps/quake3-matrix
-games-fps/quake3-osp
-games-fps/quake3-ra3
-games-fps/quake3-ruinhunters
-games-fps/quake3-teamarena
-games-fps/quake3-threewave
-games-fps/rott
-games-fps/rtcwmp-demo
-games-fps/rtcwsp-demo
-games-fps/turtlearena
-games-fps/ut2003-demo
+#558M
+!!alienarena:0
+#258M
+!!enemy-territory:0
+#453M
+!!enemy-territory-truecombat:0
+#532M
+!!etqw-bin:0
+#834M
+!!nexuiz:0
+#397M
+!!openarena:0
+#564M
+!!postal2mp-demo:0
+#326M
+!!quake3-lrctf:0
+#355M
+!!quake3-nsco:0
+#490M
+!!quake3-reaction:0
+#559M
+!!sauerbraten:0
+#269M
+!!ut2004-demo:0
+#983M
+!!worldofpadman:0
+#880M
+!!xonotic:0
 #in#
