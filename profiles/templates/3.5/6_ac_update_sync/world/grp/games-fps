@@ -2,4 +2,8 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+#?os_arch_machine==i686#
+# not compiled
+!!quake3:0
+#os_arch_machine#
 #in#
