@@ -6,6 +6,9 @@
 !!metis:0
 !!mkl:0
 !!xdmf2:0
+
+!!fetk:0
+!!mc:0
 #?os_arch_machine==i686#
 !!galib:0
 #os_arch_machine#

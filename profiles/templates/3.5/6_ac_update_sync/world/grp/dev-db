@@ -28,5 +28,5 @@ tinycdb
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-sqlite:0
+sqlite:3
 #in#

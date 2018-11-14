@@ -33,6 +33,7 @@ zfec
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+django
 into
 ldappool
 pyldap
