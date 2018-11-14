@@ -97,6 +97,9 @@ pytest-catchlog
 
 #?os_arch_machine==i686#
 !!pygsl:0
+
+# not compiled
+!!Kivy:0
 #os_arch_machine#
 
 !!basemap:0
