@@ -4,7 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 # not found
 !!signal-desktop-bin:0
-#?os_arch_machine==i686#
-!!skypeforlinux:0
-#os_arch_machine#
 #in#
