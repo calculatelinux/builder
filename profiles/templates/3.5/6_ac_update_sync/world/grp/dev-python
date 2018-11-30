@@ -68,10 +68,11 @@ pytest-catchlog
 !!os-win:0
 !!os-xenapi:0
 !!paisley:0
+!!pycryptodome:0
 !!pyldap:0
 !!pytest-catchlog:0
-!!python3-lxc:0
 !!python-efl:0
+!!python3-lxc:0
 !!pyutil:0
 !!translate-toolkit:0
 !!twisted-conch:0
@@ -128,4 +129,8 @@ pytest-catchlog
 !!python-systemd:0
 !!soya:0
 !!utidylib:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+pycryptodome
 #in#

@@ -34,6 +34,7 @@ app-editors/emacs
 #app-editors/ersatz-emacs
 #app-editors/fe
 app-editors/fte
+app-editors/featherpad
 app-editors/ghex
 app-editors/gummi
 app-editors/gvim
