@@ -12,6 +12,7 @@
 !!lttng-tools:0
 !!min-cscope:0
 !!pkgconf:0
+!!shellcheck:0
 # big size
 # 298M
 !!pycharm-professional:0
@@ -21,6 +22,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 bustle
+shellcheck
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
