@@ -1,9 +1,6 @@
 # for CLS
 sys-apps/calculate-utils backup console dbus desktop gpg install -client -minimal -pxe -qt5
 
-# for servers with firmware
-sys-kernel/calculate-sources firmware grub minimal symlink vmlinuz -build -desktop -muqss -pae -themes -uksm
-
 sys-apps/calculate-access server
 
 media-plugins/audacious-plugins -qt5 gtk3
