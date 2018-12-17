@@ -8,7 +8,6 @@ kfoldersync
 #-world(#-cl_pass_file-#)-#
 !!backuppc:0
 !!bareos:0
-!!bup:0
 !!burp:0
 !!deja-dup:0
 !!kfoldersync:5

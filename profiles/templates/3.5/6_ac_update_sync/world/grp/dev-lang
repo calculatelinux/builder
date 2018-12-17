@@ -7,7 +7,7 @@
 !!mercury:0
 !!mercury-extras:0
 !!scala-bin:0
-!!spark:0
+!spark:0
 !!xsb:0
 #not compiled
 !gnat-gpl:4.9.4
