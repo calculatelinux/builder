@@ -10,3 +10,5 @@ media-libs/mesa -wayland
 
 # required by gnome-extra/cinnamon-session-3.6.1-r4
 sys-auth/polkit elogind
+
+dev-lang/R tk
