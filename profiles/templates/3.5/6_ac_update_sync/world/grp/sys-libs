@@ -16,6 +16,7 @@
 !!llvm-libunwind:0
 !!musl:0
 !!obstack-standalone:0
+!!queue-standalone:0
 !!uclibc-ng:0
 
 # not compiled
