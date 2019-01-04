@@ -12,3 +12,5 @@ media-libs/mesa -wayland
 sys-auth/polkit elogind
 
 dev-lang/R tk
+
+dev-qt/qtsql -postgres
