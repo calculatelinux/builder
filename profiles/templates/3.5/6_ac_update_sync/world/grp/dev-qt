@@ -4,6 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
+#?in(os_linux_pkglist, CB4)!=#
 qtsql
 #in#
