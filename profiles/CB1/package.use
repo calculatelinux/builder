@@ -6,3 +6,5 @@ sys-kernel/calculate-sources firmware grub minimal symlink vmlinuz -build -deskt
 
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
+
+dev-qt/qtsql postgres
