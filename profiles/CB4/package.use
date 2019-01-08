@@ -5,3 +5,6 @@ sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -m
 sys-kernel/calculate-sources muqss
 
 dev-lang/php ldap
+
+# required by www-client/midori-7.0::gentoo
+net-libs/libsoup vala
