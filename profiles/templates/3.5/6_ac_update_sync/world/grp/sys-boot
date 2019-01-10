@@ -1,17 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-sys-boot/efibootmgr
-sys-boot/gnu-efi
-sys-boot/grub
-#sys-boot/grub-static
-sys-boot/lilo
-sys-boot/mbr
-sys-boot/os-prober
-sys-boot/refind
-sys-boot/unetbootin
-#in#
-
-#?in(os_linux_pkglist, CB3)!=#
-sys-boot/syslinux
+#-world(#-cl_pass_file-#)-#
 #in#
