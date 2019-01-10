@@ -10,6 +10,7 @@ R
 #-world(#-cl_pass_file-#)-#
 !!mercury:0
 !!mercury-extras:0
+!!ruby:2.3
 !!scala-bin:0
 !spark:0
 !!xsb:0
