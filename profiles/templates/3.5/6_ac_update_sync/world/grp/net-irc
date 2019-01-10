@@ -2,11 +2,13 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 konversation
+quassel
 unrealircd
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!quassel:0
 #many depends
 !!konversation:5
 !!unrealircd:0
