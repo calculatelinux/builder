@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!grub:0
 #?os_arch_machine==i686#
 # not compiled
 !!cromwell:0
