@@ -14,6 +14,9 @@
 !!vim-latex:0
 !!vimpress:0
 !!zenburn:0
+
+# not compiled
+!!easy-align:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
