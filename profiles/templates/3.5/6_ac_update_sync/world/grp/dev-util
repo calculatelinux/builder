@@ -18,6 +18,10 @@
 !!pycharm-professional:0
 # not compiled
 !!sel:0
+#?os_arch_machine==x86_64#
+# not compiled
+!!bazel:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
