@@ -12,6 +12,7 @@ minimock
 morbid
 nevow
 paisley
+pytest-capturelog
 python3-lxc
 pyutil
 translate-toolkit
@@ -70,9 +71,10 @@ pytest-catchlog
 !!paisley:0
 !!pycryptodome:0
 !!pyldap:0
+!!pytest-capturelog:0
 !!pytest-catchlog:0
-!!python-efl:0
 !!python3-lxc:0
+!!python-efl:0
 !!pyutil:0
 !!translate-toolkit:0
 !!twisted-conch:0
