@@ -10,9 +10,6 @@
 !!policyd-weight:0
 !!rblcheck:0
 
-# not compiled
-!!dovecot-antispam:0
-
 #?os_arch_machine==i686#
 # not compiled
 !!anubis:0
