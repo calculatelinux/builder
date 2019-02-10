@@ -5,6 +5,7 @@
 !!kajongg:5
 #?os_arch_machine==i686#
 # not compiled
+!!kdesdk-meta:5
 !!umbrello:5
 #os_arch_machine#
 #in#
