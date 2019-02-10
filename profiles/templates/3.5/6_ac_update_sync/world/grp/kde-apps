@@ -3,4 +3,8 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kajongg:5
+#?os_arch_machine==i686#
+# not compiled
+!!umbrello:5
+#os_arch_machine#
 #in#
