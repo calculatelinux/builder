@@ -8,11 +8,6 @@ kronometer
 #os_arch_machine#
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-bumblebee
-primus
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!bumblebee:0
@@ -23,6 +18,7 @@ primus
 !!primus:0
 !!sddm:0
 !!touchcal:0
+!!unclutter-xfixes:0
 #?os_arch_machine==i686#
 # not compiled
 !!bblaunch:0
@@ -30,5 +26,8 @@ primus
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+bumblebee
 notification-daemon
+primus
+unclutter-xfixes
 #in#
