@@ -34,6 +34,6 @@ media-video/subtitlecomposer
 #?os_arch_machine==i686#
 # not compiled
 !!gxine:0
-!!mkvtoolnix:0
+!!pitivi:0
 #os_arch_machine#
 #in#
