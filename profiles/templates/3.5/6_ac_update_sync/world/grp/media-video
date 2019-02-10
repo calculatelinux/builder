@@ -30,10 +30,11 @@ media-video/subtitlecomposer
 !!subtitlecomposer:5
 !!tovid:0
 !!xine-ui:0
+# not compiled
+!!pitivi:0
 
 #?os_arch_machine==i686#
 # not compiled
 !!gxine:0
-!!pitivi:0
 #os_arch_machine#
 #in#
