@@ -3,4 +3,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!pcsx2:0
+
+# not compiled
+!!fakenes:0
 #in#
