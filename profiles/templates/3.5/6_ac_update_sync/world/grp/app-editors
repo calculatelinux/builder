@@ -15,6 +15,12 @@ atom
 !!ee:0
 !!kile:5
 !!okteta:5
+
+# not compiled
+!!efte:0
+!!emacs:23
+!!levee:0
+!!ng:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
