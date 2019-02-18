@@ -38,6 +38,7 @@ into
 ldappool
 pyldap
 pytest-catchlog
+pytest-relaxed
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -72,6 +73,7 @@ pytest-catchlog
 !!pyldap:0
 !!pytest-capturelog:0
 !!pytest-catchlog:0
+!!pytest-relaxed:0
 !!python3-lxc:0
 !!python-efl:0
 !!pyutil:0
