@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
-!!clearlooks-phenix:3.6
 !!fvwm_sounds:0
 !!nimbus:0
 !!papirus-libreoffice-theme:0
@@ -11,7 +10,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-clearlooks-phenix:3.6
 papirus-libreoffice-theme
 papirus-smplayer-theme
 #in#
