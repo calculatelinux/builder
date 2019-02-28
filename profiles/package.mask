@@ -1,4 +1,2 @@
 # может через toolchain.eclass перехватить сборку с gcc на себя
 dev-lang/gnat-gpl
-
-<sys-devel/gcc-8.2.0
