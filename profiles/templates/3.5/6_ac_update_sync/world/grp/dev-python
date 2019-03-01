@@ -96,6 +96,7 @@ pytest-relaxed
 
 # not compiled
 !!graph-tool:0
+!!pyclamav:0
 !!pycryptopp:0
 !!python-virtkey:0
 
