@@ -43,6 +43,7 @@ media-sound/cdtool
 
 # is blocking
 !!apulse:0
+!!exaile:0
 !!lilypond:0
 
 # the license prevents mirroring
