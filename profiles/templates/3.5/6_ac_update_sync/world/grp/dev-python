@@ -11,7 +11,6 @@ mantissa
 morbid
 nevow
 paisley
-pytest-capturelog
 python3-lxc
 pyutil
 translate-toolkit
@@ -71,7 +70,6 @@ pytest-relaxed
 !!paisley:0
 !!pycryptodome:0
 !!pyldap:0
-!!pytest-capturelog:0
 !!pytest-catchlog:0
 !!pytest-relaxed:0
 !!python3-lxc:0
