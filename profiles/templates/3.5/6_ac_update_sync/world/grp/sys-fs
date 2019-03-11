@@ -4,8 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!udev:0
 # not compided
-!!squashfs-tools:3.0
-!!squashfs-tools:3.1
 !!static-dev:0
 #?os_arch_machine==i686#
 # not compiled
