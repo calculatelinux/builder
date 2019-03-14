@@ -2,9 +2,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!docker-runc:0
 !docker-compose:0
+!docker-runc:0
 !grub-xen-host:0
+!!playonlinux:0
 !!qemu-guest-agent:0
 !!virtualbox-bin:0
 # not compiled
