@@ -5,6 +5,8 @@
 !!udev:0
 # not compided
 !!static-dev:0
+!!squashfs-tools:3.0
+!!squashfs-tools:3.1
 #?os_arch_machine==i686#
 # not compiled
 !!sys-fs/e4rat:0
