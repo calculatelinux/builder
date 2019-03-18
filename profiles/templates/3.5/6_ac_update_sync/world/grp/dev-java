@@ -14,7 +14,8 @@
 !!sablecc-anttask:0
 
 # not compiled
-!!dev-java/commons-math:2
+!!commons-math:2
+!!jline:0
 
 #?os_arch_machine==i686#
 # not compiled
