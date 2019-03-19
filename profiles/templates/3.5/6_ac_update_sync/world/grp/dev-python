@@ -36,6 +36,7 @@ django
 into
 ldappool
 pyldap
+PyQt5
 pytest-catchlog
 pytest-relaxed
 #in#
