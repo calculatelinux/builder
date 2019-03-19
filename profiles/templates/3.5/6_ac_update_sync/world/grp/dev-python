@@ -132,6 +132,7 @@ pytest-relaxed
 !!python-magic:0
 !!python-systemd:0
 !!soya:0
+!!spyder:0
 !!utidylib:0
 #in#
 

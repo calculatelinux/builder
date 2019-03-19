@@ -7,7 +7,6 @@ gnugo
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
-!!spider:0
 !!teg:0
 # large packages
 #906M
@@ -18,8 +17,4 @@ gnugo
 # not compiled
 !!stockfish:0
 #os_arch_machine#
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-spider
 #in#
