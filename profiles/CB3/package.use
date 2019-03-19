@@ -19,3 +19,5 @@ www-client/firefox lto
 
 # required by mail-client/geary-0.12.3
 app-crypt/libsecret vala
+
+dev-python/PyQt5 -webkit
