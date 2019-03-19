@@ -13,6 +13,7 @@ nevow
 paisley
 python3-lxc
 pyutil
+QtPy
 translate-toolkit
 twisted-conch
 twisted-core
@@ -76,6 +77,7 @@ pytest-relaxed
 !!python3-lxc:0
 !!python-efl:0
 !!pyutil:0
+!!QtPy:0
 !!translate-toolkit:0
 !!twisted-conch:0
 !!twisted-core:0
