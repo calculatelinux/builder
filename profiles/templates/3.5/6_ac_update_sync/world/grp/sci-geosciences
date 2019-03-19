@@ -8,10 +8,12 @@ gmt
 #-world(#-cl_pass_file-#)-#
 !!gmt:0
 !!gpsbabel:0
+!!qgis:0
 !!qmapshack:0
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
+#?in(os_linux_pkglist, CB4)!=#
 gpsbabel
+qgis
 qmapshack
 #in#
