@@ -26,6 +26,7 @@ media-video/subtitlecomposer
 !!minitube:0
 !!noad:0
 !!nvidia_video_sdk:0
+!!openshot:1
 !!plasma-mediacenter:5
 !!subtitlecomposer:5
 !!tovid:0
@@ -37,4 +38,8 @@ media-video/subtitlecomposer
 # not compiled
 !!gxine:0
 #os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+openshot
 #in#
