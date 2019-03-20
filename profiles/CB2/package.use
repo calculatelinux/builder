@@ -14,3 +14,6 @@ sys-auth/polkit elogind
 dev-lang/R tk
 
 dev-python/PyQt5 -webkit -webengine
+
+# automagic mate-base/mate-panel
+media-libs/mesa -wayland
