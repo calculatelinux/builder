@@ -20,7 +20,6 @@ atom
 #os_arch_machine#
 
 # not compiled
-!!efte:0
 !!emacs:23
 !!levee:0
 !!ng:0
