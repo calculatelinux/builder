@@ -22,6 +22,7 @@ media-sound/cdtool
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!adplay:0
+!!pympd:0
 
 #?os_arch_machine==i686#
 # not compiled for x86
