@@ -14,7 +14,6 @@ cyrus-imapd
 
 # not compiled
 !!maildirtree:0
-!!qpopper:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
