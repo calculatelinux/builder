@@ -11,7 +11,6 @@ cyrus-imapd
 !!dovecot:0
 !!mu:0
 !qtools:0
-!!uw-imap:0
 
 # not compiled
 !!maildirtree:0
@@ -21,10 +20,6 @@ cyrus-imapd
 #?in(os_linux_pkglist, CB3)!=#
 bincimap
 mu
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-uw-imap
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
