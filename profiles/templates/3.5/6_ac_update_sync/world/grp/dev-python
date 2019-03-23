@@ -96,6 +96,8 @@ pytest-relaxed
 !!zfec:0
 
 # not compiled
+!!cgkit:0
+!!flexx:0
 !!graph-tool:0
 !!pyclamav:0
 !!pycryptopp:0
