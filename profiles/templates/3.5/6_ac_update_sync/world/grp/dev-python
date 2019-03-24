@@ -96,6 +96,7 @@ pytest-relaxed
 !!zfec:0
 
 # not compiled
+!!bokeh:0
 !!cgkit:0
 !!flexx:0
 !!graph-tool:0
