@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!squid:0
+!!squidguard:0
 !!squirm:0
 #in#
 

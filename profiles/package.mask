@@ -2,3 +2,5 @@
 dev-lang/gnat-gpl
 
 <sys-devel/gcc-8.2.0
+
+<sys-libs/db-5.3
