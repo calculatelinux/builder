@@ -21,7 +21,6 @@ sink
 # not compiled
 !!beignet:0
 !granite:0
-!!grok:0
 !!libcec:0
 !!libclc:0
 !!libcli:0
