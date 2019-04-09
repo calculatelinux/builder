@@ -16,6 +16,9 @@ bcg729
 !!openexr_ctl:0
 !!phonon-vlc:0
 
+# not compiled
+!!osl:0
+
 #?os_arch_machine==i686#
 !!libsidplayfp:0
 !!xine-lib:1
