@@ -13,6 +13,7 @@ bcg729
 !!jpeg:0
 !!jpeg:62
 !!libpostproc:0
+!!openexr_ctl:0
 !!phonon-vlc:0
 
 #?os_arch_machine==i686#

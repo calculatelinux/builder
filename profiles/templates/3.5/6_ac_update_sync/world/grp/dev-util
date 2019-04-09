@@ -2,13 +2,13 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-
 !!android-sdk-update-manager:0
 !!android-studio:0
 !!buildbot:0
 !!bustle:0
 !!cargo:0
 !!cmake-fedora:0
+!!cmdtest:0
 !!lttng-modules:0
 !!lttng-tools:0
 !!min-cscope:0
@@ -16,6 +16,7 @@
 !!nvidia-cuda-toolkit:0
 !!pkgconf:0
 !!shellcheck:0
+
 # big size
 # 298M
 !!pycharm-professional:0
@@ -29,6 +30,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 bustle
+cmdtest
 shellcheck
 #in#
 
