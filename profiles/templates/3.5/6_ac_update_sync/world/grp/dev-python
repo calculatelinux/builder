@@ -36,7 +36,6 @@ zfec
 django
 into
 ldappool
-pyldap
 PyQt5
 pytest-catchlog
 pytest-relaxed
@@ -71,7 +70,6 @@ pytest-relaxed
 !!os-xenapi:0
 !!paisley:0
 !!pycryptodome:0
-!!pyldap:0
 !!pytest-catchlog:0
 !!pytest-relaxed:0
 !!python3-lxc:0
