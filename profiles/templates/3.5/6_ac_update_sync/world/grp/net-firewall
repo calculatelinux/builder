@@ -2,6 +2,8 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+# not compiled
+!!ipt_netflow:0
 #?os_arch_machine==i686#
 !!fwbuilder:0
 #os_arch_machine#
