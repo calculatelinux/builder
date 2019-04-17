@@ -28,6 +28,12 @@
 #os_arch_machine#
 #in#
 
+#?in(os_linux_pkglist, CB2)!=#
+#?os_arch_machine==x86_64#
+nvidia-cuda-toolkit
+#os_arch_machine#
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 bustle
 cmdtest

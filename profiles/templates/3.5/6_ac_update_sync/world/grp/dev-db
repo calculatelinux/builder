@@ -28,5 +28,7 @@ tinycdb
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-sqlite:3
+mysql
+mysql-connector-c
+sqlite
 #in#
