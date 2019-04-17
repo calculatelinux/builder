@@ -12,8 +12,6 @@
 !!lttng-modules:0
 !!lttng-tools:0
 !!min-cscope:0
-!!nvidia-cuda-sdk:0
-!!nvidia-cuda-toolkit:0
 !!pkgconf:0
 !!shellcheck:0
 
@@ -23,6 +21,8 @@
 # not compiled
 !!sel:0
 #?os_arch_machine==x86_64#
+!!nvidia-cuda-sdk:0
+!!nvidia-cuda-toolkit:0
 # not compiled
 !!bazel:0
 #os_arch_machine#
