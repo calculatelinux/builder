@@ -2,10 +2,10 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-# not found
 !!gajim:0
 !!gajim-httpupload:0
 !!signal-desktop-bin:0
+!!transwhat:0
 !!yowsup:0
 #?os_arch_machine==x86_64#
 # not compiled
@@ -16,5 +16,6 @@
 #?in(os_linux_pkglist, CB4)!=#
 gajim
 gajim-httpupload
+transwhat
 yowsup
 #in#
