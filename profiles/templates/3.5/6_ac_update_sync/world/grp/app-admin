@@ -7,8 +7,6 @@
 !!logsentry:0
 !!puppet-agent:0
 !!puppetserver:0
-# large packages
-!!systemrescuecd-x86:*
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
