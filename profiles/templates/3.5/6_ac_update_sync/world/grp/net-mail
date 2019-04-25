@@ -6,7 +6,6 @@ cyrus-imapd
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!bincimap:0
 !!cyrus-imapd:0
 !!dovecot:0
 !!mu:0
@@ -17,7 +16,6 @@ cyrus-imapd
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-bincimap
 mu
 #in#
 
