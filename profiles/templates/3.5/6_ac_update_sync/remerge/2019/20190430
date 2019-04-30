@@ -1,0 +1,4 @@
+# Calculate format=samba name=ini.env ini(overlay-builder.remerge)<#-cl_pass_file-# merge=app-crypt/mit-krb5,dev-python/scrypt,net-dialup/ppp,dev-libs/cyrus-sasl,dev-libs/libevent,net-wireless/wpa_supplicant,dev-qt/qtnetwork,dev-lang/ruby,dev-vcs/git,dev-python/cryptography,net-misc/openssh,media-sound/pulseaudio,media-video/ffmpeg,net-nds/openldap
+
+[overlay-builder]
+remerge = #-cl_pass_file-#
