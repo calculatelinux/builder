@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 !!autojump:0
 !!bashdb:0
+!!hstr:0
 #in#
