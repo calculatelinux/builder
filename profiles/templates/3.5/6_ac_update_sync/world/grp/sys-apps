@@ -35,5 +35,6 @@ calculate-utils
 dbus
 groff
 inxi
+lm_sensors
 lshw
 #in#
