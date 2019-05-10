@@ -19,7 +19,6 @@ sink
 !!tre:0
 
 # not compiled
-!!beignet:0
 !granite:0
 !!libcec:0
 !!libclc:0
@@ -32,6 +31,11 @@ sink
 
 # need to download
 !!device-atlas-api-c:0
+
+#?os_arch_machine==x86_64#
+# not compiled                                                           
+!!beignet:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
