@@ -24,4 +24,4 @@ dev-python/PyQt5 -webkit
 
 # required by Gnome
 sys-auth/pambase elogind
-sys-auth/polkit elogind
+sys-auth/polkit elogind -consolekit
