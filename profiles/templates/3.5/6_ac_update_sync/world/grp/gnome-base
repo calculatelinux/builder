@@ -1,15 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-
-!!gdm:0
-!!gnome:2.0
-!!gnome-control-center:2
-!!gnome-core-apps:3.0
-!!gnome-extra-apps:3.0
-!!gnome-light:2.0
-!!gnome-session:0
-!!gnome-settings-daemon:0
-!!gnome-shell:0
 #in#

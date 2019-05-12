@@ -1,19 +1,8 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!chrome-gnome-shell:0
-!gnome-boxes:0
-!!gnome-logs:0
-!!gnome-power-manager:0
-!!gnome-shell-extension-applications-overview-tooltip:0
-!gnome-shell-extension-dash-to-panel:0
-!gnome-shell-extension-gsconnect:0
-!!gnome-shell-extensions:0
-!!gnome-shell-extensions-topicons-plus:0
-!!gnome-shell-frippery:0
-!!gnome-tweaks:0
-!!gnome-user-share:0
 !!office-runner:0
-!!synapse:0
+!!gnome-user-share:0
+!!gnome-logs:0
 #in#
