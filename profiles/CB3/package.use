@@ -21,3 +21,6 @@ www-client/firefox lto
 app-crypt/libsecret vala
 
 dev-python/PyQt5 -webkit
+
+# required by Gnome
+sys-auth/pambase elogind
