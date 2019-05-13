@@ -1,6 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB3)!=#
+epiphany
 #?os_arch_machine==x86_64#
 firefox
 #os_arch_machine#
@@ -8,6 +9,7 @@ firefox
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!epiphany:0
 # already binary
 !!firefox-bin:0
 !!seamonkey-bin:0
