@@ -38,7 +38,6 @@ into
 ldappool
 PyQt5
 pytest-catchlog
-pytest-relaxed
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -71,7 +70,6 @@ pytest-relaxed
 !!paisley:0
 !!pycryptodome:0
 !!pytest-catchlog:0
-!!pytest-relaxed:0
 !!python3-lxc:0
 !!python-efl:0
 !!pyutil:0
