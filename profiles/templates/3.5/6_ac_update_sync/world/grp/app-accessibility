@@ -12,14 +12,12 @@ app-accessibility/emacspeak-ss
 app-accessibility/epos
 app-accessibility/espeak
 app-accessibility/espeakup
-app-accessibility/festival
 app-accessibility/flite
 app-accessibility/freetts
 app-accessibility/julius
 app-accessibility/mbrola
 app-accessibility/nfbtrans
 #app-accessibility/orca
-app-accessibility/perlbox-voice
 app-accessibility/powiedz
 app-accessibility/speechd-el
 app-accessibility/speech-dispatcher
