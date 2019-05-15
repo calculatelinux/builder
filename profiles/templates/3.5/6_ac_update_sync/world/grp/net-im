@@ -14,8 +14,8 @@
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-#gajim
-#gajim-httpupload
-#transwhat
-#yowsup
+gajim
+gajim-httpupload
+transwhat
+yowsup
 #in#
