@@ -6,9 +6,8 @@ sys-apps/calculate-access -client server
 # required by x11-misc/bumblebee-3.2.1
 >=x11-base/xorg-drivers-1.19 video_cards_nvidia
 
-# Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated
-# encoding on NVIDIA cards.
-media-video/ffmpeg nvenc
+# VIDEO_CARDS setting to build driver for nvidia video cards
+media-video/ffmpeg video_cards_nvidia
 
 # support for Tk GUI toolkit
 dev-lang/python tk
