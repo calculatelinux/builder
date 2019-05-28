@@ -8,7 +8,7 @@ app-office/dia
 app-office/dia2code
 app-office/eqe
 app-office/glabels
-app-office/gnucash
+#app-office/gnucash
 app-office/gnumeric
 app-office/grisbi
 app-office/homebank
