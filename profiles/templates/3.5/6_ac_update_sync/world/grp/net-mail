@@ -12,6 +12,7 @@ cyrus-imapd
 !qtools:0
 
 # not compiled
+!!fdm:0
 !!maildirtree:0
 #in#
 
