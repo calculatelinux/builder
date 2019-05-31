@@ -13,6 +13,7 @@ kfoldersync
 !!kfoldersync:5
 
 # not compiled
+!!attic:0
 !!rdedup:0
 #in#
 
