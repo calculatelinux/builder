@@ -9,7 +9,6 @@
 !!dropbox:0
 !!dropbox-cli:0
 !!gsasl:0
-!!ntpsec:0
 !!openntpd:0
 !!openvswitch:0
 !!owncloud-client:0
@@ -23,6 +22,7 @@
 !!unison:2.48
 
 # not compiled
+!ntpsec:0
 !!quagga:0
 
 # need to download
@@ -41,7 +41,6 @@ dhcp
 
 #?in(os_linux_pkglist, CB2)!=#
 dropbox
-ntpsec
 owncloud-client
 telnet-bsd
 #in#
