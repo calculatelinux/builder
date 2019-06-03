@@ -10,9 +10,6 @@
 !!queue-standalone:0
 !!uclibc-ng:0
 
-# not compiled
-!!compiler-rt-sanitizers:4.0.1
-
 #?os_arch_machine==i686#
 !!libieee1284:0
 #os_arch_machine#
