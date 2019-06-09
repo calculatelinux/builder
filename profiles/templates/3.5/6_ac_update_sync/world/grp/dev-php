@@ -8,6 +8,7 @@
 !!PEAR-Net_LDAP3:0
 !!pecl-imagick:0
 #?os_arch_machine==i686#
+!!dev-php/pecl-yaz:0
 # not compiled
 !!ming-php:0
 #os_arch_machine#
