@@ -69,6 +69,7 @@ pytest-catchlog
 !!os-xenapi:0
 !!paisley:0
 !!pycryptodome:0
+!!pygsl:0
 !!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
@@ -101,8 +102,6 @@ pytest-catchlog
 !!python-virtkey:0
 
 #?os_arch_machine==i686#
-!!pygsl:0
-
 # not compiled
 !!Kivy:0
 #os_arch_machine#
