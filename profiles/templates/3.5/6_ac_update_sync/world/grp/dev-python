@@ -96,7 +96,6 @@ pytest-catchlog
 !!bokeh:0
 !!cgkit:0
 !!flexx:0
-!!graph-tool:0
 !!pyclamav:0
 !!pycryptopp:0
 !!python-virtkey:0
