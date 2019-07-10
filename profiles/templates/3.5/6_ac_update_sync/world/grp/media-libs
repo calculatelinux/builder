@@ -24,6 +24,8 @@ bcg729
 #?os_arch_machine==i686#
 !!libsidplayfp:0
 !!xine-lib:1
+# not compiled
+!!gegl:0
 #os_arch_machine#
 #in#
 
