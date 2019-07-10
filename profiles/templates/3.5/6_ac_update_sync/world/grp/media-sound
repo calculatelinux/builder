@@ -47,9 +47,6 @@ media-sound/cdtool
 !!exaile:0
 !!lilypond:0
 
-# the license prevents mirroring
-!!ventrilo-server-bin:0
-
 # not compiled
 !!aumix:0
 !!cvoicecontrol:0
