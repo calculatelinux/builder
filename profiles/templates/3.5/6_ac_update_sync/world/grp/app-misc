@@ -6,6 +6,7 @@ xorg-meta
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!anki:0
 !!livecd-tools:0
 !!realpath:0
 !!xorg-meta:0
