@@ -4,10 +4,6 @@
 audacious-plugins
 #in#
 
-#?in(os_linux_pkglist, CB1)!=#
-kipi-plugins
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 deadbeef-fb
 #in#
@@ -16,7 +12,6 @@ deadbeef-fb
 #-world(#-cl_pass_file-#)-#
 !!audacious-plugins:0
 !!deadbeef-fb:0
-!!kipi-plugins:5
 !mediastreamer-silk:0
 !!vdr-live:0
 !vdr-rotor:0
