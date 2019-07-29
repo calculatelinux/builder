@@ -9,6 +9,7 @@ xorg-meta
 !!anki:0
 !!livecd-tools:0
 !!realpath:0
+!!vlock:0
 !!xorg-meta:0
 # not compiled
 !!cdircmp:0

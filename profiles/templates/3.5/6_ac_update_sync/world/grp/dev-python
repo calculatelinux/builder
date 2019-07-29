@@ -112,6 +112,7 @@ pytest-catchlog
 !!elasticsearch-curator:0
 !!flake8:0
 !!future:0
+!!gnat-gpl:8.3.1
 !!guzzle_sphinx_theme:0
 !!hacking:0
 !!irc:0
@@ -121,15 +122,19 @@ pytest-catchlog
 !!mccabe:0
 !!mysql-python:0
 !!numba:0
+!!os-ken:0
 !!oslotest:0
+!!pika:0
 !!pymssql:0
 !!pyndex:0
 !python3-openid:0
 !!python-dateutil:0
 !!python-magic:0
 !!python-systemd:0
+!!rednose:0
 !!soya:0
 !!spyder:0
+!!sure:0
 !!utidylib:0
 #in#
 
