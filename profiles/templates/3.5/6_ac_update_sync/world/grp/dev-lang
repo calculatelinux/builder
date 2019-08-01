@@ -8,16 +8,15 @@ R
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!gnat-gpl:4.9.4
+!gnat-gpl:6.3.0
+!gnat-gpl:7.3.1
+!gnat-gpl:8.3.1
 !!mercury:0
 !!mercury-extras:0
 !!scala-bin:0
 !spark:0
 !!xsb:0
-#not compiled
-!gnat-gpl:4.9.4
-!gnat-gpl:6.3.0
-!gnat-gpl:7.3.1
-!gnat-gpl:8.3.1
 
 #?os_arch_machine==i686#
 !!gprolog:0

@@ -93,6 +93,7 @@ pytest-catchlog
 !!zfec:0
 
 # not compiled
+!!aiohttp-socks:0
 !!bokeh:0
 !!cgkit:0
 !!flexx:0
