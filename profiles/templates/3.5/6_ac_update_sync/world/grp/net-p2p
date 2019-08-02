@@ -16,7 +16,6 @@ net-p2p/bitcoin-cli
 #net-p2p/bitcoinxtd
 #net-p2p/bitcoinxt-qt
 net-p2p/deluge
-net-p2p/multibit
 net-p2p/opentracker
 #net-p2p/ppcoind
 #net-p2p/ppcoin-qt
