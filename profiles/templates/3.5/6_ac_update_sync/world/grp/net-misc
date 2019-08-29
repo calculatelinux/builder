@@ -32,7 +32,6 @@
 #?os_arch_machine==i686#
 # not compiled
 !!liveice:0
-!!tokyotyrant:0
 #os_arch_machine#
 #in#
 
