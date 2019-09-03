@@ -23,6 +23,7 @@ atom
 !!emacs:23
 !!levee:0
 !!ng:0
+!!texworks:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
