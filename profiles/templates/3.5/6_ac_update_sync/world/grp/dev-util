@@ -33,6 +33,11 @@ nvidia-cuda-toolkit
 #os_arch_machine#
 #in#
 
+#?in(os_linux_pkglist, CB3)!=#
+# depend for mutter
+gdbus-codegen
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 bustle
 cmdtest
