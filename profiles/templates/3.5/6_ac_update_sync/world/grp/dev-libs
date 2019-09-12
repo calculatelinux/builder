@@ -19,6 +19,7 @@ sink
 !!tre:0
 
 # not compiled
+!!cloog:0
 !granite:0
 !!libcec:0
 !!libclc:0
