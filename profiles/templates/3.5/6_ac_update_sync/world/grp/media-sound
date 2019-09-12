@@ -26,7 +26,6 @@ media-sound/cdtool
 
 #?os_arch_machine==i686#
 # not compiled for x86
-!!imp3sh:0
 !!mixxx:0
 !!spotify:0
 !!xineadump:0
