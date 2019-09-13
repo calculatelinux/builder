@@ -27,7 +27,6 @@
 
 # need to download
 !!java-sdk-docs:1.8
-!!jdbc-informix:0
 !!jta:0
 !!oracle-jdk-bin:1.8
 !!oracle-jre-bin:1.8
