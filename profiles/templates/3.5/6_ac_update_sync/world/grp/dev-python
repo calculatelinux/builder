@@ -99,7 +99,6 @@ pytest-catchlog
 !!flexx:0
 !!pyclamav:0
 !!pycryptopp:0
-!!python-virtkey:0
 
 #?os_arch_machine==i686#
 # not compiled

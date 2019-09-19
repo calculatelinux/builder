@@ -13,7 +13,6 @@ kimap2
 !!libnfsidmap:0
 !!signon-ui:0
 # not compiled
-!!ccrtp:0
 !pjproject:0
 
 #?os_arch_machine==i686#
