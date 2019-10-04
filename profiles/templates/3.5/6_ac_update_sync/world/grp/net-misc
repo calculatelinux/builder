@@ -40,7 +40,7 @@ dhcp
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-dropbox
+#dropbox
 owncloud-client
 telnet-bsd
 #in#

@@ -4,7 +4,7 @@
 # need to download
 #games-roguelike/FTL
 
-games-roguelike/adom
+#games-roguelike/adom
 games-roguelike/crossfire-client
 games-roguelike/powder
 #games-roguelike/rogue
