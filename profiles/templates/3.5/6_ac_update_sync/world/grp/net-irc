@@ -8,7 +8,6 @@ unrealircd
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!irssi-otr:0
 !!quassel:0
 #many depends
 !!konversation:5
