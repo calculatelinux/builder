@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-vixie-cron
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 bcron
 #in#
@@ -19,7 +15,6 @@ dcron
 !!dcron:0
 !!systemd-cron:0
 !!tiptop:0
-!!vixie-cron:0
 !!xjobs:0
 #in#
 
