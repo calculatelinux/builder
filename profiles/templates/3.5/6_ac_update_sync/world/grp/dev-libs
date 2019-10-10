@@ -11,6 +11,7 @@ sink
 !sink:5
 
 # is blocking
+!!botan:0
 !!libelf:0
 !!libiconv:0
 !!libintl:0
