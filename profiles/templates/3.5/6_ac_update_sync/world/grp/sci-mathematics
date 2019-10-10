@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
+!!rstudio:0
 !!singular:0
 !!xmds:0
 #in#
