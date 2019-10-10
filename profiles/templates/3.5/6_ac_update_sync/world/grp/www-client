@@ -10,6 +10,7 @@ epiphany
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!epiphany:0
+!!w3mmee:0
 # already binary
 !!firefox-bin:0
 !!seamonkey-bin:0
