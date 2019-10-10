@@ -23,6 +23,7 @@
 !!unison:2.48
 
 # not compiled
+!!cfengine:0
 !ntpsec:0
 !!quagga:0
 
