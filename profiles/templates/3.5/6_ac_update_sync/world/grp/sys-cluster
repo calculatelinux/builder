@@ -21,6 +21,7 @@ pacemaker
 !!neutron:0
 !!nova:0
 !!openais:0
+!!osc-mpiexec:0
 !!pacemaker:0
 
 # not compiled
