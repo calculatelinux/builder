@@ -8,7 +8,6 @@ radiusclient-ng
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !cistronradius:0
-!!globespan-adsl:0
 !!mgetty:0
 !!radiusclient-ng:0
 #in#

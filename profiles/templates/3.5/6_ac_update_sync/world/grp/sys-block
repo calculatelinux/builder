@@ -6,8 +6,6 @@
 # EULA
 !arcconf:0
 !!megacli:0
-# not compiled
-!!iscsitarget:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
