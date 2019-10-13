@@ -95,7 +95,6 @@ pytest-catchlog
 # not compiled
 !!aiohttp-socks:0
 !!bokeh:0
-!!cgkit:0
 !!flexx:0
 !!pyclamav:0
 !!pycryptopp:0
