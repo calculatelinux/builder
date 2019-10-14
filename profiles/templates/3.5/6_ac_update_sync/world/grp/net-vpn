@@ -5,7 +5,6 @@
 !!networkmanager-strongswan:0
 !!strongswan:0
 # not compiled
-!!ipsec-tools:0
 !!isatapd:0
 #in#
 
