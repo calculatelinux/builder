@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
+!!freedoom:0
 !!freedoom-data:0
 #?os_arch_machine==i686#
 # not compiled
