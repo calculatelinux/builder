@@ -16,6 +16,7 @@ kronometer
 !!notification-daemon:0
 !!pcmanfm-qt:0
 !!primus:0
+!!revelation:0
 !!sddm:0
 !!touchcal:0
 !!unclutter-xfixes:0
@@ -30,4 +31,8 @@ bumblebee
 notification-daemon
 primus
 unclutter-xfixes
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+revelation
 #in#
