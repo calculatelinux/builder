@@ -10,6 +10,7 @@ gmt
 !!gpsbabel:0
 !!qgis:0
 !!qmapshack:0
+!!viking:0
 #?os_arch_machine==i686#
 # not compiled
 !!mapnik:0
