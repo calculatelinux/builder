@@ -26,7 +26,7 @@ games-strategy/freeciv
 games-strategy/freecol
 games-strategy/freesynd
 games-strategy/galaxyhack
-games-strategy/glob2
+#games-strategy/glob2
 games-strategy/gwp
 #games-strategy/ja2-stracciatella
 games-strategy/lgeneral
