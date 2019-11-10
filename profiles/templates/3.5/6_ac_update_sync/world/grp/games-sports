@@ -2,8 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-# not compiled
-!!foobillard:0
 # big size
 # 377M
 !!torcs:0
