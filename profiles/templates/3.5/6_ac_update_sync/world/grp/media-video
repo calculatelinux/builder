@@ -24,7 +24,7 @@ openshot
 !!libav:0
 !!matroxset:0
 !!noad:0
-!!nvidia-video-codec:0
+!nvidia-video-codec:0
 !!nvidia_video_sdk:0
 !!openshot:1
 !!plasma-mediacenter:5
