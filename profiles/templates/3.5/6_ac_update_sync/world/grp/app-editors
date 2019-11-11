@@ -19,6 +19,10 @@ atom
 # not compiled
 !!levee:0
 !!ng:0
+#?os_arch_machine==i686#
+# not compiled
+!!emacs:23
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
