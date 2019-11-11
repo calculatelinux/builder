@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !jtag:0
-!!tigcc:0
 !!urjtag:0
 !!ponyprog:0
 

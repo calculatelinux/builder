@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!gcc:6.4.0
 !!gcc:6.5.0
 !!gcc:7.3.0
 !!gcc:7.4.0
