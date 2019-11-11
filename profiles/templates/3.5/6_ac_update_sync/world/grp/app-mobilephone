@@ -1,15 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-app-mobilephone/adb-sync
-app-mobilephone/anyremote
-app-mobilephone/gammu
-app-mobilephone/ganyremote
-app-mobilephone/gnokii
-app-mobilephone/lightblue
-app-mobilephone/obexftp
-app-mobilephone/qtadb
-app-mobilephone/sobexsrv
-app-mobilephone/vmoconv
-app-mobilephone/wammu
+#?in(os_linux_pkglist, CB3)!=#
+#-world(#-cl_pass_file-#)-#
+!!qtadb:0
 #in#

@@ -1,28 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-#-world(#-cl_pass_file-#)-#
-!dbskkd-cdb:0
-!fcitx-libpinyin:0
-!fcitx-rime:4
-!fcitx-sunpinyin:0
-!fcitx-unikey:0
-!ibus-libpinyin:0
-!!ibus-m17n:0
-!!kcm-fcitx:4-plasma5
-!libpinyin:0
-!librime:0
-!multiskkserv:0
-!qimhangul:0
-!rime-data:0
-!scim-anthy:0
-!xcin:0
-#?os_arch_machine==i686#
-# not compiled
-!!skkfep:0
-#os_arch_machine#
-#in#
-
 #?in(os_linux_pkglist, CB3)!=#
-kcm-fcitx:4-plasma5
+#-world(#-cl_pass_file-#)-#
 #in#

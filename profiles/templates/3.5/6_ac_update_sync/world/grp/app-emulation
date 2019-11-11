@@ -4,25 +4,28 @@
 #-world(#-cl_pass_file-#)-#
 !docker-compose:0
 !docker-runc:0
-!grub-xen-host:0
-!!playonlinux:0
-!!qemu-guest-agent:0
-!!virtualbox-bin:0
-# not compiled
 !!ganeti:0
 !!ganeti-instance-debootstrap:0
 !!ganeti-instance-image:0
+!grub-xen-host:0
+!!virtualbox-bin:0
+# not compiled
 !libguestfs:0
-!libvirt-snmp:0
-!xen-pvgrub:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 qemu-guest-agent
 virtualbox-bin
 #?os_arch_machine==x86_64#
+docker-compose
 docker-runc
 #os_arch_machine#
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+ganeti
+ganeti-instance-debootstrap
+ganeti-instance-image
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
