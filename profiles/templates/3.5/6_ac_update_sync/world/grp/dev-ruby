@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!facter:0
 # not compiled
 !!gruff:0
 !!rmagick:0

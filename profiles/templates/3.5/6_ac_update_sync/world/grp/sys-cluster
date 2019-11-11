@@ -12,8 +12,6 @@ pacemaker
 !!ceph:0
 !!cinder:0
 !!corosync:0
-!!dlm:0
-!!dlm-lib:0
 !feedbackd-master:0
 !!heat:0
 !!mpich:0
@@ -21,7 +19,6 @@ pacemaker
 !!neutron:0
 !!nova:0
 !!openais:0
-!!osc-mpiexec:0
 !!pacemaker:0
 
 # not compiled
