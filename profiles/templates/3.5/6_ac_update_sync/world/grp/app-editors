@@ -14,7 +14,6 @@ atom
 !!ee:0
 !!kile:5
 !!okteta:5
-!!retext:0
 
 # not compiled
 !!levee:0
@@ -23,10 +22,6 @@ atom
 # not compiled
 !!emacs:23
 #os_arch_machine#
-#in#
-
-#?in(os_linux_pkglist, CB3)!=#
-retext
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
