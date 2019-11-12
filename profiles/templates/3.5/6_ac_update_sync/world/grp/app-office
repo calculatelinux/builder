@@ -18,6 +18,10 @@ skrooge
 !!libreoffice-bin:0
 !!libreoffice-bin-debug:0
 !!openoffice-bin:0
+#?os_arch_machine==i686#
+# not compiled
+!!gnucash:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
