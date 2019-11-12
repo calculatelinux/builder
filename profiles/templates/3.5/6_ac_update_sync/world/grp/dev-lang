@@ -14,6 +14,7 @@
 #not compiled
 !!mozart:0
 !!mozart-stdlib:0
+!!xsb:0
 #os_arch_machine#
 #in#
 

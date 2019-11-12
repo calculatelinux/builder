@@ -19,6 +19,7 @@
 !!pycharm-professional:0
 # not compiled
 !!ddd:0
+!!eric:0
 !!sel:0
 #?os_arch_machine==x86_64#
 !!nvidia-cuda-sdk:0
