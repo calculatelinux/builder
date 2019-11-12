@@ -2,14 +2,11 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!PEAR-MDB2_Driver_mssql:0
-!!PEAR-MDB2_Driver_oci8:0
 !!PEAR-Net_LDAP2:0
 !!PEAR-Net_LDAP3:0
-!!pecl-imagick:0
-#?os_arch_machine==i686#
-!!dev-php/pecl-yaz:0
-#os_arch_machine#
+
+!!PEAR-MDB2_Driver_mssql:0
+!!PEAR-MDB2_Driver_oci8:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
