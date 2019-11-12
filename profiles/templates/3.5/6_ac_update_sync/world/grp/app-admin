@@ -2,12 +2,13 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!abrt:0
 !!fam:0
 !!logsentry:0
-!!puppet:0
 !!puppet-agent:0
 !!puppetserver:0
+
+!!abrt:0
+!!puppet:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#

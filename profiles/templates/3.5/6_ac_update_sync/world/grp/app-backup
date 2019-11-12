@@ -6,13 +6,13 @@ kfoldersync
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!backuppc:0
 !!bareos:0
 !!bup:0
 !!burp:0
-!!deja-dup:0
 !!kfoldersync:5
 
+!!backuppc:0
+!!deja-dup:0
 # not compiled
 !!attic:0
 !!rdedup:0

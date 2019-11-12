@@ -21,22 +21,9 @@ sink
 
 # not compiled
 !!cloog:0
-!granite:0
-!!libcec:0
-!!libclc:0
-!!tvision:0
-!!ucommon:0
-!wnn7sdk:0
-!xalan-c:0
-!!xapian-bindings:0
 
 # need to download
 !!device-atlas-api-c:0
-
-#?os_arch_machine==x86_64#
-# not compiled                                                           
-!!beignet:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

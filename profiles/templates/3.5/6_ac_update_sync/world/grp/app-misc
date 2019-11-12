@@ -6,12 +6,13 @@ xorg-meta
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!xorg-meta:0
+
 !!anki:0
 !!lcdproc:0
 !!livecd-tools:0
 !!realpath:0
 !!vlock:0
-!!xorg-meta:0
 # not compiled
 !!dvorak7min:0
 #in#

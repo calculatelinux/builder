@@ -2,9 +2,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!signify:0
+
 !!cfssl:0
 !!heimdal:0
-!!signify:0
 # not compiled
 !!kali-archive-keyring:0
 !!seahorse-sharing:0

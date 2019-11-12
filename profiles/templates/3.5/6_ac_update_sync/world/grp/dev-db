@@ -13,14 +13,13 @@ tinycdb
 !!tinycdb:0
 !!mysql-connector-c:0
 
+# EULA
 !!oracle-instantclient-basic:0
 !!oracle-instantclient-jdbc:0
 !!oracle-instantclient-odbc:0
 !!oracle-instantclient-sqlplus:0
-!!percona-xtrabackup:0
 !!sqldeveloper:0
-!!sqlitebrowser:0
-!!sqliteman:0
+
 #?os_arch_machine==i686#
 # not compiled
 !!mysql-workbench:0

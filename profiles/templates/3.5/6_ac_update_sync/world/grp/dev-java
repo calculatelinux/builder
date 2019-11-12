@@ -2,30 +2,25 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!ant-eclipse-ecj:4.2
-!!bndlib:0
 !!eclipse-ecj:4.2
-!!httpcomponents-client:4.5
-!!jackrabbit-webdav:0
-!!jamvm:0
-!netbeans-javadoc:8.2
-!!relaxngcc:0
+
 # мешает работе ant
 !!sablecc-anttask:0
 
 # not compiled
 !!commons-math:2
-!!jline:0
+!!ant-eclipse-ecj:4.2
 
 #?os_arch_machine==i686#
 # not compiled
 !!ant-eclipse-ecj:4.4
 !!eclipse-ecj:4.4
-!!piccolo2d:0
-!!swt:3.8
 #os_arch_machine#
 
 # need to download
+!!bndlib:0
+!!httpcomponents-client:4.5
+!!jackrabbit-webdav:0
 !!java-sdk-docs:1.8
 !!jta:0
 !!oracle-jdk-bin:1.8
