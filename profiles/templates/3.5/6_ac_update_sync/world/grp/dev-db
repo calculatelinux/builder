@@ -9,9 +9,10 @@ tinycdb
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!mysql:0
-!!mysql-connector-c:0
 !!mytop:0
-!!opendbx:0
+!!tinycdb:0
+!!mysql-connector-c:0
+
 !!oracle-instantclient-basic:0
 !!oracle-instantclient-jdbc:0
 !!oracle-instantclient-odbc:0
@@ -20,7 +21,6 @@ tinycdb
 !!sqldeveloper:0
 !!sqlitebrowser:0
 !!sqliteman:0
-!!tinycdb:0
 #?os_arch_machine==i686#
 # not compiled
 !!mysql-workbench:0

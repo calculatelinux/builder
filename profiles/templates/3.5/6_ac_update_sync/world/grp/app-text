@@ -4,12 +4,13 @@
 #-world(#-cl_pass_file-#)-#
 !!agrep:0
 !!bibus:0
-!!cedilla:0
 !!hd2u:0
 !!sigil:0
 !!tidy-html5:0
-!!xindy:0
 !!zathura-pdf-mupdf:0
+
+!!xindy:0
+!!cedilla:0
 # EULA
 !fdftk:0
 # not compiled

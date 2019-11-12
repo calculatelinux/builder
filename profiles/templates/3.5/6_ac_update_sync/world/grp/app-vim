@@ -2,24 +2,22 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!automatictexplugin:0
 !!colorschemes:0
-!!colorv:0
-!!ctx:0
-!!perl-support:0
-!!slimv:0
-!!splice:0
+!!c-support:0
 !!unite:0
-!!vimcalc:0
-!!vim-latex:0
-!!vimpress:0
 !!zenburn:0
 
-# not compiled
-!!easy-align:0
+!!automatictexplugin:0
+!!colorv:0
+!!ctx:0
+!!slimv:0
+!!splice:0
+!!vimcalc:0
+!!vimpress:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+c-support
 unite
 zenburn
 #in#
