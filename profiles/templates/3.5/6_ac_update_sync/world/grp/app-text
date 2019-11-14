@@ -16,6 +16,11 @@
 # not compiled
 !!ots:0
 !!sary:0
+#?os_arch_machine==i686#
+# not compiled
+!!llpp:0
+!!zathura-pdf-mupdf:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
