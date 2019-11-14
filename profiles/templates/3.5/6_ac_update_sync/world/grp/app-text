@@ -19,7 +19,6 @@
 #?os_arch_machine==i686#
 # not compiled
 !!llpp:0
-!!zathura-pdf-mupdf:0
 #os_arch_machine#
 #in#
 
@@ -28,7 +27,9 @@ agrep
 bibus
 hd2u
 tidy-html5
+#?os_arch_machine==x86_64#
 zathura-pdf-mupdf
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
