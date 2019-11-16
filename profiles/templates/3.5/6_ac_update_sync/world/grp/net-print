@@ -1,13 +1,9 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-cndrvcups-capt
-cndrvcups-common
 hplip
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!cndrvcups-capt:0
-!!cndrvcups-common:0
 #in#
