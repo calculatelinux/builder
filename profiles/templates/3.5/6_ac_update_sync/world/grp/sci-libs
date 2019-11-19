@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!atlas:0
+!!cblas-reference:0
 !!metis:0
 !!mkl:0
 !!xdmf2:0
