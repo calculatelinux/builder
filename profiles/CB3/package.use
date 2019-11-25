@@ -22,5 +22,5 @@ app-crypt/libsecret vala
 dev-python/PyQt5 -webkit
 
 # required by Gnome
-sys-auth/pambase elogind
+sys-auth/pambase elogind -consolekit
 sys-auth/polkit elogind -consolekit
