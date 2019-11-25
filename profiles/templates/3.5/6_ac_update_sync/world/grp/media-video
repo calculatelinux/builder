@@ -33,6 +33,7 @@ openshot
 !!xine-ui:0
 # not compiled
 !!pitivi:0
+!!yle-dl:0
 
 #?os_arch_machine==i686#
 # not compiled
