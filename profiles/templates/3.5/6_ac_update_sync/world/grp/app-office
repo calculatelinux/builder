@@ -17,6 +17,7 @@ skrooge
 
 !!libreoffice-bin:0
 !!libreoffice-bin-debug:0
+!!libreoffice-voikko:0
 !!openoffice-bin:0
 #?os_arch_machine==i686#
 # not compiled
