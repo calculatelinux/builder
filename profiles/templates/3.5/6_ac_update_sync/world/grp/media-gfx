@@ -16,6 +16,11 @@
 !!duhdraw:0
 !!kphotoalbum:5
 
+#?os_arch_machine==x86_64#
+# not compiled
+!!pinta:0
+#os_arch_machine#
+
 #?os_arch_machine==i686#
 # not compiled
 !!fotoxx:0

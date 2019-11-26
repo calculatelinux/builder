@@ -24,6 +24,7 @@
 
 # not compiled
 !!cfengine:3
+!!hylafaxplus:0
 !ntpsec:0
 !!quagga:0
 

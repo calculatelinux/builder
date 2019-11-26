@@ -98,17 +98,16 @@ pytest-catchlog
 !!flexx:0
 !!pyclamav:0
 !!pycryptopp:0
-!!sampy:0
 
 #?os_arch_machine==x86_64#
 # not compiled
 !!dynd-python:0
+!!sampy:0
 #os_arch_machine#
 
 #?os_arch_machine==i686#
 # not compiled
 !!Kivy:0
-!!sampy:0
 #os_arch_machine#
 
 !!basemap:0

@@ -13,10 +13,6 @@
 !!sign:0
 #?os_arch_machine==i686#
 # not compiled
-!!ndesk-dbus-glib:0
-#os_arch_machine#
-#?os_arch_machine==i686#
-# not compiled
 !!efitools:0
 #os_arch_machine#
 #in#
