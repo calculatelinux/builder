@@ -7,4 +7,7 @@ cernlib-montecarlo
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!cernlib-montecarlo:0
+#?os_arch_machine==x86_64#
+!!paw:0
+#os_arch_machine#
 #in#

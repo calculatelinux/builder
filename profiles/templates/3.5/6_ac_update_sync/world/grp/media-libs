@@ -16,6 +16,8 @@ bcg729
 !!openexr_ctl:0
 !!phonon-vlc:0
 
+# not compiled
+!!lastfmlib:0
 #?os_arch_machine==x86_64#
 # not compiled
 !!osl:0

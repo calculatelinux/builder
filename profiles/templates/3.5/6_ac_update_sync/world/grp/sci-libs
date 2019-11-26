@@ -19,4 +19,8 @@
 !!xkaapi:0
 # not compiled in CBB
 !!scipy:0
+
+#?os_arch_machine==x86_64#
+!!clapack:0
+#os_arch_machine#
 #in#

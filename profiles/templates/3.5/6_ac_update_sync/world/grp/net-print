@@ -6,4 +6,8 @@ hplip
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!fac4cups:0
+#?os_arch_machine==x86_64#
+!!mtik:0
+#os_arch_machine#
 #in#

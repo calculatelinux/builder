@@ -2,4 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+#?os_arch_machine==i686#
+!!clanlib:2.3
+#os_arch_machine#
 #in#

@@ -7,9 +7,14 @@
 !!cfssl:0
 !!heimdal:0
 # not compiled
+!!hmaccalc:0
 !!kali-archive-keyring:0
 !!seahorse-sharing:0
 !!sign:0
+#?os_arch_machine==i686#
+# not compiled
+!!ndesk-dbus-glib:0
+#os_arch_machine#
 #?os_arch_machine==i686#
 # not compiled
 !!efitools:0
