@@ -3,5 +3,5 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
-!!kstars:3
+!!kstars:5
 #in#
