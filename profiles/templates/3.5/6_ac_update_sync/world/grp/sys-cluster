@@ -7,7 +7,7 @@ mpich2
 pacemaker
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
+#?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!ceph:0
 !!cinder:0
