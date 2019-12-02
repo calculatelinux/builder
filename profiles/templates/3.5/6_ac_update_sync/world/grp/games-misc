@@ -8,6 +8,7 @@ bsd-games
 #-world(#-cl_pass_file-#)-#
 !!bsd-games:0
 
+!!fortune-mod-all:0
 # buy & download
 !!little-inferno:0
 !!papers-please:0
