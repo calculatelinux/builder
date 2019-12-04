@@ -7,8 +7,6 @@ bsd-games
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!bsd-games:0
-
-!!fortune-mod-all:0
 # buy & download
 !!little-inferno:0
 !!papers-please:0
