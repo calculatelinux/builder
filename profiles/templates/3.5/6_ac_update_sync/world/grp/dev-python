@@ -42,6 +42,13 @@ pytest-catchlog
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+flake8
+gitdb
+smmap
+sphinxcontrib-ditaa
+sphinxcontrib-napoleon
+sphinxtogithub
+
 # to prevent blocking, the assembly has been moved to other profiles
 !!axiom:0
 !!carbon:0
