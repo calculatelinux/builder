@@ -141,8 +141,8 @@ smmap
 !!python-systemd:0
 !!rednose:0
 !!soya:0
-!!sphinxcontrib-ditaa:0
-!!sphinxcontrib-napoleon:0
+!sphinxcontrib-ditaa:0
+!sphinxcontrib-napoleon:0
 !!sphinxtogithub:0
 !!spyder:0
 !!sure:0
