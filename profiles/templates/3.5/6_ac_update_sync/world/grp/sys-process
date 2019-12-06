@@ -19,6 +19,7 @@ dcron
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+cpu-x
 cronie
 psmisc
 #in#
