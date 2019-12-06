@@ -1,5 +1,12 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB2)!=#
+pms-bin
+pms-bin:20120920
+#in#
+
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!pms-bin:0
+!!pms-bin:20120920
 #in#
