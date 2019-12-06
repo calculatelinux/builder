@@ -6,6 +6,7 @@ carbon
 dnspython
 dogpile-core
 epsilon
+flake8
 foolscap
 mantissa
 morbid
@@ -34,22 +35,18 @@ zfec
 
 #?in(os_linux_pkglist, CB2)!=#
 django
+gitdb
 into
 ldappool
 PyQt5
 pytest-catchlog
+smmap
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-flake8
-gitdb
-smmap
-sphinxcontrib-ditaa
-sphinxcontrib-napoleon
-sphinxtogithub
-
-# to prevent blocking, the assembly has been moved to other profiles
+!!gitdb:0
+!!smmap:0
 !!axiom:0
 !!carbon:0
 !!dnspython:0
@@ -144,6 +141,9 @@ sphinxtogithub
 !!python-systemd:0
 !!rednose:0
 !!soya:0
+!!sphinxcontrib-ditaa:0
+!!sphinxcontrib-napoleon:0
+!!sphinxtogithub:0
 !!spyder:0
 !!sure:0
 !!utidylib:0
