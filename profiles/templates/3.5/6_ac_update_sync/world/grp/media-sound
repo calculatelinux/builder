@@ -1,12 +1,8 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-# to support gtk3
-media-sound/audacious
-#in#
-
-#?in(os_linux_pkglist, CB1)!=#
 # requires KDE
+jack2
 media-sound/audex
 media-sound/cantata
 #media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
@@ -16,26 +12,18 @@ media-sound/kid3
 media-sound/musique
 # media-sound/cdtool is blocking media-sound/cdplay-1.0
 media-sound/cdtool
+# to support gtk3
+media-sound/audacious
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-# not compiled
-!!adplay:0
-!!pympd:0
-
-#?os_arch_machine==i686#
-# not compiled for x86
-!!mixxx:0
-!!spotify:0
-!!xineadump:0
-#os_arch_machine#
-
 !!audex:5
 !!cantata:0
 !!cdtool:0
 !!deadbeef:0
 !!frescobaldi:0
+!!jack2:2
 !!kaudiocreator:5
 !!kid3:5
 !!musique:0
@@ -47,6 +35,7 @@ media-sound/cdtool
 !!lilypond:0
 
 # not compiled
+!!adplay:0
 !!aumix:0
 !!cvoicecontrol:0
 !!ecasound:1
@@ -54,8 +43,17 @@ media-sound/cdtool
 !!gom:0
 !!guayadeque:0
 !!mp3c:0
+!!pympd:0
 !!seq24:0
 !!umix:0
+
+#?os_arch_machine==i686#
+# not compiled for x86
+!!mixxx:0
+!!spotify:0
+!!xineadump:0
+#os_arch_machine#
+
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
