@@ -6,7 +6,6 @@ carbon
 dnspython
 dogpile-core
 epsilon
-foolscap
 mantissa
 morbid
 nevow
@@ -51,7 +50,6 @@ smmap
 !!dnspython:0
 !!dogpile-core:0
 !!epsilon:0
-!!foolscap:0
 !!glance_store:0
 !!into:0
 !!ldappool:0
@@ -99,8 +97,6 @@ smmap
 !!aiohttp-socks:0
 !!bokeh:0
 !!flexx:0
-!!pyclamav:0
-!!pycryptopp:0
 !!sampy:0
 
 #?os_arch_machine==x86_64#
@@ -123,7 +119,6 @@ smmap
 !!hacking:0
 !!irc:0
 !!jaraco-logging:0
-!!libextractor-python:0
 !!llvmlite:0
 !!mccabe:0
 !!mysql-python:0
@@ -132,7 +127,6 @@ smmap
 !!oslotest:0
 !!pika:0
 !!pymssql:0
-!!pyndex:0
 !python3-openid:0
 !!python-dateutil:0
 !!python-magic:0
