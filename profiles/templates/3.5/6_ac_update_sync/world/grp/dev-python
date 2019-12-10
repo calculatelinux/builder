@@ -20,6 +20,8 @@ zfec
 django
 gitdb
 into
+jaraco-collections
+jaraco-text
 ldappool
 PyQt5
 pytest-catchlog
@@ -37,6 +39,8 @@ smmap
 !!gitdb:0
 !!glance_store:0
 !!into:0
+!!jaraco-collections:0
+!!jaraco-text:0
 !!ldappool:0
 !!mantissa:0
 !!minimock:0
