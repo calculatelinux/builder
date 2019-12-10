@@ -43,13 +43,13 @@ smmap
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!gitdb:0
-!!smmap:0
 !!axiom:0
 !!carbon:0
 !!dnspython:0
 !!dogpile-core:0
 !!epsilon:0
+!!flask-evolution:0
+!!gitdb:0
 !!glance_store:0
 !!into:0
 !!ldappool:0
@@ -76,6 +76,7 @@ smmap
 !!python-efl:0
 !!pyutil:0
 !!QtPy:0
+!!smmap:0
 !!translate-toolkit:0
 !!twisted-conch:0
 !!twisted-core:0
