@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!apbs:0
+!!pdb2pqr:0
 # need to download
 !!molscript:0
 !!procheck:0
