@@ -5,6 +5,7 @@
 !!android-sdk-update-manager:0
 !!android-studio:0
 !!buildbot:0
+!!buildbot-slave:0
 !!bustle:0
 !!cmake-fedora:0
 !!cmdtest:0
@@ -35,6 +36,7 @@ gdbus-codegen
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+buildbot-slave
 bustle
 cmdtest
 shellcheck

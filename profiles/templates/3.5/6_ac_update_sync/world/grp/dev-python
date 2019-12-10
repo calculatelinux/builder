@@ -2,21 +2,16 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 axiom
-carbon
 dnspython
 dogpile-core
 epsilon
-mantissa
-morbid
 nevow
-paisley
 python3-lxc
 pyutil
 QtPy
 translate-toolkit
 txAMQP
 vertex
-webut
 zbase32
 zfec
 #in#
@@ -68,6 +63,15 @@ smmap
 !!QtPy:0
 !!smmap:0
 !!translate-toolkit:0
+!!twisted-core:0
+!!twisted-lore:0
+!!twisted-mail:0
+!!twisted-names:0
+!!twisted-news:0
+!!twisted-pair:0
+!!twisted-runner:0
+!!twisted-web:0
+!!twisted-words:0
 !!txAMQP:0
 !!vertex:0
 !!webut:0
@@ -120,16 +124,23 @@ smmap
 !!spyder:0
 !!sure:0
 !!twisted-conch:0
-!!twisted-core:0
-!!twisted-lore:0
-!!twisted-mail:0
-!!twisted-names:0
-!!twisted-news:0
-!!twisted-pair:0
-!!twisted-runner:0
-!!twisted-web:0
-!!twisted-words:0
 !!utidylib:0
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+mantissa
+morbid
+paisley
+twisted-core
+twisted-lore
+twisted-mail
+twisted-names
+twisted-news
+twisted-pair
+twisted-runner
+twisted-web
+twisted-words
+webut
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
