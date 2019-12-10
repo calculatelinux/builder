@@ -17,7 +17,9 @@ sink
 !!libintl:0
 !!libreport:0
 !libressl:0
+!!mongo-c-driver:0
 !!tre:0
+!!xapian-bindings:0
 
 # not compiled
 !!cloog:0

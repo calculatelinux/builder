@@ -9,9 +9,10 @@ tinycdb
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!mysql:0
-!!mytop:0
-!!tinycdb:0
 !!mysql-connector-c:0
+!!mytop:0
+!!percona-xtrabackup:0
+!!tinycdb:0
 
 # EULA
 !!oracle-instantclient-basic:0
