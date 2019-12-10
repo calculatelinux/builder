@@ -2,12 +2,13 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-
+!!apbs:0
 # need to download
 !!molscript:0
 !!procheck:0
 !!pymol:0
 !!shelx:0
+
 # not compiled
 !!gromacs:0
 !!openbabel-perl:0
