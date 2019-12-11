@@ -7,7 +7,6 @@
 !!ncbi-tools:0
 
 #?os_arch_machine==i686#
-!!shrimp:0
 !!wgs-assembler:0
 #os_arch_machine#
 #in#
