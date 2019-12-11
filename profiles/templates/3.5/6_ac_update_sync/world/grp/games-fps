@@ -4,8 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!quakeforge:0
-#?os_arch_machine==i686#
-# not compiled
-!!quake3:0
-#os_arch_machine#
 #in#
