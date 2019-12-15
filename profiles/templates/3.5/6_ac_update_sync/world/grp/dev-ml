@@ -4,5 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!ocamlnet:0
-!!pxp:0
 #in#

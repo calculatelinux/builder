@@ -35,7 +35,6 @@ smmap
 !!dnspython:0
 !!dogpile-core:0
 !!epsilon:0
-!!flask-evolution:0
 !!gitdb:0
 !!glance_store:0
 !!into:0
@@ -86,7 +85,6 @@ smmap
 !!aiohttp-socks:0
 !!bokeh:0
 !!flexx:0
-!!sampy:0
 
 #?os_arch_machine==x86_64#
 # not compiled
