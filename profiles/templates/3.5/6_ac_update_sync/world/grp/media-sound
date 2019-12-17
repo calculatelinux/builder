@@ -19,6 +19,7 @@ media-sound/audacious
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!audex:5
+!!cadence:0
 !!cantata:0
 !!cdtool:0
 !!deadbeef:0
@@ -57,5 +58,6 @@ media-sound/audacious
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+cadence
 deadbeef
 #in#
