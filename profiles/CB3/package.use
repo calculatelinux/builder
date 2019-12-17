@@ -24,3 +24,6 @@ dev-python/PyQt5 -webkit
 # required by Gnome
 sys-auth/pambase elogind -consolekit
 sys-auth/polkit elogind -consolekit
+
+# required by media-sound/cadence-0.9.0-r3[pulseaudio]
+media-sound/pulseaudio jack
