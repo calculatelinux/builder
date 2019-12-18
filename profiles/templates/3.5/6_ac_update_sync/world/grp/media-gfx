@@ -10,7 +10,6 @@
 !!raw-thumbnailer:0
 !!wings:0
 !!xli:0
-!!zgv:0
 
 # not compiled
 !!aewan:0
@@ -24,6 +23,7 @@
 #os_arch_machine#
 
 #?os_arch_machine==i686#
+!!zgv:0
 # not compiled
 !!fotoxx:0
 !!iscan:0
