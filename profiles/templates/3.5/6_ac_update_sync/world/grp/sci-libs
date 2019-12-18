@@ -16,7 +16,6 @@
 # not compiled
 !!libdap:0
 !!linux-gpib:0
-!!linux-gpib-modules:0
 !!spqr:0
 !!xkaapi:0
 # not compiled in CBB
@@ -24,5 +23,7 @@
 
 #?os_arch_machine==x86_64#
 !!clapack:0
+# not compiled
+!!linux-gpib-modules:0
 #os_arch_machine#
 #in#
