@@ -16,7 +16,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 qemu-guest-agent
-virtualbox-bin
 #?os_arch_machine==x86_64#
 docker-compose
 docker-runc
