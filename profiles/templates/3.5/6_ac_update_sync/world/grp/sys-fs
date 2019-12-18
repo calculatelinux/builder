@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!udev:0
 # not compided
+!!loop-aes:0
 !!static-dev:0
 #?os_arch_machine==i686#
 # not compiled
