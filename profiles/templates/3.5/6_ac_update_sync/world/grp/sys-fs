@@ -9,6 +9,8 @@
 #?os_arch_machine==i686#
 # not compiled
 !!sys-fs/e4rat:0
+!!zfs:0
+!!zfs-kmod:0
 #os_arch_machine#
 #in#
 
