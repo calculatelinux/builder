@@ -28,6 +28,7 @@ bcg729
 !!xine-lib:1
 # not compiled
 !!gegl:0
+!!svgalib:0
 #os_arch_machine#
 #in#
 
