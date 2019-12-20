@@ -27,7 +27,7 @@
 !!nvidia-cuda-toolkit:0
 # not compiled
 !!bazel:0
-!!electron:0
+!!electron:2.0
 #os_arch_machine#
 #in#
 
