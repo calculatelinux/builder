@@ -18,7 +18,7 @@
 !!llpp:0
 !!ots:0
 !!sary:0
-#?os_arch_machine==x86_64#
+#?os_arch_machine==i686#
 # not compiled
 !!kbibtex:5
 #os_arch_machine#
