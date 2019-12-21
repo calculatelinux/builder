@@ -18,6 +18,10 @@
 !!llpp:0
 !!ots:0
 !!sary:0
+#?os_arch_machine==x86_64#
+# not compiled
+!!kbibtex:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
