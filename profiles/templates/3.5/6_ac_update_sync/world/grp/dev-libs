@@ -23,6 +23,10 @@ sink
 
 # not compiled
 !!cloog:0
+
+#?os_arch_machine==i686#
+!!icu-layoutex:0
+#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
