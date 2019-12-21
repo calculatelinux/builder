@@ -20,7 +20,7 @@
 !!sary:0
 #?os_arch_machine==x86_64#
 # not compiled
-!!kbibtex:0
+!!kbibtex:5
 #os_arch_machine#
 #in#
 
