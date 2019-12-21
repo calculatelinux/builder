@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 #?os_arch_machine==i686#
+!!hlint:0
 !!idna:0
 !!publicsuffixlist:0
 !!stringprep:0
