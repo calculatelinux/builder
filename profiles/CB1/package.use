@@ -10,3 +10,5 @@ net-print/hplip X
 dev-qt/qtsql postgres
 
 dev-python/PyQt5 -webengine
+
+app-office/libreoffice kde
