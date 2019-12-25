@@ -19,6 +19,7 @@ qemu-guest-agent
 #?os_arch_machine==x86_64#
 docker-compose
 docker-runc
+virtualbox-bin
 #os_arch_machine#
 #in#
 
