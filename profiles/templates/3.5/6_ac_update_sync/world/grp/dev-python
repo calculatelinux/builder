@@ -91,11 +91,6 @@ smmap
 !!dynd-python:0
 #os_arch_machine#
 
-#?os_arch_machine==i686#
-# not compiled
-!!Kivy:0
-#os_arch_machine#
-
 !!basemap:0
 !!bashate:0
 !!blaze:0
