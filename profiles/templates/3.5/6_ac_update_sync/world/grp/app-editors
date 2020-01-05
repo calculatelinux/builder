@@ -22,6 +22,7 @@ kile
 #?os_arch_machine==i686#
 # not compiled
 !!emacs:23
+!!texworks:0
 #os_arch_machine#
 #in#
 
