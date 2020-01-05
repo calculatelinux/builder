@@ -24,9 +24,9 @@ virtualbox-bin
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-ganeti
-ganeti-instance-debootstrap
-ganeti-instance-image
+#ganeti
+#ganeti-instance-debootstrap
+#ganeti-instance-image
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

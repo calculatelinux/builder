@@ -85,6 +85,7 @@ smmap
 !!aiohttp-socks:0
 !!bokeh:0
 !!flexx:0
+!!rpy:0
 
 #?os_arch_machine==x86_64#
 # not compiled
