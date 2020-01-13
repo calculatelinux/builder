@@ -5,7 +5,6 @@
 jack2
 media-sound/audex
 media-sound/cantata
-#media-sound/kaudiocreator (kde-apps/audiocd-kio:4" is blocking kde-apps/audiocd-kio-17.04.2)
 media-sound/kid3
 #media-sound/kmidimon <media-sound/drumstick-1.0.0
 #media-sound/kmid <media-sound/drumstick-1.0.0
@@ -24,7 +23,6 @@ media-sound/audacious
 !!deadbeef:0
 !!frescobaldi:0
 !!jack2:2
-!!kaudiocreator:5
 !!kid3:5
 !!musique:0
 !!tomahawk:0
