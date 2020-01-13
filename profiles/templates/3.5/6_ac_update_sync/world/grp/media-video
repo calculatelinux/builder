@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 kaffeine
-kamerka
 kmplayer
 nvidia_video_sdk
 plasma-mediacenter
@@ -18,7 +17,6 @@ openshot
 !!dvdrip:0
 !!jubler:0
 !!kaffeine:5
-!!kamerka:0
 !!kmplayer:5
 !!libav:0
 !!matroxset:0
