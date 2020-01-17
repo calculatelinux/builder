@@ -1,5 +1,6 @@
+# last desktop
+sys-kernel/calculate-sources desktop themes
+
 # for CDS
 sys-apps/calculate-utils console gpg install pxe -backup -client -dbus -desktop -minimal -qt5
 
-# last kernel for desktops
-sys-kernel/calculate-sources desktop themes

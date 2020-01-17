@@ -1,3 +1,6 @@
+# server 4.19
+sys-kernel/calculate-sources firmware grub minimal symlink vmlinuz -build -desktop -muqss -pae -themes -uksm
+
 # for CSS
 sys-apps/calculate-utils gpg install -backup -client -console -dbus -desktop -minimal -pxe -qt5
 

@@ -1,9 +1,6 @@
 # for CCS
 sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt5
 
-# for desktops with fsync
-sys-kernel/calculate-sources fsync
-
 dev-lang/php ldap
 
 # required by www-client/midori-7.0::gentoo
