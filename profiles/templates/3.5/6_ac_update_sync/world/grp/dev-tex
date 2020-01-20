@@ -11,8 +11,6 @@
 !!texpower:0
 !!translator:0
 
-#?os_arch_machine==i686#
 # not compiled
 !!pdfannotextractor:0
-#os_arch_machine#
 #in#
