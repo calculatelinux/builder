@@ -40,9 +40,7 @@ smmap
 !!jaraco-collections:0
 !!jaraco-text:0
 !!ldappool:0
-!!mantissa:0
 !!minimock:0
-!!morbid:0
 !!neutron-lib:0
 !!nevow:0
 !!os-brick:0
@@ -55,7 +53,6 @@ smmap
 !!os-vif:0
 !!os-win:0
 !!os-xenapi:0
-!!paisley:0
 !!pycryptodome:0
 !!pygsl:0
 !!pytest-catchlog:0
@@ -76,7 +73,6 @@ smmap
 !!twisted-words:0
 !!txAMQP:0
 !!vertex:0
-!!webut:0
 !!zbase32:0
 
 # not compiled
@@ -124,9 +120,6 @@ smmap
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-mantissa
-morbid
-paisley
 twisted-core
 twisted-lore
 twisted-mail
@@ -136,7 +129,6 @@ twisted-pair
 twisted-runner
 twisted-web
 twisted-words
-webut
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
