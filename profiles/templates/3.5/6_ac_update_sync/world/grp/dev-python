@@ -13,7 +13,6 @@ translate-toolkit
 txAMQP
 vertex
 zbase32
-zfec
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -79,7 +78,6 @@ smmap
 !!vertex:0
 !!webut:0
 !!zbase32:0
-!!zfec:0
 
 # not compiled
 !!aiohttp-socks:0
