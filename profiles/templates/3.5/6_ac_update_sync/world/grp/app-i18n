@@ -7,8 +7,4 @@
 !!tomoe:0
 !!tomoe-gtk:0
 !!uim-tomoe-gtk:0
-#?os_arch_machine==i686#
-# not compiled
-!!multiskkserv:0
-#os_arch_machine#
 #in#

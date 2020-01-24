@@ -30,11 +30,6 @@
 
 # need to download
 !!icaclient:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!liveice:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2, CB3)!=#

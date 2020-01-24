@@ -18,6 +18,7 @@ media-sound/audacious
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!audex:5
+!!cadence:0
 !!cantata:0
 !!cdtool:0
 !!deadbeef:0
@@ -26,9 +27,6 @@ media-sound/audacious
 !!kid3:5
 !!musique:0
 !!tomahawk:0
-#?os_arch_machine==x86_64#
-!!cadence:0
-#os_arch_machine#
 
 # is blocking
 !!apulse:0
@@ -47,14 +45,6 @@ media-sound/audacious
 !!pympd:0
 !!seq24:0
 !!umix:0
-
-#?os_arch_machine==i686#
-# not compiled for x86
-!!mixxx:0
-!!spotify:0
-!!xineadump:0
-#os_arch_machine#
-
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

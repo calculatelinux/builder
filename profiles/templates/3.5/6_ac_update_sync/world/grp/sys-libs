@@ -9,8 +9,4 @@
 !!obstack-standalone:0
 !!queue-standalone:0
 !!uclibc-ng:0
-
-#?os_arch_machine==i686#
-!!libieee1284:0
-#os_arch_machine#
 #in#

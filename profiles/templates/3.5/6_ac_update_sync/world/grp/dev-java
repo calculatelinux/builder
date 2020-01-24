@@ -11,12 +11,6 @@
 !!commons-math:2
 !!ant-eclipse-ecj:4.2
 
-#?os_arch_machine==i686#
-# not compiled
-!!ant-eclipse-ecj:4.4
-!!eclipse-ecj:4.4
-#os_arch_machine#
-
 # need to download
 !!bndlib:0
 !!httpcomponents-client:4.5

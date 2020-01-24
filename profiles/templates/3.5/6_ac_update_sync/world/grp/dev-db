@@ -20,11 +20,6 @@ tinycdb
 !!oracle-instantclient-odbc:0
 !!oracle-instantclient-sqlplus:0
 !!sqldeveloper:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!mysql-workbench:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

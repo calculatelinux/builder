@@ -6,13 +6,6 @@
 # not compided
 !!loop-aes:0
 !!static-dev:0
-#?os_arch_machine==i686#
-# not compiled
-!!sys-fs/e4rat:0
-!!zfs:0
-!!zfs-auto-snapshot:0
-!!zfs-kmod:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

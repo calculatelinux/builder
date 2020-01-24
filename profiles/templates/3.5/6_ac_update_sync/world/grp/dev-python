@@ -81,10 +81,8 @@ smmap
 !!flexx:0
 !!rpy:0
 
-#?os_arch_machine==x86_64#
 # not compiled
 !!dynd-python:0
-#os_arch_machine#
 
 !!basemap:0
 !!bashate:0

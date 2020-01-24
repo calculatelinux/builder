@@ -8,11 +8,10 @@
 !!tkabber:0
 !!transwhat:0
 !!yowsup:0
-#?os_arch_machine==x86_64#
+
 # not compiled
 !!bitlbee-facebook:0
 !!swift:4
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

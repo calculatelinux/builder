@@ -3,8 +3,4 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !systemd-kcm:5
-#?os_arch_machine==i686#
-# not compiled
-!!tellico:5
-#os_arch_machine#
 #in#

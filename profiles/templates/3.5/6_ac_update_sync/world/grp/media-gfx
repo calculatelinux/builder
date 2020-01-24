@@ -16,21 +16,7 @@
 !!comix:0
 !!duhdraw:0
 !!kphotoalbum:5
-
-#?os_arch_machine==x86_64#
-# not compiled
 !!pinta:0
-#os_arch_machine#
-
-#?os_arch_machine==i686#
-!!zgv:0
-# not compiled
-!!fotoxx:0
-!!iscan:0
-!!iscan-data:0
-!!iscan-plugin-gt-f720:0
-!!povray:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

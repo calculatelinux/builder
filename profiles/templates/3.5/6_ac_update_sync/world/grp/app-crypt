@@ -11,10 +11,6 @@
 !!kali-archive-keyring:0
 !!seahorse-sharing:0
 !!sign:0
-#?os_arch_machine==i686#
-# not compiled
-!!efitools:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

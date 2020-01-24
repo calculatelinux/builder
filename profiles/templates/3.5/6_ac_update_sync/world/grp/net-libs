@@ -1,9 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#?os_arch_machine==x86_64#
 kimap2
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -16,10 +14,6 @@ kimap2
 !!signon-ui:0
 # not compiled
 !pjproject:0
-
-#?os_arch_machine==i686#
-!roadrunner:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

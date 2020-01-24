@@ -18,18 +18,7 @@ bcg729
 
 # not compiled
 !!lastfmlib:0
-#?os_arch_machine==x86_64#
-# not compiled
 !!osl:0
-#os_arch_machine#
-
-#?os_arch_machine==i686#
-!!libsidplayfp:0
-!!xine-lib:1
-# not compiled
-!!gegl:0
-!!svgalib:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

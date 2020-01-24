@@ -6,10 +6,6 @@
 
 # not compiled
 !!x11-wm/enlightenment:0.17
-
-#?os_arch_machine==i686#
-!!treewm:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#

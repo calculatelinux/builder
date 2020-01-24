@@ -1,9 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#?os_arch_machine==x86_64#
 sink
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
@@ -23,10 +21,6 @@ sink
 
 # not compiled
 !!cloog:0
-
-#?os_arch_machine==i686#
-!!icu-layoutex:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

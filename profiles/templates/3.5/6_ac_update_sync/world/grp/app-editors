@@ -1,12 +1,10 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-ee
-okteta
-#?os_arch_machine==x86_64#
 #atom
+ee
 kile
-#os_arch_machine#
+okteta
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -19,11 +17,6 @@ kile
 # not compiled
 !!levee:0
 !!ng:0
-#?os_arch_machine==i686#
-# not compiled
-!!emacs:23
-!!texworks:0
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

@@ -31,9 +31,4 @@ openshot
 # not compiled
 !!pitivi:0
 !!yle-dl:0
-
-#?os_arch_machine==i686#
-# not compiled
-!!gxine:0
-#os_arch_machine#
 #in#

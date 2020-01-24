@@ -2,9 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 epiphany
-#?os_arch_machine==x86_64#
-#firefox
-#os_arch_machine#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
