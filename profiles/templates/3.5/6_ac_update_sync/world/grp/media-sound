@@ -34,7 +34,6 @@ media-sound/audacious
 !!lilypond:0
 
 # not compiled
-!!adplay:0
 !!aumix:0
 !!cvoicecontrol:0
 !!ecasound:1
