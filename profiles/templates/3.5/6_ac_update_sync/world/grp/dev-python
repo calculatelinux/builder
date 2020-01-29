@@ -1,18 +1,13 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-axiom
 dnspython
 dogpile-core
-epsilon
 nevow
 python3-lxc
-pyutil
 QtPy
 translate-toolkit
 txAMQP
-vertex
-zbase32
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -29,11 +24,9 @@ smmap
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!axiom:0
 !!carbon:0
 !!dnspython:0
 !!dogpile-core:0
-!!epsilon:0
 !!gitdb:0
 !!glance_store:0
 !!into:0
@@ -58,22 +51,10 @@ smmap
 !!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
-!!pyutil:0
 !!QtPy:0
 !!smmap:0
 !!translate-toolkit:0
-!!twisted-core:0
-!!twisted-lore:0
-!!twisted-mail:0
-!!twisted-names:0
-!!twisted-news:0
-!!twisted-pair:0
-!!twisted-runner:0
-!!twisted-web:0
-!!twisted-words:0
 !!txAMQP:0
-!!vertex:0
-!!zbase32:0
 
 # not compiled
 !!aiohttp-socks:0
@@ -113,20 +94,7 @@ smmap
 !!sphinxtogithub:0
 !!spyder:0
 !!sure:0
-!!twisted-conch:0
 !!utidylib:0
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-twisted-core
-twisted-lore
-twisted-mail
-twisted-names
-twisted-news
-twisted-pair
-twisted-runner
-twisted-web
-twisted-words
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
