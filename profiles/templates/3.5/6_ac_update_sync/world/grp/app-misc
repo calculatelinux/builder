@@ -9,6 +9,7 @@ xorg-meta
 !!xorg-meta:0
 
 !!anki:0
+!!gcalcli:0
 !!lcdproc:0
 !!livecd-tools:0
 !!realpath:0
