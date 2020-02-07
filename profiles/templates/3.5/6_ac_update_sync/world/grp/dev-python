@@ -26,6 +26,7 @@ smmap
 #-world(#-cl_pass_file-#)-#
 !!dnspython:0
 !!dogpile-core:0
+!!eyeD3:0.7
 !!gitdb:0
 !!glance_store:0
 !!into:0
