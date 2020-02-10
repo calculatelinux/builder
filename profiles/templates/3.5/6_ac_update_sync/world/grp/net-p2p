@@ -12,6 +12,6 @@ net-p2p/ktorrent
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-mldonkey
+#mldonkey
 transmission
 #in#
