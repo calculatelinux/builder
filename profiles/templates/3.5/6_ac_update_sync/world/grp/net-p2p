@@ -1,25 +1,15 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2, CBS)!=#
-net-p2p/mldonkey
-net-p2p/transmission
-#in#
-
 #?in(os_linux_pkglist, CB1)!=#
 net-p2p/ktorrent
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-net-p2p/bitcoin-cli
-#net-p2p/bitcoind
-#net-p2p/bitcoin-qt
-#net-p2p/bitcoinxtd
-#net-p2p/bitcoinxt-qt
-net-p2p/deluge
-net-p2p/opentracker
-#net-p2p/ppcoind
-#net-p2p/ppcoin-qt
-net-p2p/qbittorrent
-net-p2p/rtorrent
-net-p2p/vuze
+#-world(#-cl_pass_file-#)-#
+!!ktorrent:5
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+mldonkey
+transmission
 #in#
