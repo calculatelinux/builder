@@ -48,6 +48,8 @@ smmap
 !!os-xenapi:0
 !!pycryptodome:0
 !!pygsl:0
+!!pypy3-exe-bin:7.3.0
+!!pypy-exe-bin:7.3.0
 !!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
