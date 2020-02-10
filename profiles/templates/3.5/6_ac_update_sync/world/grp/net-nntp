@@ -1,14 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-#need KDE
-net-nntp/kwooty
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
-net-nntp/newspost
-net-nntp/nzbget
-net-nntp/pan
-net-nntp/slrn
-net-nntp/tin
+#-world(#-cl_pass_file-#)-#
 #in#
