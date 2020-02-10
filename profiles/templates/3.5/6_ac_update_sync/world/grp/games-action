@@ -3,9 +3,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!slune:0
-# large packages
-#430M
-!supertuxkart:0
 # CD_ROOT
 !!fakk2:0
 !!heretic2:0
@@ -16,5 +13,6 @@
 !!hotline-miami:0
 !!intrusion2:0
 !!solar2:0
+!!super-hexagon:0
 !!swordandsworcery:0
 #in#
