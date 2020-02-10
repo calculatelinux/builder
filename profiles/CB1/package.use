@@ -12,3 +12,6 @@ dev-qt/qtsql postgres
 dev-python/PyQt5 -webengine
 
 app-office/libreoffice kde
+
+# for use kernel with USB_PRINTER=m
+net-print/cups -usb
