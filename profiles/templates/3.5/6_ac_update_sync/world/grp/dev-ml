@@ -2,9 +2,16 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!dune:0
 # not compiled
 !!cairo-ocaml:0
 !!camomile:0
+!!cudf:0
+!!dose3:0
+!!jbuilder:0
+!!lwt:0
+!!ocaml-migrate-parsetree:0
 !!ocamlnet:0
+!!ocamlweb:0
+!!opam:0
+!!ppx_tools_versioned:0
 #in#
