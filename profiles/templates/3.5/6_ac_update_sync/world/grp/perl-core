@@ -2,9 +2,4 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!Archive-Tar:0
-!!ExtUtils-Constant:0
-!!File-Path:0
-!!Time-Local:0
-!Unicode-Collate:0
 #in#
