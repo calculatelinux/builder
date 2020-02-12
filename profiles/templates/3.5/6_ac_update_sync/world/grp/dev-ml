@@ -5,14 +5,7 @@
 # not compiled
 !!cairo-ocaml:0
 !!camomile:0
-!!cudf:0
-!!dose3:0
-!!jbuilder:0
-!!lwt:0
-!!ocaml-migrate-parsetree:0
 !!ocamlnet:0
 !!ocamlweb:0
 !!ocurl:0
-!!opam:0
-!!ppx_tools_versioned:0
 #in#
