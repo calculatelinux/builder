@@ -13,6 +13,7 @@
 # not compiled
 !!libdap:0
 !!linux-gpib:0
+!!ogdi:0
 !!spqr:0
 !!xkaapi:0
 # not compiled in CBB

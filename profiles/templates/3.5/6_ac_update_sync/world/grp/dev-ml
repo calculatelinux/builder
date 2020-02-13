@@ -5,6 +5,7 @@
 # not compiled
 !!cairo-ocaml:0
 !!camomile:0
+!!cudf:0
 !!ocamlnet:0
 !!ocamlweb:0
 !!ocurl:0

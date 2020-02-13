@@ -12,7 +12,9 @@ gmt
 !!qmapshack:0
 !!viking:0
 # not compiled
+!!grass:0
 !!mapnik:0
+!!osm2pgsql:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

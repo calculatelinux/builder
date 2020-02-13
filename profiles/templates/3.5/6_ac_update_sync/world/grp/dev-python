@@ -69,7 +69,10 @@ smmap
 
 !!basemap:0
 !!bashate:0
+!!beaker:0
 !!blaze:0
+!!django-setuptest:0
+!!dnspython:0
 !!elasticsearch-curator:0
 !!future:0
 !!guzzle_sphinx_theme:0
@@ -82,8 +85,11 @@ smmap
 !!numba:0
 !!os-ken:0
 !!oslotest:0
+!!pep8:0
 !!pika:0
+!!pycryptodome:0
 !!pymssql:0
+!!pysnmp:0
 !python3-openid:0
 !!python-dateutil:0
 !!python-magic:0
