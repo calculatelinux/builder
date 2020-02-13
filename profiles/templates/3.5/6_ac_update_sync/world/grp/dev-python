@@ -54,6 +54,7 @@ smmap
 !!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
+!!python-jose:0
 !!QtPy:0
 !!smmap:0
 !!translate-toolkit:0
