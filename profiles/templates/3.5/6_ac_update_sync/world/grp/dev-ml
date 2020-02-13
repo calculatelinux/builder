@@ -3,9 +3,11 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
+!1opam:0
 !!cairo-ocaml:0
 !!camomile:0
 !!cudf:0
+!!dose3:0
 !!ocamlnet:0
 !!ocamlweb:0
 !!ocurl:0
