@@ -24,6 +24,7 @@ smmap
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!cheetah:0
 !!dnspython:0
 !!dogpile-core:0
 !!eyeD3:0.7
@@ -37,6 +38,7 @@ smmap
 !!moto:0
 !!neutron-lib:0
 !!nevow:0
+!!nototools:0
 !!os-brick:0
 !!oslo-messaging:0
 !!oslo-privsep:0
@@ -47,6 +49,7 @@ smmap
 !!os-vif:0
 !!os-win:0
 !!os-xenapi:0
+!!pycrypto:0
 !!pycryptodome:0
 !!pygsl:0
 !!pypy3-exe-bin:7.3.0
