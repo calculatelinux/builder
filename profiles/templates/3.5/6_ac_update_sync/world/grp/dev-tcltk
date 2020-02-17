@@ -5,5 +5,5 @@
 !!tls:0
 
 # not compiled
-!!mysqltcl
+!!mysqltcl:0
 #in#
