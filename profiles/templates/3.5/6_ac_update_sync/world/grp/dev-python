@@ -60,6 +60,7 @@ smmap
 !!python-jose:0
 !!QtPy:0
 !!smmap:0
+!!sphinxcontrib-websupport:0
 !!translate-toolkit:0
 !!txAMQP:0
 
@@ -106,6 +107,10 @@ smmap
 !!spyder:0
 !!sure:0
 !!utidylib:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+sphinxcontrib-websupport
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
