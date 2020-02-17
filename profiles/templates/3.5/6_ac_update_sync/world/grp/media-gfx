@@ -25,7 +25,6 @@ raw-thumbnailer
 
 #?in(os_linux_pkglist, CB4)!=#
 evoluspencil
-graphicsmagick
 mcomix
 xli
 #in#

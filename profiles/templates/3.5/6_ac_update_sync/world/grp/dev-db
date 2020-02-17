@@ -8,6 +8,7 @@ tinycdb
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!myodbc:5.3
 !!mysql:0
 !!mysql-connector-c:0
 !!mytop:0
