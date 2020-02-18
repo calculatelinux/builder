@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 #is blocking
 !!arping:2
-!!icinga:0
 !!jnettop:0
 !!linkchecker:0
 !!monitoring-plugins:0

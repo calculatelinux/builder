@@ -92,7 +92,6 @@ smmap
 !!oslotest:0
 !!pep8:0
 !!pika:0
-!!pycryptodome:0
 !!pymssql:0
 !!pysnmp:0
 !python3-openid:0
