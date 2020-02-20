@@ -32,3 +32,7 @@ openshot
 !!pitivi:0
 !!yle-dl:0
 #in#
+
+#?in(os_linux_pkglist, CBS)!=#
+mediainfo
+#in#
