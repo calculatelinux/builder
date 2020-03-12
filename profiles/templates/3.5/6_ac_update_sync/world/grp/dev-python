@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 dnspython
-dogpile-core
 nevow
 python3-lxc
 QtPy
@@ -13,7 +12,6 @@ txAMQP
 #?in(os_linux_pkglist, CB2)!=#
 django
 gitdb
-into
 jaraco-collections
 jaraco-text
 ldappool
@@ -26,11 +24,9 @@ smmap
 #-world(#-cl_pass_file-#)-#
 !!cheetah:0
 !!dnspython:0
-!!dogpile-core:0
 !!eyeD3:0.7
 !!gitdb:0
 !!glance_store:0
-!!into:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!ldappool:0
