@@ -7,7 +7,6 @@ gitolite-gentoo
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!gitolite-gentoo:0
-!!tortoisehg:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
