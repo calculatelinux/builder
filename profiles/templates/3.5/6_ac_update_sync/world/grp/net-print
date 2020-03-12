@@ -5,7 +5,12 @@ hplip
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+cnrdrvcups-lb
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!cnrdrvcups-lb:0
 !!fax4cups:0
 !!mtink:0
 #in#

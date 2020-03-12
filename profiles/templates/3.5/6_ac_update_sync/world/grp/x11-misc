@@ -9,6 +9,7 @@ sddm
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!bumblebee:0
+!!compton:0
 !!i3blocks:0
 !kronometer:5
 !!notification-daemon:0
@@ -21,6 +22,7 @@ sddm
 
 #?in(os_linux_pkglist, CB3)!=#
 bumblebee
+compton
 notification-daemon
 primus
 unclutter-xfixes
