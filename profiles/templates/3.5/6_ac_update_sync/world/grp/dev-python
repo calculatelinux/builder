@@ -66,14 +66,8 @@ smmap
 !!flexx:0
 !!rpy:0
 
-# not compiled
-!!dynd-python:0
-
 !!basemap:0
 !!bashate:0
-!!beaker:0
-!!blaze:0
-!!django-setuptest:0
 !!elasticsearch-curator:0
 !!future:0
 !!guzzle_sphinx_theme:0
