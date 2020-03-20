@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!gajim:0
+!!telegram-desktop:0
 !!signal-desktop-bin:0
 !!tkabber:0
 !!transwhat:0
@@ -16,6 +17,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 gajim
+telegram-desktop
 transwhat
 yowsup
 #in#
