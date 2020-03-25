@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 dnspython
-nevow
 python3-lxc
 QtPy
 translate-toolkit
@@ -30,7 +29,6 @@ pytest-catchlog
 !!minimock:0
 !!moto:0
 !!neutron-lib:0
-!!nevow:0
 !!nototools:0
 !!os-brick:0
 !!oslo-messaging:0
