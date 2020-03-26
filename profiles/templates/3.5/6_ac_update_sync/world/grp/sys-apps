@@ -15,6 +15,9 @@
 !!systemd-readahead:0
 !!utempter:0
 !!yarn:0
+
+# not compiled
+!!ucspi-ssl:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
