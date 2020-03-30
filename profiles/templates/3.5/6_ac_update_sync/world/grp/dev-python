@@ -58,6 +58,7 @@ pytest-catchlog
 !!aiohttp-socks:0
 !!bokeh:0
 !!flexx:0
+!!pyalsaaudio:0
 !!rpy:0
 
 !!basemap:0
