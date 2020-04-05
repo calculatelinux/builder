@@ -7,13 +7,8 @@
 !!unite:0
 !!zenburn:0
 
-!!automatictexplugin:0
-!!colorv:0
 !!ctx:0
-!!slimv:0
 !!splice:0
-!!vimcalc:0
-!!vimpress:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
