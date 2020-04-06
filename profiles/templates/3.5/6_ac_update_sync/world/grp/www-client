@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 epiphany
+firefox
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
