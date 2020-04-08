@@ -15,3 +15,10 @@ app-office/libreoffice kde
 
 # for use kernel with USB_PRINTER=m
 net-print/cups -usb
+
+# build for CLD without nm-applet support
+net-vpn/networkmanager-l2tp -gnome
+net-vpn/networkmanager-openconnect -gtk
+net-vpn/networkmanager-openvpn -gtk
+net-vpn/networkmanager-pptp -gtk
+net-vpn/networkmanager-vpnc -gtk
