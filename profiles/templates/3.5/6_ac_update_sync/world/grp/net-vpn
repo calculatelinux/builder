@@ -1,5 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+networkmanager-l2tp
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+#in#
+
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!networkmanager-strongswan:0
