@@ -5,3 +5,5 @@ dev-lang/php ldap
 
 # required by www-client/midori-7.0::gentoo
 net-libs/libsoup vala
+
+www-client/firefox -pulseaudio
