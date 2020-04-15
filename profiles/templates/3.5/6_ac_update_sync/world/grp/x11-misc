@@ -18,6 +18,10 @@ sddm
 !!sddm:0
 !!touchcal:0
 !!unclutter-xfixes:0
+
+# not compiled
+!!menulibre:0
+!!mugshot:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
