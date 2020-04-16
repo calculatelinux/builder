@@ -5,7 +5,6 @@
 !docker-compose:0
 !docker-runc:0
 !!ganeti:0
-!!ganeti-instance-debootstrap:0
 !!ganeti-instance-image:0
 !!virtualbox-bin:0
 
@@ -23,7 +22,6 @@ virtualbox-bin
 
 #?in(os_linux_pkglist, CB4)!=#
 #ganeti
-#ganeti-instance-debootstrap
 #ganeti-instance-image
 #in#
 
