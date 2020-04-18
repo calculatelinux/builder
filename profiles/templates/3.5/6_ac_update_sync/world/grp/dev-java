@@ -1,8 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB2)!=#
+sbt-bin
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!eclipse-ecj:4.2
+!!sbt-bin:0
 
 # мешает работе ant
 !!sablecc-anttask:0

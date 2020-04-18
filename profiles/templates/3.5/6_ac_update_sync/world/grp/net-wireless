@@ -2,12 +2,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!blueberry:0
 !!gnome-bluetooth:2
 !!rfkill:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-blueberry
 gnome-bluetooth
 #in#
