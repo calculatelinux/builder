@@ -22,8 +22,6 @@ sbt-bin
 !!jackrabbit-webdav:0
 !!java-sdk-docs:1.8
 !!jta:0
-!!oracle-jdk-bin:1.8
-!!oracle-jre-bin:1.8
 !!osgi-enterprise-api:0
 !!sun-jimi:0
 !!sun-jmx:0
