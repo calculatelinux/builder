@@ -2,8 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!man-pages-pl:0
-
 # not compiled
 !!mozc:0
 !!tomoe:0
