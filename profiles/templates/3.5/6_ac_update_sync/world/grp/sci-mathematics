@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!eclib:0
 # not compiled
 !!alt-ergo:0
 !!rstudio:0

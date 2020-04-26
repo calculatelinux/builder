@@ -21,6 +21,7 @@ sink
 
 # not compiled
 !!cloog:0
+!!ntl:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
