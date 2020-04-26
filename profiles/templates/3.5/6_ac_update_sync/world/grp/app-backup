@@ -7,7 +7,6 @@ kfoldersync
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!bareos:0
-!!bup:0
 !!burp:0
 !!kfoldersync:5
 
@@ -18,7 +17,6 @@ kfoldersync
 
 #?in(os_linux_pkglist, CB4)!=#
 bareos
-bup
 burp
 #in#
 

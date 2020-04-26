@@ -55,7 +55,6 @@ pytest-catchlog
 
 # not compiled
 !!aiohttp-socks:0
-!!pyalsaaudio:0
 !!rpy:0
 
 !!bashate:0
