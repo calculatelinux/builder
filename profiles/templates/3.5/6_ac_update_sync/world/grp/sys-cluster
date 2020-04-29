@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 corosync
 mpich2
-#openais
 pacemaker
 #in#
 
@@ -18,7 +17,6 @@ pacemaker
 !!mpich2:0
 !!neutron:0
 !!nova:0
-!!openais:0
 !!pacemaker:0
 
 # not compiled

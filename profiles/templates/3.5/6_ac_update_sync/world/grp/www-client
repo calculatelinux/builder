@@ -12,7 +12,6 @@ firefox
 # already binary
 !!firefox-bin:0
 !!seamonkey:0
-!!seamonkey-bin:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
