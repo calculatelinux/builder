@@ -10,11 +10,13 @@ txAMQP
 
 #?in(os_linux_pkglist, CB2)!=#
 django
+gitdb2
 jaraco-collections
 jaraco-text
 ldappool
 PyQt5
 pytest-catchlog
+smmap2
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -22,6 +24,7 @@ pytest-catchlog
 !!cheetah:0
 !!dnspython:0
 !!eyeD3:0.7
+!!gitdb2:0
 !!glance_store:0
 !!jaraco-collections:0
 !!jaraco-text:0
@@ -49,6 +52,7 @@ pytest-catchlog
 !!python-efl:0
 !!python-jose:0
 !!QtPy:0
+!!smmap2:0
 !!sphinxcontrib-websupport:0
 !!translate-toolkit:0
 !!txAMQP:0
