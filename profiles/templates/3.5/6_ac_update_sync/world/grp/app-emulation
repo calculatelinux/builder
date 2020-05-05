@@ -16,6 +16,7 @@
 docker-compose
 qemu-guest-agent
 virtualbox-bin
+wine-vanilla
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
