@@ -15,8 +15,3 @@
 fam
 logsentry
 #in#
-
-#?in(os_linux_pkglist, CB4)!=#
-puppet-agent
-puppetserver
-#in#
