@@ -6,17 +6,16 @@ kfoldersync
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!bareos:0
 !!burp:0
 !!kfoldersync:5
 
 !!backuppc:0
 # not compiled
 !!attic:0
+!!bareos:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-bareos
 burp
 #in#
 
