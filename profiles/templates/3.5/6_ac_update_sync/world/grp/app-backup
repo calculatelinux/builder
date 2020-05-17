@@ -12,7 +12,6 @@ kfoldersync
 !!backuppc:0
 # not compiled
 !!attic:0
-!!bareos:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
