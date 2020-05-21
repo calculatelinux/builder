@@ -99,4 +99,6 @@ smmap2
 
 #?in(os_linux_pkglist, CBS)!=#
 pycryptodome
+#для установки блокированной новой версии
+numpy
 #in#
