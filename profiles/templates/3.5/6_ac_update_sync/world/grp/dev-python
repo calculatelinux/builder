@@ -35,6 +35,7 @@ smmap2
 !!moto:0
 !!neutron-lib:0
 !!nototools:0
+!!numpy-python2:0
 !!os-brick:0
 !!oslo-messaging:0
 !!oslo-privsep:0
@@ -45,8 +46,10 @@ smmap2
 !!os-vif:0
 !!os-win:0
 !!os-xenapi:0
+!!pupynere:0
 !!pycryptodome:0
 !!pygsl:0
+!!pyilmbase:0
 !!pypy3-exe-bin:7.3.0
 !!pypy-exe-bin:7.3.0
 !!pytest-catchlog:0
