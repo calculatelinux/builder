@@ -6,6 +6,7 @@
 !!android-studio:0
 !!cmake-fedora:0
 !!cmdtest:0
+!!cpptest:1
 !!lttng-modules:0
 !!lttng-tools:0
 !!min-cscope:0
@@ -25,6 +26,7 @@
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+cpptest:1
 # depend for mutter
 gdbus-codegen
 #in#
