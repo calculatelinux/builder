@@ -12,9 +12,6 @@
 !!min-cscope:0
 !!pkgconf:0
 
-# big size
-# 298M
-!!pycharm-professional:0
 # not compiled
 !!ddd:0
 !!eric:6
