@@ -7,4 +7,5 @@ renpy
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!renpyl:0
+!!renpyl:6.99
 #in#
