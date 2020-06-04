@@ -76,7 +76,6 @@ smmap2
 !!llvmlite:0
 !!mccabe:0
 !!mysql-python:0
-!!numba:0
 !!os-ken:0
 !!oslotest:0
 !!pep8:0
@@ -89,7 +88,6 @@ smmap2
 !!python-magic:0
 !!python-systemd:0
 !!rednose:0
-!!soya:0
 !sphinxcontrib-ditaa:0
 !sphinxcontrib-napoleon:0
 !!sphinxtogithub:0
