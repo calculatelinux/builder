@@ -22,6 +22,7 @@ smmap2
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!brython:3.7.2
 !!cheetah:0
 !!dnspython:0
 !!eyeD3:0.7
