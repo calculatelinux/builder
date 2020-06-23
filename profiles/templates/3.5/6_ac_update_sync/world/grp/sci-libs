@@ -5,6 +5,7 @@
 !!atlas:0
 !!metis:0
 !!mkl:0
+!!suitesparse:0
 !!xdmf2:0
 
 !!fetk:0
