@@ -10,6 +10,7 @@ trojita
 !!thunderbird-bin:0
 !!trojita:0
 # not compiled
+!!alpine:0
 !!etpan-ng:0
 !!geary:0
 #in#
