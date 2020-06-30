@@ -5,9 +5,7 @@
 !!apbs:0
 !!pdb2pqr:0
 !!pymol:0
-!!pymol-plugins-bni-tools:0
 !!pymol-plugins-dssp:0
-!!pymol-plugins-emovie:0
 !!pymol-plugins-promol:0
 # need to download
 !!molscript:0
