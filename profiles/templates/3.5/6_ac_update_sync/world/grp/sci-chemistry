@@ -8,9 +8,5 @@
 !!procheck:0
 
 # not compiled
-!!gromacs:0
 !!openbabel-perl:0
-!!votca-csg:0
-!!votca-csgapps:0
-!!votca-xtp:0
 #in#

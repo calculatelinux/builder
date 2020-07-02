@@ -4,10 +4,8 @@
 #-world(#-cl_pass_file-#)-#
 !!openafs:0
 !!openafs-kernel:0
-# not compiled
-!!netatalk:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-#netatalk
+netatalk
 #in#

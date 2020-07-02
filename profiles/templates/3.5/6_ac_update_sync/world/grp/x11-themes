@@ -2,11 +2,10 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-# not compiled
-!!fvwm_sounds:0
-!!nimbus:0
 !!papirus-libreoffice-theme:0
 !!papirus-smplayer-theme:0
+# not compiled
+!!fvwm_sounds:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
