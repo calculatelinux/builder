@@ -19,6 +19,7 @@ sddm
 
 # not compiled
 !!bbmail:0
+!!bbpager:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
