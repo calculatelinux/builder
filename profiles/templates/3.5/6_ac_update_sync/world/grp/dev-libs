@@ -1,5 +1,10 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBB)!=#
+# for build dev-texlive/texlive-luatex
+kpathsea
+#in#
+
 #?in(os_linux_pkglist, CB1)!=#
 sink
 #in#

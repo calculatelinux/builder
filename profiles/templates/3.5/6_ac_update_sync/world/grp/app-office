@@ -1,9 +1,15 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBB)!=#
+# width USE="kde java"
+libreoffice
+#in#
+
 #?in(os_linux_pkglist, CB1)!=#
 kexi
 kmymoney
 libalkimia
+# width USE="kde"
 libreoffice
 skrooge
 #in#
