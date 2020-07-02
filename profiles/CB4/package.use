@@ -7,3 +7,6 @@ dev-lang/php ldap
 net-libs/libsoup vala
 
 www-client/firefox -pulseaudio
+
+# need for app-officeext/languagetool-5.0
+app-office/libreoffice java
