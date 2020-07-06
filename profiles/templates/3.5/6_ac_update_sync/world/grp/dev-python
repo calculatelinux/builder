@@ -49,6 +49,7 @@ smmap2
 !!os-xenapi:0
 !!pupynere:0
 !!pycryptodome:0
+!!pygame_sdl2:0
 !!pygsl:0
 !!pyilmbase:0
 !!pypy3-exe-bin:7.3.0
@@ -57,6 +58,7 @@ smmap2
 !!python3-lxc:0
 !!python-efl:0
 !!python-jose:0
+!!pywavelets:0
 !!QtPy:0
 !!smmap2:0
 !!sphinxcontrib-websupport:0
