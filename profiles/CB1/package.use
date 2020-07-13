@@ -17,9 +17,12 @@ app-office/libreoffice kde
 net-print/cups -usb
 
 # build for CLD without nm-applet support
+net-vpn/networkmanager-fortisslvpn -gtk
 net-vpn/networkmanager-l2tp -gnome
+net-vpn/networkmanager-libreswan -gtk
 net-vpn/networkmanager-openconnect -gtk
 net-vpn/networkmanager-openvpn -gtk
 net-vpn/networkmanager-pptp -gtk
+net-vpn/networkmanager-sstp -gtk
 net-vpn/networkmanager-vpnc -gtk
 net-vpn/networkmanager-wireguard -gtk
