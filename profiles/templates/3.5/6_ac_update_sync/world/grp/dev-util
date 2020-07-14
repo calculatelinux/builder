@@ -11,6 +11,7 @@
 !!lttng-tools:0
 !!min-cscope:0
 !!pkgconf:0
+!!ply:0
 !!rpmdevtools:0
 
 # not compiled
@@ -25,6 +26,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 cpptest:1
+ply
 # depend for mutter
 gdbus-codegen
 #in#
