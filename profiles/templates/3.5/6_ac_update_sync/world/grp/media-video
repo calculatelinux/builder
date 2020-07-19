@@ -4,7 +4,6 @@
 kaffeine
 kmplayer
 nvidia_video_sdk
-plasma-mediacenter
 openshot
 #in#
 
@@ -23,7 +22,6 @@ openshot
 !nvidia-video-codec:0
 !!nvidia_video_sdk:0
 !!openshot:1
-!!plasma-mediacenter:5
 !!subtitlecomposer:5
 !!xine-ui:0
 # not compiled
