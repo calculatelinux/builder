@@ -1,12 +1,14 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
+#?in(os_linux_pkglist, CB1)!=#
+glassfish-xmlrpc-api
 sbt-bin
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!eclipse-ecj:4.2
+!!glassfish-xmlrpc-api:0
 !!sbt-bin:0
 
 # мешает работе ant
