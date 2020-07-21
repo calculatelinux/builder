@@ -2,6 +2,9 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 glassfish-xmlrpc-api
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
 sbt-bin
 #in#
 
