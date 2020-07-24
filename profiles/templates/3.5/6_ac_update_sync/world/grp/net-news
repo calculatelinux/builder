@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!newsboat:0
 # not compiled
 !!snownews:0
 #in#
