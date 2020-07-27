@@ -12,6 +12,9 @@ mysql:5.7
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!mariadb:10.1
+!!mariadb:10.2
+!!mariadb:10.3
 !!myodbc:5.3
 !!mysql:5.7
 !!mysql:8.0
