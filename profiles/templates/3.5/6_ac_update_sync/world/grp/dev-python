@@ -17,7 +17,6 @@ ldappool
 logbook
 memory_profiler
 PyQt5
-pytest-catchlog
 smmap2
 #in#
 
@@ -50,7 +49,6 @@ smmap2
 !!os-vif:0
 !!os-win:0
 !!os-xenapi:0
-!!pupynere:0
 !!pycryptodome:0
 !!pygame_sdl2:0
 !!pygsl:0
@@ -58,7 +56,6 @@ smmap2
 !!pypy3-exe-bin:7.3.0
 !!pypy-exe-bin:7.3.0
 !!PyRSS2Gen:0
-!!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
 !!python-jose:0
