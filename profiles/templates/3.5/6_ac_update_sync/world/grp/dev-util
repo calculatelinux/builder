@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
+!!anjuta:0
 !!cmake-fedora:0
 !!cmdtest:0
 !!cpptest:1
