@@ -3,8 +3,5 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
-!!mozc:0
-!!tomoe:0
-!!tomoe-gtk:0
-!!uim-tomoe-gtk:0
+!!yaskkserv:0
 #in#
