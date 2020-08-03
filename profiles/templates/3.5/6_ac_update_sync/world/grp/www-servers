@@ -8,6 +8,7 @@
 # not compiled
 !!pound:0
 !!resin:0
+!!uwsgi:0
 !!varnish:0
 #in#
 
