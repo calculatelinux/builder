@@ -31,7 +31,6 @@ media-sound/audacious
 
 # is blocking
 !!apulse:0
-!!exaile:0
 !!lilypond:0
 
 # not compiled
