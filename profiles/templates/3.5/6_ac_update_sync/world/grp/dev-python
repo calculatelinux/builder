@@ -24,6 +24,7 @@ smmap2
 #-world(#-cl_pass_file-#)-#
 !!autopep8:0
 !!cheetah:0
+!!contextvars:0
 !!dnspython:0
 !!eyeD3:0.7
 !!gitdb2:0
@@ -56,6 +57,7 @@ smmap2
 !!pypy3-exe-bin:7.3.0
 !!pypy-exe-bin:7.3.0
 !!PyRSS2Gen:0
+!!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
 !!python-jose:0
