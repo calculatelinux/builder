@@ -22,13 +22,11 @@ smmap2
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!autopep8:0
 !!cheetah:0
 !!contextvars:0
 !!dnspython:0
 !!eyeD3:0.7
 !!gitdb2:0
-!!glance_store:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!ldappool:0
@@ -39,7 +37,6 @@ smmap2
 !!moto:0
 !!neutron-lib:0
 !!nototools:0
-!!numpy-python2:0
 !!os-brick:0
 !!oslo-messaging:0
 !!oslo-privsep:0
