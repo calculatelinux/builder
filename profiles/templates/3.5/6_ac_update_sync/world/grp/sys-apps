@@ -8,7 +8,6 @@
 !firejail-lts:0
 !!gentoo-systemd-integration:0
 !lcdsplash:0
-!!modutils:0
 !netboot-base:0
 !netboot-base:0
 !!systemd:0
