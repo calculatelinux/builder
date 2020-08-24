@@ -2,26 +2,17 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!docker-compose:0
-!!ganeti:0
-!!ganeti-instance-image:0
-!!virtualbox-bin:0
+!!docker-compose:0
 
-!grub-xen-host:0
+!!grub-xen-host:0
 # not compiled
-!libguestfs:0
+!!libguestfs:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 docker-compose
 qemu-guest-agent
-virtualbox-bin
 wine-vanilla
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-#ganeti
-#ganeti-instance-image
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

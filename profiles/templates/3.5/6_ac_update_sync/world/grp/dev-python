@@ -49,7 +49,6 @@ smmap2
 !!os-xenapi:0
 !!pycryptodome:0
 !!pygame_sdl2:0
-!!pygsl:0
 !!pyilmbase:0
 !!pypy3-exe-bin:7.3.0
 !!pypy3-exe-bin:7.3.1

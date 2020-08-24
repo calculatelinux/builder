@@ -18,7 +18,6 @@ mysql:5.7
 !!mysql:5.7
 !!mysql:8.0
 !!mysql-connector-c:0
-!!mysql-workbench:0
 !!mytop:0
 !!percona-xtrabackup:0
 !!tinycdb:0

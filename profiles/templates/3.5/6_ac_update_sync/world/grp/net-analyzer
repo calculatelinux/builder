@@ -5,9 +5,7 @@
 #is blocking
 !!arping:2
 !!jnettop:0
-!!linkchecker:0
 !!monitoring-plugins:0
-!!nagstamon:0
 !!netcat:0
 !!pnp4nagios:0
 !traceproto:0
