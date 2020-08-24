@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!asymptote:0
-!!displaycal:0
 !!evoluspencil:0
 !!graphicsmagick:0
 !!mcomix:0
