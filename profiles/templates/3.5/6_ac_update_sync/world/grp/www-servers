@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!cherokee:0
 !!tornado:0
 
 # not compiled
