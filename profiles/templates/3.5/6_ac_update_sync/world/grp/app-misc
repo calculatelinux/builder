@@ -8,7 +8,6 @@ xorg-meta
 #-world(#-cl_pass_file-#)-#
 !!xorg-meta:0
 
-!!anki:0
 !!gcalcli:0
 !!glcdprocdriver:0
 !!graphlcd-base:0
