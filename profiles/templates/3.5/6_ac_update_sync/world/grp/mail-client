@@ -7,9 +7,14 @@ trojita
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!cone:0
+!!mailx:0
 !!thunderbird-bin:0
 !!trojita:0
 # not compiled
 !!alpine:0
 !!etpan-ng:0
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+mailx
 #in#

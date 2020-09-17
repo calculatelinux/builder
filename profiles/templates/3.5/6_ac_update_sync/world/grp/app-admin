@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!abrt:0
+!!ansible-base:0
 !!fam:0
 !!logsentry:0
 !!puppet-agent:0
@@ -15,4 +16,8 @@
 #?in(os_linux_pkglist, CB2)!=#
 fam
 logsentry
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+ansible-base
 #in#
