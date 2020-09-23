@@ -6,6 +6,7 @@ net-p2p/ktorrent
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!gtk-gnutella:0
 !!ktorrent:5
 # not compiled
 !!mldonkey:0
