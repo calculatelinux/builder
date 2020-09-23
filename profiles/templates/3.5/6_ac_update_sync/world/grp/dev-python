@@ -9,8 +9,13 @@ txAMQP
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+aiohttp
+aiohttp-cors
+brotlipy
 django
 gitdb2
+httpbin
+idna-ssl
 jaraco-collections
 jaraco-text
 ldappool
@@ -18,15 +23,21 @@ logbook
 memory_profiler
 PyQt5
 smmap2
+zeep
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!aiohttp:0
+!!aiohttp-cors:0
+!!brotlipy:0
 !!cheetah:0
 !!contextvars:0
 !!dnspython:0
 !!eyeD3:0.7
 !!gitdb2:0
+!!httpbin:0
+!!idna-ssl:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!ldappool:0
@@ -64,6 +75,7 @@ smmap2
 !!sphinxcontrib-websupport:0
 !!translate-toolkit:0
 !!txAMQP:0
+!!zeep:0
 
 
 
