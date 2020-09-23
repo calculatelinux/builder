@@ -10,7 +10,6 @@ sbt-bin
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!eclipse-ecj:4.2
 !!glassfish-xmlrpc-api:0
 !!sbt-bin:0
 
@@ -19,13 +18,11 @@ sbt-bin
 
 # not compiled
 !!commons-math:2
-!!ant-eclipse-ecj:4.2
 
 # need to download
 !!bndlib:0
 !!httpcomponents-client:4.5
 !!jackrabbit-webdav:0
-!!java-sdk-docs:1.8
 !!jta:0
 !!osgi-enterprise-api:0
 !!sun-jimi:0
