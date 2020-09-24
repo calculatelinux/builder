@@ -18,8 +18,6 @@
 !!spqr:0
 !!vtk:0
 !!xkaapi:0
-# not compiled in CBB
-!!scipy:0
 
 !!clapack:0
 # not compiled
