@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!kterm:0
-!!pangoterm:0
 !!roxterm:1
 !!terminology:0
 #in#

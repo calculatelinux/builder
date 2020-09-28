@@ -6,7 +6,6 @@
 !!qmapshack:0
 # not compiled
 !!foxtrotgps:0
-!!mapnik:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

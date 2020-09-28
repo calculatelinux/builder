@@ -114,7 +114,6 @@ zeep
 !!jaraco-logging:0
 !!llvmlite:0
 !!mccabe:0
-!!mysql-python:0
 !!os-ken:0
 !!oslotest:0
 !!pep8:0
