@@ -12,7 +12,6 @@ pacemaker
 !!ceph:0
 !!cinder:0
 !!corosync:0
-!!feedbackd-master:0
 !!heat:0
 !!kubectl:0
 !!mpich:0
