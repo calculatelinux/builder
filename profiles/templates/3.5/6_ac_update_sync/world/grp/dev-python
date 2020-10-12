@@ -65,6 +65,8 @@ zeep
 !!python3-lxc:0
 !!python-efl:0
 !!python-jose:0
+!!python-jsonrpc-server:0
+!!python-language-server:0
 !!pywavelets:0
 !!QtPy:0
 !!smmap2:0
