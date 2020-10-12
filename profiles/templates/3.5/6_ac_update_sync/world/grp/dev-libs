@@ -25,7 +25,6 @@ sink
 !!xapian-bindings:0
 
 # not compiled
-!!cloog:0
 !!ntl:0
 #in#
 
