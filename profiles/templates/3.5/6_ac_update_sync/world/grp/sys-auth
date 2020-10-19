@@ -1,14 +1,12 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB3)!=#
-fingerprint-gui
 keystone
 nss-pam-ldapd
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!fingerprint-gui:0
 !!keystone:0
 !!nss-pam-ldapd:0
 !!sssd:0
