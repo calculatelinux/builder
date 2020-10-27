@@ -1,4 +1,1 @@
 dev-python/PyQt5 webkit webengine
-
-# automagic mate-base/mate-panel
-media-libs/mesa wayland

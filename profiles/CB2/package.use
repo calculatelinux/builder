@@ -9,14 +9,9 @@ sys-apps/calculate-access server
 media-plugins/audacious-plugins -qt5 gtk3
 media-sound/audacious -qt5 gtk3
 
-media-libs/mesa -wayland
-
 # required by gnome-extra/cinnamon-session-3.6.1-r4
 sys-auth/polkit elogind -consolekit
 
 dev-lang/R tk
 
 dev-python/PyQt5 -webkit -webengine
-
-# automagic mate-base/mate-panel
-media-libs/mesa -wayland
