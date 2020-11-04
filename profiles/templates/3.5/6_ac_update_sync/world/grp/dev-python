@@ -31,6 +31,7 @@ zeep
 !!brotlipy:0
 !!cheetah:0
 !!contextvars:0
+!!dataclasses:0
 !!dnspython:0
 !!eyeD3:0.7
 !!gitdb2:0
