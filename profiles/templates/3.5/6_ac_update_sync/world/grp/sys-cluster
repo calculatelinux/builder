@@ -4,7 +4,7 @@
 corosync
 kubectl
 mpich2
-pacemaker
+!!pacemaker
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
