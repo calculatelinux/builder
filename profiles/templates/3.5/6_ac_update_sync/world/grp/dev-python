@@ -29,7 +29,6 @@ zeep
 !!aiohttp:0
 !!aiohttp-cors:0
 !!brotlipy:0
-!!cheetah:0
 !!contextvars:0
 !!dataclasses:0
 !!dnspython:0
