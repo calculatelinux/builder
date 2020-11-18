@@ -12,7 +12,6 @@ txAMQP
 aiohttp
 aiohttp-cors
 django
-gitdb2
 idna-ssl
 jaraco-collections
 jaraco-text
@@ -20,7 +19,6 @@ ldappool
 logbook
 memory_profiler
 PyQt5
-smmap2
 zeep
 #in#
 
@@ -33,7 +31,6 @@ zeep
 !!dataclasses:0
 !!dnspython:0
 !!eyeD3:0.7
-!!gitdb2:0
 !!httpbin:0
 !!idna-ssl:0
 !!jaraco-collections:0
@@ -68,7 +65,6 @@ zeep
 !!python-jsonrpc-server:0
 !!python-language-server:0
 !!QtPy:0
-!!smmap2:0
 !!sphinxcontrib-websupport:0
 !!translate-toolkit:0
 !!txAMQP:0
