@@ -22,4 +22,10 @@
 !!clapack:0
 # not compiled
 !!linux-gpib-modules:0
+
+!!libaec
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+libaec
 #in#
