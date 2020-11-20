@@ -20,10 +20,6 @@ libsrs_alt
 rblcheck
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-courier-pythonfilter
-#in#
-
 #?in(os_linux_pkglist, CBS)!=#
 policyd-weight
 #in#
