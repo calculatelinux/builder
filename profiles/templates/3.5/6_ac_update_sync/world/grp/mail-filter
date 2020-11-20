@@ -9,6 +9,7 @@
 !!maildrop:0
 !!policyd-weight:0
 !!rblcheck:0
+!!courier-pythonfilter:0
 
 # not compiled
 !!spamdyke:0
@@ -17,6 +18,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 libsrs_alt
 rblcheck
+courier-pythonfilter
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
