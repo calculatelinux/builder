@@ -18,6 +18,9 @@
 #?in(os_linux_pkglist, CB4)!=#
 libsrs_alt
 rblcheck
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
 courier-pythonfilter
 #in#
 
