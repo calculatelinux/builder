@@ -3,7 +3,8 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!udev:0
-# not compided
+# not compiled
+!!e4rat:0
 !!loop-aes:0
 !!static-dev:0
 #in#
