@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 kaffeine
-kmplayer
 nvidia_video_sdk
 openshot
 #in#
@@ -16,7 +15,6 @@ openshot
 !!dvdrip:0
 !!jubler:0
 !!kaffeine:5
-!!kmplayer:5
 !!matroxset:0
 !!noad:0
 !nvidia-video-codec:0
