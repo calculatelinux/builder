@@ -115,7 +115,6 @@ zeep
 !!os-ken:0
 !!oslotest:0
 !!pep8:0
-!!pika:0
 !!pymssql:0
 !!pysnmp:0
 !!pytest-pep8:0
@@ -123,7 +122,6 @@ zeep
 !!python-dateutil:0
 !!python-magic:0
 !!python-systemd:0
-!!rednose:0
 !sphinxcontrib-ditaa:0
 !sphinxcontrib-napoleon:0
 !!sure:0
