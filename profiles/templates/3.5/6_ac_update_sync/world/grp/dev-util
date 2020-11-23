@@ -16,7 +16,6 @@
 
 # not compiled
 !!ddd:0
-!!eric:6
 !!sel:0
 !!nvidia-cuda-sdk:0
 !!nvidia-cuda-toolkit:0

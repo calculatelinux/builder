@@ -17,7 +17,6 @@ sink
 !!libelf:0
 !!libiconv:0
 !!libintl:0
-!!libreport:0
 !libressl:0
 !!mongo-c-driver:0
 !!opencl-icd-loader:0
