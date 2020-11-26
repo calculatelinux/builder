@@ -7,6 +7,7 @@ i3-gaps
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!i3-gaps:0
+!!sawfish:0
 
 # not compiled
 !!e16:0
