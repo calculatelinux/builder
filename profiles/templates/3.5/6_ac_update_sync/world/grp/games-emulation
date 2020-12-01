@@ -2,9 +2,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!dosbox-staging:0
 !!pcsx2:0
+#in#
 
-# not compiled
-!dolphin:0
-!!generator:0
+#?in(os_linux_pkglist, CB3)!=#
+dosbox-staging
 #in#
