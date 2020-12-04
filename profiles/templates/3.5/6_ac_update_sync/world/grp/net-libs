@@ -6,13 +6,11 @@ kimap2
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!enet:0
-!kimap2:5
-!libecap:0.2
-!libktorrent:4
+!!gsnmp:0
+!!kimap2:5
 !!libnfsidmap:0
-!!signon-ui:0
 # not compiled
+!!gnet:2
 !pjproject:0
 #in#
 
@@ -23,4 +21,3 @@ signon-ui
 #?in(os_linux_pkglist, CBS)!=#
 gnutls
 libpcap
-#in#

@@ -7,8 +7,7 @@
 !!jnettop:0
 !!monitoring-plugins:0
 !!netcat:0
-!!pnp4nagios:0
-!traceproto:0
+!!scli:0
 
 # not compiled
 !!nagstamon:0
