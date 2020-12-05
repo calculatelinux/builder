@@ -6,6 +6,7 @@ kimap2
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!enet:0
 !!gsnmp:0
 !!kimap2:5
 !!libnfsidmap:0
