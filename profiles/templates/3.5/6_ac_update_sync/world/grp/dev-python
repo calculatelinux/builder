@@ -59,7 +59,6 @@ zeep
 !!pypy3-exe-bin:7.3.1
 !!pypy-exe-bin:7.3.1
 !!PyRSS2Gen:0
-!!pytest-catchlog:0
 !!python3-lxc:0
 !!python-efl:0
 !!python-jose:0
