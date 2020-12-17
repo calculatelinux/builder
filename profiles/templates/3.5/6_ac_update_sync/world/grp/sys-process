@@ -22,4 +22,6 @@ dcron
 cpu-x
 cronie
 psmisc
+# временно, пока отличается отсутствием python3.7
+iotop
 #in#
