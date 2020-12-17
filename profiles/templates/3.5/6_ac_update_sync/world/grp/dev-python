@@ -18,19 +18,21 @@ jaraco-text
 ldappool
 logbook
 memory_profiler
+progressbar2
 PyQt5
 zeep
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+
+!!QtPy:0
 !!aiocontextvars:0
-!!aiohttp:0
 !!aiohttp-cors:0
+!!aiohttp:0
 !!brotlipy:0
 !!contextvars:0
 !!dataclasses:0
-!!pytest-httpbin:0
 !!dnspython:0
 !!httpbin:0
 !!idna-ssl:0
@@ -39,15 +41,15 @@ zeep
 !!ldappool:0
 !!logbook:0
 !!memory_profiler:0
+!!progressbar2:0
 !!pycryptodome:0
-!!pypy3-exe-bin:7.3.1
 !!pypy-exe-bin:7.3.1
+!!pypy3-exe-bin:7.3.1
+!!pytest-httpbin:0
 !!python3-lxc:0
-!!QtPy:0
 !!translate-toolkit:0
 !!txAMQP:0
 !!zeep:0
-
 # not compiled
 !!breathe:0
 
