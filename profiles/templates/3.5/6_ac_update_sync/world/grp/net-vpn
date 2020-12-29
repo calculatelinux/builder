@@ -9,7 +9,7 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-sstp
 networkmanager-vpnc
-networkmanager-wireguard
+#networkmanager-wireguard
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
