@@ -16,6 +16,7 @@ networkmanager-vpnc
 #-world(#-cl_pass_file-#)-#
 !!networkmanager-strongswan:0
 !!strongswan:0
+!!wireguard-modules:0
 # not compiled
 !!isatapd:0
 #in#
