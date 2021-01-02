@@ -2,6 +2,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!renpy:0
-!!renpy:6.99
 #in#
