@@ -2,7 +2,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!cernlib:0
-!!cernlib-montecarlo:0
-!!paw:0
 #in#
