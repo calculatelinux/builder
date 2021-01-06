@@ -63,6 +63,7 @@ zstd
 
 #?in(os_linux_pkglist, CBS)!=#
 pycryptodome
-#для установки блокированной новой версии
+# пакеты собранные только с поддержкой python3_8
 numpy
+pyserial
 #in#

@@ -32,5 +32,6 @@ mysql:5.7
 #?in(os_linux_pkglist, CBS)!=#
 mysql
 mysql-connector-c
+pg_top
 sqlite
 #in#
