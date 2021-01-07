@@ -18,12 +18,12 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 agrep
-hd2u
 tidy-html5
 zathura-pdf-mupdf
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+hd2u
 sigil
 #in#
 
