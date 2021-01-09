@@ -12,7 +12,8 @@ kimap2
 !!libnfsidmap:0
 # not compiled
 !!gnet:2
-!pjproject:0
+!!libiscsi:0
+!!pjproject:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

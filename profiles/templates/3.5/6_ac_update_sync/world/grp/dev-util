@@ -7,6 +7,7 @@
 !!anjuta:0
 !!cmake-fedora:0
 !!cpptest:1
+!!git-delta:0
 !!lttng-modules:0
 !!lttng-tools:0
 !!min-cscope:0
@@ -25,6 +26,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 cpptest:1
+git-delta
 ply
 # depend for mutter
 gdbus-codegen
