@@ -1,3 +1,5 @@
+# Calculate name=world format=world
+
 !app-arch/bloscpack:0
 !app-portage/distpatch:0
 !app-portage/g-octave:0
