@@ -4,7 +4,7 @@
 !app-portage/distpatch:0
 !app-portage/g-octave:0
 !app-text/pdfminer:0
-!dev-python/idna-ssl:0
+!dev-python/idna-ssl
 !dev-python/manuel:0
 !dev-python/mox3:0
 !dev-python/nbsphinx:0
@@ -16,5 +16,5 @@
 !dev-python/rpy:0
 !dev-tcltk/snack:0
 !dev-util/distro-info:0
-!media-libs/gstreamer-editing-services:0
+!media-libs/gstreamer-editing-services:1.0
 !sci-physics/lhapdf:0
