@@ -19,4 +19,6 @@ logsentry
 
 #?in(os_linux_pkglist, CB3)!=#
 ansible-base
+puppet-agent
+puppetserver
 #in#

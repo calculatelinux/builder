@@ -2,7 +2,4 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!geekbench:2
-!geekbench:3
-!geekbench:4
 #in#

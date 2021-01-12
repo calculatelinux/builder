@@ -4,24 +4,18 @@
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
-!!anjuta:0
 !!cmake-fedora:0
-!!cpptest:1
 !!git-delta:0
 !!lttng-modules:0
 !!lttng-tools:0
-!!min-cscope:0
 !!pkgconf:0
 !!ply:0
 !!rpmdevtools:0
 
 # not compiled
-!!ddd:0
-!!sel:0
+!!bazel:0
 !!nvidia-cuda-sdk:0
 !!nvidia-cuda-toolkit:0
-# not compiled
-!!bazel:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

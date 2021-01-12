@@ -30,7 +30,6 @@ zstd
 !!aiohttp-cors:0
 !!brotlipy:0
 !!dnspython:0
-!!httpbin:0
 !!idna-ssl:0
 !!jaraco-collections:0
 !!jaraco-text:0
@@ -41,8 +40,6 @@ zstd
 !!pycryptodome:0
 !!pypy3-exe-bin:7.3.3
 !!pypy-exe-bin:7.3.3
-!!pytest-httpbin:0
-!!python3-lxc:0
 !!QtPy:0
 !!translate-toolkit:0
 !!txAMQP:0
@@ -61,7 +58,4 @@ zstd
 
 #?in(os_linux_pkglist, CBS)!=#
 pycryptodome
-# пакеты собранные только с поддержкой python3_8
-numpy
-pyserial
 #in#

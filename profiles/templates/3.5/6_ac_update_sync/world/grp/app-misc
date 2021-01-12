@@ -6,18 +6,11 @@ xorg-meta
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!xorg-meta:0
-
 !!gcalcli:0
-!!glcdprocdriver:0
-!!graphlcd-base:0
-!!lcdproc:0
 !!livecd-tools:0
 !!realpath:0
 !!vlock:0
-# not compiled
-!!dvorak7min:0
-!!ledit:0
+!!xorg-meta:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

@@ -4,12 +4,8 @@
 #-world(#-cl_pass_file-#)-#
 !!apmd:0
 !!calculate-server:0
-!!conspy:0
-!firejail-lts:0
+!!firejail-lts:0
 !!gentoo-systemd-integration:0
-!lcdsplash:0
-!netboot-base:0
-!netboot-base:0
 !!systemd:0
 !!systemd-readahead:0
 !!systemd-tmpfiles:0
@@ -22,6 +18,8 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 calculate-access
+firejail-lts
+utempter
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!qtadb:0
 !!smstools:0
 #in#
 

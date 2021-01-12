@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#atom
 ee
 kile
 okteta
@@ -13,7 +12,6 @@ pluma
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!atom:0
 !!ee:0
 !!kile:5
 !!okteta:5
@@ -21,7 +19,6 @@ pluma
 
 # not compiled
 !!levee:0
-!!ng:0
 !!texworks:0
 #in#
 

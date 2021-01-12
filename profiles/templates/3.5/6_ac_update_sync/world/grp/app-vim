@@ -8,7 +8,6 @@
 !!zenburn:0
 
 !!ctx:0
-!!splice:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#

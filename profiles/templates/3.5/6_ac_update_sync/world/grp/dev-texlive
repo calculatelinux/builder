@@ -2,7 +2,4 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!texlive-formatsextra:0
-!!texlive-langother:0
-!!texlive-mathscience:0
 #in#

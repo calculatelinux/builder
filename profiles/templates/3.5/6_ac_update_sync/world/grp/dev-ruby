@@ -2,12 +2,9 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!facter:0
 !!gruff:0
 !!rmagick:0
 !!rrdtool-bindings:0
+!!ruby-oci8:0
 !!sparklines:0
-
-# not compiled
-!ruby-oci8:0
 #in#
