@@ -16,5 +16,7 @@
 !dev-python/rpy:0
 !dev-tcltk/snack:0
 !dev-util/distro-info:0
+!dev-util/dput-ng:0
 !media-libs/gstreamer-editing-services:1.0
 !sci-physics/lhapdf:0
+!x11-terms/guake:0
