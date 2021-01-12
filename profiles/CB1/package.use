@@ -1,3 +1,8 @@
+# support for building packages with python3_7 dependencies
+dev-python/setuptools python_targets_python3_7
+dev-python/setuptools_scm python_targets_python3_7
+dev-python/certifi python_targets_python3_7
+
 # stable server
 sys-kernel/calculate-sources firmware grub minimal symlink vmlinuz -build -desktop -muqss -pae -themes -uksm
 
