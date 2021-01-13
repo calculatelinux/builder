@@ -2,7 +2,12 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-
 # not compiled
+!!dbus-sharp:1.0
+!!dbus-sharp:2.0
+!!dbus-sharp-glib:1.0
+!!dbus-sharp-glib:2.0
+!!gkeyfile-sharp:0
 !!ndesk-dbus-glib:0
+!!notify-sharp:0
 #in#

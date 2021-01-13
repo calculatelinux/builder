@@ -11,6 +11,7 @@
 
 # not compiled
 !!nagstamon:0
+!!slurm:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
