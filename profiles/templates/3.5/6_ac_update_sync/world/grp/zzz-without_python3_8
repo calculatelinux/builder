@@ -12,13 +12,10 @@
 !dev-python/nosexcover:0
 !dev-python/oslo-sphinx:0
 !dev-python/pytest-flake8:0
-!dev-python/python-backoff:0
 !dev-python/rpy:0
 !dev-tcltk/snack:0
 !dev-util/distro-info:0
 !dev-util/dput-ng:0
-!games-emulation/hatari:0
 !media-libs/gstreamer-editing-services:1.0
 !media-sound/sonata:0
 !sci-physics/lhapdf:0
-!x11-terms/guake:0
