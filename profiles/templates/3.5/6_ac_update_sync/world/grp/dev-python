@@ -4,6 +4,7 @@
 dnspython
 python3-lxc
 QtPy
+theano
 translate-toolkit
 txAMQP
 #in#
@@ -41,6 +42,7 @@ zstd
 !!pypy3-exe-bin:7.3.3
 !!pypy-exe-bin:7.3.3
 !!QtPy:0
+!!theano:0
 !!translate-toolkit:0
 !!txAMQP:0
 !!zeep:0
