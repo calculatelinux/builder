@@ -8,6 +8,7 @@ net-p2p/ktorrent
 #-world(#-cl_pass_file-#)-#
 !!gtk-gnutella:0
 !!ktorrent:5
+!!retroshare:0
 # not compiled
 !!mldonkey:0
 #in#
