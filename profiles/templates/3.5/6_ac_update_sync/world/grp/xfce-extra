@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!xfce4-mailwatch-plugin:0
 
 # not support 4.16
 !!multiload-nandhp:0
