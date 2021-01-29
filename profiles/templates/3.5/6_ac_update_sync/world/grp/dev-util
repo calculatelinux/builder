@@ -21,6 +21,7 @@
 #?in(os_linux_pkglist, CB3)!=#
 cpptest:1
 git-delta
+pkgconf
 ply
 # depend for mutter
 gdbus-codegen
