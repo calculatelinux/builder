@@ -1,13 +1,11 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-eiskaltdcpp
 ktorrent
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!eiskaltdcpp:0
 !!ktorrent:5
 !!retroshare:0
 #in#
