@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
+#?in(os_linux_pkglist, CBB, CB1, CB2, CB3, CB4, CBS)!=#
 calculate-sources
+#in#
+
+#?in(os_linux_pkglist, CB1)!=#
 dracut
 #in#
 
-#?in(os_linux_pkglist, CBS)!=#
-calculate-sources
-#in#
