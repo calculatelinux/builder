@@ -3,4 +3,3 @@ sys-kernel/calculate-sources desktop themes
 
 # for CDS
 sys-apps/calculate-utils console gpg install pxe -backup -client -dbus -desktop -minimal -qt5
-
