@@ -1,10 +1,9 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CBB, CB1, CB2, CB3, CB4, CBS)!=#
-calculate-sources
+#?in(os_linux_pkglist, CB4)!=#
+#-world(#-cl_pass_file-#)-#
+!!installkernel-systemd-boot:0
+!!gentoo-kernel-bin:5.4.80
+!!gentoo-kernel-bin:5.4.83
+!!gentoo-kernel-bin:5.4.88
 #in#
-
-#?in(os_linux_pkglist, CB1)!=#
-dracut
-#in#
-
