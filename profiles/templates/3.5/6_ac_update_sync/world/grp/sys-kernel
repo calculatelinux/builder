@@ -2,8 +2,13 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!installkernel-systemd-boot:0
-!!gentoo-kernel-bin:5.4.80
-!!gentoo-kernel-bin:5.4.83
-!!gentoo-kernel-bin:5.4.88
+sys-kernel/bliss-initramfs
+sys-kernel/calculate-sources
+sys-kernel/dracut
+sys-kernel/fake-sources
+sys-kernel/genkernel
+sys-kernel/installkernel-gentoo
+sys-kernel/kergen
+sys-kernel/linux-firmware
+sys-kernel/linux-headers
 #in#
