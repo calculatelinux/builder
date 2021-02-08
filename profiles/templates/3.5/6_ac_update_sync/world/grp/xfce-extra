@@ -3,14 +3,6 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 
-# not support 4.16
-!!multiload-nandhp:0
-!!xfce4-embed-plugin:0
-!!xfce4-equake-plugin:0
-!!xfce4-kbdleds-plugin:0
-!!xfce4-notes-plugin:0
-!!xfce4-windowck-plugin:0
-
 # not compiled
 !!xfce4-hdaps:0
 #in#
