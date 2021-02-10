@@ -20,3 +20,5 @@ sys-auth/polkit elogind -consolekit
 dev-lang/R tk
 
 dev-python/PyQt5 -webkit -webengine
+
+x11-themes/calculate-icon-theme -qt5
