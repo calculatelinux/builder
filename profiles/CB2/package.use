@@ -22,3 +22,6 @@ dev-lang/R tk
 dev-python/PyQt5 -webkit -webengine
 
 x11-themes/calculate-icon-theme -qt5
+
+# for CCG
+dev-qt/qtnetwork -networkmanager
