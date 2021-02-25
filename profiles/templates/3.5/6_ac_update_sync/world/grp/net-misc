@@ -40,10 +40,6 @@ owncloud-client
 telnet-bsd
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-bfgminer
-#in#
-
 #?in(os_linux_pkglist, CBS)!=#
 aria2
 curl
