@@ -22,7 +22,6 @@ memory_profiler
 progressbar2
 PyQt5
 zeep
-zstd
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
