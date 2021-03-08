@@ -1,7 +1,12 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB3)!=#
+exfatprogs
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!exfatprogs:0
 !!udev:0
 # not compiled
 !!e4rat:0
