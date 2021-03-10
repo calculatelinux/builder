@@ -1,1 +1,1 @@
->=sys-kernel/calculate-sources-5
+#>=sys-kernel/calculate-sources-5
