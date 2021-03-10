@@ -14,6 +14,7 @@ mysql:5.7
 #-world(#-cl_pass_file-#)-#
 !!mariadb:10.2
 !!mariadb:10.3
+!!mariadb:10.4
 !!mysql:5.7
 !!mysql:8.0
 !!mysql-connector-c:0

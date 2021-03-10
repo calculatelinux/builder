@@ -3,15 +3,10 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!did_you_mean:2.5
-!!fakeweb:0
 !!gruff:0
-!!i18n:0.7
-!!pg:0
 !!rmagick:0
 !!rrdtool-bindings:0
 !!ruby-glib2:0
 !!ruby-oci8:0
-!!session:0
-!!shorturl:0
 !!sparklines:0
 #in#
