@@ -10,7 +10,6 @@ exfatprogs
 !!udev:0
 # not compiled
 !!e4rat:0
-!!loop-aes:0
 !!static-dev:0
 #in#
 
