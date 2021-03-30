@@ -8,5 +8,4 @@ eselect-gnome-shell-extensions
 #-world(#-cl_pass_file-#)-#
 !!eselect-cblas:0
 !!eselect-gnome-shell-extensions:0
-!!eselect-lcdfilter:0
 #in#

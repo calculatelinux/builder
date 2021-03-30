@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist,CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!infinality-ultimate-meta:0
 !!wqy-unibit:0
 #in#
 

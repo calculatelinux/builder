@@ -8,8 +8,6 @@ bcg729
 #-world(#-cl_pass_file-#)-#
 !!bcg729:0
 !!esdl:0
-!!fontconfig-infinality:0
-!!fontconfig-ultimate:0
 !!libglvnd:0
 !!openexr_ctl:0
 !!phonon-vlc:0
