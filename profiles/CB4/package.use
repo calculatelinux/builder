@@ -16,3 +16,6 @@ app-office/libreoffice java
 
 # required by net-im/telegram-desktop-2.1.20[gtk]
 x11-libs/gtk+ wayland
+
+# web frontend and zabbix server
+net-analyzer/zabbix frontend server

@@ -17,6 +17,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 monitoring-plugins
 netcat
+zabbix
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
