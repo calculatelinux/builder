@@ -6,8 +6,8 @@ dev-python/certifi python_targets_python3_7
 # stable server
 sys-kernel/calculate-sources firmware grub minimal symlink vmlinuz -build -desktop -muqss -pae -themes -uksm
 
-# for CLD
-sys-apps/calculate-utils backup client console dbus desktop gpg install qt5 -minimal -pxe
+# for CCG
+sys-apps/calculate-utils backup desktop gpg -client -console -dbus -install -minimal -pxe -qt5
 
 net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
