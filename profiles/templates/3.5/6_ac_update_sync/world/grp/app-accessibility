@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!eflite:0
+!!nfbtrans:0
 #in#
