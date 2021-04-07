@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!PEAR-Net_LDAP2:0
-!!PEAR-Net_LDAP3:0
 
 !!PEAR-MDB2_Driver_mssql:0
 !!PEAR-MDB2_Driver_oci8:0
@@ -12,5 +11,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 PEAR-Net_LDAP2
-PEAR-Net_LDAP3
 #in#
