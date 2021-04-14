@@ -23,7 +23,8 @@
 
 # not compiled
 !!hylafaxplus:0
-!ntpsec:0
+!!ntpsec:0
+!!olsrd:0
 !!quagga:0
 
 # need to download
