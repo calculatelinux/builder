@@ -6,6 +6,7 @@
 !!calculate-server:0
 !!firejail-lts:0
 !!gentoo-systemd-integration:0
+!!rescan-scsi-bus:0
 !!systemd:0
 !!systemd-readahead:0
 !!systemd-tmpfiles:0
