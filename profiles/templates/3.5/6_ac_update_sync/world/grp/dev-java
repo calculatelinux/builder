@@ -16,9 +16,6 @@ sbt-bin
 # мешает работе ant
 !!sablecc-anttask:0
 
-# not compiled
-!!commons-math:2
-
 # need to download
 !!bndlib:0
 !!httpcomponents-client:4.5
