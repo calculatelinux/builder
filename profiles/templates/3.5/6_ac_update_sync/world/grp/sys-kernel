@@ -12,6 +12,6 @@ sys-kernel/linux-firmware
 sys-kernel/linux-headers
 #in#
 
-#?in(os_linux_pkglist, CB4)!=#
+#?in(os_linux_pkglist, CBS)!=#
 #-world(sys-kernel/calculate-sources)-#
 #in#
