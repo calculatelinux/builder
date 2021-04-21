@@ -10,9 +10,6 @@
 !!policyd-weight:0
 !!rblcheck:0
 !!courier-pythonfilter:0
-
-# not compiled
-!!spamdyke:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
