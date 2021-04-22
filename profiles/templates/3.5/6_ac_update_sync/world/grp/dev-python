@@ -13,7 +13,6 @@ txAMQP
 aiohttp
 aiohttp-cors
 django
-idna-ssl
 jaraco-collections
 jaraco-text
 ldappool
@@ -30,7 +29,6 @@ zeep
 !!aiohttp-cors:0
 !!brotlipy:0
 !!dnspython:0
-!!idna-ssl:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!ldappool:0
