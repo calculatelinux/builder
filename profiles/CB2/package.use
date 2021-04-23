@@ -25,3 +25,6 @@ x11-themes/calculate-icon-theme -qt5
 
 # for CCG
 dev-qt/qtnetwork -networkmanager
+
+dev-lang/php apache2
+app-eselect/eselect-php apache2
