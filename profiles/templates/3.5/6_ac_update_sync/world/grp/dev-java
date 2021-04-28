@@ -18,7 +18,6 @@ sbt-bin
 
 # need to download
 !!bndlib:0
-!!httpcomponents-client:4.5
 !!jackrabbit-webdav:0
 !!jta:0
 !!osgi-enterprise-api:0
