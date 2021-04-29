@@ -19,7 +19,6 @@
 !!suite3270:0
 !!telnet-bsd:0
 !throttle:0
-!!unison:2.48
 
 # not compiled
 !!hylafaxplus:0
