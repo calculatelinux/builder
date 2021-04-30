@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
+!!catalyst:0
 !!cmake-fedora:0
 !!git-delta:0
 !!lttng-modules:0
@@ -16,6 +17,10 @@
 !!bazel:0
 !!nvidia-cuda-sdk:0
 !!nvidia-cuda-toolkit:0
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+catalyst
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
