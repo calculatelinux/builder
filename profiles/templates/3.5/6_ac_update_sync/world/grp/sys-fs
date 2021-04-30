@@ -1,6 +1,12 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB3)!=#
+# need for build kernel for servers
+btrfs-progs
+mdadm
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
 exfatprogs
 #in#
 
