@@ -9,6 +9,7 @@ upower
 #-world(#-cl_pass_file-#)-#
 !!acpilight:0
 !!powermgmt-base:0
+!!switcheroo-control:0
 !!upower:0
 #in#
 
