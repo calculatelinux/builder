@@ -30,6 +30,10 @@
 !!icaclient:0
 #in#
 
+#?in(os_linux_pkglist, CB2)!=#
+electrum
+#in#
+
 #?in(os_linux_pkglist, CB2, CB3)!=#
 dhcp
 #in#
