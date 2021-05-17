@@ -15,7 +15,8 @@
 
 # not compiled
 !!bazel:0
-!!nvidia-cuda-sdk:0
+
+# big size
 !!nvidia-cuda-toolkit:0
 #in#
 
