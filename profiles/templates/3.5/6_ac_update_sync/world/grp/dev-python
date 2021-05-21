@@ -37,7 +37,9 @@ zeep
 !!progressbar2:0
 !!pycryptodome:0
 !!pypy3-exe-bin:7.3.4
+!!pypy3-exe-bin:7.3.3_p2
 !!pypy-exe-bin:7.3.4
+!!pypy-exe-bin:7.3.3_p2
 !!pytest-ordering:0
 !!QtPy:0
 !!theano:0
