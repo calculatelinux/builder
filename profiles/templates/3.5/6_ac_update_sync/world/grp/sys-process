@@ -1,11 +1,11 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
-bcron
+#?in(os_linux_pkglist, CB1)!=#
+dcron
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-dcron
+#?in(os_linux_pkglist, CB2)!=#
+bcron
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
