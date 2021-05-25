@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-dcron
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 bcron
 #in#
