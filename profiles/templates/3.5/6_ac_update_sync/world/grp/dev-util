@@ -6,6 +6,7 @@
 !!android-studio:0
 !!catalyst:0
 !!cmake-fedora:0
+!!colm:0
 !!git-delta:0
 !!lttng-modules:0
 !!lttng-tools:0
@@ -22,6 +23,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 catalyst
+colm
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
