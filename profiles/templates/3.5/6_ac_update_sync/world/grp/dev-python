@@ -28,7 +28,6 @@ zeep
 !!aiohttp-cors:0
 !!brotlipy:0
 !!dnspython:0
-!!gtk-builder-convert:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!logbook:0

@@ -8,6 +8,7 @@
 !!cmake-fedora:0
 !!colm:0
 !!git-delta:0
+!!gtk-builder-convert:0
 !!lttng-modules:0
 !!lttng-tools:0
 !!pkgconf:0
