@@ -15,10 +15,11 @@
 !!owncloud-client:0
 !!r8168:0
 !!rabbitmq-server:0
+!!sitecopy:0
 !!sks:0
 !!suite3270:0
 !!telnet-bsd:0
-!throttle:0
+!!throttle:0
 
 # not compiled
 !!hylafaxplus:0
