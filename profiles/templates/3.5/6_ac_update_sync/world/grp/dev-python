@@ -26,6 +26,7 @@ zeep
 #-world(#-cl_pass_file-#)-#
 !!aiohttp:0
 !!aiohttp-cors:0
+!!autopep8:0
 !!brotlipy:0
 !!dnspython:0
 !!jaraco-collections:0

@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!dino:0
 !!gajim:0
 !!signal-desktop-bin:0
 !!spectrum2:0
