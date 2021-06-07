@@ -3,7 +3,9 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!agrep:0
+!!epspdf:0
 !!hd2u:0
+!!pdfjam:0
 !!sigil:0
 !!tidy-html5:0
 !!zathura-pdf-mupdf:0
@@ -18,6 +20,8 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 agrep
+epspdf
+pdfjam
 tidy-html5
 zathura-pdf-mupdf
 #in#
