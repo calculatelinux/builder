@@ -41,6 +41,7 @@ zeep
 !!theano:0
 !!translate-toolkit:0
 !!zeep:0
+!!zstd:0
 
 !!llvmlite:0
 !!pymssql:0
