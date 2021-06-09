@@ -1,16 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-#media-tv/dvbtune
-media-tv/gentoo-vdr-scripts
-media-tv/ivtv-utils
-#media-tv/kodi
-media-tv/linuxtv-dvb-apps
-#media-tv/mythtv
-media-tv/shoutcast2vdr
-media-tv/tvnamer
-#media-tv/v4l-dvb-saa716x
-media-tv/v4l-utils
-media-tv/w_scan
-media-tv/xmltv
+#-world(#-cl_pass_file-#)-#
 #in#

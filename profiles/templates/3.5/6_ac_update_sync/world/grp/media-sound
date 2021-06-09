@@ -6,10 +6,7 @@ jack2
 media-sound/audex
 media-sound/cantata
 media-sound/kid3
-#media-sound/kmidimon <media-sound/drumstick-1.0.0
-#media-sound/kmid <media-sound/drumstick-1.0.0
 media-sound/musique
-# media-sound/cdtool is blocking media-sound/cdplay-1.0
 media-sound/cdtool
 # to support gtk3
 media-sound/audacious
@@ -17,24 +14,18 @@ media-sound/audacious
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!abcde:0
 !!audex:5
 !!cadence:0
 !!cantata:0
 !!cdtool:0
 !!csound:0
 !!deadbeef:0
-!!frescobaldi:0
 !!jack2:2
 !!kid3:5
 !!musique:0
 
 # is blocking
 !!apulse:0
-!!lilypond:0
-
-# not compiled
-!!mixxx:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

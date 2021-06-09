@@ -19,7 +19,6 @@ pluma
 
 # not compiled
 !!levee:0
-!!texworks:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

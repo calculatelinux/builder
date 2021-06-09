@@ -38,15 +38,9 @@ zeep
 !!pypy3-exe-bin:7.3.4
 !!pypy-exe-bin:7.3.4
 !!pytest-ordering:0
-!!QtPy:0
 !!theano:0
 !!translate-toolkit:0
-!!txAMQP:0
 !!zeep:0
-!!zstd:0
-
-# not compiled
-!!breathe:0
 
 !!llvmlite:0
 !!pymssql:0

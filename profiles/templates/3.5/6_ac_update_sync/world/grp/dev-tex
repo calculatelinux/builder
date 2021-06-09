@@ -1,12 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB4)!=#
-biber
-biblatex
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!biber:0
-!!biblatex:0
 #in#

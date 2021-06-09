@@ -8,23 +8,12 @@ openshot
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!aegisub:0
-!!baka-mplayer:0
 !!bino:0
-!!dirac:0
 !!dvdrip:0
-!!jubler:0
 !!kaffeine:5
-!!matroxset:0
-!!noad:0
-!nvidia-video-codec:0
+!!nvidia-video-codec:0
 !!nvidia_video_sdk:0
 !!openshot:1
-!!subtitlecomposer:5
-!!xine-ui:0
-# not compiled
-!!pitivi:0
-!!yle-dl:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

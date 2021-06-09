@@ -2,10 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-
-!!lure:0
-!!sumwars:0
-
 # need to download
 !!dear-esther:0
 !!to-the-moon:0

@@ -1,16 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-mate-base/caja
-mate-base/libmatekbd
-mate-base/mate
-mate-base/mate-applets
-mate-base/mate-applets-meta
-mate-base/mate-common
-mate-base/mate-control-center
-mate-base/mate-desktop
-mate-base/mate-menus
-mate-base/mate-panel
-mate-base/mate-session-manager
-mate-base/mate-settings-daemon
+#-world(#-cl_pass_file-#)-#
 #in#

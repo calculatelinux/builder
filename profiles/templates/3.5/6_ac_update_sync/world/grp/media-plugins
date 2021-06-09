@@ -7,9 +7,4 @@ audacious-plugins
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!audacious-plugins:0
-!mediastreamer-silk:0
-!!vdr-live:0
-!vdr-rotor:0
-!!vdr-ttxtsubs:0
-!!vdr-vompserver:0
 #in#
