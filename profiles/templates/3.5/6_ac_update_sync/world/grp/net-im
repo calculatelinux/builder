@@ -2,13 +2,10 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!dino:0
 !!gajim:0
 !!signal-desktop-bin:0
 !!spectrum2:0
 !!telegram-desktop:0
-!!tkabber:0
-!!transwhat:0
 !!yowsup:0
 
 # not compiled

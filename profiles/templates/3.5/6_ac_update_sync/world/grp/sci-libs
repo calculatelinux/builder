@@ -3,27 +3,19 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!atlas:0
+!!fetk:0
+!!libaec:0
+!!mc:0
 !!metis:0
 !!mkl:0
 !!suitesparse:0
 !!xdmf2:0
 
-!!fetk:0
-!!mc:0
-
 # not compiled
 !!libdap:0
 !!linux-gpib:0
-!!ogdi:0
 !!punc:0
-!!spqr:0
-!!vtk:0
-
-!!clapack:0
-# not compiled
 !!linux-gpib-modules:0
-
-!!libaec:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#

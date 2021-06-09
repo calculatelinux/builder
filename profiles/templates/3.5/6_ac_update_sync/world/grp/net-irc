@@ -9,10 +9,9 @@ unrealircd
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!quassel:0
-#many depends
 !!konversation:5
 !!unrealircd:0
+
 # not compiled
 !!inspircd:0
-!!rhapsody:0
 #in#

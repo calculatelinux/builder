@@ -9,5 +9,6 @@
 
 #?in(os_linux_pkglist, CBS)!=#
 squid
+squidguard
 squirm
 #in#

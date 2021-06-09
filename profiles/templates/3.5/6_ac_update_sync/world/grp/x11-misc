@@ -16,12 +16,6 @@ sddm
 !!primus:0
 !!sddm:0
 !!unclutter-xfixes:0
-
-# not compiled
-!!bbkeys:0
-!!bbmail:0
-!!bbpager:0
-!!polybar:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

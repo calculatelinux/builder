@@ -3,8 +3,5 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 # not compiled
-!ibacm:3.12
 !libehca:3.12
-!libmlx5:3.12
-!libnes:3.12
 #in#

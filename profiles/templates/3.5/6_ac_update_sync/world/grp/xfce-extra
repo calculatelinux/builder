@@ -2,7 +2,4 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-
-# not compiled
-!!xfce4-hdaps:0
 #in#

@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!mod_auth_kerb:0
 !!mod_ldap_userdir:0
 !!mpm_itk:0
 #in#

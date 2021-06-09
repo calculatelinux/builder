@@ -4,28 +4,20 @@
 #-world(#-cl_pass_file-#)-#
 !!arpd:0
 !!bfgminer:0
-!!dahdi:0
-!!dahdi-tools:0
-!!dropbox:0
-!!dropbox-cli:0
 !!electrum:0
 !!gsasl:0
 !!openntpd:0
 !!openvswitch:0
 !!owncloud-client:0
 !!r8168:0
-!!rabbitmq-server:0
 !!sitecopy:0
 !!sks:0
-!!suite3270:0
 !!telnet-bsd:0
-!!throttle:0
 
 # not compiled
 !!hylafaxplus:0
 !!ntpsec:0
 !!olsrd:0
-!!quagga:0
 
 # need to download
 !!icaclient:0
@@ -33,16 +25,16 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 electrum
+owncloud-client
+telnet-bsd
 #in#
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
 dhcp
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
-#dropbox
-owncloud-client
-telnet-bsd
+#?in(os_linux_pkglist, CB3)!=#
+sks
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

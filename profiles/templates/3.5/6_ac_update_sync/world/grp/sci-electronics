@@ -2,7 +2,4 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!klayout:0
-# not compiled
-!!gwave:0
 #in#
