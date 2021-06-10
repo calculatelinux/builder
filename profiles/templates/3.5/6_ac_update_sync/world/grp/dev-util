@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CBB, CB1, CB2, CB3, CB4, CBS)!=#
+dev-util/ccache
+#in#
+
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
@@ -34,8 +38,4 @@ pkgconf
 ply
 # depend for mutter
 gdbus-codegen
-#in#
-
-#?in(os_linux_pkglist, CBS)!=#
-dev-util/ccache
 #in#
