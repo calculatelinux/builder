@@ -2,4 +2,14 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!Apache-Gallery:0
+!!gitea:0
+!!icingaweb2:0
+!!icingaweb2-module-director:0
+!!icingaweb2-module-graphite:0
+!!icingaweb2-module-pnp4nagios:0
+!!phpsysinfo:3.3.2
+!!postfixadmin:3.3.8-r1
+# not compiled
+!!websvn:0
 #in#
