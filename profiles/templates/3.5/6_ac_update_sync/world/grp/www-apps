@@ -12,4 +12,6 @@
 !!postfixadmin:3.3.8-r1
 # not compiled
 !!websvn:2.3.3-r1
+# big size
+!!zeppelin-bin:0
 #in#
