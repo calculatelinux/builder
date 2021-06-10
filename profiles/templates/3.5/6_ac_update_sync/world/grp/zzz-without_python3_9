@@ -1,5 +1,4 @@
 # Calculate name=world format=world
-
 !app-admin/clustershell:0
 !app-backup/untangle-https-backup:0
 !app-portage/grs:0
@@ -48,6 +47,7 @@
 !dev-util/vint:0
 !mate-extra/caja-dropbox:0
 !mate-extra/caja-hide:0
+!media-sound/mixxx:0
 !media-sound/soundconverter:0
 !net-analyzer/nagios-check_multiple:0
 !net-analyzer/nagios-icinga-openvpn:0
