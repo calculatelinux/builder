@@ -9,7 +9,6 @@
 !!icingaweb2-module-graphite:0
 !!icingaweb2-module-pnp4nagios:0
 !!phpsysinfo:3.3.2
-!!postfixadmin:3.3.8-r1
 # not compiled
 !!websvn:2.3.3-r1
 # big size
