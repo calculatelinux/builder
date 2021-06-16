@@ -26,3 +26,7 @@ net-vpn/networkmanager-pptp -gtk
 net-vpn/networkmanager-sstp -gtk
 net-vpn/networkmanager-vpnc -gtk
 net-vpn/networkmanager-wireguard -gtk
+
+# required by "net-im/dino-0.2.0[notification-sound]
+media-libs/libcanberra sound
+
