@@ -1,5 +1,4 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB3)!=#
-#-world(#-cl_pass_file-#)-#
 #in#
