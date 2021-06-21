@@ -11,6 +11,7 @@ sbt-bin
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!glassfish-xmlrpc-api:0
+!!jython:2.7
 !!sbt-bin:0
 
 # мешает работе ant
