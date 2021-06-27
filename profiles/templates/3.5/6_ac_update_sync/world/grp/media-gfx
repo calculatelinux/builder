@@ -24,5 +24,4 @@ xli
 #?in(os_linux_pkglist, CBS)!=#
 grub-splashes-calculate
 imagemagick
-ufraw
 #in#
