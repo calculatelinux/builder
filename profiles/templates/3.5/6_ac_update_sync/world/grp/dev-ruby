@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!did_you_mean:2.5
 !!gruff:0
 !!rmagick:0
 !!rrdtool-bindings:0
