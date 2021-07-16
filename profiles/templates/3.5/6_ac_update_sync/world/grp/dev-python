@@ -28,6 +28,7 @@ zeep
 !!aiohttp-cors:0
 !!autopep8:0
 !!dnspython:0
+!!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
 !!llvmlite:0

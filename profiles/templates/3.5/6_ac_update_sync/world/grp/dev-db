@@ -19,6 +19,7 @@ mysql:5.7
 !!mysql:8.0
 !!mysql-connector-c:0
 !!mytop:0
+!!pgadmin4:0
 !!tinycdb:0
 
 # EULA
