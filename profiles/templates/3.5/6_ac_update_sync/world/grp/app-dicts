@@ -3,8 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!aspell-nb:0
-# not compiled
-!!stardict-cdict-en-zh-big5:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
