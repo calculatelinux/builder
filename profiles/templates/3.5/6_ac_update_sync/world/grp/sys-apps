@@ -6,6 +6,7 @@
 !!calculate-server:0
 !!firejail-lts:0
 !!gentoo-systemd-integration:0
+!!plocate:0
 !!smc-sum-driver:0
 !!systemd:0
 !!systemd-readahead:0
@@ -17,6 +18,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 calculate-access
 firejail-lts
+plocate
 utempter
 #in#
 
