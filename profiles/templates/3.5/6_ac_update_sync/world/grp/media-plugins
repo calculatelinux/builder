@@ -9,4 +9,5 @@ audacious-plugins
 !!audacious-plugins:0
 # not compiled
 !!vdr-extrecmenu:0
+!!vdr-remotetimers:0
 #in#
