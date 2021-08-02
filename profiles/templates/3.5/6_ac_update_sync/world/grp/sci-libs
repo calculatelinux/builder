@@ -14,6 +14,7 @@ parmetis
 !!mkl:0
 !!parmetis:0
 !!suitesparse:0
+!!vtk:0
 !!xdmf2:0
 
 # not compiled
