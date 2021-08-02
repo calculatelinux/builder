@@ -6,13 +6,12 @@ xorg-meta
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!klavaro:0
 !!livecd-tools:0
 !!realpath:0
-!!tracker:0
-!!tracker-miners:0
 !!vlock:0
 !!xorg-meta:0
+# not compiled
+!!ledit:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
