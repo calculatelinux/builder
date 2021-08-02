@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 kaffeine
 nvidia_video_sdk
-openshot
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -13,7 +12,6 @@ openshot
 !!kaffeine:5
 !!nvidia-video-codec:0
 !!nvidia_video_sdk:0
-!!openshot:1
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
