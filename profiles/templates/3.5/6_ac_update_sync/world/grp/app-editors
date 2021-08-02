@@ -22,5 +22,6 @@ pluma
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+emacs
 vim
 #in#
