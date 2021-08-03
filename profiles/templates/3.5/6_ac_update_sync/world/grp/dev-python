@@ -43,7 +43,7 @@ zeep
 !!pytest-ordering:0
 !!python-poppler-qt5:0
 !!python-systemd:0
-!!sip:0
+!!sip:5
 !!theano:0
 !!translate-toolkit:0
 !!utidylib:0
