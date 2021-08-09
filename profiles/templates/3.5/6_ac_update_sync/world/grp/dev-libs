@@ -12,6 +12,7 @@ sink
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!sink:5
+!!tvision:0
 
 # is blocking
 !!libelf:0
