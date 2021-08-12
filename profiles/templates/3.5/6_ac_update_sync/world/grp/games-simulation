@@ -1,15 +1,5 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
-games-simulation/cannonsmash
-games-simulation/crashtest
-games-simulation/gl117
-games-simulation/lincity
-games-simulation/lincity-ng
-games-simulation/micropolis
-games-simulation/openttd
-games-simulation/pmars-sdl
-games-simulation/searchandrescue
-games-simulation/senken
-games-simulation/singularity
+#-world(#-cl_pass_file-#)-#
 #in#
