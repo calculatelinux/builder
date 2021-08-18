@@ -15,7 +15,6 @@ exfatprogs
 !!exfatprogs:0
 !!udev:0
 # not compiled
-!!e4rat:0
 !!static-dev:0
 #in#
 
