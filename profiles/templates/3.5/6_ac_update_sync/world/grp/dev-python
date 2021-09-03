@@ -37,8 +37,8 @@ zeep
 !!progressbar2:0
 !!pycryptodome:0
 !!pymssql:0
-!!pypy3-exe-bin:7.3.4
-!!pypy-exe-bin:7.3.4
+!!pypy3-exe-bin:7.3.5
+!!pypy-exe-bin:7.3.5
 !!pysvn:0
 !!pytest-ordering:0
 !!python-poppler-qt5:0
