@@ -1,16 +1,12 @@
 # Calculate name=world format=world
 !app-admin/clustershell:0
-!app-backup/untangle-https-backup:0
-!app-portage/grs:0
 !app-text/rpl:0
-!dev-python/absl-py:0
 !dev-python/backports-tempfile:0
 !dev-python/backports-weakref:0
 !dev-python/backports-zoneinfo:0
 !dev-python/configshell-fb:0
 !dev-python/doc8:0
 !dev-python/importlib_resources:0
-!dev-python/kombu:0
 !dev-python/mecab-python:0
 !dev-python/openstacksdk:0
 !dev-python/osc-lib:0
@@ -27,10 +23,7 @@
 !dev-python/python-swiftclient:0
 !dev-python/rtslib-fb:0
 !dev-python/SaltTesting:0
-!dev-python/wstools:0
 !dev-util/gertty:0
 !dev-util/vint:0
-!net-analyzer/nagios-check_multiple:0
-!net-analyzer/nagios-icinga-openvpn:0
 !net-mail/rss2email:0
 !sys-block/targetcli-fb:0
