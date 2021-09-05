@@ -1,10 +1,10 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-kuroo
+#kuroo
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!kuroo:0
+#!!kuroo:0
 #in#
