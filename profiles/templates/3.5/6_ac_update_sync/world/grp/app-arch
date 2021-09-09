@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!deb2targz:0
+!!hardlink:0
 # EULA
 !!stuffit:0
 #in#
