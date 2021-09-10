@@ -1,6 +1,5 @@
 # Calculate name=world format=world
 !app-admin/clustershell:0
-!app-text/rpl:0
 !dev-python/backports-tempfile:0
 !dev-python/backports-weakref:0
 !dev-python/backports-zoneinfo:0
