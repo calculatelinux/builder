@@ -36,13 +36,14 @@ zeep
 !!memory_profiler:0
 !!progressbar2:0
 !!pycryptodome:0
+!!pyls-spyder:0
 !!pymssql:0
 !!pypy3-exe-bin:7.3.5
 !!pypy-exe-bin:7.3.5
 !!pysvn:0
 !!pytest-ordering:0
 !!python-lsp-black:0
-!!pyls-spyder:0
+!!python-lsp-server:0
 !!python-poppler-qt5:0
 !!python-systemd:0
 !!sip:5
