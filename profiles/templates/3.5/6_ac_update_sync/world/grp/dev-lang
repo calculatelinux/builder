@@ -6,8 +6,6 @@ scala-bin
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!gnat-gpl:6.3.0
-!!gnat-gpl:7.3.1
 !!gnat-gpl:8.3.1
 !!gnat-gpl:9.3.1
 !!gnat-gpl:10
