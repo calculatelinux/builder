@@ -4,7 +4,6 @@
 dnspython
 python3-lxc
 QtPy
-theano
 translate-toolkit
 txAMQP
 #in#
@@ -47,7 +46,6 @@ zeep
 !!python-poppler-qt5:0
 !!python-systemd:0
 !!sip:5
-!!theano:0
 !!translate-toolkit:0
 !!utidylib:0
 !!zeep:0
