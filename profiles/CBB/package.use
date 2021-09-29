@@ -3,8 +3,3 @@ app-office/libreoffice java kde
 
 # stable server with fsync
 sys-kernel/calculate-sources firmware fsync grub minimal symlink vmlinuz -build -desktop -muqss -pae -themes -uksm
-
-media-libs/libsdl2 pipewire
-media-sound/pulseaudio -alsa-plugin
-media-video/pipewire extra echo-cancel pipewire-alsa
-
