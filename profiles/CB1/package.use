@@ -28,13 +28,6 @@ net-vpn/networkmanager-wireguard -gtk
 # required by net-im/dino-0.2.0[notification-sound]
 media-libs/libcanberra sound
 
-
 # required by www-apps/gitea-1.14.2[acct]
 acct-user/git gitea
-
-
-media-libs/libsdl2 pipewire
-media-sound/pulseaudio -alsa-plugin
-media-video/pipewire extra echo-cancel pipewire-alsa
-media-plugins/alsa-plugins -pulseaudio
 
