@@ -41,7 +41,7 @@ sks
 aria2
 curl
 minidlna
-networkmanager
+#networkmanager
 openssh
 
 # block with desktop profile
