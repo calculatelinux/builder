@@ -9,7 +9,6 @@
 !!krop:0
 !!pdfjam:0
 !!sigil:0
-!!tidy-html5:0
 !!trang:0
 !!zathura-pdf-mupdf:0
 
@@ -22,7 +21,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 agrep
-tidy-html5
 zathura-pdf-mupdf
 #in#
 
