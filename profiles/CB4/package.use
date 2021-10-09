@@ -19,3 +19,8 @@ x11-libs/gtk+ wayland
 
 # web frontend and zabbix server
 net-analyzer/zabbix frontend server
+
+# using pulseaudio without pipewire
+media-sound/pulseaudio alsa-plugin
+media-plugins/alsa-plugins pulseaudio
+media-video/pipewire -pipewire-alsa
