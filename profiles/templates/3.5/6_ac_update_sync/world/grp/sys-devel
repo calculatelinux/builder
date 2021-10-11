@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 !!gcc:8.5.0
 !!gcc:9.4.0
+!!gcc:10
 #in#
