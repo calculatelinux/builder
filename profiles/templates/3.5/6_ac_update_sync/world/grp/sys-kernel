@@ -3,7 +3,6 @@
 # server kernel
 #?in(os_linux_pkglist, CB3)!=#
 #-world(sys-kernel/calculate-sources)-#
-linux-firmware
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
