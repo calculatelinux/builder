@@ -29,3 +29,6 @@ sys-auth/polkit elogind -consolekit
 
 # required by media-sound/cadence-0.9.0-r3[pulseaudio]
 media-sound/pulseaudio jack
+
+sys-kernel/linux-firmware initramfs
+
