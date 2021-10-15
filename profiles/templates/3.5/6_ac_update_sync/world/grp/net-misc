@@ -5,6 +5,7 @@
 !!arpd:0
 !!bfgminer:0
 !!electrum:0
+!!frr:0
 !!gsasl:0
 !!openntpd:0
 !!openvswitch:0
@@ -31,6 +32,7 @@ telnet-bsd
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
 dhcp
+frr
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

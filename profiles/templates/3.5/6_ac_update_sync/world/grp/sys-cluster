@@ -1,11 +1,13 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
+mpe2
 mpich2
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!mpe2:0
 !!mpich:0
 !!mpich2:0
 !!torque:0
