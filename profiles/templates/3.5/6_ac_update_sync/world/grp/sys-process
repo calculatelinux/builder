@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 bcron
+iotop-c
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
@@ -9,6 +10,7 @@ bcron
 !!bcron:0
 !!cronie:0
 !!dcron:0
+!!iotop-c:0
 !!systemd-cron:0
 !!tiptop:0
 #in#
