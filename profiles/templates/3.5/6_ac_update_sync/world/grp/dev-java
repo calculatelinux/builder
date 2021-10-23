@@ -14,9 +14,6 @@ sbt-bin
 !!jython:2.7
 !!sbt-bin:0
 
-# мешает работе ant
-!!sablecc-anttask:0
-
 # need to download
 !!bndlib:0
 !!jackrabbit-webdav:0
