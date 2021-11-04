@@ -17,6 +17,7 @@ dev-util/ccache
 !!lttng-tools:0
 !!pkgconf:0
 !!ply:0
+!!ragel:0
 !!rpmdevtools:0
 
 # not compiled
