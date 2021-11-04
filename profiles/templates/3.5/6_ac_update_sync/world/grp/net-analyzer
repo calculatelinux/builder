@@ -8,6 +8,7 @@
 !!netcat:0
 
 # not compiled
+!!argus-clients:0
 !!nagstamon:0
 #in#
 
