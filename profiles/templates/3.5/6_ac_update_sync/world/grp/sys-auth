@@ -8,6 +8,9 @@ nss-pam-ldapd
 #-world(#-cl_pass_file-#)-#
 !!nss-pam-ldapd:0
 !!sssd:0
+
+#not compiled
+!!polkit-pkla-compat:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
