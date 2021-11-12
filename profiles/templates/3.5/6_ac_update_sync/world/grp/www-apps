@@ -7,8 +7,6 @@
 !!icingaweb2-module-director:0
 !!icingaweb2-module-graphite:0
 !!icingaweb2-module-pnp4nagios:0
-# not compiled
-!!websvn:2.3.3-r1
 # big size
 !!zeppelin-bin:0
 #in#
