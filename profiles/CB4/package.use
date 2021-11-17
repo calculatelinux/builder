@@ -18,7 +18,7 @@ app-office/libreoffice java
 x11-libs/gtk+ wayland
 
 # web frontend and zabbix server
-net-analyzer/zabbix frontend server
+net-analyzer/zabbix frontend postgres server
 
 # using pulseaudio without pipewire
 media-sound/pulseaudio alsa-plugin
