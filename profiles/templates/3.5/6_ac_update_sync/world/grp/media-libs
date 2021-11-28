@@ -8,6 +8,7 @@ bcg729
 #-world(#-cl_pass_file-#)-#
 !!bcg729:0
 !!esdl:0
+!!nv-codec-headers:0
 
 # not compiled
 !!allegro:0
