@@ -7,6 +7,7 @@
 !!freecad:0
 !!graphicsmagick:0
 !!iscan:0
+!!iscan-plugin-gt-f720:0
 !!mcomix:0
 !!raw-thumbnailer:0
 !!wings:0
@@ -15,6 +16,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 iscan
+iscan-plugin-gt-f720
 raw-thumbnailer
 #in#
 
