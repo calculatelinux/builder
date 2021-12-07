@@ -6,6 +6,7 @@
 !!evoluspencil:0
 !!freecad:0
 !!graphicsmagick:0
+!!iscan:0
 !!mcomix:0
 !!raw-thumbnailer:0
 !!wings:0
@@ -13,6 +14,7 @@
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+iscan
 raw-thumbnailer
 #in#
 
