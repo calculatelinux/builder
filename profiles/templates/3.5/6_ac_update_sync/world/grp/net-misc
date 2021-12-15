@@ -39,7 +39,7 @@ frr
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-sks
+#sks
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
