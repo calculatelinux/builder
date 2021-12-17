@@ -3,10 +3,10 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!arpd:0
-!!bfgminer:0
 !!electrum:0
 !!frr:0
 !!gsasl:0
+!!ntpsec:0
 !!openntpd:0
 !!openvswitch:0
 !!owncloud-client:0
@@ -17,9 +17,7 @@
 !!yt-dlp:0
 
 # not compiled
-!!hylafaxplus:0
-!!ntpsec:0
-!!olsrd:0
+!!realtek-r8152:0
 
 # need to download
 !!icaclient:0

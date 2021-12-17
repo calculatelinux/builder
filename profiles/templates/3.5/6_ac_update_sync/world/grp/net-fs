@@ -3,6 +3,8 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!cvmfs:0
+# not compiled
+!!openafs:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
