@@ -9,9 +9,6 @@ mpich2
 !!mpich:0
 !!mpich2:0
 !!torque:0
-
-# not compiled
-!!mpe2:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
