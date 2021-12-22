@@ -12,6 +12,7 @@ exfatprogs
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!eudev:0
 !!exfatprogs:0
 # not compiled
 !!static-dev:0
