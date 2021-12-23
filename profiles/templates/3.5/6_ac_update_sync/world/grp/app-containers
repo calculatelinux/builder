@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!docker-compose:0
-!!grub-xen-host:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
