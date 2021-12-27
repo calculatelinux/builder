@@ -6,7 +6,6 @@
 !!calculate-server:0
 !!firejail-lts:0
 !!gentoo-systemd-integration:0
-!!hwids:0
 !!plocate:0
 !!smc-sum-driver:0
 !!systemd:0
