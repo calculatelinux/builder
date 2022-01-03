@@ -5,10 +5,7 @@
 !!argp-standalone:0
 !!fts-standalone:0
 !!llvm-libunwind:0
+!!musl:0
 !!obstack-standalone:0
 !!queue-standalone:0
-!!uclibc-ng:0
-
-# not compiled
-!!musl:0
 #in#
