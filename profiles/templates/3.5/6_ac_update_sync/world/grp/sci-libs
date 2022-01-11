@@ -13,7 +13,6 @@ parmetis
 !!linbox:0
 !!mc:0
 !!mkl:0
-!!opencascade:7.5
 !!parmetis:0
 !!suitesparse:0
 !!vtk:0
