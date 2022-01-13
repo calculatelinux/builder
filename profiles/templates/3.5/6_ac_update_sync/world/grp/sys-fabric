@@ -3,6 +3,14 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!opensm:0
+!!perftest:0
+!!qperf:0
 # not compiled
 !libehca:3.12
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+opensm
+perftest
+qperf
 #in#
