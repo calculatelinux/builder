@@ -23,10 +23,6 @@ mysql:5.7
 !!tinycdb:0
 
 # EULA
-!!oracle-instantclient-basic:0
-!!oracle-instantclient-jdbc:0
-!!oracle-instantclient-odbc:0
-!!oracle-instantclient-sqlplus:0
 !!sqldeveloper:0
 #in#
 
