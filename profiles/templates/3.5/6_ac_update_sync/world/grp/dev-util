@@ -15,6 +15,7 @@ dev-util/ccache
 !!gtk-builder-convert:0
 !!lttng-modules:0
 !!lttng-tools:0
+!!numdiff:0
 !!pkgconf:0
 !!ply:0
 !!ragel:0
