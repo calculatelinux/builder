@@ -27,5 +27,5 @@ app-eselect/eselect-php apache2
 # required by dev-vcs/gitolite-gentoo-2.3.1-r2
 acct-user/git gitolite -gitea
 
-# to avoid overwriting the USB rights
-sys-auth/elogind -acl
+# if anyone needs support
+sys-auth/elogind acl
