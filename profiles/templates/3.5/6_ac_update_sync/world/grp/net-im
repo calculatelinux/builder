@@ -7,7 +7,6 @@
 !!signal-desktop-bin:0
 !!spectrum2:0
 !!telegram-desktop:0
-!!yowsup:0
 
 # not compiled
 !!choqok:5
@@ -20,5 +19,4 @@ gajim
 sendxmpp-amm
 telegram-desktop
 transwhat
-yowsup
 #in#
