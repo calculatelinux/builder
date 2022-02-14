@@ -7,7 +7,6 @@
 !!firejail-lts:0
 !!gentoo-systemd-integration:0
 !!plocate:0
-!!smc-sum-driver:0
 !!systemd:0
 !!systemd-readahead:0
 !!systemd-tmpfiles:0
