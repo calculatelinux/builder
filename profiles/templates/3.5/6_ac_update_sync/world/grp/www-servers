@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!tomcat:0
+!!tomcat:7
 !!tornado:0
 #in#
 
