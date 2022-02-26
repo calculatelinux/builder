@@ -3,4 +3,9 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!nxml-svg-schemas:1.1
+!!jde:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+jde
 #in#
