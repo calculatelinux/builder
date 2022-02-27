@@ -9,6 +9,7 @@ dev-util/ccache
 !!android-sdk-update-manager:0
 !!android-studio:0
 !!catalyst:0
+!!checkstyle:0
 !!cmake-fedora:0
 !!colm:0
 !!git-delta:0
@@ -37,4 +38,8 @@ pkgconf
 ply
 # depend for mutter
 gdbus-codegen
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+checkstyle
 #in#
