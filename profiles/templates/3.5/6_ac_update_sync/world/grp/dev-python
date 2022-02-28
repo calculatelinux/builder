@@ -34,6 +34,7 @@ zeep
 !!memory_profiler:0
 !!progressbar2:0
 !!pycryptodome:0
+!!pyilmbase:0
 !!pyls-spyder:0
 !!pymssql:0
 !!pypy3-exe-bin:7.3.7
