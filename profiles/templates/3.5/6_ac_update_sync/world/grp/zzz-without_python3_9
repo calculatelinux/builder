@@ -2,9 +2,5 @@
 !dev-python/backports-tempfile:0
 !dev-python/backports-weakref:0
 !dev-python/backports-zoneinfo:0
-!dev-python/configshell-fb:0
 !dev-python/importlib_resources:0
-!dev-python/rtslib-fb:0
 !dev-python/SaltTesting:0
-!dev-util/gertty:0
-!sys-block/targetcli-fb:0
