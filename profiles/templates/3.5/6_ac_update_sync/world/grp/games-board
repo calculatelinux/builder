@@ -7,9 +7,14 @@ gnugo
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
+!!chessx:0
 # large packages
 #906M
 !!tablebase-syzygy:0
 # need to download
 !!tablebase-syzygy:nofetch
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+chessx
 #in#
