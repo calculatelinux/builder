@@ -4,7 +4,4 @@
 #-world(#-cl_pass_file-#)-#
 # need to download
 !!procheck:0
-
-# not compiled
-!!openbabel-perl:0
 #in#

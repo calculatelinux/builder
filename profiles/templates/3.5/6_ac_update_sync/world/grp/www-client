@@ -10,7 +10,8 @@ firefox
 !!epiphany:0
 !!firefox:esr
 # already binary
-!!firefox-bin:0
+!!firefox-bin:esr
+!!firefox-bin:rapid
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
