@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!brltty:0
 !!espeak-ng:0
+!!espeakup:0
 !!orca:0
 !!speechd-el:0
 !!speech-dispatcher:0
@@ -12,6 +13,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 brltty
 espeak-ng
+espeakup
 orca
 speechd-el
 speech-dispatcher
