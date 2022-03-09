@@ -7,11 +7,16 @@ nvidia_video_sdk
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!avidemux:0
 !!bino:0
 !!dvdrip:0
 !!kaffeine:5
 !!nvidia-video-codec:0
 !!nvidia_video_sdk:0
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+avidemux
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
