@@ -24,3 +24,6 @@ net-analyzer/zabbix frontend postgres server
 media-sound/pulseaudio alsa-plugin
 media-plugins/alsa-plugins pulseaudio
 media-video/pipewire -pipewire-alsa
+
+# exactly-one-of ( git gitea gitolite )
+acct-user/git gitolite
