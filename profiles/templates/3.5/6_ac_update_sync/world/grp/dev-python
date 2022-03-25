@@ -38,7 +38,7 @@ zeep
 !!pyls-spyder:0
 !!pymssql:0
 !!pypy3-exe-bin:7.3.7
-!!pypy-exe-bin:7.3.6
+!!pypy-exe-bin:7.3.8
 !!pysvn:0
 !!pytest-ordering:0
 !!python-lsp-black:0
