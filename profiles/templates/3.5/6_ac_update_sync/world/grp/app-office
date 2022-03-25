@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CBB)!=#
 # width USE="kde java"
-libreoffice
+#libreoffice
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
