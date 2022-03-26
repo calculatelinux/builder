@@ -16,9 +16,6 @@
 !!telnet-bsd:0
 !!yt-dlp:0
 
-# not compiled
-!!realtek-r8152:0
-
 # need to download
 !!icaclient:0
 #in#
