@@ -12,7 +12,7 @@ kimap2
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-!!NativeThread:0
+NativeThread
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
