@@ -16,6 +16,7 @@
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+ejabberd
 gajim
 sendxmpp-amm
 telegram-desktop
