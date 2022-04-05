@@ -13,8 +13,7 @@ exim
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-# not compiled
-#sendmail
+postfix
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

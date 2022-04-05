@@ -13,6 +13,10 @@ cyrus-imapd
 mu
 #in#
 
+#?in(os_linux_pkglist, CB4)!=#
+dovecot
+#in#
+
 #?in(os_linux_pkglist, CBS)!=#
 dovecot
 #in#
