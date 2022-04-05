@@ -27,3 +27,10 @@ media-video/pipewire -pipewire-alsa
 
 # exactly-one-of ( git gitea gitolite )
 acct-user/git gitolite
+
+# build without ldap
+mail-mta/postfix
+net-dns/bind
+net-im/ejabberd
+net-mail/dovecot
+net-proxy/squid
