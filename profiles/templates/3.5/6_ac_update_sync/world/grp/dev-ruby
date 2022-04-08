@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!gruff:0
+!!nokogiri-diff:0
 !!rrdtool-bindings:0
 !!sparklines:0
 #in#
