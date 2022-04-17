@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!argp-standalone:0
-!!e2fsprogs-libs:0
 !!fts-standalone:0
 !!llvm-libunwind:0
 !!musl:0
