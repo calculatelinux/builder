@@ -2,11 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!assistant:0
-!!linguist:0
-!!pixeltool:0
-!!qdbus:0
-!!qdbusviewer:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
