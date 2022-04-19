@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 networkmanager-fortisslvpn
 networkmanager-l2tp
-networkmanager-libreswan
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
