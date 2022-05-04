@@ -37,9 +37,7 @@ zeep
 !!pycryptodome:0
 !!pyilmbase:0
 !!pyls-spyder:0
-!!pypy3-exe-bin:3.9-7.3.8
 !!pypy3-exe-bin:3.9-7.3.9
-!!pypy-exe-bin:7.3.8
 !!pypy-exe-bin:7.3.9
 !!pysvn:0
 !!pytest-ordering:0
