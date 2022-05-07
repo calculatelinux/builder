@@ -19,6 +19,7 @@ pluma
 
 # not compiled
 !!levee:0
+!!nomacs:23
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
