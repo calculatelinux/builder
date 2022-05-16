@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 kaffeine
-nvidia_video_sdk
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -12,7 +11,6 @@ nvidia_video_sdk
 !!dvdrip:0
 !!kaffeine:5
 !!nvidia-video-codec:0
-!!nvidia_video_sdk:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
