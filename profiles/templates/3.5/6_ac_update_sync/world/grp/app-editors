@@ -18,6 +18,7 @@ pluma
 !!pluma:0
 
 # not compiled
+!!emacs:23
 !!levee:0
 #in#
 

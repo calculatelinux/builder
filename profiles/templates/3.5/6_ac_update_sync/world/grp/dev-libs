@@ -21,6 +21,7 @@ sink
 !libressl:0
 !!mongo-c-driver:0
 !!opencl-icd-loader:0
+!!OpenNI:0
 !!tre:0
 !!xapian-bindings:0
 

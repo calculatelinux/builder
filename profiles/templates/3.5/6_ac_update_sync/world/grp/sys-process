@@ -8,6 +8,7 @@ iotop-c
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!bcron:0
+!!below:0
 !!cronie:0
 !!dcron:0
 !!iotop-c:0
