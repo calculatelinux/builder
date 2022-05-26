@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!gnome-contacts:0
-!!gnome-documents:0
 !!gnome-logs:0
 !!office-runner:0
 #in#
