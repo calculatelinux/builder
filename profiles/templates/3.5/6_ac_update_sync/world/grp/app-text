@@ -13,6 +13,8 @@
 !!zathura-pdf-mupdf:0
 
 !!cedilla:0
+# not compiled
+!!ronn:0
 # EULA
 !fdftk:0
 #in#
