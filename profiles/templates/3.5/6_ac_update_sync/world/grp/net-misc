@@ -29,7 +29,6 @@ yt-dlp
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
 dhcp
-frr
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
