@@ -5,7 +5,6 @@
 !!grub-xen-host:0
 
 # not compiled
-!!wine-staging:7.6
 !!wine-staging:7.7
 #in#
 
