@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!ceph:0
 !!mpich:0
 !!torque:0
 #in#

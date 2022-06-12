@@ -8,8 +8,9 @@ unrealircd
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!quassel:0
+!!epic5:0
 !!konversation:5
+!!quassel:0
 !!unrealircd:0
 
 # not compiled
