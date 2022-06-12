@@ -32,7 +32,6 @@ media-sound/audacious
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-cadence
 csound
 deadbeef
 #in#
