@@ -6,7 +6,3 @@
 # need to download
 !!procheck:0
 #in#
-
-#?in(os_linux_pkglist, CB4)!=#
-votca
-#in#
