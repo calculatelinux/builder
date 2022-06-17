@@ -22,6 +22,7 @@ zabbix
 #?in(os_linux_pkglist, CBS)!=#
 ettercap
 mtr
+wireshark
 # временно, пока отличается отсутствием python3.7
 speedtest-cli
 #in#
