@@ -13,7 +13,6 @@ pluma
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!ee:0
-!!ghex:2
 !!kile:5
 !!okteta:5
 !!pluma:0
