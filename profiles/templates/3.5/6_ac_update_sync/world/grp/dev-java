@@ -10,6 +10,7 @@ sbt-bin
 !!sbt-bin:0
 
 # not compiled
+!!logback-classic:0
 !!reflections:0
 
 # need to download
