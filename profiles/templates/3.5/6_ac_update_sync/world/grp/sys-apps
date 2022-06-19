@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!apmd:0
 !!calculate-server:0
-!!firejail-lts:0
 !!gentoo-systemd-integration:0
 !!plocate:0
 !!s6-linux-init:0
@@ -17,7 +16,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 calculate-access
-firejail-lts
 plocate
 utempter
 #in#
