@@ -1,13 +1,8 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-kfoldersync
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!burp:0
-!!kfoldersync:5
 
 !!backuppc:0
 # not compiled
