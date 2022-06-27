@@ -11,8 +11,6 @@ gnugo
 # large packages
 #906M
 !!tablebase-syzygy:0
-# need to download
-!!tablebase-syzygy:nofetch
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
