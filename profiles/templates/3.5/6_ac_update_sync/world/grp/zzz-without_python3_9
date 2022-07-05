@@ -1,6 +1,0 @@
-# Calculate name=world format=world
-!dev-python/backports-tempfile:0
-!dev-python/backports-weakref:0
-!dev-python/backports-zoneinfo:0
-!dev-python/importlib_resources:0
-!dev-python/SaltTesting:0

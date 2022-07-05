@@ -1,0 +1,16 @@
+# Calculate name=world format=world
+!dev-python/backports-tempfile:0
+!dev-python/backports-weakref:0
+!dev-python/backports-zoneinfo:0
+!dev-python/eventlet:0
+!dev-python/importlib_resources:0
+!dev-python/kombu:0
+!dev-python/logbook:0
+!dev-python/oct2py:0
+!dev-python/pygame_sdl2:0
+!dev-python/pytest-salt:0
+!dev-python/SaltTesting:0
+!dev-python/tvdb_api:0
+!dev-python/webassets:0
+!dev-python/ws4py:0
+!media-tv/tvnamer:0
