@@ -7,6 +7,7 @@
 !!evoluspencil:0
 !!freecad:0
 !!hugin:0
+!!imv:0
 !!iscan:0
 !!iscan-plugin-gt-f720:0
 !!mcomix:0
@@ -20,6 +21,7 @@
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+imv
 iscan
 raw-thumbnailer
 #in#
