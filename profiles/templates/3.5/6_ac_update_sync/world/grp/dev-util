@@ -19,7 +19,6 @@ dev-util/ccache
 !!pkgconf:0
 !!ply:0
 !!ragel:0
-!!rebar-bin:0
 !!rpmdevtools:0
 !!stubgen:0
 
