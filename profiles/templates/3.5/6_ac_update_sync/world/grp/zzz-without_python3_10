@@ -25,7 +25,7 @@
 !dev-python/ws4py:0
 !dev-util/comparator:0
 !dev-util/gertty:0
-!dev-util/kdevelop-python:0
+!dev-util/kdevelop-python:5
 !mail-filter/afew:0
 !mate-extra/caja-hide:0
 !media-tv/tvnamer:0
