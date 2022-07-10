@@ -16,6 +16,8 @@ networkmanager-vpnc
 !!networkmanager-strongswan:0
 !!strongswan:0
 !!wireguard-modules:0
+# not compiled
+!!i2p:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
