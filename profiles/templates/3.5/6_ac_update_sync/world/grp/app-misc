@@ -9,6 +9,7 @@ xorg-meta
 !!geneweb:0
 !!glcdprocdriver:0
 !!graphlcd-base:0
+!!lcdproc:0
 !!livecd-tools:0
 !!realpath:0
 !!vlock:0
