@@ -6,6 +6,7 @@
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
+kalendar
 kexi
 kmymoney
 libalkimia
@@ -17,6 +18,7 @@ skrooge
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!calligra:5
+!!kalendar:5
 !!kexi:5
 !!kmymoney:5
 !!ledger:0
