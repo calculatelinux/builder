@@ -29,3 +29,6 @@ acct-user/git gitolite -gitea
 
 # required by media-sound/pulseaudio-daemon-16.0-r1
 media-plugins/alsa-plugins pulseaudio
+
+# media-video/pipewire[sound-server(+)] ("media-video/pipewire[sound-server(+)]" is soft blocking media-sound/pulseaudio-daemon-16.1)
+media-video/pipewire -sound-server -pipewire-alsa
