@@ -17,7 +17,6 @@ iotop-c
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-cpu-x
 cronie
 psmisc
 # временно, пока отличается отсутствием python3.7
