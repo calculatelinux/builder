@@ -9,8 +9,13 @@ kpathsea
 sink
 #in#
 
+#?in(os_linux_pkglist, CB2)!=#
+libmemcached-awesome
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!libmemcached-awesome:0
 !!sink:5
 !!tvision:0
 
