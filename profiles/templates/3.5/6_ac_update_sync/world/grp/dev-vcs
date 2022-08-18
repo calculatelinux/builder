@@ -1,11 +1,8 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
-gitolite-gentoo
-#in#
-
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!gitolite:0
 !!gitolite-gentoo:0
 #in#
 

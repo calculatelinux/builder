@@ -25,9 +25,6 @@ media-sound/pulseaudio alsa-plugin
 media-plugins/alsa-plugins pulseaudio
 media-video/pipewire -pipewire-alsa
 
-# exactly-one-of ( git gitea gitolite )
-acct-user/git -gitea gitolite
-
 # build without ldap
 mail-mta/postfix -ldap
 net-dns/bind -ldap
