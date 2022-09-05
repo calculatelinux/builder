@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!ansible-base:0
 !!fam:0
 !!gopass-hibp:0
 !!logsentry:0
@@ -18,7 +17,6 @@ logsentry
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-ansible-base
 puppet-agent
 puppetserver
 #in#
