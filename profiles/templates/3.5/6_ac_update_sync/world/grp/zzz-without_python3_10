@@ -1,11 +1,9 @@
 # Calculate name=world format=world
 !app-arch/bloscpack:0
 !app-backup/borgweb:0
-!app-i18n/ibus-pinyin:0
 !app-misc/tmux2html:0
 !app-portage/distpatch:0
 !app-portage/g-octave:0
-!app-portage/grs:0
 !app-vim/pydiction:0
 !app-vim/vimoutliner:0
 !dev-python/backports-tempfile:0
@@ -15,20 +13,16 @@
 !dev-python/importlib_resources:0
 !dev-python/kombu:0
 !dev-python/logbook:0
-!dev-python/logbook:0
 !dev-python/oct2py:0
-!dev-python/pygame_sdl2:0
-!dev-python/pytest-salt:0
+!dev-python/pkgutil_resolve_name:0
 !dev-python/SaltTesting:0
 !dev-python/tvdb_api:0
 !dev-python/webassets:0
 !dev-python/ws4py:0
 !dev-util/comparator:0
-!dev-util/gertty:0
 !dev-util/kdevelop-python:5
 !mail-filter/afew:0
 !mate-extra/caja-hide:0
 !media-tv/tvnamer:0
 !net-analyzer/carl:0
-!sci-electronics/klayout:0
 !sci-physics/lhapdf:0
