@@ -15,11 +15,13 @@
 !dev-python/logbook:0
 !dev-python/oct2py:0
 !dev-python/pkgutil_resolve_name:0
+!dev-python/pytest-salt:0
 !dev-python/SaltTesting:0
 !dev-python/tvdb_api:0
 !dev-python/webassets:0
 !dev-python/ws4py:0
 !dev-util/comparator:0
+!dev-util/gertty:0
 !dev-util/kdevelop-python:5
 !mail-filter/afew:0
 !mate-extra/caja-hide:0
