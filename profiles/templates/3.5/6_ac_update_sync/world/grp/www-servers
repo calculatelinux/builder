@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!nginx:mainline
 !!tomcat:10
-!!tomcat:7
 !!tomcat:8.5
 !!tomcat:9
 #in#
