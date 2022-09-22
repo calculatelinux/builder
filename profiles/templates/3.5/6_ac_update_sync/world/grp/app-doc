@@ -6,5 +6,6 @@ pms-bin
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!kicad-doc:0
 !!pms-bin:0
 #in#
