@@ -1,0 +1,6 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CB1)!=#
+#-world(#-cl_pass_file-#)-#
+!!profile-sync-daemon:0
+#in#
