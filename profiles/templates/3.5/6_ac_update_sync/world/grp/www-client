@@ -3,12 +3,14 @@
 #?in(os_linux_pkglist, CB3)!=#
 epiphany
 firefox
+microsoft-edge
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!epiphany:0
 !!firefox:esr
+!!microsoft-edge:0
 # already binary
 !!firefox-bin:esr
 !!firefox-bin:rapid
