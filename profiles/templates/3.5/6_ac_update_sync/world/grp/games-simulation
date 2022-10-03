@@ -3,6 +3,4 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!singularity:0
-# not compiled
-!!bcs-demo:0
 #in#
