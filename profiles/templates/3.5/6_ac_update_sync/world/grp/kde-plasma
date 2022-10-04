@@ -2,5 +2,5 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!kwayland-server:0
+!!kwayland-server:5
 #in#
