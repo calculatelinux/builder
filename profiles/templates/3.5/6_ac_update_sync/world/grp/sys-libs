@@ -7,5 +7,6 @@
 !!llvm-libunwind:0
 !!obstack-standalone:0
 !!queue-standalone:0
+!!rpmatch-standalone:0
 #in#
 

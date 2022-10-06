@@ -10,7 +10,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 nginx:mainline
-tornado
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
