@@ -14,6 +14,7 @@
 !dev-python/kombu:0
 !dev-python/logbook:0
 !dev-python/oct2py:0
+!dev-python/pathlib2:0
 !dev-python/pkgutil_resolve_name:0
 !dev-python/pytest-salt:0
 !dev-python/SaltTesting:0
