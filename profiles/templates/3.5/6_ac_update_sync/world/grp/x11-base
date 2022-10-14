@@ -2,9 +2,11 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 xorg-apps
+xorg-fonts
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!xorg-apps:0
+!!xorg-fonts:0
 #in#
