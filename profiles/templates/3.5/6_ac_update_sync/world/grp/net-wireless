@@ -4,8 +4,13 @@
 #-world(#-cl_pass_file-#)-#
 !!gnome-bluetooth:2
 !!rfkill:0
+!!unifi:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 gnome-bluetooth
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+unifi
 #in#
