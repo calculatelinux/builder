@@ -1,11 +1,13 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB2)!=#
+elixir
 scala-bin
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!elixir:0
 !!gnat-gpl:10
 !!gnat-gpl:9.3.1
 !!scala-bin:0

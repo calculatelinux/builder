@@ -23,6 +23,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 electrum
 owncloud-client
+rabbitmq-server
 telnet-bsd
 yt-dlp
 #in#
