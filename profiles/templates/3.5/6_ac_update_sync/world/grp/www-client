@@ -12,6 +12,7 @@ microsoft-edge
 !!firefox:esr
 !!microsoft-edge:0
 # already binary
+!!chromium-bin:0
 !!firefox-bin:esr
 !!firefox-bin:rapid
 #in#
