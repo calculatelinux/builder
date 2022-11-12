@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!nginx:mainline
+!!tomcat:10.1
 !!tomcat:10
 !!tomcat:8.5
 !!tomcat:9
