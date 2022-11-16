@@ -2,12 +2,13 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!courier-pythonfilter:0
 !!libsieve:0
 !!libsrs_alt:0
 !!maildrop:0
 !!policyd-weight:0
 !!rblcheck:0
-!!courier-pythonfilter:0
+!!rspamd:0
 
 # not compiled
 !!mailfilter:0
