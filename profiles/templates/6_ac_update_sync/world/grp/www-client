@@ -11,6 +11,7 @@ microsoft-edge
 !!epiphany:0
 !!firefox:esr
 !!microsoft-edge:0
+!!seamonkey:0
 # already binary
 !!chromium-bin:0
 !!firefox-bin:esr
