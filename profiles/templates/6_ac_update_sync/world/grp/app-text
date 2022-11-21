@@ -20,7 +20,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-agrep
 zathura-pdf-mupdf
 #in#
 
