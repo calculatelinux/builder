@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!agrep:0
 !!calibre:0
 !!epspdf:0
 !!hd2u:0

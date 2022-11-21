@@ -20,7 +20,6 @@ dev-util/ccache
 !!ply:0
 !!ragel:0
 !!rpmdevtools:0
-!!stubgen:0
 
 # not compiled
 !!bazel:0
@@ -30,7 +29,6 @@ dev-util/ccache
 #?in(os_linux_pkglist, CB2)!=#
 catalyst
 colm
-stubgen
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
