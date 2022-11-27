@@ -8,6 +8,7 @@ dev-util/ccache
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
+!!b2:0
 !!catalyst:0
 !!cmake-fedora:0
 !!colm:0
@@ -27,6 +28,7 @@ dev-util/ccache
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+b2
 catalyst
 colm
 #in#
