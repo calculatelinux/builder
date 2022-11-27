@@ -28,7 +28,6 @@ dev-util/ccache
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-boost-build
 catalyst
 colm
 #in#
