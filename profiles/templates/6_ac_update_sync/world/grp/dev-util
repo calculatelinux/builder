@@ -8,7 +8,6 @@ dev-util/ccache
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
-!!boost-build:0
 !!catalyst:0
 !!cmake-fedora:0
 !!colm:0
