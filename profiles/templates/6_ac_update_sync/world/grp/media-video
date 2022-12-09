@@ -10,7 +10,6 @@ kaffeine
 !!bino:0
 !!dvdrip:0
 !!kaffeine:5
-!!nvidia-video-codec:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

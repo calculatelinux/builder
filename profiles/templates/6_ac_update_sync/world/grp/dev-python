@@ -34,8 +34,8 @@ zeep
 !!progressbar2:0
 !!pycryptodome:0
 !!pyls-spyder:0
-!!pypy3-exe-bin:3.9-7.3.9
-!!pypy-exe-bin:7.3.9
+!!pypy3-exe-bin:3.9-7.3.10
+!!pypy-exe-bin:7.3.10
 !!pysvn:0
 !!pytest-ordering:0
 !!python-lsp-black:0
