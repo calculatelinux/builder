@@ -3,6 +3,4 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !systemd-kcm:5
-# not compiled
-!!kio-locate:5
 #in#

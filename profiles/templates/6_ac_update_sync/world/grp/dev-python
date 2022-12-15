@@ -48,10 +48,6 @@ zeep
 !!utidylib:0
 !!zeep:0
 !!zstd:0
-
-# not compiled
-!!mpi4py:0
-!!versioneer:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

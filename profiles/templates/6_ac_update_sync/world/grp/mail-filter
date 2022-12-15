@@ -9,9 +9,6 @@
 !!policyd-weight:0
 !!rblcheck:0
 !!rspamd:0
-
-# not compiled
-!!mailfilter:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

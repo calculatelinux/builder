@@ -5,8 +5,6 @@
 !!opensm:0
 !!perftest:0
 !!qperf:0
-# not compiled
-!libehca:3.12
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
