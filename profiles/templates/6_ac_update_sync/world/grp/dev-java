@@ -9,10 +9,6 @@ sbt-bin
 !!jython:2.7
 !!sbt-bin:0
 
-# not compiled
-!!logback-classic:0
-!!reflections:0
-
 # need to download
 !!bndlib:0
 !!jackrabbit-webdav:0

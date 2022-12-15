@@ -17,9 +17,4 @@ parmetis
 !!suitesparse:0
 !!vtk:0
 !!xdmf2:0
-
-# not compiled
-!!libdap:0
-!!linux-gpib:0
-!!linux-gpib-modules:0
 #in#
