@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!gnome-bluetooth:2
-!!rfkill:0
 !!unifi:0
 #in#
 
