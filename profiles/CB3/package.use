@@ -32,3 +32,6 @@ media-sound/pulseaudio jack
 
 # required by games-util/game-device-udev-rules-20201228
 sys-auth/elogind acl
+
+# required by gnome-base/gnome-control-center-43.1
+media-libs/libcanberra sound
