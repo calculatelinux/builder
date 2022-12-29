@@ -9,7 +9,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 calculate-icon-theme
-claws-mail-theme-papirus
 papirus-libreoffice-theme
 papirus-smplayer-theme
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+claws-mail-theme-papirus
 #in#
