@@ -2,12 +2,14 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!claws-mail-theme-papirus:0
 !!papirus-libreoffice-theme:0
 !!papirus-smplayer-theme:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 calculate-icon-theme
+claws-mail-theme-papirus
 papirus-libreoffice-theme
 papirus-smplayer-theme
 #in#
