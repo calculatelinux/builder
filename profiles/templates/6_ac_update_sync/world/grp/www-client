@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+roundcube
+#in#
+
 #?in(os_linux_pkglist, CB3)!=#
 epiphany
 firefox
@@ -11,6 +15,7 @@ microsoft-edge
 !!epiphany:0
 !!firefox:esr
 !!microsoft-edge:0
+!!roundcube:0
 !!seamonkey:0
 # already binary
 !!chromium-bin:0
