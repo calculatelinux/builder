@@ -2,14 +2,9 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!nginx:mainline
 !!tomcat:10.1
 !!tomcat:8.5
 !!tomcat:9
-#in#
-
-#?in(os_linux_pkglist, CB3)!=#
-nginx:mainline
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
