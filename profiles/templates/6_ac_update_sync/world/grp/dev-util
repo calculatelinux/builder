@@ -8,6 +8,7 @@ dev-util/ccache
 #-world(#-cl_pass_file-#)-#
 !!android-sdk-update-manager:0
 !!android-studio:0
+!!bear:0
 !!catalyst:0
 !!cmake-fedora:0
 !!colm:0
@@ -33,6 +34,7 @@ colm
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+bear
 cpptest:1
 git-delta
 pkgconf
