@@ -3,10 +3,15 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!Apache-Gallery:0
+!!chromedriver-bin:0
 !!icingaweb2:0
 !!icingaweb2-module-director:0
 !!icingaweb2-module-graphite:0
 !!icingaweb2-module-pnp4nagios:0
 # big size
 !!zeppelin-bin:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+chromedriver-bin
 #in#
