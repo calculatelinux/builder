@@ -6,11 +6,4 @@
 !!nokogiri-diff:0
 !!rrdtool-bindings:0
 !!sparklines:0
-
-# ruby2.6 deps
-!!actionpack:5.2
-!!actionview:5.2
-!!activemodel:5.2
-!!activesupport:5.2
-!!railties:5.2
 #in#
