@@ -2,9 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!tomcat:10.1
-!!tomcat:8.5
-!!tomcat:9
+!!tomcat:*
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
