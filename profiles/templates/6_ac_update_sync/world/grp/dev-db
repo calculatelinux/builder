@@ -7,16 +7,10 @@ tinycdb
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-mysql:5.7
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!mariadb:10.3
-!!mariadb:10.4
-!!mariadb:10.5
-!!mysql:5.7
-!!mysql:8.0
+!!mariadb:*
+mariadb
+!!mysql:*
 !!mysql-connector-c:0
 !!mytop:0
 !!tinycdb:0
