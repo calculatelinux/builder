@@ -2,4 +2,9 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!CPAN:0
+!!Encode:0
+!!Scalar-List-Utils:0
+!!Text-Tabs+Wrap:0
+!!Unicode-Collate:0
 #in#
