@@ -21,6 +21,7 @@ dev-util/ccache
 !!ply:0
 !!ragel:0
 !!rpmdevtools:0
+!!sysdig:0
 
 # not compiled
 !!bazel:0
