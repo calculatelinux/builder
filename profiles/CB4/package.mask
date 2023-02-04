@@ -1,4 +1,0 @@
-#>=sys-kernel/calculate-sources-5
-
-# for x11-drivers/nvidia-drivers-470.129.06
->=gui-libs/egl-wayland-1.1.11
