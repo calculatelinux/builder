@@ -16,6 +16,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 calculate-access
+calculate-toolkit
 plocate
 utempter
 #in#
