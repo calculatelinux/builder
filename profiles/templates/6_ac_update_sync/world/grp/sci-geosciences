@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!gmt:6
 !!qgis:0
 !!qmapshack:0
 #in#
