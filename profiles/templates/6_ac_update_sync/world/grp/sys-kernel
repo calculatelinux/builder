@@ -11,6 +11,7 @@ sys-kernel/calculate-sources
 sys-kernel/dracut
 sys-kernel/fake-sources
 sys-kernel/genkernel
+sys-kernel/gentoo-kernel-bin
 sys-kernel/installkernel-gentoo
 sys-kernel/kergen
 sys-kernel/linux-firmware
