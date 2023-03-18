@@ -21,6 +21,9 @@ dev-util/ccache
 !!ply:0
 !!ragel:0
 !!rpmdevtools:0
+!!shellcheck:0
+!!shellcheck-bin:0
+!!shelltestrunner:0
 !!sysdig:0
 
 # not compiled
@@ -43,3 +46,9 @@ ply
 # depend for mutter
 gdbus-codegen
 #in#
+
+#?in(os_linux_pkglist, CB4)!=#
+shellcheck
+shelltestrunner
+#in#
+

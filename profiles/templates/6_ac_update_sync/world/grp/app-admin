@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!fam:0
 !!gopass-hibp:0
+!!haskell-updater:0
 !!logsentry:0
 !!puppet-agent:0
 !!puppetserver:0
@@ -21,4 +22,8 @@ logsentry
 #?in(os_linux_pkglist, CB3)!=#
 puppet-agent
 puppetserver
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+haskell-updater
 #in#

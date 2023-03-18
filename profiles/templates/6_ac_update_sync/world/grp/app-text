@@ -7,6 +7,8 @@
 !!hd2u:0
 !!krop:0
 !!llpp:0
+!!pandoc:0
+!!pandoc-bin:0
 !!pdfjam:0
 !!sigil:0
 !!trang:0
@@ -23,6 +25,11 @@ zathura-pdf-mupdf
 
 #?in(os_linux_pkglist, CB3)!=#
 sigil
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+hd2u
+pandoc
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

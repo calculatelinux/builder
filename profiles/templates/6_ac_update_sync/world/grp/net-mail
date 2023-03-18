@@ -5,6 +5,8 @@
 !!automx2:0
 !!cyrus-imapd:0
 !!dovecot:0
+!!list-remote-forwards:0
+!!mailbox-count:0
 !!mu:0
 #in#
 
@@ -15,6 +17,8 @@ mu
 
 #?in(os_linux_pkglist, CB4)!=#
 dovecot
+list-remote-forwards
+mailbox-count
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

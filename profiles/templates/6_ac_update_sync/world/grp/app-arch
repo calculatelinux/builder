@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!deb2targz:0
 !!hardlink:0
+!!pack:0
 !!upx:0
 # EULA
 !!stuffit:0
@@ -11,6 +12,10 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 upx
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+pack
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
