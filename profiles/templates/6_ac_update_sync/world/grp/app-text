@@ -28,7 +28,6 @@ sigil
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-hd2u
 pandoc
 #in#
 
