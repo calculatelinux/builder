@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!git-annex:0
 !!gitolite:0
 !!gitolite-gentoo:0
 #in#
