@@ -11,7 +11,6 @@ audacious-plugins
 !!hdx-realtime-media-engine:0
 # not compiled
 !!vdr-extrecmenu:0
-!!vdr-remotetimers:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
