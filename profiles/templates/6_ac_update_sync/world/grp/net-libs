@@ -9,7 +9,6 @@ kimap2
 !!kimap2:5
 !!libgsasl:0
 !!NativeThread:0
-!!phodav:2.0
 !!ppp-defs:0
 !!xrootd-ceph:0
 #in#
