@@ -2,5 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!man-pages-ru:0
 !!mozc:0
 #in#
