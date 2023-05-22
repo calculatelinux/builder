@@ -13,4 +13,5 @@ blocksruntime
 !!obstack-standalone:0
 !!queue-standalone:0
 !!rpmatch-standalone:0
+!!snapd-glib:0
 #in#
