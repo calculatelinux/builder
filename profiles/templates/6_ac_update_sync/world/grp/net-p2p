@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 ktorrent
+qbittorrent
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
@@ -9,6 +10,7 @@ ktorrent
 !!freenet:0
 !!ktorrent:5
 !!mldonkey:0
+!!qbittorrent:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
