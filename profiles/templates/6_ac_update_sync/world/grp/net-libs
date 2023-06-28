@@ -4,8 +4,13 @@
 kimap2
 #in#
 
+#?in(os_linux_pkglist, CB2)!=#
+dleyna
+#in#
+
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!dleyna:1.0
 !!kimap2:5
 !!libgsasl:0
 !!NativeThread:0
