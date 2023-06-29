@@ -5,10 +5,6 @@
 kpathsea
 #in#
 
-#?in(os_linux_pkglist, CB1)!=#
-sink
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 libmemcached-awesome
 #in#
