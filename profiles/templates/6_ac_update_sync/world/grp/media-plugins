@@ -4,14 +4,9 @@
 audacious-plugins
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
-grilo-plugins
-#in#
-
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!audacious-plugins:0
-!!grilo-plugins:0
 !!gst-transcoder:0
 !!hdx-realtime-media-engine:0
 # not compiled
