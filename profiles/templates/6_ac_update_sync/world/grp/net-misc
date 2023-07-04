@@ -35,7 +35,6 @@ dhcp
 #?in(os_linux_pkglist, CB4)!=#
 haeredes
 hath
-sks
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
