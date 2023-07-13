@@ -8,10 +8,6 @@ nullmailer
 netqmail
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-exim
-#in#
-
 #?in(os_linux_pkglist, CB4)!=#
 postfix
 #in#
