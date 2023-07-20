@@ -10,7 +10,6 @@ dev-util/ccache
 !!android-studio:0
 !!bear:0
 !!bindgen:0
-!!catalyst:0
 !!cmake-fedora:0
 !!colm:0
 !!git-delta:0
@@ -34,7 +33,6 @@ dev-util/ccache
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-catalyst
 colm
 #in#
 
