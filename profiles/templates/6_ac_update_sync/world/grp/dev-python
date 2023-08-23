@@ -15,7 +15,6 @@ django
 jaraco-collections
 jaraco-text
 
-memory_profiler
 progressbar2
 PyQt5
 zeep
@@ -30,7 +29,6 @@ zeep
 !!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
-!!memory_profiler:0
 !!progressbar2:0
 !!pycryptodome:0
 !!pyls-spyder:0
