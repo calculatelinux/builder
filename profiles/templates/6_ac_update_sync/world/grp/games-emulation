@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!dosbox-staging:0
 !!pcsx2:0
+!!ppsspp:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
