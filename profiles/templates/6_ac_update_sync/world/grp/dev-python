@@ -29,7 +29,6 @@ zeep
 !!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
-!!memory-profiler:0
 !!pathlib2:0
 !!progressbar2:0
 !!pycryptodome:0
@@ -48,6 +47,7 @@ zeep
 !!translate-toolkit:0
 !!utidylib:0
 !!zeep:0
+!!zeroconf:0
 !!zstd:0
 # not compiled
 !!mpi4py:0
