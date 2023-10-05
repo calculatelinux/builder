@@ -29,6 +29,7 @@ zeep
 !!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
+!!memory-profiler:0
 !!progressbar2:0
 !!pycryptodome:0
 !!pyls-spyder:0
@@ -49,6 +50,7 @@ zeep
 !!zstd:0
 # not compiled
 !!mpi4py:0
+!!pygresql:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

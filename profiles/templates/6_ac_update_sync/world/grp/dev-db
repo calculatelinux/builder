@@ -14,6 +14,12 @@ mariadb
 !!mysql-connector-c:0
 !!mytop:0
 !!tinycdb:0
+# not compiled
+!!mysql-workbench:0
+!!pgpool2:0
+!!pgrouting:0
+!!pgtap:0
+!!slony1:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

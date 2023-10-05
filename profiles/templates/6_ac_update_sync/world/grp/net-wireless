@@ -2,6 +2,8 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!broadcom-sta:0
+!!rtl8821cu:0
 !!unifi:0
 #in#
 

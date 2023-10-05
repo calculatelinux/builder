@@ -18,6 +18,8 @@
 !!tuxpaint-stamps:0
 # not compiled
 !!raw-thumbnailer:0
+!!blender:3.3
+!!blender:3.4
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#

@@ -13,6 +13,7 @@ bcg729
 # not compiled
 !!allegro:0
 !!osl:0
+!!wxsvg:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
