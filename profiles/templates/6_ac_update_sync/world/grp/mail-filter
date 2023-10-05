@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!afew:0
 !!courier-pythonfilter:0
 !!libsieve:0
 !!libsrs_alt:0

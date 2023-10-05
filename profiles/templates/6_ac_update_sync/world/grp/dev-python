@@ -31,6 +31,7 @@ zeep
 !!jaraco-text:0
 !!pathlib2:0
 !!progressbar2:0
+!!pychromecast:0
 !!pycryptodome:0
 !!pyls-spyder:0
 !!pypy3_10-exe-bin:*
