@@ -30,6 +30,7 @@ zeep
 !!jaraco-collections:0
 !!jaraco-text:0
 !!memory-profiler:0
+!!pathlib2:0
 !!progressbar2:0
 !!pycryptodome:0
 !!pyls-spyder:0
