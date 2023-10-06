@@ -26,7 +26,6 @@ media-sound/audacious
 !!jack-audio-connection-kit:0
 !!kid3:5
 !!musique:0
-!!teamspeak-client:0
 
 # is blocking
 !!apulse:0
