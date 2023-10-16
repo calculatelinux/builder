@@ -8,10 +8,7 @@ kaffeine
 #-world(#-cl_pass_file-#)-#
 !!avidemux:2.7
 !!bino:0
-!!dvd9to5:0
-!!dvdrip:0
 !!kaffeine:5
-!!transcode:0
 # not compiled
 !!motion:0
 !!noad:0
