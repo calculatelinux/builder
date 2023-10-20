@@ -8,6 +8,8 @@ gnugo
 #-world(#-cl_pass_file-#)-#
 !!gnugo:0
 !!chessx:0
+# not compiled
+!!cockatrice:0
 # large packages
 #906M
 !!tablebase-syzygy:0
