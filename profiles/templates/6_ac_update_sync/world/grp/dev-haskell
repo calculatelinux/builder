@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 # not compiled
 !!cabal-install:0
+!!git-lfs:0
 #in#
