@@ -5,6 +5,8 @@
 !!git-annex:0
 !!gitolite:0
 !!gitolite-gentoo:0
+# not compiled
+!!git-repair:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
