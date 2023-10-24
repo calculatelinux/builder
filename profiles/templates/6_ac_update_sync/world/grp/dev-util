@@ -21,7 +21,6 @@ dev-util/ccache
 !!ply:0
 !!ragel:0
 !!rpmdevtools:0
-!!shellcheck:0
 !!shellcheck-bin:0
 !!shelltestrunner:0
 !!sysdig:0
