@@ -28,6 +28,7 @@ dev-util/ccache
 
 # not compiled
 !!bazel:0
+!!bitcoin-tx:0
 !!scap-driver:0
 !!trace-cmd:0
 #in#
