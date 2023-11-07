@@ -10,7 +10,6 @@ dleyna
 !!libgsasl:0
 !!NativeThread:0
 !!ppp-defs:0
-!!xrootd-ceph:0
 # not compiled
 !!libbitcoinconsensus:0
 #in#
