@@ -31,3 +31,6 @@ media-plugins/alsa-plugins pulseaudio
 media-video/pipewire -sound-server -pipewire-alsa
 
 sys-apps/busybox syslog
+
+# required by app-containers/containers-common-0.56.0-r1
+net-firewall/iptables nftables
