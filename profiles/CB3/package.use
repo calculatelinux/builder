@@ -35,3 +35,6 @@ sys-auth/elogind acl
 
 # required by gnome-base/gnome-control-center-43.1
 media-libs/libcanberra sound
+
+# required by app-containers/containers-common-0.56.0-r1
+net-firewall/iptables nftables
