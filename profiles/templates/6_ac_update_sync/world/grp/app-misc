@@ -11,7 +11,6 @@ xorg-meta
 !!graphlcd-base:0
 !!lcdproc:0
 !!livecd-tools:0
-!!realpath:0
 !!vlock:0
 !!xorg-meta:0
 # not compiled
