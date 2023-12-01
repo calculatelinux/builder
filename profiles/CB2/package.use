@@ -31,3 +31,4 @@ media-plugins/alsa-plugins pulseaudio
 media-video/pipewire -sound-server -pipewire-alsa
 
 sys-apps/busybox syslog
+net-firewall/iptables nftables
