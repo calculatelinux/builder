@@ -2,14 +2,14 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!nginx:0
 !!tomcat:*
-!!nginx:mainline
 # not compiled
 !!h2o:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-nginx:mainline
+nginx:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
