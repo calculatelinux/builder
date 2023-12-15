@@ -38,4 +38,5 @@ libreoffice
 
 #?in(os_linux_pkglist, CB4)!=#
 calligra
+libreoffice
 #in#
