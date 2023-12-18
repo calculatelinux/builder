@@ -19,6 +19,7 @@ dev-util/ccache
 !!numdiff:0
 !!pkgconf:0
 !!ply:0
+!!poke:0
 !!ragel:0
 !!rpmdevtools:0
 !!shellcheck:0
