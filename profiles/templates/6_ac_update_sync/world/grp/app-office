@@ -29,6 +29,8 @@ skrooge
 !!libreoffice-bin:0
 !!libreoffice-bin-debug:0
 !!libreoffice-voikko:0
+# not compiled
+!!calligraplan:5
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
