@@ -2,4 +2,5 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!libcmis:0.5
 #in#
