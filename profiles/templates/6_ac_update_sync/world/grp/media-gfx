@@ -11,6 +11,7 @@
 !!iscan-plugin-gt-f720:0
 !!mcomix:0
 !!prusaslicer:0
+!!ueberzugpp:0
 !!wings:0
 !!xli:0
 # migration to another environment is required
@@ -30,6 +31,7 @@ fig2dev
 #?in(os_linux_pkglist, CB3)!=#
 imv
 iscan
+ueberzugpp
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
