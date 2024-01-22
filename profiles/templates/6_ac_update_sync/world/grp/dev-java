@@ -8,6 +8,11 @@ sbt-bin
 #-world(#-cl_pass_file-#)-#
 !!sbt-bin:0
 
+# not compiled
+!!caffeine:0
+!!jdbc-postgresql:0
+!!waffle-jna:0
+
 # need to download
 !!bndlib:0
 !!jackrabbit-webdav:0

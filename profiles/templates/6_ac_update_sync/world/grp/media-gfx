@@ -3,16 +3,18 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!asymptote:0
+!!digikam:5
 !!evoluspencil:0
 !!fig2dev:0
 !!hugin:0
 !!imv:0
-!!iscan:0
 !!iscan-plugin-gt-f720:0
+!!iscan:0
 !!mcomix:0
 !!prusaslicer:0
 !!ueberzugpp:0
 !!wings:0
+!!xfig:0
 !!xli:0
 # migration to another environment is required
 !!graphicsmagick:0
@@ -26,6 +28,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 fig2dev
+xfig
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
