@@ -10,7 +10,6 @@ dev-util/ccache
 !!android-studio:0
 !!bear:0
 !!bindgen:0
-!!cmake-fedora:0
 !!colm:0
 !!git-delta:0
 !!gtk-builder-convert:0
@@ -25,13 +24,9 @@ dev-util/ccache
 !!shellcheck:0
 !!shellcheck-bin:0
 !!shelltestrunner:0
-!!sysdig:0
 
 # not compiled
-!!bazel:0
 !!bitcoin-tx:0
-!!scap-driver:0
-!!trace-cmd:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
