@@ -2,4 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
+!!pysiril:0
+!!siril:0
 #in#
