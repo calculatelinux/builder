@@ -11,5 +11,4 @@ sbt-bin
 # need to download
 !!bndlib:0
 !!jackrabbit-webdav:0
-!!osgi-enterprise-api:0
 #in#
