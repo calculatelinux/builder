@@ -9,7 +9,44 @@ audacious-plugins
 !!audacious-plugins:0
 # not compiled
 !!vdr-extrecmenu:0
-!!kodi-*:0
+!!kodi-audiodecoder-modplug:0
+!!kodi-audiodecoder-nosefart:0
+!!kodi-audiodecoder-snesapu:0
+!!kodi-audiodecoder-stsound:0
+!!kodi-audiodecoder-vgmstream:0
+!!kodi-audioencoder-flac:0
+!!kodi-audioencoder-lame:0
+!!kodi-audioencoder-vorbis:0
+!!kodi-audioencoder-wav:0
+!!kodi-inputstream-adaptive:0
+!!kodi-inputstream-rtmp:0
+!!kodi-peripheral-joystick:0
+!!kodi-pvr-argustv:0
+!!kodi-pvr-demo:0
+!!kodi-pvr-dvblink:0
+!!kodi-pvr-dvbviewer:0
+!!kodi-pvr-filmon:0
+!!kodi-pvr-iptvsimple:0
+!!kodi-pvr-mediaportal-tvserver:0
+!!kodi-pvr-mythtv:0
+!!kodi-pvr-nextpvr:0
+!!kodi-pvr-njoy:0
+!!kodi-pvr-pctv:0
+!!kodi-pvr-stalker:0
+!!kodi-pvr-vbox:0
+!!kodi-pvr-vuplus:0
+!!kodi-pvr-wmc:0
+!!kodi-screensaver-asteroids:0
+!!kodi-screensaver-biogenesis:0
+!!kodi-screensaver-greynetic:0
+!!kodi-screensaver-pingpong:0
+!!kodi-screensaver-pyro:0
+!!kodi-visualization-fishbmc:0
+!!kodi-visualization-goom:0
+!!kodi-visualization-projectm:0
+!!kodi-visualization-shadertoy:0
+!!kodi-visualization-spectrum:0
+!!kodi-visualization-waveform:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
