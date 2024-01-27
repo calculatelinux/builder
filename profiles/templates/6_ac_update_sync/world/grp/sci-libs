@@ -19,4 +19,5 @@ parmetis
 !!xdmf2:0
 # not compiled
 !!cifparse-obj:0
+!!pdal:0
 #in#
