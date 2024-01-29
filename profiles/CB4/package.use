@@ -30,3 +30,7 @@ mail-mta/postfix -ldap
 net-dns/bind -ldap
 net-mail/dovecot -ldap
 net-proxy/squid -ldap
+
+# build for lxc
+# removed unnecessary dependence
+sys-apps/debianutils -installkernel

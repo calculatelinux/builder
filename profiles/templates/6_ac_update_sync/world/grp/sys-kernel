@@ -1,24 +1,37 @@
 # Calculate name=world format=world
 
-# server kernel
+#?in(os_linux_pkglist, CB1)!=#
+installkernel
+#in#
+
+#?in(os_linux_pkglist, CB2)!=#
+installkernel
+#in#
+
+# server kernels
 #?in(os_linux_pkglist, CB3)!=#
 #-world(sys-kernel/calculate-sources)-#
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-sys-kernel/bliss-initramfs
-sys-kernel/calculate-sources
-sys-kernel/dracut
-sys-kernel/fake-sources
-sys-kernel/genkernel
-sys-kernel/gentoo-kernel-bin
-sys-kernel/installkernel-gentoo
-sys-kernel/kergen
-sys-kernel/linux-firmware
-sys-kernel/linux-headers
+bliss-initramfs
+calculate-sources
+dracut
+fake-sources
+genkernel
+gentoo-kernel-bin
+installkernel
+kergen
+linux-firmware
+linux-headers
 #in#
 
-# desktop kernel
+#?in(os_linux_pkglist, CBS)!=#
+installkernel
+#in#
+
+
+# desktop kernels
 #?in(os_linux_pkglist, CBS)!=#
 #-world(sys-kernel/calculate-sources)-#
 #in#
