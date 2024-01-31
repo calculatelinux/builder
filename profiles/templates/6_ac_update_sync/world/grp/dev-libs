@@ -7,12 +7,14 @@ kpathsea
 
 #?in(os_linux_pkglist, CB2)!=#
 libmemcached-awesome
+vectorscan
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!libmemcached-awesome:0
 !!tvision:0
+!!vectorscan:0
 
 # is blocking
 !!libelf:0
