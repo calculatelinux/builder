@@ -26,6 +26,7 @@ zathura-pdf-mupdf
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+calibre
 sigil
 #in#
 
