@@ -13,4 +13,5 @@ wine-vanilla
 #?in(os_linux_pkglist, CBS)!=#
 libvirt
 qemu
+virt-manager
 #in#
