@@ -32,3 +32,6 @@ media-video/pipewire -sound-server -pipewire-alsa
 
 sys-apps/busybox syslog
 net-firewall/iptables nftables
+
+net-vpn/openconnect -gnutls
+
