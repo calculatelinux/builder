@@ -23,6 +23,8 @@
 # not compiled
 !!blender:3.3
 !!blender:3.4
+!!blender:3.5
+!!blender:3.6
 !!raw-thumbnailer:0
 !!renderdoc:0
 !!superslicer:0
