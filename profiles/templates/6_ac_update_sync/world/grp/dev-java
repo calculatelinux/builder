@@ -6,7 +6,6 @@ sbt-bin
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!ant-eclipse-ecj:0
 !!sbt-bin:0
 
 # not compiled
