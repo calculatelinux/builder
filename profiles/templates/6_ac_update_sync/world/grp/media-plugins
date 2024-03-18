@@ -8,7 +8,6 @@ audacious-plugins
 #-world(#-cl_pass_file-#)-#
 !!audacious-plugins:0
 # not compiled
-!!vdr-extrecmenu:0
 !!kodi-audiodecoder-modplug:0
 !!kodi-audiodecoder-nosefart:0
 !!kodi-audiodecoder-snesapu:0
@@ -47,6 +46,8 @@ audacious-plugins
 !!kodi-visualization-shadertoy:0
 !!kodi-visualization-spectrum:0
 !!kodi-visualization-waveform:0
+!!vdr-extrecmenu:0
+!!vdr-remote:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
