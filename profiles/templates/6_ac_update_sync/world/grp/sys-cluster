@@ -6,7 +6,6 @@
 !!mpich:0
 !!torque:0
 # not compiled
-!!galera:0
 !!vzctl:0
 #in#
 
