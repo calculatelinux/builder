@@ -6,6 +6,7 @@ audacious-plugins
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!imlib2_loaders
 # not compiled
 !!vdr-remote:0
 #in#
