@@ -4,6 +4,8 @@
 #-world(#-cl_pass_file-#)-#
 !!arpd:0
 !!electrum:0
+!!freerdp:0
+!!freerdp:3
 !!frr:0
 !!gsasl:0
 !!haeredes:0
