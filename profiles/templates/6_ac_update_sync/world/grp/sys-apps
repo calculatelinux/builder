@@ -23,7 +23,6 @@ utempter
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-keyexec
 yarn
 #in#
 
