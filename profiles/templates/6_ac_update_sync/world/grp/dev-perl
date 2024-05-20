@@ -2,5 +2,11 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+# not compiled
+!!Parallel-Prefork:0
 !!Search-Xapian:0
+!!Signal-Mask:0
+!!Starlet:0
+!!Thread-SigMask:0
+!!Wx:0
 #in#
