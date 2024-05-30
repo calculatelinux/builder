@@ -22,12 +22,12 @@ utempter
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+calculate-access
 yarn
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
 apmd
-calculate-access
 calculate-server
 calculate-utils
 dbus
