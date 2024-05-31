@@ -1,2 +1,3 @@
 USE=""
 FEATURES="getbinpkg buildpkg"
+BINPKG_FORMAT="gpkg"
