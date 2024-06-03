@@ -7,19 +7,11 @@
 #arch		profile_directory				status
 
 # AMD64 Profiles
-amd64		CBB/amd64/20					dev
-amd64		CB1/amd64/20					dev
-amd64		CB2/amd64/20					dev
-amd64		CB3/amd64/20					dev
-amd64		CB4/amd64/20					dev
-amd64		CBS/amd64/20					dev
-
-# x86 Profiles
-x86		CBB/x86/20					dev
-x86		CB1/x86/20					dev
-x86		CB2/x86/20					dev
-x86		CB3/x86/20					dev
-x86		CB4/x86/20					dev
-x86		CBS/x86/20					dev
+amd64		CBB/amd64/23					dev
+amd64		CB1/amd64/23					dev
+amd64		CB2/amd64/23					dev
+amd64		CB3/amd64/23					dev
+amd64		CB4/amd64/23					dev
+amd64		CBS/amd64/23					dev
 
 # vim: set ts=8
