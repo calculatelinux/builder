@@ -30,7 +30,7 @@ dev-util/ccache
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-colm
+#colm
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
