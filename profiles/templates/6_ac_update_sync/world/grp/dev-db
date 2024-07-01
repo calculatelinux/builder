@@ -16,6 +16,7 @@ mariadb
 !!tinycdb:0
 # not compiled
 !!mysql-workbench:0
+!!percona-xtrabackup:0
 !!pgpool2:0
 !!pgrouting:0
 !!pgtap:0

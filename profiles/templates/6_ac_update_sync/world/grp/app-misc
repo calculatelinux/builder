@@ -14,6 +14,7 @@ xorg-meta
 !!vlock:0
 !!xorg-meta:0
 # not compiled
+!!golly:0
 !!vzstats:0
 #in#
 
