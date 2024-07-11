@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!qla-fc-firmware:0
+!!wait-for-dri-devices-rules:0
 # EULA
 !arcconf:0
 !!megacli:0
