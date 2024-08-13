@@ -29,7 +29,6 @@ zeep
 !!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
-!!pathlib2:0
 !!progressbar2:0
 !!pychromecast:0
 !!pycryptodome:0
