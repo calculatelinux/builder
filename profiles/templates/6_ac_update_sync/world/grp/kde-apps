@@ -2,9 +2,5 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!konsolepart:5
 #in#
 
-#?in(os_linux_pkglist, CB4)!=#
-konsolepart
-#in#
