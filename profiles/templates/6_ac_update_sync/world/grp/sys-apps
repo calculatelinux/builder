@@ -9,7 +9,6 @@
 !!s6-linux-init:0
 !!systemd:0
 !!systemd-readahead:0
-!!utempter:0
 !!yarn:0
 #in#
 
@@ -18,7 +17,6 @@ busybox
 calculate-access
 calculate-toolkit
 plocate
-utempter
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
