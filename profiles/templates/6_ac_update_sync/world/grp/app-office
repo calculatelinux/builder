@@ -17,7 +17,6 @@ skrooge
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!calligra:5
 !!kexi:5
 !!kmymoney:5
 !!ledger:0
@@ -39,6 +38,5 @@ libreoffice
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-calligra
 libreoffice
 #in#
