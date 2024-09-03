@@ -11,7 +11,6 @@
 !!iscan:0
 !!iscan-plugin-gt-f720:0
 !!mcomix:0
-!!okularpart:5
 !!prusaslicer:0
 !!ueberzugpp:0
 !!wings:0
@@ -42,7 +41,6 @@ ueberzugpp
 #?in(os_linux_pkglist, CB4)!=#
 evoluspencil
 mcomix
-okularpart
 xli
 #in#
 
