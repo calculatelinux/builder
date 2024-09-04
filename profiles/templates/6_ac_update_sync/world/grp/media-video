@@ -8,7 +8,6 @@
 #-world(#-cl_pass_file-#)-#
 !!avidemux:2.7
 !!bino:0
-!!kaffeine:6
 # not compiled
 !!aegisub:0
 !!celluloid:0

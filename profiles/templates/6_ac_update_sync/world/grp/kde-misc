@@ -2,6 +2,4 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!plasma-pass:5
-!systemd-kcm:5
 #in#

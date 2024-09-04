@@ -13,12 +13,9 @@ libreoffice
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!kexi:6
-!!kmymoney:6
 !!ledger:0
 !!libalkimia:0
 !!merkuro:6
-!!skrooge:6
 !!texstudio:0
 
 !!libreoffice-bin:0

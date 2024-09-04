@@ -8,7 +8,7 @@ qbittorrent
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!freenet:0
-!!ktorrent:5
+!!ktorrent:6
 !!mldonkey:0
 !!qbittorrent:0
 # not compiled
