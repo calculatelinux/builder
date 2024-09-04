@@ -6,7 +6,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB1)!=#
-kexi
 merkuro
 # width USE="kde"
 libreoffice
