@@ -2,7 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 konversation
-quassel
+#quassel
 unrealircd
 #in#
 

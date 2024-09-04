@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!electrum:0
+!!freerdp:2
 !!frr:0
 !!gsasl:0
 !!haeredes:0
@@ -32,6 +33,7 @@ dhcp
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+freerdp
 haeredes
 hath
 #in#
