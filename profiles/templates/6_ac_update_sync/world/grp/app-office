@@ -12,7 +12,6 @@ libalkimia
 merkuro
 # width USE="kde"
 libreoffice
-skrooge
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
