@@ -1,7 +1,7 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-kronometer
+#kronometer
 pcmanfm-qt
 sddm
 #in#
@@ -10,7 +10,7 @@ sddm
 #-world(#-cl_pass_file-#)-#
 !!bumblebee:0
 !!grub2-theme-preview:0
-!!kronometer:5
+!!kronometer:6
 !!notification-daemon:0
 !!pcmanfm-qt:0
 !!primus:0
