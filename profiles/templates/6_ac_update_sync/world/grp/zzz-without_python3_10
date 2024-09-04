@@ -1,10 +1,2 @@
 # Calculate name=world format=world
-!app-admin/salt:0
-!app-vim/gundo:0
 !app-vim/splice:0
-!app-vim/vim-latex:0
-!dev-python/pytest-salt-factories:0
-!dev-python/python-efl:0
-!dev-python/sphinx-testing:0
-!dev-python/sshtunnel:0
-!net-misc/econnman:0
