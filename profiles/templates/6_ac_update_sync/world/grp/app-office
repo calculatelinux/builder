@@ -7,7 +7,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 kexi
-kmymoney
 libalkimia
 merkuro
 # width USE="kde"
