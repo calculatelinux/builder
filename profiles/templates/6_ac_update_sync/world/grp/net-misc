@@ -13,6 +13,7 @@
 !!owncloud-client:0
 !!r8168:0
 !!rabbitmq-server:0
+!!remmina:0
 !!sitecopy:0
 !!sks:0
 !!telnet-bsd:0
@@ -36,6 +37,7 @@ dhcp
 freerdp:3
 haeredes
 hath
+remmina
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
