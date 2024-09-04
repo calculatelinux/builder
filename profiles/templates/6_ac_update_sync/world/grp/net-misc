@@ -8,7 +8,6 @@
 !!gsasl:0
 !!haeredes:0
 !!hath:0
-!!keyexec:0
 !!ntpsec:0
 !!openntpd:0
 !!owncloud-client:0
@@ -23,7 +22,9 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 electrum
+freerdp:3
 owncloud-client
+remmina
 telnet-bsd
 yt-dlp
 # not compiled
@@ -35,11 +36,8 @@ dhcp
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-freerdp:3
 haeredes
 hath
-keyexec
-remmina
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

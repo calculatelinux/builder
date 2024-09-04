@@ -5,6 +5,7 @@
 !!apmd:0
 !!calculate-server:0
 !!gentoo-systemd-integration:0
+!!keyexec:0
 !!plocate:0
 !!s6-linux-init:0
 !!systemd:0
@@ -16,6 +17,7 @@
 busybox
 calculate-access
 calculate-toolkit
+keyexec
 plocate
 #in#
 
