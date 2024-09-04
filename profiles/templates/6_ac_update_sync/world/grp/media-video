@@ -1,14 +1,14 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
-kaffeine
+#kaffeine
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!avidemux:2.7
 !!bino:0
-!!kaffeine:5
+!!kaffeine:6
 # not compiled
 !!motion:0
 !!noad:0
