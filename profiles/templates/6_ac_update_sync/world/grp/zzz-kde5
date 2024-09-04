@@ -1,5 +1,20 @@
 # Calculate name=world format=world
 
+!app-crypt/kencfs-plasma:0
+!app-office/libalkimia:0
+!kde-misc/kio-stash:0
+!media-gfx/flameshot:0
+!net-im/qtox:0
+!net-misc/nextcloud-client:0
+!sci-electronics/qelectrotech:0
+
+!kde-apps/kde-apps-meta:0
+!kde-apps/kdeedu-meta:0
+!kde-apps/kdegraphics-meta:0
+!kde-apps/kdemultimedia-meta:0
+!kde-apps/kdesdk-meta:0
+!kde-apps/kdeutils-meta:0
+
 !app-cdr/dolphin-plugins-mountiso:5
 !app-cdr/isoimagewriter:5
 !app-cdr/kcdemu:5
