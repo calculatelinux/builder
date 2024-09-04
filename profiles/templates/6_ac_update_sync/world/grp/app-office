@@ -7,7 +7,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 kexi
-libalkimia
 merkuro
 # width USE="kde"
 libreoffice
