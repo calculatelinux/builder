@@ -10,7 +10,6 @@ bcg729
 !!ctl:0
 !!esdl:0
 !!opencv:0
-!!phonon-gstreamer:0
 
 # not compiled
 !!allegro:0

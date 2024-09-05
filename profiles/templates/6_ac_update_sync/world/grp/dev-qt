@@ -3,7 +3,3 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 #in#
-
-#?in(os_linux_pkglist, CB2)!=#
-qtnetwork
-#in#
