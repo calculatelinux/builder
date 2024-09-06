@@ -2,7 +2,7 @@
 sys-kernel/calculate-sources fsync
 
 # for CLS
-sys-apps/calculate-utils backup console dbus desktop gpg install -client -minimal -pxe -qt5
+sys-apps/calculate-utils backup console dbus desktop gpg install -client -minimal -pxe -qt6 -qt5
 
 sys-apps/calculate-access server
 

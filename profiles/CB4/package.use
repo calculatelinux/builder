@@ -1,5 +1,5 @@
 # for CCS
-sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt5
+sys-apps/calculate-utils gpg -backup -client -console -dbus -desktop -install -minimal -pxe -qt6 -qt5
 
 dev-lang/php ldap
 
