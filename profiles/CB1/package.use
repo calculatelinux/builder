@@ -8,6 +8,7 @@ net-dns/bind -ldap -sdb-ldap
 net-print/hplip X
 
 dev-qt/qtsql postgres
+dev-qt/qtbase postgres
 
 app-office/libreoffice kde
 
