@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!asymptote:0
-!!digikam:5
 !!evoluspencil:0
 !!fig2dev:0
 !!hugin:0
