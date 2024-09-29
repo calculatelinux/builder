@@ -37,6 +37,7 @@ zeep
 !!pypy-exe-bin:*
 !!pysvn:0
 !!pytest-ordering:0
+!!pytest-qt:0
 !!python-lsp-black:0
 !!python-lsp-server:0
 !!python-poppler-qt5:0

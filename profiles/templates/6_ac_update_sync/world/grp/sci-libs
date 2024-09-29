@@ -17,5 +17,6 @@ libaec
 !!vtk:0
 !!xdmf2:0
 # not compiled
+!!ceres-solver:0
 !!pdal:0
 #in#
