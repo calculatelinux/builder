@@ -8,7 +8,6 @@
 !!hd2u:0
 !!krop:0
 !!llpp:0
-!!pandoc:0
 !!pandoc-bin:0
 !!pdfjam:0
 !!sigil:0
@@ -28,10 +27,6 @@ zathura-pdf-mupdf
 #?in(os_linux_pkglist, CB3)!=#
 calibre
 sigil
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-pandoc
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

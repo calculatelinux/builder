@@ -6,8 +6,6 @@
 !!freerdp:3
 !!frr:0
 !!gsasl:0
-!!haeredes:0
-!!hath:0
 !!ntpsec:0
 !!openntpd:0
 !!owncloud-client:0
@@ -33,11 +31,6 @@ yt-dlp
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
 dhcp
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-haeredes
-hath
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
