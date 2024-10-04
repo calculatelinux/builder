@@ -8,15 +8,8 @@ scala-bin
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!dafny:0
-!!ghc:0
 !!gnat-gpl:10
 !!scala-bin:0
-!!whitespace:0
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-ghc
-whitespace
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
