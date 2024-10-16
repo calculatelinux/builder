@@ -1,9 +1,14 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+xen-tools
+#in#
+
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!cloud-init:0
 !!grub-xen-host:0
+!!xen-tools:0
 # not compiled
 !!punes:0
 #in#
