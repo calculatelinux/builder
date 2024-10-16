@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!cloud-init:0
 !!grub-xen-host:0
+!!xen:0
 !!xen-tools:0
 # not compiled
 !!punes:0
@@ -14,6 +15,7 @@ wine-vanilla
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+xen
 xen-tools
 #in#
 
