@@ -16,7 +16,6 @@ sddm
 !!safeeyes:0
 !!sddm:0
 !!unclutter-xfixes:0
-!!xmobar:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
@@ -25,8 +24,4 @@ notification-daemon
 primus
 unclutter-xfixes
 safeeyes
-#in#
-
-#?in(os_linux_pkglist, CB4)!=#
-xmobar
 #in#

@@ -2,12 +2,8 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!git-annex:0
 !!gitolite:0
 !!gitolite-gentoo:0
-# not compiled
-!!darcs:0
-!!git-repair:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

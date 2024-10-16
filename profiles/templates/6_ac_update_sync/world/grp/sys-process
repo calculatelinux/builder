@@ -17,7 +17,6 @@ daemontools-encore
 !!daemontools-encore:0
 !!dcron:0
 !!iotop-c:0
-!!systemd-cron:0
 !!tiptop:0
 #in#
 

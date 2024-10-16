@@ -2,6 +2,5 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!edk2-ovmf:0
 !!seabios:0
 #in#
