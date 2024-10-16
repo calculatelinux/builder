@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB1)!=#
-xen-tools
-#in#
-
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!cloud-init:0
@@ -15,6 +11,10 @@ xen-tools
 
 #?in(os_linux_pkglist, CB3)!=#
 wine-vanilla
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+xen-tools
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
