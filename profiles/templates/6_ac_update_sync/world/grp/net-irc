@@ -8,7 +8,6 @@ unrealircd
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!epic5:0
 !!konversation:6
 !!quassel:0
 !!unrealircd:0
