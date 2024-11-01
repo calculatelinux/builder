@@ -10,7 +10,6 @@ gnugo
 !!chessx:0
 # not compiled
 !!cockatrice:0
-!!stockfish:0
 # large packages
 #906M
 !!tablebase-syzygy:0
