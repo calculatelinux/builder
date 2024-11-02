@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!gajim:0
-!!sendxmpp-amm:0
 !!sendxmpp-scala:0
 !!signal-desktop-bin:0
 !!spectrum2:0
@@ -20,5 +19,4 @@ telegram-desktop
 
 #?in(os_linux_pkglist, CB4)!=#
 gajim
-sendxmpp-amm
 #in#
