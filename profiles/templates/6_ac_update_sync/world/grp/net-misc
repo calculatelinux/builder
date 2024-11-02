@@ -36,7 +36,6 @@ dhcp
 #?in(os_linux_pkglist, CBS)!=#
 aria2
 curl
-minidlna
 #networkmanager
 openssh
 
