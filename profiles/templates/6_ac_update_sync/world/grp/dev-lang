@@ -9,7 +9,13 @@ scala-bin
 #-world(#-cl_pass_file-#)-#
 !!dafny:0
 !!gnat-gpl:10
+!!regina-rexx:0
+!!ruby:3.1
 !!scala-bin:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+regina-rexx
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

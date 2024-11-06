@@ -4,4 +4,5 @@
 #-world(#-cl_pass_file-#)-#
 !!nxml-svg-schemas:1.1
 !!pinentry:0
+!!quilt-el:0
 #in#
