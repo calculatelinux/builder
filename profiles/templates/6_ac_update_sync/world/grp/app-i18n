@@ -2,20 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!fcitx:4
-!!fcitx-anthy:4
-!!fcitx-chewing:4
-!!fcitx-cloudpinyin:4
-!!fcitx-configtool:4
-!!fcitx-hangul:4
-!!fcitx-libpinyin:4
-!!fcitx-m17n:4
-!!fcitx-qt5:4
-!!fcitx-rime:4
-!!fcitx-sayura:4
-!!fcitx-table-extra:4
-!!fcitx-unikey:4
-!!kcm-fcitx:4-plasma5
 !!man-pages-ru:0
 !!mozc:0
 #in#
