@@ -24,6 +24,10 @@
 !!blender:3.6
 !!renderdoc:0
 !!superslicer:0
+
+!!libimagequant:0
+!!pngquant:0
+!!curtail:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
