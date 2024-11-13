@@ -5,7 +5,6 @@
 jack2
 media-sound/audex
 media-sound/cantata
-media-sound/kid3
 media-sound/musique
 media-sound/cdtool
 # to support gtk3
@@ -23,7 +22,6 @@ media-sound/audacious
 !!frescobaldi:0
 !!jack2:2
 !!jack-audio-connection-kit:0
-!!kid3:0
 !!musique:0
 # not compiled
 !!mpd:0
