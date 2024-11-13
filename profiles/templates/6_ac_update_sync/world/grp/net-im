@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!discord:0
 !!gajim:0
 !!sendxmpp-scala:0
 !!signal-desktop-bin:0
