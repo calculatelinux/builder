@@ -3,9 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 dnspython
 python3-lxc
-QtPy
 translate-toolkit
-txAMQP
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
