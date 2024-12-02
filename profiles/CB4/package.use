@@ -11,9 +11,6 @@ www-client/firefox -pulseaudio
 # need for app-officeext/languagetool-5.0
 app-office/libreoffice java
 
-# required by net-im/telegram-desktop-2.1.20
-#dev-qt/qtgui wayland
-
 # required by net-im/telegram-desktop-2.1.20[gtk]
 x11-libs/gtk+ wayland
 
@@ -34,3 +31,6 @@ net-proxy/squid -ldap
 # build for lxc
 # removed unnecessary dependence
 sys-apps/debianutils -installkernel
+
+# required by net-firewall/firewalld-2.2.1-r1
+net-firewall/nftables xtables
