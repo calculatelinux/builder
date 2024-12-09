@@ -1,8 +1,13 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+amavisd-new
+#in#
+
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!afew:0
+!!amavisd-new:0
 !!courier-pythonfilter:0
 !!libsieve:0
 !!maildrop:0
