@@ -42,8 +42,3 @@ ply
 # depend for mutter
 gdbus-codegen
 #in#
-
-#?in(os_linux_pkglist, CB4)!=#
-shellcheck
-#in#
-
