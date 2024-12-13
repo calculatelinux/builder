@@ -5,7 +5,6 @@
 !!argp-standalone:0
 !!blocksruntime:0
 !!fts-standalone:0
-!!llvm-libunwind:0
 !!obstack-standalone:0
 !!queue-standalone:0
 !!rpmatch-standalone:0

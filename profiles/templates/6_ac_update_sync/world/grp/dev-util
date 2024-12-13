@@ -6,7 +6,6 @@ dev-util/ccache
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!android-sdk-update-manager:0
 !!android-studio:0
 !!bear:0
 !!bindgen:0
