@@ -5,6 +5,7 @@
 !!electrum:0
 !!freerdp:3
 !!frr:0
+!!gnome-connections:0
 !!gnome-remote-desktop:0
 !!gsasl:0
 !!ntpsec:0
@@ -31,6 +32,7 @@ yt-dlp
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+gnome-connections
 gnome-remote-desktop
 #in#
 
