@@ -5,6 +5,7 @@
 !!electrum:0
 !!freerdp:3
 !!frr:0
+!!gnome-remote-desktop:0
 !!gsasl:0
 !!ntpsec:0
 !!openntpd:0
@@ -27,6 +28,10 @@ telnet-bsd
 yt-dlp
 # not compiled
 #rabbitmq-server
+#in#
+
+#?in(os_linux_pkglist, CB3)!=#
+gnome-remote-desktop
 #in#
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
