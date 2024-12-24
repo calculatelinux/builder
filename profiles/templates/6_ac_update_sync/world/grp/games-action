@@ -15,3 +15,7 @@
 !!super-hexagon:0
 !!swordandsworcery:0
 #in#
+
+#?in(os_linux_pkglist, CB3)!=#
+prismlauncher
+#in#
