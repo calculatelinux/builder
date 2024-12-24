@@ -6,9 +6,6 @@ sys-apps/calculate-utils gpg install -backup -client -console -dbus -desktop -mi
 
 sys-apps/calculate-access -client server
 
-# for CLD/CLDL
-games-action/prismlauncher qt6
-
 # required by x11-misc/bumblebee-3.2.1
 >=x11-base/xorg-drivers-1.19 video_cards_nvidia
 
