@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!argp-standalone:0
-!!blocksruntime:0
 !!fts-standalone:0
 !!obstack-standalone:0
 !!queue-standalone:0

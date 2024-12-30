@@ -13,7 +13,6 @@ sddm
 !!obconf-qt:0
 !!pcmanfm-qt:0
 !!primus:0
-!!safeeyes:0
 !!sddm:0
 !!unclutter-xfixes:0
 #in#
@@ -23,5 +22,4 @@ bumblebee
 notification-daemon
 primus
 unclutter-xfixes
-safeeyes
 #in#
