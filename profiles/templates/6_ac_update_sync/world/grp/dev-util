@@ -20,11 +20,9 @@ dev-util/ccache
 !!poke:0
 !!ragel:0
 !!rpmdevtools:0
-!!shellcheck:0
 !!shellcheck-bin:0
 
 # not compiled
-!!bitcoin-tx:0
 !!cargo-c:0
 #in#
 
