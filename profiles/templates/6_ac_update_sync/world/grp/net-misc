@@ -10,7 +10,6 @@
 !!gsasl:0
 !!ntpsec:0
 !!openntpd:0
-!!owncloud-client:0
 !!r8168:0
 !!rabbitmq-server:0
 !!remmina:0
@@ -23,7 +22,6 @@
 #?in(os_linux_pkglist, CB2)!=#
 electrum
 freerdp:3
-owncloud-client
 remmina
 telnet-bsd
 yt-dlp
