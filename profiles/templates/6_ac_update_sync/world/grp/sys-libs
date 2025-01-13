@@ -2,10 +2,5 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!argp-standalone:0
-!!fts-standalone:0
-!!obstack-standalone:0
-!!queue-standalone:0
-!!rpmatch-standalone:0
 !!snapd-glib:0
 #in#
