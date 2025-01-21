@@ -14,7 +14,6 @@
 !!yarn:0
 # not compiled
 !!eza:0
-!!tas:0
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
