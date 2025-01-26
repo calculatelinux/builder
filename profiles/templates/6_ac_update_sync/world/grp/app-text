@@ -12,6 +12,7 @@
 !!pdfjam:0
 !!sigil:0
 !!tessdata_best:0
+!!tessdata_legacy:0
 !!trang:0
 !!zathura-pdf-mupdf:0
 
@@ -22,6 +23,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 dblatex
+tessdata_legacy
 zathura-pdf-mupdf
 #in#
 
