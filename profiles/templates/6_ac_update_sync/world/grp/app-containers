@@ -4,12 +4,10 @@
 #-world(#-cl_pass_file-#)-#
 !!containers-common:0
 !!docker-compose:0
-!!docker-proxy:0
 !!snapd:0
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
 containers-common
 docker-compose
-docker-proxy
 #in#
