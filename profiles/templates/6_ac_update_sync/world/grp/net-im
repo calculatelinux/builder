@@ -14,7 +14,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
-sendxmpp-scala
 telegram-desktop
 #in#
 
