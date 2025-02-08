@@ -21,5 +21,8 @@ bcg729
 media-libs/freetype
 media-libs/gd
 media-libs/lcms
+media-libs/libepoxy
+media-libs/libglvnd
 media-libs/libwebp
+media-libs/mesa
 #in#
