@@ -35,6 +35,7 @@ calculate-server
 calculate-utils
 dbus
 groff
+hwloc
 inxi
 lm-sensors
 lshw
