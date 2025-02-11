@@ -31,4 +31,6 @@ vectorscan
 #?in(os_linux_pkglist, CBS)!=#
 gobject-introspection
 libusb-compat
+# to prevent automagic with dev-qt/qtnetwork:5
+thrift
 #in#
