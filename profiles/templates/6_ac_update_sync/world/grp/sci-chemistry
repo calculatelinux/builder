@@ -5,4 +5,5 @@
 !!votca:0
 # not compiled
 !!autodock_vina:0
+!!gromacs:0
 #in#
