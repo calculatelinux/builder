@@ -1,16 +1,19 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CB1)!=#
+gentoo-kernel-bin
 installkernel
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+gentoo-kernel-bin
 installkernel
 #in#
 
 # server kernels
 #?in(os_linux_pkglist, CB3)!=#
 #-world(sys-kernel/calculate-sources)-#
+gentoo-kernel-bin
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
