@@ -5,6 +5,7 @@ installkernel
 #in#
 
 #?in(os_linux_pkglist, CB2)!=#
+calculate-sources
 gentoo-kernel-bin
 installkernel
 #in#
