@@ -5,6 +5,7 @@
 !!asymptote:0
 !!evoluspencil:0
 !!fig2dev:0
+!!freecad:0
 !!hugin:0
 !!imv:0
 !!iscan:0
@@ -35,6 +36,7 @@ xfig
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
+freecad
 imv
 iscan
 ueberzugpp
