@@ -27,6 +27,7 @@ zeep
 !!flask-migrate:0
 !!jaraco-collections:0
 !!jaraco-text:0
+!!pkgcraft:0
 !!progressbar2:0
 !!pychromecast:0
 !!pycryptodome:0
@@ -53,6 +54,10 @@ zeep
 # not compiled
 !!mpi4py:0
 !!pygresql:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+pkgcraft
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
