@@ -2,7 +2,12 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!pkgcraft:0
 !!snapd-glib:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+pkgcraft
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
