@@ -23,8 +23,7 @@ media-sound/audacious
 !!jack2:2
 !!jack-audio-connection-kit:0
 !!musique:0
-# not compiled
-!!mpd:0
+!!strawberry:0
 
 # is blocking
 !!apulse:0
@@ -33,4 +32,5 @@ media-sound/audacious
 #?in(os_linux_pkglist, CB3)!=#
 csound
 deadbeef
+strawberry
 #in#
