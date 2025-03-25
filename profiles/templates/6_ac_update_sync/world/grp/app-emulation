@@ -10,10 +10,6 @@
 !!punes:0
 #in#
 
-#?in(os_linux_pkglist, CB3)!=#
-wine-vanilla
-#in#
-
 #?in(os_linux_pkglist, CB4)!=#
 xen
 xen-tools
