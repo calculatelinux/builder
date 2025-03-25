@@ -1,5 +1,4 @@
 <app-emulation/wine-mono-999 amd64
-<app-emulation/wine-vanilla-999 amd64
 
 <app-office/libreoffice-7.1.999 amd64
 <app-office/libreoffice-l10n-7.1.999 amd64
