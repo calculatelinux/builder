@@ -12,6 +12,8 @@ scala-bin
 !!regina-rexx:0
 !!ruby:3.1
 !!scala-bin:0
+# not compiled
+!!yap:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

@@ -1,5 +1,9 @@
 # Calculate name=world format=world
 
+#?in(os_linux_pkglist, CB1)!=#
+ksanecore
+#in#
+
 #?in(os_linux_pkglist, CB2)!=#
 bcg729
 #in#
@@ -9,6 +13,7 @@ bcg729
 !!bcg729:0
 !!ctl:0
 !!esdl:0
+!!ksanecore:6
 !!opencv:0
 
 # not compiled
