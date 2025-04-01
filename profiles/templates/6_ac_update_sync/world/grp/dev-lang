@@ -9,6 +9,11 @@ scala-bin
 #-world(#-cl_pass_file-#)-#
 !!dafny:0
 !!gnat-gpl:10
+!!pypy3-exe-bin:3.11.7.3.19
+!!python:2.7
+!!python:3.8
+!!python:3.9
+
 !!regina-rexx:0
 !!ruby:3.1
 !!scala-bin:0
@@ -17,6 +22,7 @@ scala-bin
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+pypy3-exe-bin
 regina-rexx
 #in#
 
