@@ -19,7 +19,6 @@ libreoffice
 !!texstudio:0
 
 !!libreoffice-bin:0
-!!libreoffice-bin-debug:0
 !!libreoffice-voikko:0
 # not compiled
 !!dia2code:0

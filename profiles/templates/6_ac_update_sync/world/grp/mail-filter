@@ -7,7 +7,6 @@ amavisd-new
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!afew:0
 !!amavisd-milter:0
 !!amavisd-new:0
 !!courier-pythonfilter:0

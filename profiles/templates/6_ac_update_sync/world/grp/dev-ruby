@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!async:1
 !!gruff:0
 !!nokogiri-diff:0
 !!rrdtool-bindings:0

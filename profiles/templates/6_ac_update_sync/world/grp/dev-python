@@ -34,7 +34,6 @@ zeep
 !!pyls-spyder:0
 !!pypy3_10-exe-bin:*
 !!pypy-exe-bin:*
-!!pyside6-tools:6
 !!pysvn:0
 !!pytest-ordering:0
 !!pytest-qt:0
@@ -50,9 +49,7 @@ zeep
 !!utidylib:0
 !!zeep:0
 !!zeroconf:0
-!!zstd:0
 # not compiled
-!!mpi4py:0
 !!pygresql:0
 #in#
 
