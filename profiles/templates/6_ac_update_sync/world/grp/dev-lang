@@ -12,6 +12,7 @@ scala-bin
 !!python:2.7
 !!python:3.8
 !!python:3.9
+!!python:3.10
 
 !!regina-rexx:0
 !!scala-bin:0

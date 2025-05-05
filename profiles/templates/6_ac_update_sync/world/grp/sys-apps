@@ -10,6 +10,7 @@
 !!s6-linux-init:0
 !!systemd:0
 !!systemd-readahead:0
+!!sysvinit:0
 !!utempter:0
 !!yarn:0
 # not compiled

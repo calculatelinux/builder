@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
+!!dolphin:0
 !!dosbox-staging:0
 !!pcsx2:0
 !!ppsspp:0
