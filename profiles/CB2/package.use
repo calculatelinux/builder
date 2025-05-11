@@ -6,8 +6,8 @@ sys-apps/calculate-utils backup console dbus desktop gpg install -client -minima
 
 sys-apps/calculate-access server
 
-media-plugins/audacious-plugins -qt5 gtk3
-media-sound/audacious -qt5 gtk3
+media-plugins/audacious-plugins -qt6
+media-sound/audacious -qt6
 
 # required by gnome-extra/cinnamon-session-3.6.1-r4
 sys-auth/polkit elogind -consolekit
