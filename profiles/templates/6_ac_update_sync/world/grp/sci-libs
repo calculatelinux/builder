@@ -18,5 +18,6 @@ libaec
 !!xdmf2:0
 # not compiled
 !!ceres-solver:0
+!!linux-gpib-modules:0
 !!pdal:0
 #in#

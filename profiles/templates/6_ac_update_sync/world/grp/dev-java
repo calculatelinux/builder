@@ -11,6 +11,8 @@ sbt-bin
 # not compiled
 !!caffeine:0
 !!jdbc-postgresql:0
+!!json-path:0
+!!tapestry-json:0
 !!waffle-jna:0
 
 # need to download
