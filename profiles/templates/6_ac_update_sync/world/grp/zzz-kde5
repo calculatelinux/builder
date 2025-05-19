@@ -1,5 +1,6 @@
 # Calculate name=world format=world
 
+!app-office/kmymoney:5
 !kde-apps/ffmpegthumbs:5
 !kde-apps/kde-apps-meta:0
 !kde-apps/kdemultimedia-meta:0
