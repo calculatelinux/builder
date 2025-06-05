@@ -6,4 +6,6 @@
 !!nokogiri-diff:0
 !!rrdtool-bindings:0
 !!sparklines:0
+# not compiled
+!!ruby-odbc:0
 #in#
