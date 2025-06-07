@@ -39,13 +39,10 @@ zeep
 !!pytest-qt:0
 !!python-lsp-black:0
 !!python-lsp-server:0
-!!python-poppler-qt5:0
-!!python-systemd:0
 !!python-tests:*
 !!sip:5
 !!srt:0
 !!symengine:0
-!!taskgroup:0
 !!translate-toolkit:0
 !!utidylib:0
 !!zeep:0

@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
-!!pglinux:0
 # not compiled
 !!ipt_netflow:0
 !!itval:0

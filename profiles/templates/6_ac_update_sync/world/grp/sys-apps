@@ -4,12 +4,9 @@
 #-world(#-cl_pass_file-#)-#
 !!apmd:0
 !!calculate-server:0
-!!gentoo-systemd-integration:0
 !!keyexec:0
 !!plocate:0
 !!s6-linux-init:0
-!!systemd:0
-!!systemd-readahead:0
 !!sysvinit:0
 !!utempter:0
 !!yarn:0
