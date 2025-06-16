@@ -9,5 +9,6 @@ hplip
 !!fax4cups:0
 # not compiled
 !!c2esp:0
+!!cndrvcups-common-lb:0
 !!cnrdrvcups-lb:0
 #in#
