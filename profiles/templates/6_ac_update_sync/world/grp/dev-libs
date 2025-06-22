@@ -16,6 +16,9 @@ vectorscan
 !!tvision:0
 !!vectorscan:0
 
+# not compiled
+!!gdl:3
+
 # is blocking
 !!libelf:0
 !!libiconv:0
