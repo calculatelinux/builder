@@ -9,11 +9,11 @@
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-cyrus-imapd
 mu
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+cyrus-imapd
 dovecot
 #in#
 
