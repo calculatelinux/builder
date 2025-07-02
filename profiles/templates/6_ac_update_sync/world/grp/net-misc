@@ -3,6 +3,7 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!electrum:0
+!!freerdp:2
 !!freerdp:3
 !!frr:0
 !!gnome-connections:0
@@ -22,7 +23,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 electrum
-freerdp:3
 remmina
 telnet-bsd
 yt-dlp
