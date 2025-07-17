@@ -10,5 +10,6 @@ hplip
 # not compiled
 !!c2esp:0
 !!cndrvcups-common-lb:0
+!!cndrvcups-lb:0
 !!cnrdrvcups-lb:0
 #in#
