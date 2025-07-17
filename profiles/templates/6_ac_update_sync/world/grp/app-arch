@@ -4,6 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!deb2targz:0
 !!hardlink:0
+!!par2cmdline-turbo:0
 !!upx:0
 # EULA
 !!stuffit:0

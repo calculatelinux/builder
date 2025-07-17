@@ -16,6 +16,7 @@ xorg-meta
 # not compiled
 !!dateutils:0
 !!golly:0
+!!rox-filer:0
 !!vzstats:0
 #in#
 

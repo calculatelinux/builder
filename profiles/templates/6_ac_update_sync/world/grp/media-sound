@@ -26,6 +26,7 @@ media-sound/audacious
 !!musique:0
 !!strawberry:0
 # not compiled
+!!pulseeffects:0
 !!sooperlooper:0
 
 # is blocking
