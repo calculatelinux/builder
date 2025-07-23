@@ -9,10 +9,12 @@ scala-bin
 #-world(#-cl_pass_file-#)-#
 !!dafny:0
 !!pypy3-exe-bin:3.11.7.3.19
+!!pypy3-exe-bin:3.11.7.3.20
 !!python:2.7
 !!python:3.8
 !!python:3.9
 !!python:3.10
+!!python:3.11
 
 !!regina-rexx:0
 !!scala-bin:0
