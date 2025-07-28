@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!7zip:0
 !!deb2targz:0
 !!hardlink:0
 !!par2cmdline-turbo:0

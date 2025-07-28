@@ -3,5 +3,10 @@
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!man-pages-ru:0
+!!man-pages-zh_CN:0
 !!mozc:0
+#in#
+
+#?in(os_linux_pkglist, CB4)!=#
+man-pages-zh_CN
 #in#
