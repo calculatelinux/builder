@@ -8,6 +8,6 @@
 
 
 #?in(os_linux_pkglist, CB3)!=#
-#in#
 ffmpegthumbs
 kamoso
+#in#
