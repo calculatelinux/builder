@@ -35,7 +35,7 @@ xfig
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-freecad
+#freecad
 imv
 iscan
 ueberzugpp
