@@ -25,6 +25,7 @@ zeep
 !!autopep8:0
 !!dnspython:0
 !!flask-migrate:0
+!!gpgmepy:1
 !!jaraco-collections:0
 !!jaraco-text:0
 !!pkgcraft:0
