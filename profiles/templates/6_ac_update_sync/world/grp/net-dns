@@ -7,7 +7,3 @@
 #?in(os_linux_pkglist, CB4)!=#
 bind
 #in#
-
-#?in(os_linux_pkglist, CBS)!=#
-bind-tools
-#in#
