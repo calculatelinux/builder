@@ -17,7 +17,6 @@ gentoo-kernel-bin
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-bliss-initramfs
 calculate-sources
 dracut
 fake-sources
