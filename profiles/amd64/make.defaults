@@ -1,1 +1,1 @@
-PORTAGE_BINHOST="ftp://localhost/base/grp/x86_64"
+PORTAGE_BINHOST="http://localhost/base/grp/x86_64"

@@ -1,1 +1,1 @@
-PORTAGE_BINHOST="ftp://localhost/base/grp/i686"
+PORTAGE_BINHOST="http://localhost/base/grp/i686"
