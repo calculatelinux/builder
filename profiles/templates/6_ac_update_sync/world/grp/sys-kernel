@@ -23,7 +23,6 @@ fake-sources
 genkernel
 gentoo-kernel-bin
 installkernel
-kergen
 linux-firmware
 linux-headers
 #in#
