@@ -50,6 +50,7 @@ zeep
 !!zeroconf:0
 # not compiled
 !!pygresql:0
+!!pyopencl:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#

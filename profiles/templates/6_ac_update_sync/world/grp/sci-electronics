@@ -4,5 +4,8 @@
 #-world(#-cl_pass_file-#)-#
 !!ghdl:0
 !!qelectrotech:0
+
+# not compiled
+!!klayout:0
 #in#
 

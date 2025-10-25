@@ -21,6 +21,7 @@ dev-util/ccache
 !!ragel:0
 !!rpmdevtools:0
 !!shellcheck-bin:0
+!!watchman:0
 
 # not compiled
 !!cargo-c:0
@@ -38,6 +39,7 @@ cpptest:1
 git-delta
 pkgconf
 ply
+watchman
 # depend for mutter
 gdbus-codegen
 #in#
