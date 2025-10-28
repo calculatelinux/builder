@@ -23,6 +23,7 @@ bcg729
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
+media-libs/flac
 media-libs/freetype
 media-libs/gd
 media-libs/lcms
