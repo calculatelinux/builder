@@ -10,7 +10,7 @@
 #?in(os_linux_pkglist, CB2)!=#
 calculate-icon-theme
 papirus-libreoffice-theme
-papirus-smplayer-theme
+#papirus-smplayer-theme
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
