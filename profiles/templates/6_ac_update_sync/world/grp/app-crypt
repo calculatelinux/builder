@@ -5,6 +5,7 @@
 !!app-crypt/gpgme:1
 !!cfssl:0
 !!heimdal:0
+!!freepg:0
 
 # not compiled
 !!gpgstats:0
