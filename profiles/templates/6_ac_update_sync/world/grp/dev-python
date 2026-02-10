@@ -25,7 +25,6 @@ zeep
 !!autopep8:0
 !!dnspython:0
 !!flask-migrate:0
-!!gpgmepy:1
 !!jaraco-collections:0
 !!jaraco-text:0
 !!pkgcraft:0
@@ -33,7 +32,6 @@ zeep
 !!pychromecast:0
 !!pycryptodome:0
 !!pyls-spyder:0
-!!pypy3_10-exe-bin:*
 !!pypy-exe-bin:*
 !!pysvn:0
 !!pytest-ordering:0

@@ -5,9 +5,8 @@ pms-bin
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-
-!!kicad-doc:0
-!!mathjax-docs:0
-!!phrack:*
-!!pms-bin:0
+#!!kicad-doc:0
+#!!mathjax-docs:0
+#!!phrack:*
+#!!pms-bin:0
 #in#

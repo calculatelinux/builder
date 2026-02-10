@@ -13,7 +13,6 @@ media-sound/audacious
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!cadence:0
 !!cantata:0
 !!cdtool:0
 !!csound:0

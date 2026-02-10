@@ -2,5 +2,4 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
-!!roxterm:1
 #in#

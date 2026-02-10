@@ -8,7 +8,6 @@ dleyna
 #-world(#-cl_pass_file-#)-#
 !!dleyna:1.0
 !!libgsasl:0
-!!NativeThread:0
 !!ppp-defs:0
 #in#
 

@@ -4,7 +4,7 @@
 #-world(#-cl_pass_file-#)-#
 !!amtk:5
 !!egl-gbm:0
-!!tepl:5
+#!!tepl:5
 !!wayfire-plugins-extra:0
 #in#
 #?in(os_linux_pkglist, CB4)!=#

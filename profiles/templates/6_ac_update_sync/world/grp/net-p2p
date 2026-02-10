@@ -9,7 +9,6 @@ qbittorrent
 #-world(#-cl_pass_file-#)-#
 !!freenet:0
 !!ktorrent:6
-!!mldonkey:0
 !!qbittorrent:0
 # not compiled
 !!bitcoin-core:0
@@ -20,6 +19,5 @@ freenet
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#
-#mldonkey
 transmission
 #in#

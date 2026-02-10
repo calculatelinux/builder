@@ -9,8 +9,6 @@ openmpi
 !!mpich:0
 !!openmpi:0
 !!torque:0
-# not compiled
-!!vzctl:0
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
