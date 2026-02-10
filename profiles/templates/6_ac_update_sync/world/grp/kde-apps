@@ -3,11 +3,9 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!ffmpegthumbs:6
-!!kamoso:5
 #in#
 
 
 #?in(os_linux_pkglist, CB3)!=#
 ffmpegthumbs
-kamoso
 #in#
