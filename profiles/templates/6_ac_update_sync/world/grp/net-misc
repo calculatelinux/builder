@@ -41,6 +41,7 @@ dhcp
 
 #?in(os_linux_pkglist, CBS)!=#
 aria2
+asterisk
 curl
 #networkmanager
 openssh
