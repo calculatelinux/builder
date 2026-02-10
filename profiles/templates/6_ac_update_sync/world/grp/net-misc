@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!asterisk:0
 !!electrum:0
 !!freerdp:2
 !!freerdp:3
@@ -41,6 +42,7 @@ dhcp
 
 #?in(os_linux_pkglist, CBS)!=#
 aria2
+asterisk
 curl
 #networkmanager
 openssh
