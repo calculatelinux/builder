@@ -3,7 +3,6 @@
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!arb:0
-!!cadabra:0
 !!eclib:0
 !!giac:0
 !!why3-for-spark:0

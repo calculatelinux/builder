@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
-!!votca:0
 # not compiled
 !!autodock_vina:0
 !!gromacs:0

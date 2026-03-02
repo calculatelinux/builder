@@ -17,7 +17,6 @@ xorg-meta
 !!dateutils:0
 !!golly:0
 !!rox-filer:0
-!!vzstats:0
 #in#
 
 #?in(os_linux_pkglist, CBS)!=#

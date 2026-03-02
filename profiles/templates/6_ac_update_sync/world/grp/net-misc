@@ -4,7 +4,6 @@
 #-world(#-cl_pass_file-#)-#
 !!asterisk:0
 !!electrum:0
-!!freerdp:2
 !!freerdp:3
 !!frr:0
 !!gnome-connections:0
