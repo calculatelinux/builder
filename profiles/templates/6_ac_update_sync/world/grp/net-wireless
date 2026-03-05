@@ -10,7 +10,3 @@
 #?in(os_linux_pkglist, CB3)!=#
 gnome-bluetooth
 #in#
-
-#?in(os_linux_pkglist, CB4)!=#
-unifi
-#in#
