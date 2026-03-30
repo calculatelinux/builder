@@ -7,6 +7,7 @@ hplip
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!epson-inkjet-printer-escpr:0
+!!epson-inkjet-printer-escpr:2
 !!fax4cups:0
 # not compiled
 !!c2esp:0
