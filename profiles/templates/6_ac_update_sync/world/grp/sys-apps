@@ -25,7 +25,6 @@ plocate
 
 #?in(os_linux_pkglist, CB3)!=#
 calculate-access
-system-monitoring-center
 yarn
 #in#
 
