@@ -7,6 +7,7 @@
 !!keyexec:0
 !!plocate:0
 !!s6-linux-init:0
+!!system-monitoring-center:0
 !!sysvinit:0
 !!utempter:0
 !!yarn:0
@@ -24,6 +25,7 @@ plocate
 
 #?in(os_linux_pkglist, CB3)!=#
 calculate-access
+system-monitoring-center
 yarn
 #in#
 
