@@ -34,6 +34,3 @@ sys-apps/busybox syslog
 net-firewall/iptables nftables
 
 net-vpn/openconnect -gnutls
-
-# Add kerberos support
-net-misc/openssh kerberos
