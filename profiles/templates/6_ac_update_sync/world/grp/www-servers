@@ -3,10 +3,11 @@
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
 !!nginx:0
-!!nginx:stable
+!!nginx:mainline
 !!tomcat:*
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
+nginx:mainline
 tomcat
 #in#
