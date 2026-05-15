@@ -8,6 +8,6 @@
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
-nginx:mainline
+nginx
 tomcat
 #in#
