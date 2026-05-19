@@ -2,7 +2,6 @@
 
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
-!!automx2:0
 !!cyrus-imapd:0
 !!dovecot:0
 !!mu:0

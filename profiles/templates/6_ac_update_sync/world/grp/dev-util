@@ -19,7 +19,6 @@ dev-util/ccache
 !!ply:0
 !!poke:0
 !!ragel:0
-!!rpmdevtools:0
 !!shellcheck-bin:0
 !!watchman:0
 
