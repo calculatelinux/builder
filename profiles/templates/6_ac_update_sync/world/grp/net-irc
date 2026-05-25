@@ -2,14 +2,12 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 konversation
-#quassel
 unrealircd
 #in#
 
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!konversation:6
-!!quassel:0
 !!unrealircd:0
 
 # not compiled
