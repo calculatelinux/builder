@@ -2,4 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!gnome-applets:0
+!!gnome-flashback:0
+!!gnome-panel:0
 #in#
