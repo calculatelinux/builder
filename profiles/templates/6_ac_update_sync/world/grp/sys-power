@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB3)!=#
 acpilight
+tlp
 upower
 #in#
 
@@ -9,7 +10,7 @@ upower
 #-world(#-cl_pass_file-#)-#
 !!acpilight:0
 !!powermgmt-base:0
-!!switcheroo-control:0
+!!tlp:0
 !!upower:0
 #in#
 
