@@ -6,10 +6,15 @@ mytop
 tinycdb
 #in#
 
+#?in(os_linux_pkglist, CB3)!=#
+mongodb
+#in#
+
 #?in(os_linux_pkglist, CB4)!=#
 #-world(#-cl_pass_file-#)-#
 !!mariadb:*
 mariadb
+!!mongodb:0
 !!mysql:*
 !!mysql-connector-c:0
 !!mytop:0
