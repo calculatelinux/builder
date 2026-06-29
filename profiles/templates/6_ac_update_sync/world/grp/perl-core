@@ -2,6 +2,7 @@
 
 #?in(os_linux_pkglist, CB1)!=#
 #-world(#-cl_pass_file-#)-#
+!!Compress-Raw-Zlib:0
 !!CPAN:0
 !!Encode:0
 !!Math-BigInt:0
