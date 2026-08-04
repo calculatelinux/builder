@@ -6,6 +6,7 @@ openmpi
 
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
+!!ceph:0
 !!mpich:0
 !!openmpi:0
 !!torque:0
@@ -13,4 +14,8 @@ openmpi
 
 #?in(os_linux_pkglist, CB4)!=#
 mpich
+#in#
+
+#?in(os_linux_pkglist, CBS)!=#
+ceph
 #in#
