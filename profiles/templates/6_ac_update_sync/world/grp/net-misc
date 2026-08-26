@@ -8,6 +8,7 @@
 !!gnome-connections:0
 !!gnome-remote-desktop:0
 !!gsasl:0
+!!ipcalc-ng:0
 !!netopeer2:0
 !!ntpsec:0
 !!openntpd:0
@@ -34,6 +35,7 @@ yt-dlp
 #?in(os_linux_pkglist, CB3)!=#
 gnome-connections
 gnome-remote-desktop
+ipcalc-ng
 #in#
 
 #?in(os_linux_pkglist, CB2, CB3)!=#
