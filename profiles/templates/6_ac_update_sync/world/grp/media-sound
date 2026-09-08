@@ -15,7 +15,6 @@ media-sound/audacious
 #-world(#-cl_pass_file-#)-#
 !!cantata:0
 !!cdtool:0
-!!csound:0
 !!deadbeef:0
 !!easyeffects:0
 !!frescobaldi:0
@@ -33,7 +32,6 @@ media-sound/audacious
 #in#
 
 #?in(os_linux_pkglist, CB3)!=#
-csound
 deadbeef
 strawberry
 #in#
