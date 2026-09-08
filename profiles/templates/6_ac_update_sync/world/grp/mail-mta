@@ -4,10 +4,6 @@
 nullmailer
 #in#
 
-#?in(os_linux_pkglist, CB2)!=#
-netqmail
-#in#
-
 #?in(os_linux_pkglist, CB4)!=#
 postfix
 #in#

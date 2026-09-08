@@ -1,9 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CB2)!=#
-bsd-games
-#in#
-
 #?in(os_linux_pkglist, CB3)!=#
 #-world(#-cl_pass_file-#)-#
 !!fortune-mod-tao:0
