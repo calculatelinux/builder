@@ -19,5 +19,6 @@ pluma
 
 #?in(os_linux_pkglist, CBS)!=#
 emacs
+neovim
 vim
 #in#
