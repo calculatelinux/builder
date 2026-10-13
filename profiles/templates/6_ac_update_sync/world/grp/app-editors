@@ -14,6 +14,7 @@ pluma
 !!pluma:0
 !!vis:0
 # not compiled
+!!neovim:0
 !!pluma-plugins:0
 #in#
 
