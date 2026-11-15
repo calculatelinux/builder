@@ -9,6 +9,7 @@ scala-bin
 #-world(#-cl_pass_file-#)-#
 !!dafny:0
 !!pypy3-exe-bin:*
+!!pypy-exe*
 !!python:*
 
 !!regina-rexx:0
