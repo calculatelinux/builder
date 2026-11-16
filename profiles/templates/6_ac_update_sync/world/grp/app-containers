@@ -3,9 +3,8 @@
 #?in(os_linux_pkglist, CB2)!=#
 #-world(#-cl_pass_file-#)-#
 !!containers-common:0
-!!snapd:0
-#in#
+!!containers-image:0
+!!containers-storage:0
 
-#?in(os_linux_pkglist, CB3)!=#
-containers-common
+!!snapd:0
 #in#
